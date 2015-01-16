@@ -288,4 +288,3 @@ Sets in this program will be composed of an average of 30-40 frames and each set
 @tries 1
 @graphic none
 @video none
-@begin
