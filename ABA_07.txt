@@ -1,0 +1,396 @@
+@begin
+Overview: Some of what you do is involuntary behavior. Frames in this set teach the concept of the unconditioned and conditioned reflex. The terms--stimulus, response, reflex, latency, magnitude, and intensity are introduced along with the functional relationships discovered by Pavlov, the Russian physiologist.
+
+
+
+During a health examination, a doctor may check how you respond to stimuli.  He (or she) may tap your knee patellar tendon) with a rubber hammer to test your ref____es.
+@end
+@answer REFLEXES
+@tries 2
+@graphic none
+@video none
+@begin
+If your reflexes are normal, your leg r____ds to the tap on the knee with a slight kick (the so-called knee jerk).
+@end
+@answer RESPONDS
+@tries 2
+@graphic none
+@video none
+@begin
+In the knee jerk or patellar-tendon reflex, the kick of the leg is the r____se to the tap on the knee by the hammer.
+@end
+@answer RESPONSE
+@tries 2
+@graphic none
+@video none
+@begin
+The tap elicits the response.  The stimulating object used by the doctor to elicit a knee jerk is a h_______er.
+@end
+@answer HAMMER
+@tries 2
+@graphic none
+@video none
+@begin
+The sti_______ object is used to produce the response.
+@end
+@answer STIMULUS
+@tries 2
+@graphic none
+@video none
+@begin
+The stimulus that elicits a knee jerk is the ___p delivered by the so-called stimulus object or hammer.
+@end
+@answer TAP
+@tries 2
+@graphic none
+@video none
+@begin
+In the knee-jerk reflex, we call the rubber hammer the s_____us object, and the tap or blow, the actual s_______us itself.
+@end
+@answer STIMULUS STIMULUS
+@tries 2
+@graphic none
+@video none
+@begin
+An event is "explained" when its cause is identified.  The cause or explanation of the knee jerk is, technically, (not the response) but the _______ that elicits it.
+@end
+@answer STIMULUS
+@tries 2
+@graphic none
+@video none
+@begin
+Technically speaking, a reflex involves an eliciting stimulus in a process called elicitation.  Thus, a stimulus e_______   a response.
+@end
+@answer ELICITS
+@tries 2
+@graphic none
+@video none
+@begin
+To avoid unwanted variations of meaning in popular words, we do not say that a stimulus triggers, stimulates, or causes a response.  We say, more technically, that it _______ a response.
+@end
+@answer ELICITS
+@tries 2
+@graphic none
+@video none
+@begin
+In a r____x, the stimulus and the elicited response occur in a given sequential or temporal order; first the _______, then the  _______.
+@end
+@answer REFLEX STIMULUS RESPONSE
+@tries 2
+@graphic none
+@video none
+@begin
+Technically speaking, a kick of the leg is ______ed by a tap on the patellar tendon.
+@end
+@answer ELICITED
+@tries 2
+@graphic none
+@video none
+@begin
+The time that elapses between the onset of the stimulus and the onset of the response is called latency.  Thus, the time between tap and kick is the _______ of the knee-jerk _____x.
+@end
+@answer LATENCY REFLEX
+@tries 2
+@graphic none
+@video none
+@begin
+The weakest stimulus sufficient to elicit a response marks the threshold of the reflex.  A tap on the knee will not elicit a kick if it is below the _______.
+@end
+@answer THRESHOLD
+@tries 2
+@graphic none
+@video none
+@begin
+If you blink when a speck flies into your eye, the _______ is the response and the _______ is the stimulus.
+@end
+@answer BLINK SPECK
+@tries 2
+@graphic none
+@video none
+@begin
+A puff of air striking the eye will e_____t a blink only if the force exerted by the air exceeds the _______d value.
+@end
+@answer ELICIT THRESHOLD
+@tries 2
+@graphic none
+@video none
+@begin
+The fraction of a second that elapses between brushing the eye and blink is the _______ of the reflex.
+@end
+@answer LATENCY
+@tries 2
+@graphic none
+@video none
+@begin
+In the patellar-tendon reflex, a forceful tap ______s a strong kick; a tap barely above the _______ elicits a weak kick.  Magnitude of response thus depends on the intensity of the _______s.
+@end
+@answer ELICITS THRESHOLD STIMULUS
+@tries 2
+@graphic none
+@video none
+@begin
+The magnitude of a response corresponds to (is a function of) the _______ty of the stimulus which elicits it.
+@end
+@answer INTENSITY
+@tries 2
+@graphic none
+@video none
+@begin
+A reflex consists of both a(n) _______ and a(n) _______, occurring in that order.  A reflex refers to two variables, therefore, the term reflex (is/is not) _______ synonymous with the single term response.
+@end
+@answer STIMULUS RESPONSE IS NOT
+@tries 2
+@graphic none
+@video none
+@begin
+When a person is startled by a loud noise, his sudden movement is his _______e to the noise that has acted as a _______s.  The two together are called a(n) _______x.
+@end
+@answer RESPONSE STIMULUS REFLEX
+@tries 2
+@graphic none
+@video none
+@begin
+If a sip of very weak lemonade does not cause salivation, the stimulus is said to be below the _______.
+@end
+@answer THRESHOLD
+@tries 2
+@graphic none
+@video none
+@begin
+In the salivary reflex, the _______ (food) precedes the response (secretion of saliva) by an interval of time called the _______.
+@end
+@answer STIMULUS LATENCY
+@tries 2
+@graphic none
+@video none
+@begin
+If an actress uses onion juice on her hand-kerchief to elicit tears during an emotional scene, she must use enough to exceed the _______.
+@end
+@answer THRESHOLD
+@tries 2
+@graphic none
+@video none
+@begin
+Onion juice is a powerful causal [not casual] stimulus.  The greater the concentration of onion juice (stimulus), the (lesser/greater)_______ the magnitude of the response.
+@end
+@answer GREATER
+@tries 1
+@graphic none
+@video none
+@begin
+Onion juice elicits the secretion of tears by the lachrymal gland.  This causal sequence of events is technically called a _______.
+@end
+@answer REFLEX
+@tries 2
+@graphic none
+@video none
+@begin
+When we speak technically, instead of saying onion juice stimulates or causes tears, we say onion juice _______ tears.
+@end
+@answer ELICITS
+@tries 2
+@graphic none
+@video none
+@begin
+A child touching a hot surface withdraws her hand quickly.  The word quickly suggests that the response has a short _______.
+@end
+@answer LATENCY
+@tries 2
+@graphic none
+@video none
+@begin
+In withdrawing the hand from a hot surface, arm movement is a(n) _______e that is elicited by a painful _______s to the hand.
+@end
+@answer RESPONSE STIMULUS
+@tries 2
+@graphic none
+@video none
+@begin
+In the hand-withdrawal reflex, the stimulus must be intense enough to exceed the _______, or no response will occur.
+@end
+@answer THRESHOLD
+@tries 2
+@graphic none
+@video none
+@begin
+A light flashed into the eye elicits constriction of the pupil.  This sequence is called the pupillary _______.
+@end
+@answer REFLEX
+@tries 2
+@graphic none
+@video none
+@begin
+In the pupillary reflex, a flash of light is said to _______ the response.
+@end
+@answer ELICIT
+@tries 2
+@graphic none
+@video none
+@begin
+In the pupillary reflex, a very bright flash of light elicits a response of greater _______e than a weak flash of light.
+@end
+@answer MAGNITUDE
+@tries 2
+@graphic none
+@video none
+@begin
+A response and its eliciting stimulus comprise a(n) _______.
+@end
+@answer REFLEX
+@tries 2
+@graphic none
+@video none
+@begin
+In a warm room, your sweat glands rapidly excrete sweat.  The response is _______ing; the stimulus is _______t; and the two together form a(n) _______.
+@end
+@answer SWEATING HEAT REFLEX
+@tries 2
+@graphic none
+@video none
+@begin
+The softest touch on the surface of the eye needed to elicit a blink marks the _______ of the stimulus.
+@end
+@answer THRESHOLD
+@tries 2
+@graphic none
+@video none
+@begin
+A cat held upside down and dropped will land on its feet.  In this righting reflex, acceleration due to gravity is the main _______ for righting.
+@end
+@answer STIMULUS
+@tries 2
+@graphic none
+@video none
+@begin
+In any _______, there is a stimulus that  _______ the response.
+@end
+@answer REFLEX ELICITS
+@tries 2
+@graphic none
+@video none
+@begin
+Sticking a finger in your throat may _______ vomiting.  _______g is the response.  The _______ is the tactual contact of the finger.
+@end
+@answer ELICIT VOMITING STIMULUS
+@tries 2
+@graphic none
+@video none
+@begin
+If vomiting began 0.1 second after the onset of the stimulus, the reflex had a(n) _______ of 0.1 second.
+@end
+@answer LATENCY
+@tries 2
+@graphic none
+@video none
+@begin
+A solution of lemon juice will not elicit salivation if the stimulus is b______w the threshold.
+@end
+@answer BELOW
+@tries 2
+@graphic none
+@video none
+@begin
+The latency of a reflex is the ______e between onset of the _______ and the occurrence of the _______.
+@end
+@answer TIME STIMULUS RESPONSE
+@tries 2
+@graphic none
+@video none
+@begin
+A very hot room causes (less/more) _______ sweating than a merely warm room (i.e., the response has a (greater/lesser) _______ magnitude).
+@end
+@answer MORE GREATER
+@tries 2
+@graphic none
+@video none
+@begin
+A very hot surface brought into contact with the hand elicits arm flexion with a (longer/shorter) _______ latency than a less hot surface.
+@end
+@answer SHORTER
+@tries 1
+@graphic none
+@video none
+@begin
+The greater the concentration of onion vapor reaching the surface of the eye, the (lesser/greater) _______ the magnitude of the response, and the  shorter/longer) _______ the latency.
+@end
+@answer GREATER SHORTER
+@tries 2
+@graphic none
+@video none
+@begin
+The greater the concentration of lemon juice sipped, the _______r the flow of saliva, and the _______r the interval of time between onsets of stimulus and response.
+@end
+@answer GREATER SHORTER
+@tries 2
+@graphic none
+@video none
+@begin
+A very bright light flashed into the eye elicits a pupillary response with a short _______.
+@end
+@answer LATENCY
+@tries 2
+@graphic none
+@video none
+@begin
+The more intense the stimulus, the greater the _______e of the response, and the shorter the _______ of the reflex.
+@end
+@answer MAGNITUDE LATENCY
+@tries 2
+@graphic none
+@video none
+@begin
+Presentation of a stimulus is the "cause" of a response.  The two events form what is called a(n) _______.
+@end
+@answer REFLEX
+@tries 2
+@graphic none
+@video none
+@begin
+The layperson frequently explains behavior as the operation of the mind or free will.  He or she seldom does this for reflex behavior, however, because the _______s is an adequate explanation for the occurrence of the response.
+@end
+@answer STIMULUS
+@tries 2
+@graphic none
+@video none
+@begin
+Because the stimulus is sufficient in accounting for the reflex response, there (is/is not) _______ a need to explain reflex behavior with concepts of mind or free will.
+@end
+@answer IS NOT
+@tries 1
+@graphic none
+@video none
+@begin
+Latency is the _______ between the onset of an energy change and the onset of the response which it elicits.
+@end
+@answer TIME
+@tries 2
+@graphic none
+@video none
+@begin
+The _______d of a stimulus is the intensity that is barely sufficient to _______ a(n) _______.
+@end
+@answer THRESHOLD ELICIT RESPONSE
+@tries 2
+@graphic none
+@video none
+@begin
+In a reflex, a(n) _______ always precedes a(n) _______.
+@end
+@answer STIMULUS RESPONSE
+@tries 2
+@graphic none
+@video none
+@begin
+In a reflex, the _______de of response varies with the _______y of the stimulus.
+@end
+@answer MAGNITUDE INTENSITY
+@tries 2
+@graphic none
+@video none
+@begin
+The next set discusses how reflexes are acquired and lost.  We are born with some reflexes, others we learn through the process called "respondent conditioning."  _______ent con_____ is the process through which new ______xes are acquired.
+@end
+@answer RESPONDENT CONDITIONING REFLEXES
+@tries 2
+@graphic none
+@video none

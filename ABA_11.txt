@@ -1,0 +1,2210 @@
+@begin
+Science is a verbal community--a community of people.  A conspicuous behavior of the scientific community is that it searches for c______s.   ABASET 1
+@end
+@answer Causes
+@tries 1
+@graphic none
+@video none
+@begin
+Science is the search for r_________ips in which there is a ______ and then an _______t.  ABASET 1 
+@end
+@answer Relationships cause effect
+@tries 1
+@graphic none
+@video none
+@begin
+We say that behavioral scientists demonstrate _______l over the datum called behavior when they manipulate its causes. ABASET 1 
+@end
+@answer control
+@tries 1
+@graphic none
+@video none
+@begin
+Analysis is the determination and breakdown of the elements or components of anything complex.  B_______r a______is involves a search for the causes of what organisms do.  ABASET 1
+@end
+@answer Behavior analysis
+@tries 1
+@graphic none
+@video none
+@begin
+Nearly all of the most important problems in our world are directly related to human _______.   ABASET 1
+@end
+@answer behavior
+@tries 1
+@graphic none
+@video none
+@begin
+The solution to many problems can be found only when we discover what ca____ human behavior.  ABASET 1
+@end
+@answer causes
+@tries 1
+@graphic none
+@video none
+@begin
+Behavior analysis is a science.  It replaces f______ional explanations with the identification of the true causes of behavior.   ABASET 1
+@end
+@answer functional
+@tries 1
+@graphic none
+@video none
+@begin
+Since the natural sciences have discovered regularity in their phenomena, they have adopted the philosophy called  _______.   ABASET 2
+@end
+@answer determinism
+@tries 1
+@graphic none
+@video none
+@begin
+When either the natural or social sciences demonstrate ______ and effect relationships, they discover reasons to adopt the philosophy called _______.   ABASET 2 
+@end
+@answer cause determinism
+@tries 1
+@graphic none
+@video none
+@begin
+Because behavior analysis deals with the environment as a whole (i.e., either social or non-social), it is most accurately classified as a natural/social) _______ science.   ABASET 2
+@end
+@answer natural
+@tries 1
+@graphic none
+@video none
+@begin
+Since the controlling environment can be either natural or social, behavior analysis is most accurately classified as a _______ science.  ABASET 2
+@end
+@answer natural
+@tries 1
+@graphic none
+@video none
+@begin
+The social sciences refer to the scientific study of the structure and functions of society (or cultures).  Since behavior analysis focuses upon the behavior of the individual and the environment taken as a whole, it is best identified with the  ________ a.  social sciences  b.  natural sciences ABASET 2
+@end
+@answer b
+@tries 1
+@graphic none
+@video none
+@begin
+_______ is the belief that the physical universe is a lawful and orderly place in which phenomena occur as a result of other events.  ABASET 2
+@end
+@answer determinism
+@tries 1
+@graphic none
+@video none
+@begin
+The philosophy called ______ism is the conviction that knowledge arises primarily from experiment and observation rather than inheritance.  ABASET 3
+@end
+@answer empiricism
+@tries 1
+@graphic none
+@video none
+@begin
+The opposite of ______l knowledge is theoretical or second hand knowledge.  ABASET 3
+@end
+@answer empirical
+@tries 1
+@graphic none
+@video none
+@begin
+The empiricist ex_______ts with the world to gain knowledge about it.  He or she does not simply ask the opinion of others.  ABASET 3
+@end
+@answer experiments
+@tries 1
+@graphic none
+@video none
+@begin
+A science acquires useful knowledge when it analyzes its data through ______ive means.  ABASET 3
+@end
+@answer objective
+@tries 1
+@graphic none
+@video none
+@begin
+______icism is a preference for direct and objective inspection of events and processes.  ABASET 3
+@end
+@answer empiricism
+@tries 1
+@graphic none
+@video none
+@begin
+To be thrifty or economical is to be conservative.  But to be ________s is to be even more conservative--to be tightfisted and miserly.  ABASET 4
+@end
+@answer Parsimonious 
+@tries 1
+@graphic none
+@video none
+@begin
+Criminal behavior is often attributed to a demented mind arising from a life of abuse.  When events in the person's past, instead, can adequately explain the criminal behavior, reference to a ____d is both unnecessary and violates the ____w of _______.  ABASET 4 
+@end
+@answer Mind law of parsimony                                   
+@tries 1
+@graphic none
+@video none
+@begin
+Behavior analysis points to causes in the e_______t rather than inside the person's _____d.  ABASET 4
+@end
+@answer Environment mind
+@tries 1
+@graphic none
+@video none
+@begin
+The _____ is used to explain behavior.  It is argued to be a causal agent inside the body.  But from a scientific point of view, like Santa Claus, an originating mind is a f_____n used to explain overt behavior.  ABASET 5
+@end
+@answer Mind fiction
+@tries 1
+@graphic none
+@video none
+@begin
+Psychology began with philosophers intro____ting what was going on inside them.  ABASET 5
+@end
+@answer introspecting
+@tries 1
+@graphic none
+@video none
+@begin
+But when the causes can be found in the environment, we do not need to explain behavior by referring to a mind or to a person having _______  _______.  ABASET 5
+@end
+@answer Free will
+@tries 1
+@graphic none
+@video none
+@begin
+We can build a powerful science only when we have a _____le datum as our focal point.  ABASET 5
+@end
+@answer reliable
+@tries 1
+@graphic none
+@video none
+@begin
+_______ism is the philosophy of science that concentrates its attention upon the overt activity of organisms.  ABASET 5
+@end
+@answer behaviorism
+@tries 1
+@graphic none
+@video none
+@begin
+The r_______l behaviorist position is that all causes of behavior are to be found ____ide the individual.  ABASET 5
+@end
+@answer Radical outside
+@tries 1
+@graphic none
+@video none
+@begin
+Mentalism is the theory that physical and physiological phenomena are ultimately only explicable in terms of a creative and interpretative mind.  Mentalism is the opposite of the scientific philosophy called _______.  ABASET 6
+@end
+@answer behaviorism
+@tries 1
+@graphic none
+@video none
+@begin
+Cognitivism is a kind of _______ism because it looks to a mind for explanations of behavior.  ABASET 6
+@end
+@answer mentalism
+@tries 1
+@graphic none
+@video none
+@begin
+Darwinism (selectionism) met with intense hostility because it supplied scientific explanations of how living organisms evolved.  The scientific philosophy called ________ism is now facing the same kind of hostility as it shifts our attention to environmental causes rather than mental ones.  ABASET 6
+@end
+@answer behaviorism
+@tries 1
+@graphic none
+@video none
+@begin
+In the knee-jerk reflex, we call the rubber hammer the ______s object, and the tap or blow, the actual _______s itself. [FROM ABASET 7]
+@end
+@answer Stimulus stimulus
+@tries 1
+@graphic none
+@video none
+@begin
+In the process called conditioning, a previously ______ stimulus acquires the power to elicit a response. [FROM ABASET 7]
+@end
+@answer neutral
+@tries 1
+@graphic none
+@video none
+@begin
+The doctor may tap your knee to check if you respond to stimuli.  In doing so, the doctor tests your ______s.  [FROM ABASET 7]
+@end
+@answer reflexes
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+In any reflex, there is a stimulus that ______s the response. [FROM ABASET 7]
+@end
+@answer elicits
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+The time which elapses between the onset of the stimulus and the onset of the response is called the _______.  [FROM ABASET 7]
+@end
+@answer latency
+@tries 1
+@graphic none
+@video none
+@begin
+(Magnitude/intensity) ______ of response depends upon the (magnitude/intensity) ______ of the stimulus. [FROM ABASET 7]
+@end
+@answer Magnitude intensity
+@tries 1
+@graphic none
+@video none
+@begin
+The weakest stimulus sufficient to elicit a response marks the  ______ of the reflex.  A tap on the knee will not elicit a kick if it is below this.  [FROM ABASET 7]
+@end
+@answer threshold
+@tries 1
+@graphic none
+@video none
+@begin
+With respect to respondent conditioning, a stimulus comes (before/after) ______ the response in temporal order.  [FROM ABASET 7]
+@end
+@answer before
+@tries 1
+@graphic none
+@video none
+@begin
+Technically speaking, when a word, such as candy, is repeatedly paired with eating, ______g takes place. [FROM ABASET 8]
+@end
+@answer conditioning
+@tries 1
+@graphic none
+@video none
+@begin
+The process by which a conditioned stimulus loses its power to elicit the conditioned response is called ______n. [FROM ABASET 8]
+@end
+@answer extinction
+@tries 1
+@graphic none
+@video none
+@begin
+A stimulus able to elicit a response without previous conditioning is called a(n) _______ _______s.  [FROM ABASET 8]
+@end
+@answer Unconditioned stimulus
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+A stimulus able to elicit a response only after conditioning is called a(n) _______d _______s. [FROM ABASET 8]
+@end
+@answer Conditioned stimulus
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+A response elicited by a conditioned stimulus is a(n) _______ _______. [FROM ABASET 8]
+@end
+@answer Conditioned response
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+A response elicited by an unconditioned stimulus is a(n) _______ _______. [FROM ABASET 8]
+@end
+@answer Unconditioned response
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+When the conditioned stimulus can no longer elicit the response, the conditioned reflex is said to have been ______ed. [FROM ABASET8]
+@end
+@answer extinguished
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+To condition a reflex, a neutral stimulus is ______ed with a(n) unconditioned stimulus.  [FROM ABASET 9]
+@end
+@answer paired
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+The name of the Russian physiologist who discovered the process called classical or respondent conditioning was ______. [FROM ABASET 9]
+@end
+@answer Pavlov
+@tries 1
+@graphic none
+@video none
+@begin
+The conditioned response, salivation, is elicited by the conditioned stimulus, a tone.  The tone and the salivation elicited comprise a unit called a(n) ______d sal______y ______x. [FROM ABASET 9]
+@end
+@answer Conditioned salivary reflex
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+A neutral stimulus repeatedly paired with an unconditioned stimulus is soon able to elicit the response alone.  Thus, _______ has occurred.  [FROM ABASET 9]
+@end
+@answer conditioning
+@tries 1
+@graphic none
+@video none
+@begin
+As the number of pairings of conditioned and unconditioned stimuli increases, the latency of the conditioned reflex (decreases/increases) _______ and the magnitude of the conditioned response (decreases/increases) _______ until both reach a limit.  [FROM ABASET 10]
+@end
+@answer Decreases increases
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+Contraction of (striated/smooth) ______ muscles changes diameters of blood vessels.  [FROM ABASET 12]
+@end
+@answer smooth
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+Salivation is the action of the salivary ______s.  [FROM ABASET 12]
+@end
+@answer glands
+@tries 1
+@graphic none
+@video none
+@begin
+Chewing food involves _______ muscles.  [FROM ABASET 12]
+@end
+@answer striated
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+The technical term for a reward is a ______r.  [FROM ABASET 13]
+@end
+@answer reinforcer
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+Operant behavior (is/is not) ______ a product of its consequences; it (is/is not) ______ elicited by prior stimuli. [FROM ABASET 13]
+@end
+@answer Is is not
+@tries 1
+@graphic none
+@video none
+@begin
+Technically, we say that a hungry pigeon is one that has been ______ed of food. [FROM ABASET 13]
+@end
+@answer deprived
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+Responses that are reinforced will be emitted (more/less) ______ frequently in the future.  [FROM ABASET 13]
+@end
+@answer more
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+If no eliciting stimuli are observed for responses, the responses (are/are not) ______ classified as reflex behavior.  [FROM ABASET 13]
+@end
+@answer Are not
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+When generally referring to behavior, we use the term (response/operant) ______.  When referring to a specific instance of the behavior, we use the term (response/operant) ______.  [FROM ABASET 14]
+@end
+@answer Operant response
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+Reflex behavior is called ______nt behavior.  [FROM ABASET 14]
+@end
+@answer respondent
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+In operant behavior, the temporal order is:  a. first the response, then the reinforcing stimulus.  b. first the reinforcing stimulus, then the response. [FROM ABASET 14]
+@end
+@answer a
+@tries 1
+@graphic none
+@video none
+@begin
+Technically, the frequency of a response is called the ______.  [FROM ABASET 14]
+@end
+@answer rate
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+When a response is followed by food, the event is described by saying, the response is followed by _______t.  The food is called a(n) _______r.  [Do not enter any quotes] [FROM ABASET 14]
+@end
+@answer Reinforcement reinforcer
+@tries 1
+@graphic none
+@video none
+@begin
+When a reinforcer no longer follows a response, the rate of emitting the response is observed to decline gradually.  This process is called ______.  [FROM ABASET 14]
+@end
+@answer extinction
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+Forgetting and extinction are technical terms for different processes.  The response is emitted without reinforcement only in the process called ______.  The response is not emitted in the process called _______. [FROM ABASET 14]
+@end
+@answer Extinction forgetting
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+There are two classes of behavior, operant and respondent. _______nt behavior is influenced by the consequences of previous, similar responses, whereas in _______nt behavior, a stimulus precedes the response.  [FROM ABASET 14]
+@end
+@answer Operant respondent
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+Operants are (elicited/emitted) ______.  Respondents are (elicited/emitted) ______.  [FROM ABASET 14]
+@end
+@answer Emitted elicited
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+Reinforcement that consists of presenting stimuli (i.e., food) is called ______ reinforcement.  In contrast, reinforcement which consists of terminating stimuli (i.e., painful stimuli) is called _______ reinforcement. [FROM ABASET 15]
+@end
+@answer Positive negative
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+True or False: Both positive and negative reinforcement increase the rate of a response. [FROM ABASET 15]
+@end
+@answer true
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+Two responses are ______le when they cannot be emitted at the same time. [FROM ABASET 15]
+@end
+@answer incompatible
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+The process called extinction occurs due to lack of ______t.  [FROM ABASET 15]
+@end
+@answer reinforcement
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+Two ways of effectively preventing unwanted conditioned behavior are; to _______h it by withholding reinforcement, and to condition some _______e behavior. [FROM ABASET 15]
+@end
+@answer Extinguish incompatible
+@tries 1
+@graphic none
+@video none
+@begin
+After a response has been reinforced on many occasions, the ______ is high that it will be repeated.  [FROM ABASET 16]
+@end
+@answer rate
+@tries 1
+@graphic none
+@video none
+@begin
+The pairing of two stimuli is necessary to condition _______t behavior; reinforcements are necessary for conditioning _______t behavior.  [FROM ABASET 16]
+@end
+@answer Respondent operant
+@tries 1
+@graphic none
+@video none
+@begin
+When, as a result of the passage of time with no opportunity to emit the response, a response is emitted at a lowered rate, we say that (extinction/forgetting) _______ has taken place.  [FROM ABASET 16]
+@end
+@answer forgetting
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+A synonym for unconditioned reinforcer is ______y reinforcer. [FROM ABASET 17]
+@end
+@answer Primary
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+The power of an unconditioned or primary reinforcer (does/does not) ______ depend upon previous conditioning.  [FROM ABASET 17]
+@end
+@answer Does not
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+A peck operates a food magazine.  The noise of the magazine is paired with the presentation of food.  Food is the (unconditioned/conditioned) ______ reinforcer.  The magazine noise is the (unconditioned/conditioned) ______ reinforcer.  [FROM ABASET 17]
+@end
+@answer Unconditioned conditioned
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+A conditioned reinforcer acquires its capacity to reinforce by being ______d with unconditioned (primary) reinforcers. [FROM ABASET 17]
+@end
+@answer paired
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+Conditioned and unconditioned reinforcers will be effective as reinforcers only if the organism has been ______ed of the reinforcers. [FROM ABASET 17]
+@end
+@answer deprived
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+A conditioned reinforcer becomes a ______d reinforcer when paired with many unconditioned reinforcers.  [FROM ABASET 17]
+@end
+@answer generalized
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+On the cumulative record, rate of responding can be determined from the ______e of the line. [FROM ABASET 18]
+@end
+@answer slope
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+On the cumulative record, the higher the rate of responding, the (more horizontal/steeper) ______ the slope of the line.  [FROM ABASET 18]
+@end
+@answer steeper
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+An increase in rate is called ______e acceleration.  [FROM ABASET 18]
+@end
+@answer positive
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+On the cumulative record, (vertical/horizontal) ______ distance shows rate, and (vertical/horizontal) ______ distance shows time. [FROM ABASET 18]
+@end
+@answer Vertical horizontal
+@tries 1
+@graphic none
+@video none
+@begin
+Adaptation differs from extinction in that no previous ______ of the behavior has taken place, so far as we know. [FROM ABASET 19]
+@end
+@answer conditioning
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+Preliminary treatments are important when conditioning an organism.  They allow time for ______ of unconditioned behavior. [FROM ABASET 19]
+@end
+@answer adaptation
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+Because a click is paired with the presentation of food, the click becomes a ______ ______. [FROM ABASET 19]
+@end
+@answer Conditioned reinforcer
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+Positive acceleration means that, in general, the intervals between successive responses become progressively (longer/shorter) ______. [FROM ABASET 19]
+@end
+@answer shorter
+@tries 1
+@graphic none
+@video none
+@begin
+_______ behavior maintains the internal economy of the organism.  _______ behavior affects the environment. [FROM ABASET 19]
+@end
+@answer Respondent operant
+@tries 1
+@graphic none
+@video none
+@begin
+In accidental contingencies, reinforcement (is/is not) ______ contingent upon any specific response. [FROM ABASET 20]
+@end
+@answer Is not
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+Behavior in which there is no causal relation between response and reinforcement is called ______s behavior. [FROM ABASET 20]
+@end
+@answer Superstitious
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+Superstitious behavior results from ______l contingencies of reinforcement. [FROM ABASET 20]
+@end
+@answer accidental
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+Many so-called cures for illness involve ______ behaviors due to ______ reinforcement.  [FROM ABASET 20]
+@end
+@answer Superstitious accidental
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+The reinforcement of one form or magnitude of a response when other rather similar forms or magnitudes are not reinforced is called ______ ______t. [FROM ABASET 21]
+@end
+@answer differential reinforcement
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+In gradually shifting criteria of differential reinforcement, a teacher shapes desired behavior through successive ______s. [FROM ABASET 21]
+@end
+@answer approximations
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+In differential reinforcement, one form of behavior is ______d, and other similar forms are e______d. [FROM ABASET 21]
+@end
+@answer Reinforced extinguished 
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+When teachers differentially reinforce student behavior, the teachers are said to be ______g student behavior. [FROM ABASET 21]
+@end
+@answer shaping
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+When a teacher slowly raises his or her standards for giving reinforcement to students, the teacher is making ______ ______s to the desired form.  [FROM ABASET 21]
+@end
+@answer Successive approximations
+@tries 1
+@graphic none
+@video none
+@begin
+In shaping a different response, a first response may be a help or hindrance, depending on whether the two responses share common e______s. [FROM ABASET 21]
+@end
+@answer elements
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+Learning to say ball makes it easier for the child to learn to say fall because the two responses have _______ _______s.  [FROM ABASET 22]
+@end
+@answer Common elements
+@tries 1
+@graphic none
+@video none
+@begin
+Teachers generate new forms of behaviors in their students by ______y ______g forms that gradually approximate the final form. [FROM ABASET 22]
+@end
+@answer Differentially reinforcing 
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+The process of differentially reinforcing forms that gradually approximate the final form is called ______ the behavior. [FROM ABASET 22]
+@end
+@answer shaping 
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+On a cumulative record, the slope of the line indicates the ______e. [FROM ABASET 23]
+@end
+@answer rate
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+_______t behavior is strongly influenced by the consequences of previous similar responses, whereas _______t behavior depends upon a preceding stimulus. [FROM ABASET 23]
+@end
+@answer Operant respondent
+@tries 1
+@graphic none
+@video none
+@begin
+Superstitious behavior is conditioned by ______l reinforcement.   [FROM ABASET 23]
+@end
+@answer accidental
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+In a reflex, the ______ of a stimulus is the intensity which is barely sufficient to elicit a response. [FROM ABASET 23]
+@end
+@answer threshold
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+In a reflex, the more intense the stimulus, the greater the ______ of the response and the shorter the ______ of the reflex. [FROM ABASET 23]
+@end
+@answer Magnitude latency
+@tries 1
+@graphic none
+@video none
+@begin
+
+@end
+@begin
+When behavior decreases in frequency and when, so far as we know, no previous conditioning of the behavior has taken place, we call the process not extinction, but _______ion.  [FROM ABASET 23]
+@end
+@answer adaptation
+@tries 1
+@graphic none
+@video none
+@begin
+A schedule of reinforcement in which the number of reinforcements obtained depends on the number of responses emitted is called a ______ schedule.  [FROM ABASET 24]
+@end
+@answer ratio 
+@tries 1
+@graphic none
+@video none
+@begin
+When reinforcement becomes available only after a lapse of time, it is said to be on an ______ schedule.  [FROM ABASET 24]
+@end
+@answer interval
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+When an operant is only occasionally followed by reinforcement, the schedule of reinforcement is said to be (continuous/intermittent) _______.  [FROM ABASET 24]
+@end
+@answer intermittent
+@tries 1
+@graphic none
+@video none
+@begin
+The availability of reinforcement depends on the number of preceding responses on _______ schedules, and on the passage of time on _______ schedules.  [FROM ABASET 24]
+@end
+@answer Ratio interval
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+When a response has been reinforced, a variable amount of time elapses before another response is reinforced.  This is called a(n) _______-_______ schedule.  [FROM ABASET 25] [Include the hyphen]
+@end
+@answer Variable-interval
+@tries 1
+@graphic none
+@video none
+@begin
+Variable-interval schedules generate a relatively (low/moderate/high) _______ and fairly (irregular/steady) _______ rate. [FROM ABASET 25]
+@end
+@answer Moderate steady
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+On a ______-ratio schedule, reinforcements occur after a fixed number of responses.  A ______-ratio schedule provides reinforcement after a variable number of responses. [Include the -ratio in your answer.] [FROM ABASET 25] [include the help letters in your answer]
+@end
+@answer Fixed-ratio variable-ratio
+@tries 1
+@graphic none
+@video none
+@begin
+A pause after reinforcement occurs under ______-interval schedule but not under ______-interval schedules.  [Include the -interval in your answer.] [FROM ABASET 25] [include help letters in your answer]
+@end
+@answer Fixed-interval fixed-interval
+@tries 1
+@graphic none
+@video none
+@begin
+The schedule that tends to produce to overall highest rate is the (interval/ratio) ______ schedule. [FROM ABASET 25]
+@end
+@answer ratio
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+A fixed-interval schedule differs from a variable-interval schedule in that the ______-interval schedule has an overall steady rate, whereas the other contains positively accelerated curves between reinforcements. [Include the -interval in your answer.]  [FROM ABASET 25]
+@end
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+Availability of reinforcement depends on the number of responses in (interval/ratio) ______ schedules. [FROM ABASET 26]
+@end
+@answer ratio
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+A salesperson may make a sale to one out of every 30 contacts on the average.  Sales occur on a ______-ratio schedule. [Include the -ratio in your answer.] [FROM ABASET 26]
+@end
+@answer Variable-ratio
+@tries 1
+@graphic none
+@video none
+@begin
+People who gamble are on a ______-______ schedule. [FROM ABASET 26]
+@end
+@answer Variable-ratio
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+The highest rate of responding is generated by which class of schedules? A. variable-interval, B. fixed-interval, C. variable-ratio, D. continuous reinforcement ________ [FROM ABASET 26]
+@end
+@answer c
+@tries 1
+@graphic none
+@video none
+@begin
+When a certain stimulus is the occasion upon which responses are followed by reinforcement, the stimulus is called a (S-delta/discriminative stimulus) ______.  [FROM ABASET 27]
+@end
+@answer discriminative
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+An S^ (S-delta) is a stimulus that is consistently present when responses (are/are not) ______ reinforced. [FROM ABASET 27]
+@end
+@answer Are not 
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+An organism is said to have developed a discrimination when responding is maintained in the presence of the (SD/S-delta) _____, and has undergone some degree of extinction in the presence of the (SD/S-delta) _____. [FROM ABASET 27]
+@end
+@answer SD S-delta
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+A response is reinforced in the presence of a stimulus and not reinforced in the presence of another stimulus when establishing a _____n. FROM ABASET 27]
+@end
+@answer discrimination
+@tries 1
+@graphic none
+@video none
+@begin
+When two different response rates occur in the presence of different stimuli, the response is under ______ ______. [FROM ABASET 27]
+@end
+@answer Stimulus control
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+Two or more schedules are in effect and a different stimulus is present during each in a ______ schedule. [FROM ABASET 27]
+@end
+@answer multiple
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+When a response has been extinguished in the presence of one stimulus and maintained in the presence of another, a ______ has been developed. [FROM ABASET 27]
+@end
+@answer discrimination
+@tries 1
+@graphic none
+@video none
+@begin
+When a discrimination has been formed, the response is under ______ ______. [FROM ABASET 27]
+@end
+@answer Stimulus control
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+The necessary conditions for establishing an operant discrimination are:  a ______ve stimulus, a ______e, and a ______ing stimulus.  [FROM ABASET 27]
+@end
+@answer Discriminative response reinforcing
+@tries 1
+@graphic none
+@video none
+@begin
+The stimulus control of an operant differs from that of a respondent.  ______ts are emitted and reinforced, whereas ______ts are elicited. [FROM ABASET 27]
+@end
+@answer Operants respondents
+@tries 1
+@graphic none
+@video none
+@begin
+During the administration of a test in a classroom setting, a teacher walking up and down the aisles is an (SD/S-delta) _____ for cheating behavior and an (SD/S-delta) _____ for honest test-taking behavior. [FROM ABASET 27]
+@end
+@answer s-delta sd 
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+A stimulus acquires control of a response due to reinforcement in the presence of a similar but different stimulus in a stimulus ______n. [FROM ABASET 28]
+@end
+@answer generalization
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+The gradual decline in number of responses as a function of distance from the stimulus present at reinforcement is called a stimulus ______n _____t. [FROM ABASET 28]
+@end
+@answer Generalization gradient
+@tries 1
+@graphic none
+@video none
+@begin
+Multiple choice tests are sometimes criticized because the multiple responses from which students are to choose from contain common elements.  In their presence, ______n may occur, providing for an increased chance of making an incorrect selection.  For this reason and others, teachers may want to use fill-in-the-blank items instead. [FROM ABASET 28]
+@end
+@answer generalization
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+Redness never occurs alone.  When a response is controlled by the isolated property of redness, we call it a(n) _____n. [FROM ABASET 28]
+@end
+@answer abstraction
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+The same stimulus is both an SD and a reinforcing stimulus in a ______ of behavior. [FROM ABASET 29]
+@end
+@answer chain
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+A reinforcing stimulus (follows/precedes) ______ a response that it reinforces.  A discriminative stimulus (follows/precedes) ______ a response that it controls. [FROM ABASET 29]
+@end
+@answer Follows precedes 
+@tries 1
+@graphic none
+@video none
+@begin
+A set of responses differing from one another only very slightly and under the control of discriminative stimuli also differing from one another only very slightly is called a _____s _____e. [FROM ABASET 30]
+@end
+@answer Continuous repertoire
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+When the child is reinforced by certain patterns s/he produces on paper and not by mere scribbles, his drawing responses are being _______y _______d.    [FROM ABASET 30]
+@end
+@answer Differentially reinforced
+@tries 1
+@graphic none
+@video none
+@begin
+In gradually raising our standards, first reinforcing crude copies and later better and better copies, we are shaping drawing from copy by s_______  _______s. [FROM ABASET 30]
+@end
+@answer Successive approximations
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+Another name for the form of a response is the response's _____y.  [FROM ABASET 31]
+@end
+@answer topography
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+We can increase the probability of drinking by _____g an organism of water.  We can increase the probability that an organism will eat by _____g it of food.  [FROM ABASET 32]
+@end
+@answer Depriving depriving
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+The probability of food-related behavior occurring is increased by food ______n.  [FROM ABASET 32]
+@end
+@answer deprivation
+@tries 1
+@graphic none
+@video none
+@begin
+______n is an operation that in general decreases the probability of responding. [FROM ABASET 32]
+@end
+@answer satiation 
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+Satiation is the opposite of ______n.  [FROM ABASET 32]
+@end
+@answer deprivation
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+Teachers may have little luck reinforcing student behavior with candy immediately after lunch.  Here, students are _____ed with respect to food.  [FROM ABASET 32]
+@end
+@answer satiated
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+Rate of responding decreases as the rate of deprivation _____creases. [FROM ABASET 32]
+@end
+@answer decreases
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+The level of deprivation does not decrease as quickly under (intermittent/continuous) ______ reinforcement as under (intermittent/continuous) ______ reinforcement.  [FROM ABASET 32]
+@end
+@answer Intermittent continuous
+@tries 1
+@graphic none
+@video none
+@begin
+Water deprivation, salt ingestion, and sweating are a class of operations or processes that _____crease the rate of emission of responses reinforced by water.  [FROM ABASET 32]
+@end
+@answer Increase
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+Some students become fidgety and squirm in their seats.  Such students may be _____ed of physical activity.  [FROM ABASET 32]
+@end
+@answer deprived
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+A stimulus that has been paired with unconditioned reinforcers appropriate to many different deprivations becomes a(n) _______d reinforcer. [FROM ABASET 33]
+@end
+@answer Generalized
+@tries 1
+@graphic none
+@video none
+@begin
+Most generalized reinforcers (are/are not) ______ conditioned reinforcers. [FROM ABASET 33]
+@end
+@answer are
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+Passage of time since the last period of sleep serves to ______crease the probability that the organism will sleep.  [ABASET 34]
+@end
+@answer increase
+@tries 1
+@graphic none
+@video none
+@begin
+A high rate of responding is not in itself evidence for inferring a high level of ______n without knowledge of other factors such as the reinforcement schedule. [FROM ABASET 35]
+@end
+@answer deprivation
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+Response magnitude varies closely with stimulus intensity in the case of _______nt behavior, but much less so in the case of _______nt behavior.  [FROM ABASET 35]
+@end
+@answer Respondent operant 
+@tries 1
+@graphic none
+@video none
+@begin
+Intermittently reinforcing temper tantrums makes them very ______t to extinction. [FROM ABASET 35]
+@end
+@answer resistant
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+In certain emotions, many respondents are active together in what is called the _____n _____e. [FROM ABASET 36]
+@end
+@answer Activation syndrome
+@tries 1
+@graphic none
+@video none
+@begin
+_____e is a form of behavior reinforced by the termination of an aversive stimulus.  [FROM ABASET 38]
+@end
+@answer escape
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+A stimulus that reinforces behavior that terminates it is called a _____e reinforcer or an _____e stimulus.  [FROM ABASET 38]
+@end
+@answer Negative aversive 
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+Negative reinforcement (termination of a negative reinforcer) and positive reinforcement (presentation of a positive reinforcer) both are defined exclusively in terms of their effect in _____creasing the rate of a new response. [FROM ABASET 38]
+@end
+@answer increasing
+@tries 1
+@graphic none
+@video none
+@begin
+In _____e behavior, a response is emitted before the aversive stimulus occurs and the response delays or prevents the stimulus. [FROM ABASET 38]
+@end
+@answer avoidance
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+Passing a library book that has not been properly checked out through the book detection device causes a loud and embarrassing alarm.   A person may walk around the device in the case of (escape/avoidance) ______ behavior, or s/he may jump forward after the alarm sounds in the case of (escape/avoidance) ______ behavior.  [FROM ABASET 38]
+@end
+@answer Avoidance escape 
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+With repeated, successful avoidance behavior, the conditioned and unconditioned negative reinforcers are no longer being paired and the conditioned reinforcer becomes less effective.  The avoidance behavior then begins to be _______ed.  [FROM ABASET 38]
+@end
+@answer extinguished 
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+The person who runs from the dentist's office after merely hearing the drill _______s the painful stimulation involved in drilling, and _______s the sound of the drill. [FROM ABASET 38]
+@end
+@answer Avoids escapes
+@tries 1
+@graphic none
+@video none
+@begin
+When a student is punished in the classroom, the stimuli in the classroom may become _____e stimuli. [FROM ABASET 39]
+@end
+@answer aversive
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+After stimuli in the classroom have become conditioned aversive stimuli through punishment, skipping class will become (punishing/reinforcing) ______ to students. [FROM ABASET 39]
+@end
+@answer reinforcing
+@tries 1
+@graphic none
+@video none
+@begin
+Shock is an unconditioned aversive stimulus.  A stimulus frequently preceding shock generates the emotional predisposition called _______. [FROM ABASET 40]
+@end
+@answer anxiety
+@tries 1
+@graphic none
+@video none
+@begin
+The low initial rate suggests that anxiety is necessary for adequate avoidance behavior.  This is similar to providing a condition of ______n before using a positive reinforcer. [FROM ABASET 40]
+@end
+@answer deprivation
+@tries 1
+@graphic none
+@video none
+@begin
+In avoidance behavior, one variable shown to be of considerable importance is the length of ______ during which the response postpones the aversive stimulus. [FROM ABASET 40]
+@end
+@answer time
+@tries 1
+@graphic none
+@video none
+@begin
+By definition, a drug that decreases anxiety is one which _______es the effect of a conditioned aversive stimulus.  A drug that increases anxiety _______es the effect of a conditioned aversive stimulus. [FROM ABASET 40]
+@end
+@answer Decreases increases 
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+A conditioned aversive stimulus changes the probability of many responses.  We call the change produced by a conditioned aversive stimulus a state of _______.  [FROM ABASET 41]
+@end
+@answer anxiety
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+In anxiety, the rate of reinforced behavior _____creases and the rate of avoidance behavior _____creases. [FROM ABASET 42]
+@end
+@answer Decreases increases                             
+@tries 1
+@graphic none
+@video none
+@begin
+Presenting a conditioned aversive stimulus results in a state of ______y, shown in part by a decrease in reinforced behavior and an increase in behavior which has an avoidance history. [FROM ABASET 42]
+@end
+@answer anxiety
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+When getting rid of a strong emotion is reinforcing, it is an example of _____tive reinforcement.  [FROM ABASET 42]
+@end
+@answer negative
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+Skilled behavior learned while one is calm may be disrupted in anxiety.  Imposing a time limit for taking a test that puts pressure on a student is using a(n) _______ stimulus that may disrupt behavior. [FROM ABASET 42]
+@end
+@answer aversive 
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+When a student is severely criticized for an error made during a test, the probability of errors may increase as a result of the increase in _____.  [FROM ABASET 42]
+@end
+@answer anxiety
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+Spanking is an example of ______ because spanking constitutes the presentation of a negative reinforcer. [FROM ABASET 43]
+@end
+@answer punishment
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+In punishment, a response is followed by withdrawal of a _____tive reinforcer or presentation of a _____tive reinforcer. [FROM ABASET 43]
+@end
+@answer Positive negative
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+Stimuli accompanying or just preceding a punished response become _____ed _____e stimuli by being paired with the punisher. [FROM ABASET 43]
+@end
+@answer Conditioned aversive
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+In the case of a brief period of mild punishment, the rate of responding is (higher/lower) ______ during and just after punishment, but the number of responses emitted in complete _____n may not be changed. [FROM ABASET 44]
+@end
+@answer Lower extinction
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+Punishment may be defined as the procedure of withdrawing a _____e reinforcer, or presenting an _____e stimulus.  [FROM ABASET 44]
+@end
+@answer Positive negative
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+The apparent reduction in rate resulting from punishment may not be a direct weakening of behavior, but instead the establishment and maintenance of behavior that displaces or is _____e with the punished behavior. [FROM ABASET 44]
+@end
+@answer incompatible 
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+When a teacher uses punishment in the classroom, rate of responding temporarily decreases, but the resulting conditioned aversive stimuli in the   classroom generate _____y. [FROM ABASET 45]
+@end
+@answer anxiety
+@tries 1
+@graphic none
+@video none
+@begin
+The teacher who uses punishment is reinforced by the termination of the punished behavior.  The probability is _____eased that the teacher will use punishment in similar situations in the future. [FROM ABASET 45]
+@end
+@answer increased
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+When a response is followed immediately by an aversive stimulus, the response procedure is called ______. [FROM ABASET 45]
+@end
+@answer punishment
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+A response that terminates an aversive stimulus is _____ed. [FROM ABASET 45]
+@end
+@answer reinforced 
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+Punishment eventually leads to the reinforcement of doing something else.  Because doing something else prevents the occurrence of unconditioned aversive stimuli, it is an example of ______e behavior. [FROM ABASET 45]
+@end
+@answer avoidance
+@tries 1
+@graphic none
+@video none
+@begin
+Punishment does not truly weaken behavior.  It indirectly lowers the rate of the punished response by providing conditions for the _______t of incompatible avoidance behavior. [FROM ABASET 45]
+@end
+@answer reinforcement
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+If school is a punishing experience, students may be _____ed for avoiding school. [FROM ABASET 45]
+@end
+@answer reinforced
+@tries 1
+@graphic none
+@video none
+@begin
+A person may talk about other things (or just not talk) and thereby avoid talking about aversive situations.  We need not refer to this as a process of ______n which forces the response out of consciousness. [FROM ABASET 45]
+@end
+@answer repression
+@tries 1
+@graphic none
+@video none
+@begin
+Since the behavior of punishing others is _____ed by its quick effects, it is frequently repeated even though the effect is not permanent.  [FROM ABASET 45]
+@end
+@answer reinforced
+@tries 1
+@graphic none
+@video none
+@begin
+The stronger the punishment, the (higher/lower) ______ the stable rate of responding. [FROM ABASET 46]
+@end
+@answer lower
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+When continuous punishment is discontinued, the response rate is, for a while, (higher/lower) _______ than it would have been had there been no punishment.  [FROM ABASET 46]
+@end
+@answer higher
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+Punishment is effective in preventing a response when behavior that _______ds the punished behavior is established.  But when this behavior has been extinguished, the punished response will again be emitted. [FROM ABASET 47]
+@end
+@answer avoids
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+Punishment does not eliminate a response.  Rate of responding temporarily _____creases because of punishment and the resulting conditioned aversive stimuli generate _____y. [FROM ABASET 47]
+@end
+@answer Decreases anxiety 
+@tries 1
+@graphic none
+@video none
+@begin
+[Use presenting or withdrawing for each blank]  Reinforcement consists of _______ a positive reinforcer or _______ a negative reinforcer.  [FROM ABASET 47]
+@end
+@answer Presenting withdrawing
+@tries 1
+@graphic none
+@video none
+@begin
+[Use presenting or withdrawing for each blank]  Punishment consists of _______ a positive reinforcer or _______ a negative reinforcer.  [FROM ABASET 47]
+@end
+@answer Withdrawing presenting
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+Operant behavior that prevents or postpones an unconditioned aversive stimulus is called (escape/avoidance) _______ behavior.  [FROM ABASET 47]
+@end
+@answer avoidance 
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+Behavior that terminates an unconditioned aversive stimulus is called (escape/avoidance) _______ behavior. [FROM ABASET 47] escape 
+@end
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+The teacher who uses strong aversive control to get students to study may ___crease the probability that they will study after graduation.  [FROM ABASET 47]
+@end
+@answer decrease
+@tries 1
+@graphic none
+@video none
+@begin
+The goal of a _____e of behavior is the prediction, control, and interpretation of the behavior of living organism. [FROM ABASET 48]
+@end
+@answer science
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+In operant behavior, probability of a response is one of the (independent/dependent) ______ variables. [FROM ABASET 48]
+@end
+@answer dependent
+@tries 1
+@graphic none
+@video none
+@begin
+A scientist manipulates _______dent variables to determine whether they affect the _______dent variable in which he or she is interested.  [FROM ABASET 48]
+@end
+@answer Independent dependent
+@tries 1
+@graphic none
+@video none
+@begin
+When changes in an independent variable provide systematic changes in a dependent variable, there is a _____l _____n between them. [FROM ABASET 48]
+@end
+@answer Functional relation
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+When teachers state the probability of occurrence of a given response under a given set of conditions (such as how well students will perform on a test), they engage in (interpretation/prediction/control) _____. [FROM ABASET 48]
+@end
+@answer prediction
+@tries 1
+@graphic none
+@video none
+@begin
+When teachers arrange a set of conditions under which student behavior has an assigned probability, they engage in (interpretation/prediction/control) ______.  [FROM ABASET 48]
+@end
+@answer control
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+Because complex events occur in the standard classroom on a regular basis, a single event may have _____e effects. [FROM ABASET 49]
+@end
+@answer multiple
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+The single operation of withholding positive reinforcement has two effects; both effects are a(n) (increase/decrease) _______ in rate.  [FROM ABASET 49]
+@end
+@answer decrease
+@tries 1
+@graphic none
+@video none
+@begin
+A student may not perform well in the classroom.  The student may by tired, hungry, and emotionally disturbed. The student's behavior is a product of ______e causes.  [FROM ABASET 50]
+@end
+@answer multiple
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+Removing an (SD/S-delta) _____ or presenting an (SD/SD) _____ are two ways of describing the same change of stimulus that sets the occasion for  reinforcement. [FROM ABASET 51]
+@end
+@answer s-delta SD
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+When holding your breath under water, (reflexive/operant) _____ behavior exerts control over (reflexive/operant) _____ behavior. [FROM ABASET 52]
+@end
+@answer Operant respondent
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+_____nt behavior is sometimes called voluntary behavior, and _____nt behavior is sometimes called involuntary behavior.  [FROM ABASET 52]
+@end
+@answer Operant respondent
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+In self-control, the reduction of conditioned aversive stimuli associated with the (controlled/controlling) ______ response reinforces the (controlled/controlling) ______ response. [FROM ABASET 52]
+@end
+@answer Controlled controlling
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+In self-control, responses to be controlled usually have initial (aversive/reinforcing) ______ consequences, but delayed (aversive/reinforcing) ______ consequences.  [FROM ABASET 53]
+@end
+@answer Reinforcing aversive
+@tries 1
+@graphic none
+@video none
+@begin
+Putting a tack in one's shoe is _____nt behavior; weeping tears is _____nt behavior. [FROM ABASET 53]
+@end
+@answer Operant respondent
+@tries 1
+@graphic none
+@video none
+@begin
+Students in class may display both operant and respondent behavior that is incompatible with learning.  For example, one student may pinch the skin (operant) of another student to elicit a cry or jump (respondent).  Pinching gets _____ed by the reaction. [FROM ABASET 53]
+@end
+@answer reinforced
+@tries 1
+@graphic none
+@video none
+@begin
+Teachers who implement rules, such as count to ten before acting in anger, (increase/decrease) ______ the likelihood that students will react aggressively.  [FROM ABASET 53]
+@end
+@answer decrease
+@tries 1
+@graphic none
+@video none
+@begin
+People may take drugs (e.g. sleeping pills, alcohol, etc.) to reduce the emotional state of ______, which is frequently one effect of conditioned  aversive stimuli.  [People would do better to remove the conditioned aversive stimuli from the environment.] [FROM ABASET 53]
+@end
+@answer anxiety
+@tries 1
+@graphic none
+@video none
+@begin
+If self-observation produces aversive stimuli, behavior incompatible with noticing one's own behavior is automatically ______d. [FROM ABASET 54]
+@end
+@answer reinforced
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+When a person cannot recall some previously punished behavior, we say that s/he has _____ed it. [FROM ABASET 54]
+@end
+@answer repressed
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+Self-knowledge is sometimes lacking because it is displaced by incompatible behavior that avoids the _____e _____i generated by talking about punished responses. [FROM ABASET 54]
+@end
+@answer Aversive stimuli 
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+Previously _____ed behavior generates conditioned aversive stimuli. [FROM ABASET 54]
+@end
+@answer punished
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+Emphasizing the non-punishable aspects of one's own behavior is called ______n. [FROM ABASET 55]
+@end
+@answer rationalization
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+In rationalization, a person believes (tells him/herself) that his/her behavior was a function of variables with respect to which he/she is least likely to be _____ed.  [FROM ABASET 55]
+@end
+@answer punished
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+In (rationalization/lying) ______, a person recognizes the punishable reason for his/her behavior.  [FROM ABASET 56]
+@end
+@answer lying
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+When we admit only the least punishable reasons for our behavior, we are ______ing.  [FROM ABASET 55]
+@end
+@answer rationalizing
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+Alcohol decreases the aversive stimulation characteristic of anxiety.  Drinking is therefore said to be ____tively reinforced.  [FROM ABASET 56]
+@end
+@answer negatively
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+Taking a drug which produces a state of well-being above the normal (euphoria) is ____tively reinforced.  [FROM ABASET 56]
+@end
+@answer positively
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+A person is said to be ______ed to a drug if withholding the drug produces withdrawal symptoms. [FROM ABASET 56]
+@end
+@answer addicted
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+In ______ _____n, a person controls a tendency to drink by campaigning for prohibition with great zeal.  [FROM ABASET 57]
+@end
+@answer Reaction formation
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+Reaction formation may be interpreted both as behavior that is incompatible with punishable behavior, and as behavior that (increases/removes) _____ stimuli that make the punishable behavior more probable. [FROM ABASET 57]
+@end
+@answer removes 
+@tries 1
+@graphic none
+@video none
+@begin
+Emitting the same response to two different but similar stimuli, only one of which was present during earlier reinforcement, is an example of _____s _____n.  [FROM ABASET 58]
+@end
+@answer Stimulus generalization
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+A person who extinguishes conditioned aversive stimuli generated by early stages of behavior that have been punished is acting as a _____-_____ ____e.  [FROM ABASET 58]
+@end
+@answer Non-punishing audience 
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+Reaction formation may be interpreted as behavior that removes _______i that make the punishable behavior more probable; it may also be interpreted as behavior which is _______e with punishable behavior. [FROM ABASET 59]
+@end
+@answer Stimuli incompatible 
+@tries 1
+@graphic none
+@video none
+@answer 
+@tries 1
+@graphic none
+@video none
+@begin
+In the laboratory, it is possible to isolate simple functional relations; but in interpreting events in the classroom, we must be alert to the  probability of _____e effects in complex situations.  [FROM ABASET 59]
+@end
+@answer Multiple effects
+@tries 1
+@graphic none
+@video none
+@begin

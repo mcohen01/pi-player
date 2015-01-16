@@ -1,0 +1,288 @@
+@begin
+Overview: This set explains why the products of a science of behavior are often resisted and challenged. It employs the following concepts:
+
+
+
+Behaviorism is a philosophy of _______e.
+@end
+@answer SCIENCE
+@tries 2
+@graphic none
+@video none
+@begin
+A p________y is a particular system of ideas relating to the general scheme of the universe.
+@end
+@answer PHILOSOPHY
+@tries 2
+@graphic none
+@video none
+@begin
+B_______ is a philosophical system or theory which assumes that directly observable ACTIONS of organisms are the fundamental datum in a science.
+@end
+@answer BEHAVIORISM
+@tries 2
+@graphic none
+@video none
+@begin
+"Mentalism" is the theory that physical and physiological phenomena are ultimately only explicable in terms of a creative and interpretative mind.  Mentalism is the opposite of the scientific philosophy called _______.
+@end
+@answer BEHAVIORISM
+@tries 2
+@graphic none
+@video none
+@begin
+________ism assumes that a creative mind is the source of at least some part of what we actively do (behavior).
+@end
+@answer MENTALISM
+@tries 2
+@graphic none
+@video none
+@begin
+The philosophies of behaviorism and mentalism are in (agreement with/opposition to) _______ each other.
+@end
+@answer OPPOSITION TO
+@tries 1
+@graphic none
+@video none
+@begin
+A ________ist would say that behavior is the result of first "having an idea."
+@end
+@answer MENTALIST
+@tries 2
+@graphic none
+@video none
+@begin
+A ________ist would say that humans have minds and other animals don't.
+@end
+@answer MENTALIST
+@tries 2
+@graphic none
+@video none
+@begin
+We are often on the verge of doing something and then actually do it.  We seem to "have an idea" and then act upon it.  Since the subtle behavior called "thinking" often precedes taking practical action, thinking is easily assumed to be the ______e of action.
+@end
+@answer CAUSE
+@tries 2
+@graphic none
+@video none
+@begin
+Mental actions are often used in efforts to ex____ why people behave as they do.
+@end
+@answer EXPLAIN
+@tries 2
+@graphic none
+@video none
+@begin
+Mental activity is sometimes assumed to be the beginning of behavior.  But until we point to the causes of this supposed mental activity, we (have/have not) _______ explained the overt behavior.
+@end
+@answer HAVE NOT
+@tries 1
+@graphic none
+@video none
+@begin
+An individual may predict her actions and then do something very different.  When asked why, she may say "Because I changed my ______."
+@end
+@answer MIND
+@tries 2
+@graphic none
+@video none
+@begin
+A "a change of mind" is a mental event.  Is this an adequate explanation for a change in behavior?  (type Y or N)  _____ [the letter only]
+@end
+@answer N
+@tries 1
+@graphic none
+@video none
+@begin
+A "change of mind" is a (behavioristic/mentalistic) _______ explanation of behavior.
+@end
+@answer MENTALISTIC
+@tries 1
+@graphic none
+@video none
+@begin
+We challenge a child when he explains his behavior by saying "the devil made me do it."  There is no well-documented instance of two people observing the devil.  From a scientific point of view, the devil is a (factual/fictional) _______ cause of behavior.
+@end
+@answer FICTIONAL
+@tries 1
+@graphic none
+@video none
+@begin
+A businessman (bribes/does not bribe) _______ a politician BECAUSE the businessman "is evil."
+@end
+@answer DOES NOT BRIBE
+@tries 1
+@graphic none
+@video none
+@begin
+Fictional explanations turn attention away from true _____s of behavior.
+@end
+@answer CAUSES
+@tries 2
+@graphic none
+@video none
+@begin
+The behaviorist challenges mentalistic explanations, calling them "wrong" because they turn our ______ion away from the true environmental causes.
+@end
+@answer ATTENTION
+@tries 2
+@graphic none
+@video none
+@begin
+From a scientific point of view, the causes for behavior are to be found ___ide the person.
+@end
+@answer OUTSIDE
+@tries 2
+@graphic none
+@video none
+@begin
+When we look to the mind for explanations, we are looking in the ______ place for causes.
+@end
+@answer WRONG
+@tries 2
+@graphic none
+@video none
+@begin
+"Cognitivism" is a kind of _______ism because it looks to a mind for explanations of behavior.
+@end
+@answer MENTALISM
+@tries 2
+@graphic none
+@video none
+@begin
+Some listeners require empirical evidence for what they hear.  A listener who challenges fictions and requests more information requires (less/more) _______ effort from the speaker.
+@end
+@answer MORE
+@tries 1
+@graphic none
+@video none
+@begin
+A person who presses for the specification of environmental causes, is likely to become (popular/unpopular) _______ because this pressure requires more ____k.
+@end
+@answer UNPOPULAR WORK
+@tries 2
+@graphic none
+@video none
+@begin
+The reference to mental activity is unnecessary when causes can be found in the past and present environment.  Reference to mental activity violates the law of p_______y.
+@end
+@answer PARSIMONY
+@tries 2
+@graphic none
+@video none
+@begin
+Funny or exaggerated stories are no problem when laughter is the only important consequence.  Fictions (are/are not) _______ particularly troublesome when no serious action is necessary.
+@end
+@answer ARE NOT
+@tries 1
+@graphic none
+@video none
+@begin
+T or F  ______  A fictional explanation will suffice when no practical action is necessary.
+@end
+@answer T
+@tries 1
+@graphic none
+@video none
+@begin
+But when we are serious, when we wish to produce an important change in behavior, we must identify the _____e causes of behavior, not fictional ones.
+@end
+@answer TRUE
+@tries 2
+@graphic none
+@video none
+@begin
+When practical action must be taken we (can/cannot) _______ be satisfied with fictional causes.
+@end
+@answer CANNOT
+@tries 1
+@graphic none
+@video none
+@begin
+What a person thinks and how the person feels are important kinds of behavior which do occur INside.  But for the behaviorist, thinking and feeling
+
+a. are the early stages of overt behavior, not its causes
+b. are mental events that are the originating sources of overt behavior
+
+@end
+@answer A
+@tries 1
+@graphic none
+@video none
+@begin
+The scientific philosophy called "behaviorism" (supplies/challenges) _______ fictional explanations of behavior.
+@end
+@answer CHALLENGES
+@tries 1
+@graphic none
+@video none
+@begin
+When a person can be shown to be working to win social approval rather than because of some "internal goodness," a fictional source has been (supported/challenged) _______.
+@end
+@answer CHALLENGED
+@tries 1
+@graphic none
+@video none
+@begin
+Shifting the causes of behavior to the _____nal world often challenges fictional causes said to originate inside the individual.
+@end
+@answer EXTERNAL
+@tries 2
+@graphic none
+@video none
+@begin
+Darwin argued that the origin of species came about through the processes of variation and natural selection.  Darwin's scientific analysis (supported/challenged) ________ the concept called "creationism."
+@end
+@answer CHALLENGED
+@tries 1
+@graphic none
+@video none
+@begin
+Darwinists were (unpopular/popular) _____ with those whose fictions they challenged.
+@end
+@answer UNPOPULAR
+@tries 1
+@graphic none
+@video none
+@begin
+Scientists are often _____ular when they supply evidence and arguments that challenge firmly entrenched explanations of events in our world.
+@end
+@answer UNPOPULAR
+@tries 2
+@graphic none
+@video none
+@begin
+Behaviorists are _____ular for at least two reasons.  They argue that a large part of human behavior is the product of respondent and operant conditioning.  Further, they argue that the operation of a miraculous willful mind can be better explained by referring to the action of the stimulating and selecting environment.
+@end
+@answer UNPOPULAR
+@tries 2
+@graphic none
+@video none
+@begin
+Today we are able to develop new species of animals and plants because we better understand how genetic selection works. "Selectionists" (formerly called Darwinists) have become more _______ular because they have shown how a scientific conception leads to better technology and a better life.
+@end
+@answer POPULAR
+@tries 2
+@graphic none
+@video none
+@begin
+Behavioral scientists can effectively change behavior because they manipulate causes ____ide the individual.
+@end
+@answer OUTSIDE
+@tries 2
+@graphic none
+@video none
+@begin
+Mentalistically or "cognitively" oriented teachers, supervisors, or therapists have not been conspicuously successful in bringing about critical changes in human behavior, yet their appeal remains because they (subscribe to/refrain from) _______ fictional processes inside a "creative mind."
+@end
+@answer SUBSCRIBE TO
+@tries 1
+@graphic none
+@video none
+@begin
+Darwinism (selectionism) met with intense hostility because it supplied scientific explanations for how living organisms evolved.  The scientific philosophy called ________ism is now facing the same kind of hostility as it shifts our attention to environmental causes rather than mental ones.
+@end
+@answer BEHAVIORISM
+@tries 2
+@graphic none
+@video none

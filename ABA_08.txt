@@ -1,0 +1,228 @@
+@begin
+Overview: The following frames continue to discuss the notion of the conditioned reflex and include the concepts of the unconditioned and conditioned response.
+
+
+
+In the simple reflex, we say that a stimulus _______s a response.
+@end
+@answer ELICITS
+@tries 2
+@graphic none
+@video none
+@begin
+We explain why a ______x occurs by pointing to the stimulus that elicits it.
+@end
+@answer REFLEX
+@tries 2
+@graphic none
+@video none
+@begin
+In a reflex, a sufficient explanation for the response is a description of the preceding _______.
+@end
+@answer STIMULUS
+@tries 2
+@graphic none
+@video none
+@begin
+When the food in the mouth elicits the secretion of saliva, the whole series of events is called a(n) _______.
+@end
+@answer REFLEX
+@tries 2
+@graphic none
+@video none
+@begin
+Candy put in the mouth of a child for the first time _______ salivation.
+@end
+@answer ELICITS
+@tries 2
+@graphic none
+@video none
+@begin
+Since the young child salivates the very first time candy is put in his mouth, we (can/cannot) _______ attribute this reflex to learning.
+@end
+@answer CANNOT
+@tries 1
+@graphic none
+@video none
+@begin
+On the first occasion when a young child simply hears the word "candy," his mouth (waters/does not water) _______.
+@end
+@answer DOES NOT WATER
+@tries 1
+@graphic none
+@video none
+@begin
+No conditioning (learning) is necessary in order for candy in the mouth to elicit saliv__ion, but the word "candy" will make a child"s mouth water only after some c_______ has taken place.
+@end
+@answer SALIVATION CONDITIONING
+@tries 2
+@graphic none
+@video none
+@begin
+When a child has often had candy in his mouth immediately after hearing the word "candy," the word alone may cause _______ to occur.
+@end
+@answer SALIVATION
+@tries 2
+@graphic none
+@video none
+@begin
+Timing is critical.  If the child is to learn to salivate to the word "candy," "candy" must occur nearly _______y.
+@end
+@answer IMMEDIATELY
+@tries 2
+@graphic none
+@video none
+@begin
+The technical term for one kind of learning is conditioning. The word "candy" comes to elicit salivation after the process we technically call _______.
+@end
+@answer CONDITIONING
+@tries 2
+@graphic none
+@video none
+@begin
+Technically speaking, when the word "candy" is repeatedly paired with eating candy, _______ takes place.
+@end
+@answer CONDITIONING
+@tries 2
+@graphic none
+@video none
+@begin
+After conditioning, the word "candy" alone will elicit salivation in a conditioned reflex.  The word "candy" is a learned or _______ stimulus.
+@end
+@answer CONDITIONED
+@tries 2
+@graphic none
+@video none
+@begin
+The word "candy" is a learned or _______ stimulus.  Candy in the mouth is an unlearned or _______ stimulus.
+@end
+@answer CONDITIONED UNCONDITIONED
+@tries 2
+@graphic none
+@video none
+@begin
+Salivation elicited by the word "candy" is a conditioned response, whereas salivation elicited by candy in the mouth is a(n) _______ response.
+@end
+@answer UNCONDITIONED
+@tries 2
+@graphic none
+@video none
+@begin
+Salivation elicited by candy in the mouth is a(n) _______ response.
+@end
+@answer UNCONDITIONED
+@tries 2
+@graphic none
+@video none
+@begin
+After conditioning, the word "candy" is a conditioned stimulus that elicits salivation.  In this case, salivating is the _______ response in a _______ed reflex.
+@end
+@answer CONDITIONED CONDITIONED
+@tries 2
+@graphic none
+@video none
+@begin
+Candy in the mouth is an unconditioned stimulus that elicits salivation.  In this case, salivating is the _______ response in a(n) _______ reflex.
+@end
+@answer UNCONDITIONED UNCONDITIONED
+@tries 2
+@graphic none
+@video none
+@begin
+After conditioning, the word "candy" will _______ the response of salivating.
+@end
+@answer ELICIT
+@tries 2
+@graphic none
+@video none
+@begin
+Conditioned stimuli presented repeatedly, but not paired with unconditioned stimuli, cease to elicit the response.  If the word "candy" is often repeated without pairing with candy in the mouth, it (will/ceases to) _______ elicit salivation.
+@end
+@answer CEASES TO
+@tries 1
+@graphic none
+@video none
+@begin
+When the conditioned stimulus can no longer elicit the response, the conditioned reflex is said to have been extinguished.  If the word "candy" is repeatedly presented alone, the conditioned salivary reflex is _______d.
+@end
+@answer EXTINGUISHED
+@tries 2
+@graphic none
+@video none
+@begin
+A conditioned reflex is extinguished when the conditioned stimulus is repeatedly presented (without/with) _______ the unconditioned stimulus.
+@end
+@answer WITHOUT
+@tries 1
+@graphic none
+@video none
+@begin
+In extinction, the word "candy" is repeatedly presented _______ the unconditioned stimulus.
+@end
+@answer WITHOUT
+@tries 2
+@graphic none
+@video none
+@begin
+During conditioning, the word "candy" is repeatedly presented _______ the unconditioned stimulus.
+@end
+@answer WITH
+@tries 2
+@graphic none
+@video none
+@begin
+The process by which a conditioned stimulus loses its power to elicit the conditioned response is called extinction.  When the word "candy" is presented alone, the conditioned reflex undergoes _______.
+@end
+@answer EXTINCTION
+@tries 2
+@graphic none
+@video none
+@begin
+When a person's hand is touched by a hot surface or receives an electric shock, the hand is immediately withdrawn.  Since this reflex was not established by previous conditioning, it is a(n) _______ reflex.
+@end
+@answer UNCONDITIONED
+@tries 2
+@graphic none
+@video none
+@begin
+In this unconditioned hand-withdrawal reflex, heat is the _______ed   _______.
+@end
+@answer UNCONDITIONED STIMULUS
+@tries 2
+@graphic none
+@video none
+@begin
+In this unconditioned hand-withdrawal reflex, the movement of the arm is the _______   _______.
+@end
+@answer UNCONDITIONED RESPONSE
+@tries 2
+@graphic none
+@video none
+@begin
+If a bell sounds 30 seconds before a hot object touches the hand (and the procedure is repeated several times), _______g will take place.
+@end
+@answer CONDITIONING
+@tries 2
+@graphic none
+@video none
+@begin
+After conditioning, the bell will elicit movement of the arm. The conditioned stimulus is the _______.
+@end
+@answer BELL
+@tries 2
+@graphic none
+@video none
+@begin
+If the bell sounds many times without being paired with contact with a hot object, _______ will take place.
+@end
+@answer EXTINCTION
+@tries 2
+@graphic none
+@video none
+@begin
+In reflex behavior, the process by which a new stimulus comes to elicit a response is called _______.  A process by which a stimulus loses power to elicit a response is called _______.
+@end
+@answer CONDITIONING EXTINCTION
+@tries 2
+@graphic none
+@video none

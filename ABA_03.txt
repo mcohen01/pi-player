@@ -1,0 +1,350 @@
+@begin
+Overview: This set is about scientific knowledge and its origins. The following concepts will be discussed:
+
+
+This set is about knowledge and empiricism.  A science acquires knowledge by direct inspection rather than unverified information. The present instructional set is about h__w a scientist goes about the task of acquiring useful knowledge.
+@end
+@answer HOW
+@tries 2
+@graphic none
+@video none
+@begin
+Sometimes we do not understand the causes for the effects we see.  We say we do not k___w what the reasons are.
+@end
+@answer KNOW
+@tries 2
+@graphic none
+@video none
+@begin
+To "know" something is to be acquainted or familiar with it.  We "know" which key belongs to a door when we repeatedly insert it to unlock the door.  Knowing is more than something going on inside us, it is the b_____or of actively doing something.
+@end
+@answer BEHAVIOR
+@tries 2
+@graphic none
+@video none
+@begin
+To lack knowledge is to lack the _______r said to "reveal" knowledge.
+@end
+@answer BEHAVIOR
+@tries 2
+@graphic none
+@video none
+@begin
+A dictionary implies that knowledge is something inside us.  But we infer this knowledge by watching what a person actually DOES.  Knowledge is b_______, rather than a mental phenomenon, and the dictionary definitions confuse the issue.
+@end
+@answer BEHAVIOR
+@tries 2
+@graphic none
+@video none
+@begin
+When we successfully ride a bicycle, we say we ______ how to do it.
+@end
+@answer KNOW
+@tries 2
+@graphic none
+@video none
+@begin
+We learn little about riding a bicycle by simply watching.  But to actually ride a bike, we must directly experience bike-riding.  We learn best through the e_______ce of doing, not watching.
+@end
+@answer EXPERIENCE
+@tries 2
+@graphic none
+@video none
+@begin
+We experience the world by seeing, hearing, smelling, tasting, or touching it.  We call these methods of experience the s_____es.
+@end
+@answer SENSES
+@tries 2
+@graphic none
+@video none
+@begin
+To "sense" something it to come into direct contact with it, in other words, to e______e it.
+@end
+@answer EXPERIENCE
+@tries 2
+@graphic none
+@video none
+@begin
+We sense with organs.  We acquire the behavior of knowing about our world by coming into direct ______t with it.
+@end
+@answer CONTACT
+@tries 2
+@graphic none
+@video none
+@begin
+We are said to "understand" our world when we respond to it su_____fully.
+@end
+@answer SUCCESSFULLY
+@tries 2
+@graphic none
+@video none
+@begin
+But "understanding" is more than some sort of internal or mental phenomenon, it involves successful ________r.
+@end
+@answer BEHAVIOR
+@tries 2
+@graphic none
+@video none
+@begin
+We may, in one sense, "understand" how to open a window by watching someone else do it--even if we do not also actively open one at that moment.  We are potentially able to ____ the window.
+@end
+@answer OPEN
+@tries 2
+@graphic none
+@video none
+@begin
+Knowing can also be potential _______r.
+@end
+@answer BEHAVIOR
+@tries 2
+@graphic none
+@video none
+@begin
+Po_____l behavior is a kind of knowing.
+@end
+@answer POTENTIAL
+@tries 2
+@graphic none
+@video none
+@begin
+Active, overt behavior is a kind of knowing.  But knowing can also be ________l behavior, behavior we are on the verge of doing.
+@end
+@answer POTENTIAL
+@tries 2
+@graphic none
+@video none
+@begin
+To u______ how to do something is to be able to do it.
+@end
+@answer UNDERSTAND
+@tries 2
+@graphic none
+@video none
+@begin
+"Knowledge" is sometimes referred to as an entity that resides in the mind.  For example, one is said to "acquire" knowledge or to "possess" knowledge.  But what one "possesses" is _______l behavior--in other words, a high probability of doing it.
+@end
+@answer POTENTIAL
+@tries 2
+@graphic none
+@video none
+@begin
+A child learns to pull a string by direct contact with the string and the consequences of pulling it.  The child learns through direct e_______.
+@end
+@answer EXPERIENCE
+@tries 2
+@graphic none
+@video none
+@begin
+Lower animals are born with instinctual behavior.  They build nests and fly south (with/without) _______ direct experience with the consequences for doing so.
+@end
+@answer WITHOUT
+@tries 1
+@graphic none
+@video none
+@begin
+But human beings are born with very (many/few) _______ instincts.
+@end
+@answer FEW
+@tries 1
+@graphic none
+@video none
+@begin
+Instincts are acquired through the process of natural sel_____ion.
+@end
+@answer SELECTION
+@tries 2
+@graphic none
+@video none
+@begin
+But most human behaviors are not instincts.  Instead, they are acquired through e_______e rather than natural selection.
+@end
+@answer EXPERIENCE
+@tries 2
+@graphic none
+@video none
+@begin
+The philosophy called EMPIRICISM is the conviction that knowledge arises primarily from experimentation and observation rather than inheritance.  From the "empirical" point of view, knowledge comes from direct ________ce with the world of things.
+@end
+@answer EXPERIENCE
+@tries 2
+@graphic none
+@video none
+@begin
+The philosophy called ______ism is the conviction that knowledge arises primarily from experiment and observation rather than inheritance.
+@end
+@answer EMPIRICISM
+@tries 2
+@graphic none
+@video none
+@begin
+To be "empirical" is to bring oneself directly into c______t with the world.
+@end
+@answer CONTACT
+@tries 2
+@graphic none
+@video none
+@begin
+The opposite of ______l knowledge is theoretical or second- hand knowledge.
+@end
+@answer EMPIRICAL
+@tries 2
+@graphic none
+@video none
+@begin
+First-hand knowledge is acquired through (indirect/direct) ______ contact with the world.
+@end
+@answer DIRECT
+@tries 1
+@graphic none
+@video none
+@begin
+We say a theory is confirmed or refuted by the process of direct experimentation.  To directly experience the world, we arrange an ex______t.
+@end
+@answer EXPERIMENT
+@tries 2
+@graphic none
+@video none
+@begin
+The empiricist ex_______ts with the world to gain knowledge about it.  He or she does not simply ask the opinion of others.
+@end
+@answer EXPERIMENTS
+@tries 2
+@graphic none
+@video none
+@begin
+A philosopher may theorize, but a scientist _______ts.
+@end
+@answer EXPERIMENTS
+@tries 2
+@graphic none
+@video none
+@begin
+A scientist directly _________ with the world to gain effective _______r with respect to it.
+@end
+@answer EXPERIMENTS BEHAVIOR
+@tries 2
+@graphic none
+@video none
+@begin
+To be "objective" means to concentrate upon external material events and processes.  The subjective individual concentrates upon (external/internal) _______ events or processes.
+@end
+@answer INTERNAL
+@tries 1
+@graphic none
+@video none
+@begin
+Since INternal events or processes can be directly experienced only by the perceivers themselves, we call them (objective/subjective) _______ events.
+@end
+@answer SUBJECTIVE
+@tries 1
+@graphic none
+@video none
+@begin
+A (theorist/empiricist) _________ would speculate about the weather outside.  But an _______t would go look.
+@end
+@answer THEORIST EMPIRICIST
+@tries 2
+@graphic none
+@video none
+@begin
+We tend to _____eorize about events and processes we cannot see.
+@end
+@answer THEORIZE
+@tries 2
+@graphic none
+@video none
+@begin
+When we CAN directly observe events and processes, it is best to:<BR>[type a or b]
+
+a.  directly observe them
+b.  theorize about them
+
+@end
+@answer A
+@tries 1
+@graphic none
+@video none
+@begin
+The results from two observers are better than one.  (Subjective/objective) _______ observations are most reliable because another person can verify their accuracy.
+@end
+@answer OBJECTIVE
+@tries 1
+@graphic none
+@video none
+@begin
+A science acquires useful knowledge when it analyzes its data through ______ive means.
+@end
+@answer OBJECTIVE
+@tries 2
+@graphic none
+@video none
+@begin
+The philosophy called ______icism is a preference for direct and objective inspection of events and processes.
+@end
+@answer EMPIRICISM
+@tries 2
+@graphic none
+@video none
+@begin
+Empiricism is a philosophy of science that emphasizes ______ct inspection of the world rather than roundabout means.
+@end
+@answer DIRECT
+@tries 2
+@graphic none
+@video none
+@begin
+Scientists manipulate and experiment with events and processes rather than simply sit around and theorize about them.  (T or F) __
+@end
+@answer T
+@tries 1
+@graphic none
+@video none
+@begin
+Scientists prefer ______t inspection of the evidence.
+@end
+@answer DIRECT
+@tries 2
+@graphic none
+@video none
+@begin
+Scientific knowledge is em_______l rather than roundabout or theoretical.
+@end
+@answer EMPIRICAL
+@tries 2
+@graphic none
+@video none
+@begin
+An scientist ______ments with the world rather than speculates or theorizes about it.
+@end
+@answer EXPERIMENTS
+@tries 2
+@graphic none
+@video none
+@begin
+Empiricism is a philosophy which emphasizes _____t inspection of events and processes in the world.
+@end
+@answer DIRECT
+@tries 2
+@graphic none
+@video none
+@begin
+_______sm is the philosophy that insists upon factual and objective measurement.
+@end
+@answer EMPIRICISM
+@tries 2
+@graphic none
+@video none
+@begin
+The em____ist experiments and observes.
+@end
+@answer EMPIRICIST
+@tries 2
+@graphic none
+@video none
+@begin
+The empiricist ________ments with events and processes rather than simply speculating about them or dealing indirectly with them.
+@end
+@answer EXPERIMENTS
+@tries 2
+@graphic none
+@video none

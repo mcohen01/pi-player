@@ -1,0 +1,150 @@
+@begin
+Overview: This set describes the preference for simple straighforward explanations of phenomena in a science of a behavior. It employs the following concepts:
+
+
+Science places a premium upon the factual and the objective.  It pares away extra and unnecessary explanations.  It eliminates fictional causes and erroneous interpretations.  This set is about the philosophy of science called "parsimony."  It is about making our discussions and descriptions (less/more) ______ efficient.
+@end
+@answer MORE
+@tries 1
+@graphic none
+@video none
+@begin
+A "parsimonious" individual uses resources carefully.  When one has little time or resources to spare, it is appropriate to be p________s.
+@end
+@answer PARSIMONIOUS
+@tries 2
+@graphic none
+@video none
+@begin
+A _________ individual spends no more resources than are necessary to accomplish a task.
+@end
+@answer PARSIMONIOUS
+@tries 2
+@graphic none
+@video none
+@begin
+To be thrifty or economical is to be conservative.  But to be ________s is to be even more conservative--to be tightfisted and miserly.
+@end
+@answer PARSIMONIOUS
+@tries 2
+@graphic none
+@video none
+@begin
+Early humans acquired elaborate superstitions to explain the events in their world.  Gods were said to have sent the wind and pests.  Changes in humors inside the body explained illness, etc.  But from a scientific point of view, these fictional explanations were _____ssary and wasteful.
+@end
+@answer UNNECESSARY
+@tries 2
+@graphic none
+@video none
+@begin
+Science later replaced superstitious ways of explaining natural events with (more complicated/simpler) _______ explanations.
+@end
+@answer SIMPLER
+@tries 1
+@graphic none
+@video none
+@begin
+Scientists are  p________s when they look for the simplest ways possible to explain phenomena.
+@end
+@answer PARSIMONIOUS
+@tries 2
+@graphic none
+@video none
+@begin
+Parsimony in science requires that all simpler, more seemingly logical explanations be ruled out experimentally before a more complex or abstract explanation is considered.  T or F?  ___
+@end
+@answer T
+@tries 1
+@graphic none
+@video none
+@begin
+A brief anecdote:  A man who lived in a suburban dwelling area was surprised one evening to see his neighbor bow to the four winds, chant a strange melody, and dance around his front lawn beating a small drum.  After witnessing the same ritual for over a month, the man became overwhelmed with curiosity and decided to look into the matter.  "Why do you go through this same ritual each evening?" the man asked his neighbor.  "It keeps my house safe from tigers," the neighbor replied. "Good grief!" the man said.  "Don't you know there isn"t a tiger within a thousand miles of here?"  "Yeah," the neighbor smiled.  "Sure ____ks, doesn"t it?"
+@end
+@answer WORKS
+@tries 2
+@graphic none
+@video none
+@begin
+This story was presented to show that bowing, chanting strange melodies, dancing, and beating drums were not examples of p________ behavior.
+@end
+@answer PARSIMONIOUS
+@tries 2
+@graphic none
+@video none
+@begin
+The scientific community insists that no more causes or forces should be assumed than are necessary to account for the facts.  This is the scientific principle called  _______y.
+@end
+@answer PARSIMONY
+@tries 2
+@graphic none
+@video none
+@begin
+A child may be said to throw a tantrum because of an obscure "deep-seated emotional disturbance."  When we show that the child is appeased or gets concessions when he tantrums, we reveal a (simpler/more complex) _______ explanation.  Fortunately, these causes are available for inspection.
+@end
+@answer SIMPLER
+@tries 1
+@graphic none
+@video none
+@begin
+The "deep-seated emotional disturbance" explanation is not as simple and straightforward as pointing to the immediate consequences of tantruming.  Therefore, such an explanation violates the basic scientific principle of ________.
+@end
+@answer PARSIMONY
+@tries 2
+@graphic none
+@video none
+@begin
+William of Ockham was a scholar in the 13th century.  He argued "non sunt multiplicanda entia praeter necessitatem" (i.e., that entities are not to be multiplied beyond necessity).  This was one of the first clear statements of the law of ________.
+@end
+@answer PARSIMONY
+@tries 2
+@graphic none
+@video none
+@begin
+William of Ockham (also spelled Occam), mentioned the principle so frequently and employed it so sharply in his writing that it came to be called "Ockham"s (hammer/razor)  _______."
+@end
+@answer RAZOR
+@tries 1
+@graphic none
+@video none
+@begin
+Ockham used his "razor" to (create/dispense with) _______ conjured up explanations, or references to activity in the mind, for example.
+@end
+@answer DISPENSE WITH
+@tries 1
+@graphic none
+@video none
+@begin
+Criminal behavior is often attributed to an inherently  "demented mind."  When events in the person"s past, instead, can be shown to adequately explain the criminal behavior, reference to a ____d is both unnecessary and violates the ____w of _______.      [xxxxx xxxxx xxxxx]
+@end
+@answer MIND LAW PARSIMONY
+@tries 2
+@graphic none
+@video none
+@begin
+Behavior analysis points to causes in the e_______t rather than inside the person's _____d.
+@end
+@answer ENVIRONMENT MIND
+@tries 2
+@graphic none
+@video none
+@begin
+Behavior analysis (confirms/questions) ______ the parsimony of all explanations that use mental activity as causes for behavior.
+@end
+@answer QUESTIONS
+@tries 1
+@graphic none
+@video none
+@begin
+When the _____es of behavior can be found in the environment, reference to processes in a mind are _______ary.
+@end
+@answer CAUSES UNNECESSARY
+@tries 2
+@graphic none
+@video none
+@begin
+B_______ a_______ is a discipline that adheres to the principle of ________ because it searches for the simplest and most economical explanations of behavior.
+@end
+@answer BEHAVIOR ANALYSIS PARSIMONY
+@tries 2
+@graphic none
+@video none

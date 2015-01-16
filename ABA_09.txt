@@ -1,0 +1,213 @@
+@begin
+Overview: The following frames continue to discuss the notion of the conditioned reflex and include the concepts of the unconditioned and conditioned response. They require that you use the Exhibit for Set 9.
+
+
+READ THE EXHIBIT NINE FIRST.  The room in (B) is designed to (increase/reduce) _______ uncontrolled factors that might affect the experimental result.
+@end
+@answer REDUCE
+@tries 1
+@graphic none
+@video none
+@begin
+(C) is used to obtain a measurement of the (magnitude/intensity) _______ of the response.
+@end
+@answer MAGNITUDE
+@tries 1
+@graphic none
+@video none
+@begin
+In (D), the term neutral stimulus means a tone that has (no/an) _______ effect on salivation before conditioning.
+@end
+@answer NO
+@tries 1
+@graphic none
+@video none
+@begin
+Since the tone has no effect on salivation before conditioning, it is a(n) _______ stimulus.
+@end
+@answer NEUTRAL
+@tries 2
+@graphic none
+@video none
+@begin
+(E), the food powder is an unconditioned stimulus in the sense that conditioning (is/is not) _______ necessary to make it an eliciting stimulus.
+@end
+@answer IS NOT
+@tries 1
+@graphic none
+@video none
+@begin
+In (E), salivation elicited by food powder is an unconditioned response because food powder elicits salivation even though no _______ has taken place.
+@end
+@answer CONDITIONING
+@tries 2
+@graphic none
+@video none
+@begin
+In (F), the unconditioned reflex has _______ [spell it out] components; an unconditioned _______s and an unconditioned _______.
+@end
+@answer TWO STIMULUS RESPONSE
+@tries 2
+@graphic none
+@video none
+@begin
+When a response is elicited by a stimulus without previous conditioning, the sequence as a unit is called a(n) _______  _______.
+@end
+@answer UNCONDITIONED REFLEX
+@tries 2
+@graphic none
+@video none
+@begin
+In the process, stimuli occur together.  If, instead of the procedure described in (G), the tone had followed the food, the conditions required for _______g would not have been present.
+@end
+@answer CONDITIONING
+@tries 2
+@graphic none
+@video none
+@begin
+According to (G), conditioning will occur only if the two stimuli occur _______r in time.
+@end
+@answer TOGETHER
+@tries 2
+@graphic none
+@video none
+@begin
+As described in (G), the procedure for conditioning a reflex is to pair an initially _______ stimulus with a(n) _______ stimulus repeatedly.
+@end
+@answer NEUTRAL UNCONDITIONED
+@tries 2
+@graphic none
+@video none
+@begin
+In (G), little or no conditioning would have occurred if the tone had preceded the food by more than a few seconds.  The INTERVAL between the stimulus-to-be-conditioned and the unconditioned stimulus must be rather (short/long) _______.
+@end
+@answer SHORT
+@tries 1
+@graphic none
+@video none
+@begin
+An important aspect of the conditioning procedure is the length of the  _______l between presentation of the initially neutral stimulus and of the unconditioned stimulus.
+@end
+@answer INTERVAL
+@tries 2
+@graphic none
+@video none
+@begin
+The presence of a conditioned reflex is occasionally tested in (I).  It is essential that the unconditioned stimulus, food, (is/is not) _______ presented on these test trials.
+@end
+@answer IS NOT
+@tries 1
+@graphic none
+@video none
+@begin
+In (J), conditioning is said to have taken place because a previously neutral stimulus is now capable of e______g salivation.
+@end
+@answer ELICITING
+@tries 2
+@graphic none
+@video none
+@begin
+A previously neutral stimulus acquires the power to elicit a response in the process called _______.
+@end
+@answer CONDITIONING
+@tries 2
+@graphic none
+@video none
+@begin
+In (K), the tone is called a conditioned stimulus because it elicits the response only after some _______ has taken place.
+@end
+@answer CONDITIONING
+@tries 2
+@graphic none
+@video none
+@begin
+Before conditioning, the tone was a(n)  _______ stimulus; after conditioning, the tone has become a(n) _______ stimulus.
+@end
+@answer NEUTRAL CONDITIONED
+@tries 2
+@graphic none
+@video none
+@begin
+A tone elicits salivation as a(n) _______ response.
+@end
+@answer CONDITIONED
+@tries 2
+@graphic none
+@video none
+@begin
+The conditioned response, salivation, is elicited by the conditioned stimulus, a tone.  The tone and the salivation elicited comprise a unit called a(n) _______ salivary _______.
+@end
+@answer CONDITIONED REFLEX
+@tries 2
+@graphic none
+@video none
+@begin
+In (L), the conditioned stimulus is frequently presented (with/without) _______ the unconditioned stimulus.
+@end
+@answer WITHOUT
+@tries 1
+@graphic none
+@video none
+@begin
+During conditioning, a conditioned stimulus (is paired/is not paired) _______ with an _______ed stimulus.
+@end
+@answer IS PAIRED UNCONDITIONED
+@tries 2
+@graphic none
+@video none
+@begin
+In (L), the conditioned reflex has been extinguished in the sense that the stimulus has frequently been presented without being _______ with the unconditioned stimulus, and has, therefore, lost its ability to elicit the response.
+@end
+@answer PAIRED
+@tries 2
+@graphic none
+@video none
+@begin
+In the extinction process, the _______  _______ is presented alone.
+@end
+@answer CONDITIONED STIMULUS
+@tries 2
+@graphic none
+@video none
+@begin
+A new neutral stimulus is able to elicit a response after c_______ has taken place.  It ceases to do so after _______ has taken place.
+@end
+@answer CONDITIONING EXTINCTION
+@tries 2
+@graphic none
+@video none
+@begin
+In Pavlov"s famous experiments on conditioning, _______n was the unconditioned response.
+@end
+@answer SALIVATION
+@tries 2
+@graphic none
+@video none
+@begin
+The process of conditioning was discovered by _______.
+@end
+@answer PAVLOV
+@tries 2
+@graphic none
+@video none
+@begin
+A stimulus able to elicit a response without previous conditioning is called a(n) _______ _______; a stimulus able to elicit a response only after conditioning is called a(n) _______ _______.
+@end
+@answer UNCONDITIONED STIMULUS CONDITIONED STIMULUS
+@tries 2
+@graphic none
+@video none
+@begin
+A response elicited by a conditioned stimulus is a(n) _______  _______; a response elicited by an unconditioned stimulus is a(n) _______  _______.
+@end
+@answer CONDITIONED RESPONSE UNCONDITIONED RESPONSE
+@tries 2
+@graphic none
+@video none
+@begin
+To condition a reflex, a neutral stimulus is _______ with a(n) _______  _______.
+@end
+@answer PAIRED UNCONDITIONED STIMULUS
+@tries 2
+@graphic none
+@video none
