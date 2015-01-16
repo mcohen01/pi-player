@@ -27,25 +27,24 @@
 		<body onLoad="document.phpMenu.Student.focus();">
 
 		<center>
-            <h2>
-
-Test Menu</h2>
+            <h2>The ABA Sets Tutorial Main Menu</h2>
         </center>
 
-		<P>
-                  </P>
+    <P>
+            These 11 tutorials, called the ABASETS, build fundamental knowledge about the science of behavior, its philosophy, assumptions, and methods for discovery of the functional relations between behavior and the variables that control it. Each tutorial requires approximately 15-30 minutes to complete. 
+        </P>
 
-		<P>
-This test will take a good part of an hour to complete.  Read an item carefully and respond with the answer that quickly comes to you.  Do not struggle very long with any item.  All you do
+    <P>
+            This series of tutorial parts is to be done sequentially.  All you do
             is read the content of a frame and type in the missing words, then tap the ENTER key.
-            When help letters appear connected to a blank, type the entire word AND these help letters.  Do not add extra spaces either before or after your answers when they are single words. However you must leave one space between each of multiple word answers. You can watch your progress by noting
-            the data in the upper left hand corner of each progressive frame.
-        The test creator wants you to avoid synonyms and try the best you can to use the words that the tests use, if you have experienced the ABASET tutorials already. </P>
+        </P>
 
         <P>
+            If your score falls below 50%, you will be returned to the beginning of the tutorial.
+        </P>
 
         <P>
-            Follow the <strong>3 Steps</strong> below to experience tests.
+            Follow the <strong>3 Steps</strong> below to experience tutorials.
         </P>
 
         <HR>
