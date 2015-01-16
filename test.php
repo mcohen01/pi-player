@@ -323,7 +323,7 @@ This test will take a good part of an hour to complete.  Read an item carefully 
 <span id="percentCorrect"></span><p>
 <span id="frame"></span><p>
 <span id="graphic"></span><p>
-<span id="video"></span><p>
+<center><span id="video"></span></center><p>
 <form method="post" name="frm" onSubmit="return false;">
 	<div id="finish"></div>
 	<span id="userAnswer" style="visibility:hidden;">
