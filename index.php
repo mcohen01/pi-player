@@ -3,7 +3,7 @@
 	$test = $_REQUEST['testSelection'];
 	$mainMenuAddress = $_REQUEST['MainMenuAddress'];
 	$percentStartOver = isset($_REQUEST['PercentStartOver']) ? $_REQUEST['PercentStartOver'] : 10;
-	$scriptname = 'index.php';
+	$scriptname = basename(__FILE__, '');
 	$testDirectory = '';
 	$outfileDirectory = '';
 	session_start();
