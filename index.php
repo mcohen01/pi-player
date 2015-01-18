@@ -1,15 +1,24 @@
 <?php
+	// Editable options
+	$tutorialTitle = 'The ABA Sets Tutorial';
+	$menuIntroText = '<p>These 11 tutorials, called the ABASETS, build fundamental knowledge about the science of behavior, its philosophy, assumptions, and methods for discovery of the functional relations between behavior and the variables that control it. Each tutorial requires approximately 15-30 minutes to complete.</p><p>This series of tutorial parts is to be done sequentially. All you do is read the content of a frame and type in the missing words, then tap the ENTER key.</p>';
+	$frameFilePattern = '/^ABA.*txt$/'; // regex used to match frame files that will be shown in the menu
+	$frameDirectory = ''; // the directory that will be searched for files matching the $frameFilePattern above
+	$outfileDirectory = ''; // directory where output files will be written (relative to where this script file is located on the filesystem)
+	$percentStartOver = 50; // students are forced to start over if their score drops below this number after the 5th frame
+	$isTest = false; // change this to true to only give one try and not show correct answer
+
+
+	// Do not edit below this line unless you know what you're doing
+
 	$student = $_REQUEST['Student'];
-	$test = $_REQUEST['testSelection'];
-	$mainMenuAddress = $_REQUEST['MainMenuAddress'];
-	$percentStartOver = isset($_REQUEST['PercentStartOver']) ? $_REQUEST['PercentStartOver'] : 10;
+	$tutorial = $_REQUEST['frameSelection'];
+	$percentStartOver = isset($_REQUEST['PercentStartOver']) ? $_REQUEST['PercentStartOver'] : $percentStartOver;
 	$scriptname = basename(__FILE__, '');
-	$testDirectory = '';
-	$outfileDirectory = '';
 	session_start();
 
 	if ($_SERVER['REQUEST_METHOD'] == 'GET' && $_REQUEST['finalScore']) {
-		$tut = str_replace('.txt', '', $testDirectory.$_REQUEST['test'].'_FINAL_SCORE.out');
+		$tut = str_replace('.txt', '', $frameDirectory.$_REQUEST['test'].'_FINAL_SCORE.out');
 		$f = fopen($tut, 'a');
 		$stringData = $_REQUEST['student'].','.$_REQUEST['test'].','.$_REQUEST['finalScore'].','.$_REQUEST['numberOfQuestions'].','.$_REQUEST['numberOfAttempts'].','.$_REQUEST['answeredCorrectly'];
 		fwrite($f, $stringData."\n");
@@ -17,66 +26,51 @@
 		exit();
 	}
 
-
-	if ($_SERVER['REQUEST_METHOD'] == 'GET' && ! $_REQUEST['testSelection'] && ! $_REQUEST['correctAnswer']) {
-		?>
+	if ($_SERVER['REQUEST_METHOD'] == 'GET' && ! $_REQUEST['frameSelection'] && ! $_REQUEST['correctAnswer']) {
+?>
 		<html>
 		<head>
-		<title>ABASET Pretest/posttest</title>
+			<title><?php echo $tutorialTitle; ?></title>
 		</head>
 		<body onLoad="document.phpMenu.Student.focus();">
 
 		<center>
-            <h2>The ABA Sets Tutorial Main Menu</h2>
+            <h2><?php echo $tutorialTitle; ?> Main Menu</h2>
         </center>
 
-    <P>
-            These 11 tutorials, called the ABASETS, build fundamental knowledge about the science of behavior, its philosophy, assumptions, and methods for discovery of the functional relations between behavior and the variables that control it. Each tutorial requires approximately 15-30 minutes to complete. 
-        </P>
+		<?php echo $menuIntroText; ?>
 
-    <P>
-            This series of tutorial parts is to be done sequentially.  All you do
-            is read the content of a frame and type in the missing words, then tap the ENTER key.
-        </P>
+		<p>If your score falls below <?php echo $percentStartOver ?>%, you will be returned to the beginning of the <?php echo ($isTest ? 'test' : 'tutorial'); ?>.</p>
 
-        <P>
-            If your score falls below 50%, you will be returned to the beginning of the tutorial.
-        </P>
+		<p>Follow the <strong>3 Steps</strong> below to experience <?php echo ($isTest ? 'test' : 'tutorials'); ?>.</p>
 
-        <P>
-            Follow the <strong>3 Steps</strong> below to experience tutorials.
-        </P>
-
-        <HR>
+		<hr>
 
 		<script>
+			function check() {
+				if (document.getElementById('Student').value === '') {
+					alert('Please fill in your name.');
+					return false;
+				}
+				var frm = document.forms[0];
 
-		function check() {
-			if (document.getElementById('Student').value == '') {
-				alert('Please fill in your name.');
-				return false;
-			}
-			var checked = false;
-			var frm = document.forms[0];
-
-			var isChecked = false;
-			for (var i = 0; i < frm.elements.length; i++ ) {
-				if (frm.elements[i].type == 'radio' && frm.elements[i].name == 'testSelection') {
-					if (frm.elements[i].checked) {
-						isChecked = true;
+				var isChecked = false;
+				for (var i = 0; i < frm.elements.length; i++ ) {
+					if (frm.elements[i].type == 'radio' && frm.elements[i].name === 'frameSelection') {
+						if (frm.elements[i].checked) {
+							isChecked = true;
+						}
 					}
 				}
+				if (! isChecked) {
+					alert('Please select a test.');
+					return false;
+				}
 			}
-			if (! isChecked) {
-				alert('Please select a test.');
-				return false;
-			}
-		}
 		</script>
 
 		<form name="phpMenu" method="post" onsubmit="return check();">
-		<input type="hidden" name="MainMenuAddress" value="menu.php">
-		<input type="hidden" name="PercentStartOver" value="10">
+		<input type="hidden" name="PercentStartOver" value="<?php echo $percentStartOver; ?>">
 		<input type="hidden" name="QuestionNumber" value="1">
 
 		<strong>Step 1 - Type your full name (e.g. Mary Smith):</strong><br>
@@ -89,22 +83,23 @@
 			  $dir_handle = @opendir($path);
 			  $dirFiles = array();
 			  while ($file = readdir($dir_handle)) {
-			     if($file != "." && $file !=".." && substr_count($file,'.txt') == 1 && substr_count($file,'.txt.out') == 0) {
-			     	$displayFile = str_replace('.txt', '', $file);
-			     	array_push($dirFiles, $displayFile);
-			     }
+				  if (preg_match($frameFilePattern, $file)) {
+					  $displayFile = str_replace('.txt', '', $file);
+					  $displayFile = str_replace('_', ' ', $displayFile);
+					  array_push($dirFiles, $displayFile);
+				  }
 			  }
 			  closedir($dir_handle);
               asort($dirFiles);
 
               foreach($dirFiles as $theFile) {
                 $fileVal = $theFile.".txt";
-                echo "<input type='radio' name='testSelection' value='$fileVal'>$theFile<br/>";
+                echo "<input type='radio' name='frameSelection' value='$fileVal'>$theFile<br/>";
               }
 		 ?>
 		<p>  <strong>Step 3 - Click Begin test: </strong><br>
 		  <input type="submit" value="Begin test">
-		<HR>
+		<hr>
 		<p>
 
 		</body>
@@ -154,7 +149,8 @@
 				return $endOfFrame ? null : $frame;
 			}
 
-			$f = fopen($testDirectory.$test, 'r');
+			$decoded = str_replace(' ', '_', urldecode($tutorial));
+			$f = fopen($frameDirectory.$decoded, 'r');
 			while (!feof($f)) {
 				$line = fgets($f);
 				$frame = readtestLine($line, $frame);
@@ -169,14 +165,19 @@
 <html>
 <head>
 	<title></title>
-	<script src="http://webscan.googlecode.com/svn-history/r80/trunk/ui/js/third-party/json2.min.js"></script>
+	<script id="json_script" type="text/JavaScript"></script>
+  <script>
+    if (! JSON) {
+      var url = 'https://cdnjs.cloudflare.com/ajax/libs/json2/20140204/json2.min.js';
+      document.getElementById('json_script').src = url;
+    }
+  </script>
 	<script>
 		var scriptname = '<?php echo $scriptname; ?>';
 		var student = '<?php echo $student; ?>';
-		var test = '<?php echo $test; ?>';
-		var menu = '<?php echo $mainMenuAddress; ?>';
+		var test = '<?php echo $tutorial; ?>';
 		var percentStartOver = <?php echo $percentStartOver; ?>;
-		var postParams = '<?php echo 'key='.$_SESSION['key'].'&testSelection='.$test; ?>';
+		var postParams = '<?php echo 'key='.$_SESSION['key'].'&frameSelection='.$tutorial; ?>';
 
 		var testFrames = '';
 		var currentFrame = 0;
@@ -199,12 +200,7 @@
                     } catch(e) {}
                 }
             }
-
-            if (!xmlhttp) {
-                alert('Get a new browser!');
-            } else {
-                return xmlhttp;
-            }
+			return xmlhttp;
         }
 
 		function saveAnswer() {
