@@ -1,0 +1,12 @@
+{
+  "name": "pi-player",
+  "version": "0.0.1",
+  "devDependencies": {
+    "mocha": "1.21.3",
+    "nightmare": "1.6.5",
+    "chai": "1.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  }
+}
