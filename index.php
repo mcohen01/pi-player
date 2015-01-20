@@ -11,14 +11,14 @@
 	// the directory that will be searched for files, relative to wherever this file is located on the filesystem
 	// e.g. 'tutorials/aba/oneToTen/', which would look 3 folders under the current, or
 	// e.g. '../../tutorials/aba/' which would look two directories above the current and then under /tutorials/aba/
-	$frameDirectory = '';
+	$frameDirectory = './';
 
 	// regex used to match frame files that will be shown in the menu
 	$frameFilePattern = '/^ABA.*txt$/';
 
 	// directory where output files will be written, same rules as for the $frameDirectory, i.e. above or below the current dir
 	// must end with a slash
-	$outfileDirectory = '';
+	$outfileDirectory = './';
 
 	// suffix appended to the name of the tutorial which will be used to generate the file for final scores
 	$finalScoresFileSuffix = '_FINAL_SCORE.out';
@@ -109,8 +109,7 @@
 		<strong>Step 2 - Select the <?php echo ($isTest ? 'test' : 'tutorial'); ?> by clicking on the button next to it below):<br>
 		</strong><br>
 		  <?php
-			  $path = str_replace($scriptname,'',$_SERVER['SCRIPT_FILENAME']);
-			  $dir_handle = @opendir($path);
+			  $dir_handle = @opendir($frameDirectory);
 			  $dirFiles = array();
 			  while ($file = readdir($dir_handle)) {
 				  if (preg_match($frameFilePattern, $file)) {
