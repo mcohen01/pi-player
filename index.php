@@ -14,7 +14,7 @@
 	$frameDirectory = './';
 
 	// regex used to match frame files that will be shown in the menu
-	$frameFilePattern = '/^ABA.*txt$/';
+	$frameFilePattern = '/txt$/';
 
 	// directory where output files will be written, same rules as for the $frameDirectory, i.e. above or below the current dir
 	// must end with a slash
