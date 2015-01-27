@@ -5,6 +5,8 @@ Overview: What is a science of behavior and behavior analysis?
 Scientific activity discovers how the universe works.  Human b______r is part of the universe to which s_____fic methods can be applied.   [Enter your answer like this   xxxxx xxxxx  and include all help letters]
 @end
 @answer BEHAVIOR SCIENTIFIC
+@answer yo homey
+@answer foo bar
 @tries 2
 @graphic none
 @video clickertraining.mp4

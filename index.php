@@ -11,13 +11,14 @@
 	// the directory that will be searched for files, relative to wherever this file is located on the filesystem
 	// e.g. 'tutorials/aba/oneToTen/', which would look 3 folders under the current, or
 	// e.g. '../../tutorials/aba/' which would look two directories above the current and then under /tutorials/aba/
+	// **** MUST START WITH ./ AND MUST END WITH /
 	$frameDirectory = './';
 
 	// regex used to match frame files that will be shown in the menu
 	$frameFilePattern = '/txt$/';
 
 	// directory where output files will be written, same rules as for the $frameDirectory, i.e. above or below the current dir
-	// must end with a slash
+	// **** MUST START WITH ./ AND MUST END WITH /
 	$outfileDirectory = './';
 
 	// suffix appended to the name of the tutorial which will be used to generate the file for final scores
@@ -164,7 +165,13 @@
 				if (! is_array($frame)) $frame = array();
 				if (strpos(trim($line), '@begin') === 0) $isFrame = 1;
 				if (strpos(trim($line), '@end') === 0) $isFrame = 0;
-				if (strpos(trim($line), '@answer') === 0) $frame['answer'] = str_replace("'", "&rsquo;", trim(substr(trim($line), 7)));
+				if (strpos(trim($line), '@answer') === 0) {
+					$thisAnswer = str_replace("'", "&rsquo;", trim(substr(trim($line), 7)));
+					if (! $frame['answer']) {
+						$frame['answer'] = array();
+					}
+					array_push($frame['answer'], ($thisAnswer));
+				}
 				if (strpos(trim($line), '@tries') === 0) $frame['tries'] = trim(substr(trim($line), 6));
 				if (strpos(trim($line), '@graphic') === 0) $frame['graphic'] = str_replace("'", "&rsquo;",trim(substr(trim($line), 8)));
 				if (strpos(trim($line), '@video') === 0) {
@@ -234,12 +241,11 @@
 			return xmlhttp;
         }
 
-		function saveAnswer() {
-			var feed = 'CORRECT';
-			if (tutorialFrames[currentFrame]['answer'].toUpperCase() != trim(document.frm.userAnswer.value.toUpperCase())) feed = 'IN' + feed;
+		function saveAnswer(correctAnswer, userAnswer, isCorrect) {
+			var feed = isCorrect ? 'CORRECT' : 'INCORRECT';
 			var xmlhttp = xhr();
-            xmlhttp.open("GET", scriptname + '?userAnswer=' + trim(document.frm.userAnswer.value) + '&student=' + student + '&tutorial=' + tutorial + '&currentTry=' +
-							currentTry + '&currentFrame=' + eval(currentFrame + 1) + '&correctAnswer=' + tutorialFrames[currentFrame]['answer'] + '&feedback=' +
+            xmlhttp.open("GET", scriptname + '?userAnswer=' + userAnswer + '&student=' + student + '&tutorial=' + tutorial + '&currentTry=' +
+							currentTry + '&currentFrame=' + eval(currentFrame + 1) + '&correctAnswer=' + correctAnswer + '&feedback=' +
 							feed + '&percent=' + getScore() + '&numberOfQuestions=' + tutorialFrames.length + '&numberOfAttempts=' + eval(currentFrame + 1) + '&answeredCorrectly=' + numberCorrect, true);
 			xmlhttp.send(null);
 		}
@@ -276,7 +282,7 @@
 			if (is_correct) {
 				return '<br>Your answer <font color="blue">' + document.frm.userAnswer.value + '</font> is <font color="green">CORRECT</font>. <br>Press Enter or Click to Continue.';
 			} else if (show_correct) {
-				return '<br>Your answer <font color="blue">' + document.frm.userAnswer.value + '</font> is <font color="red">INCORRECT</font>.<br>The correct answer is <font color="green">' + tutorialFrames[currentFrame]['answer'] + '</font>';
+				return '<br>Your answer <font color="blue">' + document.frm.userAnswer.value + '</font> is <font color="red">INCORRECT</font>.<br>The correct answer is <font color="green">' + tutorialFrames[currentFrame]['answer'][0] + '</font>';
 			} else {
 				return '<br>Your answer <font color="blue">' + document.frm.userAnswer.value + '</font> is <font color="red">INCORRECT</font>. Please try again.';
 			}
@@ -305,8 +311,19 @@
 		}
 
 		function evaluateResponse(response) {
-			saveAnswer();
-			if (tutorialFrames[currentFrame]['answer'].toUpperCase() == trim(response.toUpperCase())) {
+			var answers = tutorialFrames[currentFrame]['answer'];
+			var isCorrect = false;
+			for (var i = 0; i < answers.length; i++) {
+				if (answers[i].toUpperCase() === trim(response.toUpperCase())) {
+					isCorrect = true;
+					saveAnswer(answers[i].toUpperCase(), response.toUpperCase(), true);
+					break;
+				}
+			}
+			if (! isCorrect) {
+				saveAnswer(answers[0].toUpperCase(), response.toUpperCase(), false);
+			}
+			if (isCorrect) {
 				repaint('visible', 'visible', 'hidden', 'continueButton', evaluation_response(true));
 				numberCorrect++;
 			}
