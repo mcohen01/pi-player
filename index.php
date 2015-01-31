@@ -6,7 +6,15 @@
 	$tutorialTitle = 'The ABA Sets Tutorial';
 
 	// this is the Introductory text displayed on the Menu page. HTML tags can be included
-	$menuIntroText = '<p>These 11 tutorials, called the ABASETS, build fundamental knowledge about the science of behavior, its philosophy, assumptions, and methods for discovery of the functional relations between behavior and the variables that control it. Each tutorial requires approximately 15-30 minutes to complete.</p><p>This series of tutorial parts is to be done sequentially. All you do is read the content of a frame and type in the missing words, then tap the ENTER key.</p>';
+$menuIntroText = <<<EOT
+
+<p>These 11 tutorials, called the ABASETS, build fundamental knowledge about the science of behavior, its philosophy,
+assumptions, and methods for discovery of the functional relations between behavior and the variables that control it.
+Each tutorial requires approximately 15-30 minutes to complete.</p>
+<p>This series of tutorial parts is to be done sequentially. All you do is read the
+content of a frame and type in the missing words, then tap the ENTER key.</p>
+
+EOT;
 
 	// the directory that will be searched for files, relative to wherever this file is located on the filesystem
 	// e.g. 'tutorials/aba/oneToTen/', which would look 3 folders under the current, or
