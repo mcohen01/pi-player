@@ -5,14 +5,22 @@
 	// this is the banner headline displayed on the Menu page
 	$tutorialTitle = 'The ABA Sets Tutorial';
 
+	$backgroundColor = '#C4D9E1';
+	$cssLink = '//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.2/css/bootstrap.css';
+
 	// this is the Introductory text displayed on the Menu page. HTML tags can be included
 $menuIntroText = <<<EOT
 
-<p>These 11 tutorials, called the ABASETS, build fundamental knowledge about the science of behavior, its philosophy,
-assumptions, and methods for discovery of the functional relations between behavior and the variables that control it.
-Each tutorial requires approximately 15-30 minutes to complete.</p>
-<p>This series of tutorial parts is to be done sequentially. All you do is read the
-content of a frame and type in the missing words, then tap the ENTER key.</p>
+<p>
+	These 11 tutorials, called the ABASETS, build fundamental knowledge about the science of behavior, its philosophy,
+	assumptions, and methods for discovery of the functional relations between behavior and the variables that control it.
+	Each tutorial requires approximately 15-30 minutes to complete.
+</p>
+
+<p>
+	This series of tutorial parts is to be done sequentially. All you do is read the
+	content of a frame and type in the missing words, then tap the ENTER key.
+</p>
 
 EOT;
 
@@ -21,6 +29,7 @@ EOT;
 	// e.g. '../../tutorials/aba/' which would look two directories above the current and then under /tutorials/aba/
 	// **** MUST START WITH ./ AND MUST END WITH /
 	$frameDirectory = './';
+
 
 	// regex used to match frame files that will be shown in the menu
 	$frameFilePattern = '/txt$/';
@@ -70,6 +79,25 @@ EOT;
 		<html>
 		<head>
 			<title><?php echo $tutorialTitle; ?></title>
+			<link rel="stylesheet" href="<?php echo $cssLink; ?>">
+
+
+			<style>
+				body {
+					margin: 20px;
+					background-color: <?php echo $backgroundColor; ?>;
+					color: #333;
+				}
+				* {
+					font-family: 'Myrial Pro', Calibri, "Helvetica Neue", Arial, sans-serif;
+					font-size: 1.1em;
+				}
+				input {
+					margin: 10px;
+					border-radius: 4px;
+					border: 1px solid #aaaaaa;
+				}
+			</style>
 		</head>
 		<body onLoad="document.phpMenu.Student.focus();">
 
@@ -113,10 +141,12 @@ EOT;
 		<input type="hidden" name="QuestionNumber" value="1">
 
 		<strong>Step 1 - Type your full name (e.g. Mary Smith):</strong><br>
-		<input type="text" id="Student" name="Student" size="30">
+		<input type="text" id="Student" name="Student" size="30"/>
+		<br/><br/>
 		<p>
-		<strong>Step 2 - Select the <?php echo ($isTest ? 'test' : 'tutorial'); ?> by clicking on the button next to it below):<br>
-		</strong><br>
+		<strong>
+			Step 2 - Select the <?php echo ($isTest ? 'test' : 'tutorial'); ?> by clicking on the button next to it below):<br>
+		</strong><br/>
 		  <?php
 			  $dir_handle = @opendir($frameDirectory);
 			  $dirFiles = array();
@@ -132,11 +162,12 @@ EOT;
 
               foreach($dirFiles as $theFile) {
                 $fileVal = $theFile.".txt";
-                echo "<input type='radio' name='frameSelection' value='$fileVal'>$theFile<br/>";
+                echo "<input style='margin-left: 10px;' type='radio' name='frameSelection' value='$fileVal'>$theFile<br/>";
               }
 		 ?>
+			<br/>
 		<p>  <strong>Step 3 - Click Begin <?php echo ($isTest ? 'test' : 'tutorial'); ?>: </strong><br>
-		  <input type="submit" id="submit" value="Begin <?php echo ($isTest ? 'Test' : 'Tutorial'); ?>">
+		  <button style="margin-top: 10px;" class="btn btn-primary" id="submit">Begin <?php echo ($isTest ? 'Test' : 'Tutorial'); ?></button>
 		<hr>
 		<p>
 
@@ -213,6 +244,23 @@ EOT;
 <html>
 <head>
 	<title></title>
+	<link rel="stylesheet" href="<?php echo $cssLink; ?>">
+	<style>
+		body {
+			margin: 20px;
+			background-color: <?php echo $backgroundColor; ?>;
+			color: #333;
+		}
+		* {
+			font-family: 'Myrial Pro', Calibri, "Helvetica Neue", Arial, sans-serif;
+			font-size: 1.1em;
+		}
+		input {
+			margin: 10px;
+			border-radius: 4px;
+			border: 1px solid #aaaaaa;
+		}
+	</style>
 	<script id="json_script" type="text/JavaScript"></script>
 	<script>
 		if (! JSON) {
@@ -405,11 +453,12 @@ EOT;
 	<center><span id="evaluation"></span></center>
 	<span id="continueButton" style="visibility:hidden;">
 		<center>
-			<input name="continueButton"
-				   id="continueButtonField"
-				   type="button"
-				   onKeyPress="if (event.keyCode === 13) doContinue()"
-				   onMouseDown="doContinue()" value="Continue">
+			<button style="margin-top: 10px;" class="btn btn-primary"
+					name="continueButton"
+				    id="continueButtonField"
+				    type="button"
+				    onKeyPress="if (event.keyCode === 13) doContinue()"
+				    onMouseDown="doContinue()">Continue</button>
 		</center>
 	</span>
 </form>
