@@ -304,7 +304,7 @@ EOT;
 							currentTry + '&currentFrame=' + eval(currentFrame + 1) + '&correctAnswer=' + correctAnswer + '&feedback=' +
 							feed + '&percent=' + getScore() + '&numberOfQuestions=' + tutorialFrames.length + '&numberOfAttempts=' + eval(currentFrame + 1) + '&answeredCorrectly=' + numberCorrect, true);
 			xmlhttp.send(null);
-			mixpanel.track(tutorial, {correct: isCorrect, userAnswer: userAnswer});
+			mixpanel.track(tutorial, {correct: isCorrect, frame: currentFrame + 1, userAnswer: userAnswer});
 		}
 
 		function saveFinalScore() {
