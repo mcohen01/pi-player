@@ -142,11 +142,11 @@ EOT;
 
 		<strong>Step 1 - Type your full name (e.g. Mary Smith):</strong><br>
 		<input type="text" id="Student" name="Student" size="30"/>
-		<br/><br/>
-		<p>
+		<br/><br/><br/>
 		<strong>
 			Step 2 - Select the <?php echo ($isTest ? 'test' : 'tutorial'); ?> by clicking on the button next to it below):<br>
-		</strong><br/>
+		</strong>
+		<br/>
 		  <?php
 			  $dir_handle = @opendir($frameDirectory);
 			  $dirFiles = array();
