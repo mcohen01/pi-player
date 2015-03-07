@@ -178,7 +178,16 @@ EOT;
 	}
 
 	if ($_SERVER['REQUEST_METHOD'] == 'POST') {
-		$_SESSION['key'] = md5(uniqid(rand(), true));
+        if (isset($_GET['specialfeedback'])) {
+            $entityBody = file_get_contents('php://input');
+            $feedbackFile = $outfileDirectory.'feedback.txt';
+            $f = fopen($feedbackFile, 'a');
+            fwrite($f, $entityBody."\n");
+            fclose($f);
+            exit();
+        } else {
+            $_SESSION['key'] = md5(uniqid(rand(), true));
+        }
 	} else if ($_SERVER['REQUEST_METHOD'] == 'GET') {
 		if (isset($_GET['userAnswer'])) {
 			date_default_timezone_set('EST');
@@ -346,6 +355,42 @@ EOT;
 			}
 		}
 
+        function parseFrameText(evalutation_text) {
+            var frameText = tutorialFrames[currentFrame]['frame'];
+            var matchText = tutorialFrames[currentFrame]['frame'].match(/\{\{\{.*\}\}\}/);
+            frameText = matchText ? frameText.replace(matchText[0], '') : frameText;
+            if (matchText && currentTry == 1 && evalutation_text === '') {
+                document.getElementById('userAnswer').style.visibility = 'hidden';
+                document.getElementById('feedbackForm').style.display = 'inline';
+                document.getElementById('feedbackTextarea').focus();
+                document.getElementById('feedbackText').innerHTML = matchText[0].replace(/\{\{\{/g, '').replace(/\}\}\}/g, '');
+                var handler = function(e) {
+                    remover();
+                    var feedback = document.getElementById('feedbackTextarea').value;
+
+                    document.getElementById('feedbackTextarea').value = '';
+                    document.getElementById('feedbackForm').style.display = 'none';
+                    document.getElementById('userAnswer').style.visibility = 'visible';
+                    document.getElementById('userAnswer').focus();
+
+                    var xmlhttp = xhr();
+                    xmlhttp.open("POST", scriptname + '?specialfeedback=1', true);
+                    xmlhttp.setRequestHeader("Content-type","application/json");
+                    xmlhttp.send(JSON.stringify({
+                        feedback: feedback,
+                        student: student,
+                        tutorial: tutorial,
+                        frame: currentFrame + 1
+                    }));
+                };
+                var remover = function() {
+                    document.getElementById('feedbackButton').removeEventListener('click', handler) ;
+                }
+                document.getElementById('feedbackButton').addEventListener('click', handler) ;
+            }
+            return frameText;
+        }
+
 		function repaint(e, c, u, field, evalutation_text, autoplay) {      
 			document.getElementById('evaluation').style.visibility = e;
 			document.getElementById('continueButton').style.visibility = c;
@@ -354,7 +399,8 @@ EOT;
 			document.getElementById('frameNumber').innerHTML = 'Frame #: ' + eval(currentFrame + 1) + ' of ' + tutorialFrames.length;
 			document.getElementById('tryNumber').innerHTML = 'Try #: ' + currentTry;
 			document.getElementById('percentCorrect').innerHTML = 'Correct %: ' + getScore();
-			document.getElementById('frame').innerHTML = tutorialFrames[currentFrame]['frame'];
+            document.getElementById('frame').innerHTML = parseFrameText(evalutation_text);
+
 			if (trim(tutorialFrames[currentFrame]['graphic'].toUpperCase()) === 'none'.toUpperCase()) {
 				document.getElementById('graphic').innerHTML = '';
 			} else {
@@ -462,7 +508,13 @@ EOT;
 <center><span id="video"></span></center><p>
 <form method="post" name="frm" onSubmit="return false;">
 	<div id="finish"></div>
-	<span id="userAnswer" style="visibility:hidden;">
+	<span id="feedbackForm" style="display: none;">
+        <span id="feedbackText" style="color:rgb(208, 61, 122);"></span><br/><br/>
+        <textarea id="feedbackTextarea" name="feedbackSubmission" style="width: 400px; height:200px;"></textarea>
+        <br/>
+        <button id="feedbackButton" class="btn btn-primary">Save</button>
+    </span>
+    <span id="userAnswer" style="visibility:hidden;">
 		Type your answer here:
 		<input id="userAnswerField"
 			   name="userAnswer"
