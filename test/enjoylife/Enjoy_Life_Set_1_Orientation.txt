@@ -1,0 +1,140 @@
+@begin
+This program is interactive.  Each screen presentation will ask you to supply an answer to it.  For example, the picture below shows the planet we call _______.  [Scroll down to the bottom of the screen if necessary.]
+@end
+@answer earth
+@tries 2
+@graphic earthclouds.gif
+@video none
+@begin
+Your progress through this short set of frames of content is indicated in the upper (right/left) _______ hand corner.
+@end
+@answer left
+@tries 1
+@graphic none
+@video none
+@begin
+This program is forgiving.  Sometimes you will be given a second try.  Your second try, if correct, (counts/does not count) _______ toward your ongoing percent correct score.
+@end
+@answer counts
+@tries 1
+@graphic none
+@video none
+@begin
+This program also keeps a record and it will be used to revise the program.  Don't be too bothered when your answer may be called "incorrect."  When you supply a response the author didn't expect, it could mean he may need to re____se the program.  [Type the whole word including the help letters.]
+@end
+@answer revise
+@tries 1
+@graphic none
+@video none
+@begin
+Try to recall the exact wording used by this program and not to use synonyms.  It is unlikely that you can keep a perfect 100 percent score running in the left hand corner because it may be difficult to recall the e_______t word the tutorial wants you to type.  Just do your best.
+@end
+@answer exact
+@tries 1
+@graphic none
+@video none
+@begin
+Refrain from trying to go backwards in the program with your browser button because this will unfortunately take you back to  (a)  the beginning of the tutorial, or (b) the preceding frame of content.  [Which?  a or b?  Type only the letter below.]
+@end
+@answer a
+@tries 1
+@graphic none
+@video none
+@begin
+There is a reason why this form of instruction surpasses the behaviors of passively listening or reading.  Each screen/frame of material has been deliberately constructed to strengthen your developing memory when you (easily/struggle a little to) _______ supply an answer.
+@end
+@answer struggle a little to
+@tries 1
+@graphic none
+@video none
+@begin
+Now, on with the program.  Our feelings and "states of mind" are important to all of us, quite possibly the single m____t important aspect of living. [Always type the entire word including help letters.]
+@end
+@answer most
+@tries 2
+@graphic none
+@video none
+@begin
+This program will do more than explain what feelings and states of mind are, it will make concrete suggestions.  At certain points you will be given links to print out various helpful things like reminders, charts, and links to other places.  You are going to take (action/a vacation) _______.
+@end
+@answer action
+@tries 1
+@graphic none
+@video none
+@begin
+A "feeling" is your physiological reaction to what has happened or is currently happening to you.  You feel lonesome when you have not been around anyone for a long time.  The feeling is caused by the (presence/absence) ________ of people in your environment.
+@end
+@answer absence
+@tries 1
+@graphic none
+@video none
+@begin
+You feel "pleased" when you eat a favorite food.  The food is the cause of your f_______g.
+@end
+@answer feeling
+@tries 2
+@graphic none
+@video none
+@begin
+Now, this may possibly shock you.  Your feelings do NOT determine what you do.  They are the result of what you experience, not the cause of your actions.  Feelings are (causes/byproducts) ________ that occur within your skin.
+@end
+@answer byproducts
+@tries 1
+@graphic none
+@video none
+@begin
+You once thought that the sun comes up in the east and goes down in the west.  But you eventually learned that the earth turns and the sun stays in the same place--just the opposite of how most people talk about it.  Now you are learning that your feelings are not the causes of what you do, they are the b________ts.
+@end
+@answer byproducts
+@tries 2
+@graphic none
+@video none
+@begin
+Contrary to what you have been learning from others, how you _______ is caused by things and people in your environment not something inside your brain or "mind."
+@end
+@answer feel
+@tries 2
+@graphic none
+@video none
+@begin
+The issue of the location (inside or outside) of the causes of enjoyment or happiness is critically important for taking effective action.  We should not look inside the person for the causes of happiness, good feelings, and good states of mind.  Instead, we should search out into the en_________t.
+@end
+@answer environment
+@tries 2
+@graphic none
+@video none
+@begin
+We change how we feel by (an act of will power/changing factors in our environment) _______.
+@end
+@answer changing factors in our environment
+@tries 1
+@graphic none
+@video none
+@begin
+By the way, this program will be sequential when it is finished.  It will be composed of a series of sets of frames that should be accomplished (in a series/randomly) _______.
+@end
+@answer in a series
+@tries 1
+@graphic none
+@video none
+@begin
+Each set of frames is like a chapter that builds upon the (next/previous) ________ ones.
+@end
+@answer previous
+@tries 1
+@graphic none
+@video none
+@begin
+The sets of frames will be relatively brief so that you can complete a particular set of frames in a short sitting.  If you have the time, you may want to do the n____t set of frames if you can devote a little more time and it is available.
+@end
+@answer next
+@tries 1
+@graphic none
+@video none
+@begin
+The author, Darrel, is creating this program, set by set.  If you enjoy this automated instruction tell him so.  Copy this email address:     bostow@gmail.com    and send Darrel any helpful comments you have.  In turn, he will notify you when new sets have been created for you to pilot test.  You have become part of Darrel's environment.  Getting your supportive comments will make Darrel _______ good AND create more sets.
+@end
+@answer Feel
+@tries 1
+@graphic none
+@video none
