@@ -9,7 +9,7 @@ Pushing a ball on a flat surface will usually cause it to roll.  When we interac
 @graphic none
 @video none
 @begin
-With increasing experience, we begin to respond (consistently/erratically) _______ to our physical world.
+With increasing experience, we begin to respond (consistently/erratically) _______ to our physical world. {{{Before you answer this frame please tell us a few of your favorite pleasing activities.}}}
 @end
 @answer CONSISTENTLY
 @tries 1
