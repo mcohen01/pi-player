@@ -270,7 +270,10 @@ EOT;
       font-family: 'Myriad Pro', Calibri, "Helvetica Neue", Arial, sans-serif;
       font-size: 18px !important;
     }
-    input {
+    @media only screen and (max-width:800px) {
+      * { font-size: 100% !important; }          
+    }
+		input {
 			margin: 10px;
 			border-radius: 4px;
 			border: 1px solid #aaaaaa;
@@ -349,9 +352,9 @@ EOT;
 			if (is_correct) {
 				return '<br>Your answer <font color="blue">' + document.frm.userAnswer.value + '</font> is <font color="green">CORRECT</font>. <br>Press Enter or Click to Continue.';
 			} else if (show_correct) {
-				return '<br>Your answer <font color="blue">' + document.frm.userAnswer.value + '</font> is <font color="red">INCORRECT</font>.<br>The correct answer is <font color="green">' + tutorialFrames[currentFrame]['answer'][0] + '</font>';
+				return '<br>Your answer was <font color="blue">' + document.frm.userAnswer.value + '</font>.<br>The correct answer is <font color="green">' + tutorialFrames[currentFrame]['answer'][0] + '</font>';
 			} else {
-				return '<br>Your answer <font color="blue">' + document.frm.userAnswer.value + '</font> is <font color="red">INCORRECT</font>. Please try again.';
+				return '<br>Not yet. Your answer was <font color="blue">' + document.frm.userAnswer.value + '</font>. Please try again.';
 			}
 		}
 
@@ -429,13 +432,15 @@ EOT;
 			}
 			if (isCorrect) {
 				//repaint('visible', 'visible', 'hidden', 'continueButton', evaluation_response(true));
-				numberCorrect++;
+        numberCorrect++;
+
         $('body').css('background-color', '#3dab52');
         $('body').animate({
           'background-color': '#C4D9E1'
-        }, 1400, null, function() {
+        }, 1300, null, function() {
           $('body').css('background-color', '#C4D9E1');
         });
+				
         doContinue();
 			}
 			<?php if (! $isTest) { ?>
