@@ -71,7 +71,7 @@ EOT;
 		$decoded = str_replace('.txt', '', str_replace(' ', '_', urldecode($_REQUEST['tutorial'])));
 		$finalScoreFile = $outfileDirectory.$decoded.$finalScoresFileSuffix;
 		$f = fopen($finalScoreFile, 'a');
-		$stringData = $_REQUEST['student'].','.$_REQUEST['tutorial'].','.$_REQUEST['finalScore'].','.$_REQUEST['numberOfQuestions'].','.$_REQUEST['numberOfAttempts'].','.$_REQUEST['answeredCorrectly'];
+		$stringData = $_REQUEST['student'].','.$_REQUEST['tutorial'].','.$_REQUEST['finalScore'].','.$_REQUEST['numberOfQuestions'].','.$_REQUEST['numberOfAttempts'].','.$_REQUEST['answeredCorrectly'].','.date("D M j G:i:s Y");
 		fwrite($f, $stringData."\n");
 		fclose($f);
 		exit();
