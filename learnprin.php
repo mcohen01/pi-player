@@ -190,45 +190,55 @@ EOT;
 		<hr>
 
 		<script>
+			function validateForm(frm) {
+				if (document.getElementById('Student').value === '') {
+					alert('Please fill in your name.');
+					return false;
+				}
+				var isChecked = false;
+				for (var i = 0; i < frm.elements.length; i++ ) {
+					if (frm.elements[i].type == 'radio' && frm.elements[i].name === 'frameSelection') {
+						if (frm.elements[i].checked) {
+							isChecked = true;
+						}
+					}
+				}
+				if (! isChecked) {
+					alert('Please select a <?php echo ($isTest ? 'test' : 'tutorial'); ?>.');
+					return false;
+				}
+				return true;
+			}
+
 			$(document).ready(function() {
 				$('#tutorial-form').click(function() {
+					var frm = document.forms[0];
 					var scriptname = '<?php echo $scriptname; ?>';
 					var name = $('#Student').val();
-					var tutorial = $('input[name=frameSelection]:checked').val();
-					$.get(scriptname + '?checkProgress=1&name=' + name + '&tutorial=' + tutorial, function(data) {
-						console.log(data);
-						//return false;
-						if (data.length) {
-							var msg = '<?php echo $outOfSequenceMessage; ?>';
-							msg += '<br/><br/>';
-							for (var i = 0; i < data.length; i++) {
-								msg += data[i] + '<br/>';
-							}
-							msg += '<br/>';
-							$('#error-message').html(msg);
-							return false;
-						} else {
-							if (document.getElementById('Student').value === '') {
-								alert('Please fill in your name.');
-								return false;
-							}
-							var frm = document.forms[0];
-
-							var isChecked = false;
-							for (var i = 0; i < frm.elements.length; i++ ) {
-								if (frm.elements[i].type == 'radio' && frm.elements[i].name === 'frameSelection') {
-									if (frm.elements[i].checked) {
-										isChecked = true;
-									}
-								}
-							}
-							if (! isChecked) {
-								alert('Please select a <?php echo ($isTest ? 'test' : 'tutorial'); ?>.');
-								return false;
-							}
+					if (name.match(/^__/)) {
+						if (validateForm(frm)) {
 							frm.submit();
 						}
-					});
+					} else {
+						var tutorial = $('input[name=frameSelection]:checked').val();
+						if (validateForm(frm)) {
+							$.get(scriptname + '?checkProgress=1&name=' + name + '&tutorial=' + tutorial, function(data) {
+								console.log(data);
+								if (data.length) {
+									var msg = '<?php echo $outOfSequenceMessage; ?>';
+									msg += '<br/><br/>';
+									for (var i = 0; i < data.length; i++) {
+										msg += data[i] + '<br/>';
+									}
+									msg += '<br/>';
+									$('#error-message').html(msg);
+									return false;
+								} else {
+									frm.submit();
+								}
+							});
+						}
+					}
 				});
 			});
 		</script>
