@@ -463,6 +463,21 @@ EOT;
 			}
 		}
 
+		function submitFeedback() {
+			$.post(scriptname + '?specialfeedback=1', JSON.stringify({
+				 feedback: document.getElementById('feedbackTextarea').value,
+				 student: student,
+				 tutorial: tutorial,
+				 frame: currentFrame + 1
+			 }), function(success) {
+				document.getElementById('feedbackTextarea').value = '';
+				document.getElementById('feedbackForm').style.display = 'none';
+				document.getElementById('userAnswer').style.visibility = 'visible';
+				document.getElementById('userAnswerField').focus();
+			});
+
+		};
+
         function parseFrameText(evalutation_text) {
             var frameText = tutorialFrames[currentFrame]['frame'];
             var matchText = tutorialFrames[currentFrame]['frame'].match(/\{\{\{.*\}\}\}/);
@@ -472,44 +487,21 @@ EOT;
                 document.getElementById('feedbackForm').style.display = 'inline';
                 document.getElementById('feedbackTextarea').focus();
                 document.getElementById('feedbackText').innerHTML = matchText[0].replace(/\{\{\{/g, '').replace(/\}\}\}/g, '');
-                var handler = function(e) {
-                    remover();
-                    var feedback = document.getElementById('feedbackTextarea').value;
-
-                    document.getElementById('feedbackTextarea').value = '';
-                    document.getElementById('feedbackForm').style.display = 'none';
-                    document.getElementById('userAnswer').style.visibility = 'visible';
-                    document.getElementById('userAnswer').focus();
-
-                    var xmlhttp = xhr();
-                    xmlhttp.open("POST", scriptname + '?specialfeedback=1', true);
-                    xmlhttp.setRequestHeader("Content-type","application/json");
-                    xmlhttp.send(JSON.stringify({
-                        feedback: feedback,
-                        student: student,
-                        tutorial: tutorial,
-                        frame: currentFrame + 1
-                    }));
-                };
-                var remover = function() {
-                    document.getElementById('feedbackButton').removeEventListener('click', handler) ;
-                }
-                document.getElementById('feedbackButton').addEventListener('click', handler) ;
             }
             return frameText;
         }
 
-		function repaint(e, c, u, field, evalutation_text, autoplay) {      
-			document.getElementById('evaluation').style.visibility = e;
+		function repaint(e, c, u, field, evalutation_text, autoplay) {
+      		document.getElementById('evaluation').style.visibility = e;
 			document.getElementById('continueButton').style.visibility = c;
 			document.getElementById('userAnswer').style.visibility = u;
 			document.getElementById('evaluation').innerHTML = evalutation_text;
 			document.getElementById('frameNumber').innerHTML = 'Frame #: ' + eval(currentFrame + 1) + ' of ' + tutorialFrames.length;
 			document.getElementById('tryNumber').innerHTML = 'Try #: ' + currentTry;
 			document.getElementById('percentCorrect').innerHTML = 'Correct %: ' + getScore();
-            document.getElementById('frame').innerHTML = parseFrameText(evalutation_text);
+      		document.getElementById('frame').innerHTML = parseFrameText(evalutation_text);
 
-            if (trim(tutorialFrames[currentFrame]['graphic'].toUpperCase()) === 'none'.toUpperCase()) {
+      		if (trim(tutorialFrames[currentFrame]['graphic'].toUpperCase()) === 'none'.toUpperCase()) {
 				document.getElementById('graphic').innerHTML = '';
 			} else {
 				document.getElementById('graphic').innerHTML = '<center><img src="' + tutorialFrames[currentFrame]['graphic'] + '"/></center>';
@@ -537,27 +529,27 @@ EOT;
 			}
 			if (isCorrect) {
 				//repaint('visible', 'visible', 'hidden', 'continueButton', evaluation_response(true));
-        numberCorrect++;
+				numberCorrect++;
 
-        $('body').css('background-color', '#3dab52');
-        $('body').animate({
-          'background-color': '#C4D9E1'
-        }, 1300, null, function() {
-          $('body').css('background-color', '#C4D9E1');
-        });
-				
-        doContinue();
+				$('body').css('background-color', '#3dab52');
+				$('body').animate({
+				  'background-color': '#C4D9E1'
+				}, 1300, null, function() {
+				  $('body').css('background-color', '#C4D9E1');
+				});
+
+				doContinue();
 			}
 			<?php if (! $isTest) { ?>
-			else {
-				if (currentTry < tutorialFrames[currentFrame]['tries']) {
-					currentTry++;
-					repaint('visible', 'hidden', 'visible', 'userAnswer', evaluation_response(false));
-				} else {
-					document.frm.userAnswer.disabled = true;
+  			else {
+  				if (currentTry < tutorialFrames[currentFrame]['tries']) {
+  					currentTry++;
+  					repaint('visible', 'hidden', 'visible', 'userAnswer', evaluation_response(false));
+  				} else {
+  					document.frm.userAnswer.disabled = true;
 					repaint('visible', 'visible', 'hidden', 'continueButton', evaluation_response(false, true));
-				}
-			}
+  				}
+  			}
 			document.frm.userAnswer.value = '';
 			<?php } else echo 'document.frm.userAnswer.value = ""; doContinue();'; ?>
 
@@ -605,14 +597,15 @@ EOT;
 <span id="frame"></span><p>
 <div id="graphic"></div><p>
 <center><span id="video"></span></center><p>
+<span id="feedbackForm" style="display: none;">
+	<span id="feedbackText" style="color:rgb(208, 61, 122);"></span><br/><br/>
+	<textarea id="feedbackTextarea" name="feedbackSubmission" style="width: 400px; height:200px;"></textarea>
+	<br/>
+	<button id="feedbackButton" onclick="submitFeedback()" class="btn btn-primary">Save</button>
+</span>
 <form method="post" name="frm" onSubmit="return false;">
 	<div id="finish"></div>
-    <span id="feedbackForm" style="display: none;">
-        <span id="feedbackText" style="color:rgb(208, 61, 122);"></span><br/><br/>
-        <textarea id="feedbackTextarea" name="feedbackSubmission" style="width: 400px; height:200px;"></textarea>
-        <br/>
-        <button id="feedbackButton" class="btn btn-primary">Save</button>
-    </span>
+
 	<span id="userAnswer" style="visibility:hidden;">
 		Type your answer here:
 		<input id="userAnswerField"
