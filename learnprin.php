@@ -531,9 +531,15 @@ EOT;
 
               chart.tooltip.contentGenerator(function (obj) {
                 var spacer = '&nbsp;&nbsp;&nbsp;';
-                return '<br/>' + spacer + '<b>Frame ' + obj.data.x + spacer +
-                  '<br/>' + spacer + '&nbsp;Score: ' + obj.data.y.toFixed(2) * 100  + '%' +
-                  spacer + '<br/>&nbsp;<br/></b>'
+                try {
+                  return '<br/>' + spacer + '<b>Frame ' + obj.data.x + spacer +
+                    '<br/>' + spacer + '&nbsp;Score: ' + obj.data.y.toFixed(2) * 100  + '%' +
+                    spacer + '<br/>&nbsp;<br/></b>'
+                } catch(ex) {
+                  return '<br/>' + spacer + '<b>Frame ' + obj.point.x + spacer +
+                          '<br/>' + spacer + '&nbsp;' + obj.series[0].key + ': ' + obj.point.y.toFixed(2) +
+                          spacer + '<br/>&nbsp;<br/></b>'
+                }
               });
 
               $(selector).each(function () { $(this)[0].setAttribute('viewBox', '0 0 860 400') });
