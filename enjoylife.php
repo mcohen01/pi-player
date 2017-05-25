@@ -195,9 +195,9 @@ $student = $_REQUEST['Student'];
 					}
 				}
 				$filename = str_replace('.txt', '_FINAL_SCORE.out', $tut);
-				if (file_exists($frameDirectory.$filename)) {
+				if (file_exists($outfileDirectory.$filename)) {
 					$passedTutorial = false;
-					$f = fopen($frameDirectory.$filename, 'r');
+					$f = fopen($outfileDirectory.$filename, 'r');
 					while (!feof($f)) {
 						$line = fgets($f);
 						$parts = explode(',', $line);
