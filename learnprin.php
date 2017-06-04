@@ -142,7 +142,7 @@ EOT;
                 $frame = readtutorialLine($frames, $line, $frame);
             }
             $rval[$index]['frames'] = $frames;
-            $rval[$index]['responses'] = readLines($frameDirectory, str_replace('.txt', '.out', $tutorial));
+            $rval[$index]['responses'] = readLines($outfileDirectory, str_replace('.txt', '.out', $tutorial));
             $index += 1;
         }
 

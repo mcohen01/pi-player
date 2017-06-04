@@ -142,7 +142,7 @@ EOT;
                 $frame = readtutorialLine($frames, $line, $frame);
             }
             $rval[$index]['frames'] = $frames;
-            $rval[$index]['responses'] = readLines($frameDirectory, str_replace('.txt', '.out', $tutorial));
+            $rval[$index]['responses'] = readLines($outfileDirectory, str_replace('.txt', '.out', $tutorial));
             $index += 1;
         }
 
@@ -329,7 +329,7 @@ EOT;
               fetched = true;
               $('#loading-gif').show();
               $.ajax({
-                url: 'learnprin.php?adminStats=' + $(this).val(),
+                  url: '<? echo $scriptname; ?>?adminStats=' + $(this).val(),
                 success: function (data) {
                   $('#loading-gif').hide();
                   $('#stats').show();
