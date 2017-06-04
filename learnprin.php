@@ -107,13 +107,15 @@ EOT;
             exit();
         }
         function readLines($frameDirectory, $file) {
-            $f = fopen($frameDirectory.$file, 'r');
             $lines = array();
-            while (!feof($f)) {
-                $line = fgets($f);
-                array_push($lines, $line);
+            if (file_exists($frameDirectory.$file)) {
+                $f = fopen($frameDirectory . $file, 'r');
+                while (!feof($f)) {
+                    $line = fgets($f);
+                    array_push($lines, $line);
+                }
+                fclose($f);
             }
-            fclose($f);
             return $lines;
         }
 
