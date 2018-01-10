@@ -587,8 +587,12 @@ EOT;
             <h2><?php echo $tutorialTitle; ?> Main Menu</h2>
 
             <img src="/walquiz/waldentwocover.gif" alt="waldentwoquizcover" style="width:290px;height:155px" />
-            <p>&nbsp;<br></p>
+            <p>&nbsp
+            </p>
         </center>
+
+        <?php echo $menuIntroText; ?>
+        <br>
 
 
 
@@ -707,7 +711,7 @@ EOT;
 			<br/>
 
 
-            <?php echo $menuIntroText; ?>
+
 
             <!--<p>If your score falls below <?php /*echo $percentStartOver */?>%, you will be returned to the beginning of the <?php /*echo ($isTest ? 'quiz' : 'tutorial'); */?>.</p>-->
 
@@ -965,7 +969,13 @@ EOT;
   				}
   			}
 			document.frm.userAnswer.value = '';
-			<?php } else echo 'document.frm.userAnswer.value = ""; doContinue();'; ?>
+			<?php } else { ?>
+            else
+            {
+                document.frm.userAnswer.value = "";
+                doContinue();
+            }
+            <?php } ?>
 
 		}
 
