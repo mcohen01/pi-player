@@ -1022,7 +1022,7 @@ EOT;
 <div id="graphic"></div><p>
 <center><span id="video"></span></center><p>
 <span id="feedbackForm" style="display: none;">
-	<span id="feedbackText" style="color:rgb(208, 61, 122);"></span><br/><br/>
+	<span id="feedbackText" style="color: #E44B72;"></span><br/><br/>
 	<textarea id="feedbackTextarea" name="feedbackSubmission" style="width: 400px; height:200px;"></textarea>
 	<br/>
 	<button id="feedbackButton" onclick="submitFeedback()" class="btn btn-primary">Save</button>
