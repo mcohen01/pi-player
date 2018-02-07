@@ -49,10 +49,12 @@ $outOfSequenceMessage = $outOfSequenceMessage."Please work through the following
 // change this to true to only give one try and not show the correct answer
 $isTest = false;
 
-// from one to whatever set they choose
-// read final score file
-// check at least one line has their name in first position and score above 50 in third
-// if not prompt them to go to first unfinished tutorial
+// when students complete a tutorial, the screen shows a link to click
+// you can configure here the URL to link them back to and the link text message
+// optionally, leave the completionLink below empty to link them back to the tutorial main menu
+// if you provide your own link, make sure to include 'http' like so, http://www.google.com for example
+$completionLink = "";
+$completionLinkMessage = "Click here to go back to the Main Menu";
 
 ///////////////////////////////////////////////////////////////////////////////  END Editable options
 
@@ -68,6 +70,9 @@ $student = $_REQUEST['Student'];
 $tutorial = $_REQUEST['frameSelection'];
 $percentStartOver = isset($_REQUEST['PercentStartOver']) ? $_REQUEST['PercentStartOver'] : $percentStartOver;
 $scriptname = basename(__FILE__, '');
+if ($completionLink == "") {
+  $completionLink = "http://www.scienceofbehavior.com/".$scriptname;
+}
 session_start();
 
 function readtutorialLine(&$frames, $line, &$frame) {
@@ -789,6 +794,8 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         var scriptname = '<?php echo $scriptname; ?>';
         var student = '<?php echo $student; ?>';
         var tutorial = '<?php echo $tutorial; ?>';
+        var completionLink = '<?php echo $completionLink; ?>';
+        var completionLinkMessage = '<?php echo $completionLinkMessage; ?>';
         var percentStartOver = <?php echo $percentStartOver; ?>;
         var postParams = '<?php echo 'key='.$_SESSION['key'].'&frameSelection='.$tutorial; ?>';
 
@@ -962,7 +969,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
                 conclusion +=  '<tr><td width="80%">Number of frames you attempted</td><td width="20%">' + currentFrame + '</td></tr><tr>';
                 conclusion += '<td width="80%">Number of attempted frames you answered correctly</td><td width="20%">' + numberCorrect;
                 conclusion += '</td></tr><tr><td width="80%">Percent correct score of attempted frames</td><td width="20%">' + getScore();
-                conclusion += '%</td></tr></table></center></div><br><center><strong><a href="' + scriptname + '">Click here to return to the Main Menu</a></strong></center><br>';
+                conclusion += '%</td></tr></table></center></div><br><center><strong><a href="' + completionLink + '">' + completionLinkMessage + '</a></strong></center><br>';
                 if (currentFrame != tutorialFrames.length) conclusion = '<p align="center">Your score fell below ' + percentStartOver + '%. Hit refresh in your browser to start over.</p>';
                 for(var i = 0; i < 8; ++i) {
                     document.getElementById(['frame', 'graphic', 'percentCorrect', 'frameNumber', 'tryNumber', 'userAnswer', 'evaluation', 'continueButton'][i]).innerHTML = '';

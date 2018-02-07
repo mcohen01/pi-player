@@ -1,0 +1,71 @@
+@begin
+OK, we are interacting with you......  Please answer this:  Being happy and productive is (unimportant/important) _______ to me.  (Which? and type the word below as your answer.) 
+@end
+@answer important
+@tries 1
+@graphic alfredtrump.jpg
+@video none
+@begin
+Did you notice the green flash? It indicated that we expected you to answer "important."  (true or false)
+@end
+@answer true
+@tries 1
+@graphic none
+@video none
+@begin
+You can see your progress up at the (right/left) ________ corner of your screen.  (type your answer below)
+@end
+@answer left
+@tries 1
+@graphic none
+@video none
+@begin
+OK, you are experiencing truly (passive/interactive) _________ interactive instruction.
+@end
+@answer interactive
+@tries 1
+@graphic none
+@video none
+@begin
+This website teaches about the science of behavior and uses that very _____ with respect to how it teaches. (include all the help letters in your answer).
+@end
+@answer science
+@tries 2
+@graphic Word_ScienceAtomRevolving_Med.gif
+@video none
+@begin
+A "frame" here refers to a screen presentation like the one you are now looking at.  How many total frames are there in this brief tutorial?  
+@end
+@answer 10
+@answer ten
+@tries 2
+@graphic none
+@video none
+@begin
+Programmed instruction employes immediate indicators of success such as green flashes (called "reinforcers" in the science of behavior).  Our tutorials here at this website will TEACH you how to more effectively use such re______ers to change your behavior and the behavior of others.
+@end
+@answer reinforcers
+@tries 2
+@graphic successahead.jpg
+@video none
+@begin
+In future tutorials you will experience graphics and videos in some frames.  They will contribute directly to your ability to supply the desired an______rs to the frames as your understanding develops. (type the help letters too)
+@end
+@answer answers
+@tries 2
+@graphic none
+@video none
+@begin
+You have reached the end of a brief demonstration tutorial that employs what is called "programmed instruction."  Scientific research has revealed that this method of instruction is (less/more) _____ likely to prompt you to take successful action in your personal life.  
+@end
+@answer more
+@tries 1
+@graphic none
+@video none
+@begin
+A series (or "set") of frames builds and strengthens your understanding while using _______n flashes on your screen give you immediate confirmation that you are understanding.  This method is (different from/similar to) _______ how we memorize a poem, or rehearse understanding and skills before we take practical action.  (two answers)
+@end
+@answer green similar to
+@tries 2
+@graphic none
+@video none

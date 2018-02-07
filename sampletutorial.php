@@ -3,7 +3,7 @@
 //////////////// Editable options ////////////////
 
 	// this is the banner headline displayed on the Menu page
-	$tutorialTitle = 'LEARNING PRINCIPLES';
+	$tutorialTitle = 'SAMPLE TUTORIAL';
 
 	$backgroundColor = '#C4D9E1';
 	$cssLink = '//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.2/css/bootstrap.css';
@@ -11,13 +11,16 @@
 	// this is the Introductory text displayed on the Menu page. HTML tags can be included
 $menuIntroText = <<<EOT
 
-<p>
-<center><img src="/learnprin/learningprinciples.gif" alt="learningprinciples" style="width:290px;height:155px"></center></>
-<p>
-	This set of tutorials is about the basic principles of learning and how they relate to your success in life.  Tutorials build upon each other and you should work through them in serial order; don't skip any.  Each "set" is a series of screen presentations to which you respond by typing a word or two.  This will require you to think a little each time because the program insists that you understand each point. You cannot go backwards when working through a given set of frames.  Read everything carefully as the program will constantly test your memory. A momentary green flash signals that you have responded correctly and have advanced forward.  Sometimes you may need to try again.  Finish each successive tutorial before you take a break.  Remember the name you used to sign in and continue to use it when you advance to the next set in the menu.  Now, click on a set number below and experience automated instruction.
 
 <p>
-By applying your new knowledge, you can take big steps to enjoying life more!
+	This brief tutorial exposes you to how truly interactive instruction can take place.  Most of the tutorials at this Website employ this method of instruction.  You are interacting with a program that resides on a server elsewhere in the internet.  The program responds to you when you supply a missing word and tap the ENTER key. 
+<p>
+At Step 1 below give your name (or an alias, if you wish).
+<p>
+Then, at Step 2 put a dot with your cursor beside the selection "Sample Tutorial."
+<p>
+Then, at Step 3 tap the "Begin Tutorial" button and you will go to the first of several screen presentations called "frames."
+
 </p>
 
 EOT;
@@ -26,7 +29,7 @@ EOT;
 	// e.g. 'tutorials/aba/oneToTen/', which would look 3 folders under the current, or
 	// e.g. '../../tutorials/aba/' which would look two directories above the current and then under /tutorials/aba/
 	// **** MUST START WITH ./ AND MUST END WITH /
-	$frameDirectory = './learnprin/';
+	$frameDirectory = './sampletutorial/';
 
 
 	// regex used to match frame files that will be shown in the menu
@@ -34,13 +37,13 @@ EOT;
 
 	// directory where output files will be written, same rules as for the $frameDirectory, i.e. above or below the current dir
 	// **** MUST START WITH ./ AND MUST END WITH /
-	$outfileDirectory = './learnprin/';
+	$outfileDirectory = './sampletutorial/';
 
 	// suffix appended to the name of the tutorial which will be used to generate the file for final scores
 	$finalScoresFileSuffix = '_FINAL_SCORE.out';
 
 	// students are forced to start over if their score drops below this number after the 5th frame
-	$percentStartOver = 70;
+	$percentStartOver = 10;
 
 	$outOfSequenceMessage = "It\'s strongly recommended that you work through these tutorials in order. ";
 	$outOfSequenceMessage = $outOfSequenceMessage."Please work through the following tutorials first:";
@@ -49,12 +52,12 @@ EOT;
 	// change this to true to only give one try and not show the correct answer
 	$isTest = false;
 
-	// when students complete a tutorial, the screen shows a link to click
+  // when students complete a tutorial, the screen shows a link to click
   // you can configure here the URL to link them back to and the link text message
   // optionally, leave the completionLink below empty to link them back to the tutorial main menu
   // if you provide your own link, make sure to include 'http' like so, http://www.google.com for example
   $completionLink = "";
-  $completionLinkMessage = "Click here to go back to the Main Menu";
+	$completionLinkMessage = "Click here to go back to the Main Menu";
 
 ///////////////////////////////////////////////////////////////////////////////  END Editable options
 
@@ -335,8 +338,9 @@ EOT;
             if ($(this).val().match(/^__/) && $(this).val().length == 9 && !fetched) {
               fetched = true;
               $('#loading-gif').show();
+              var scriptname = '<?php echo $scriptname; ?>';
               $.ajax({
-                url: 'learnprin.php?adminStats=' + $(this).val(),
+                url: scriptname + '?adminStats=' + $(this).val(),
                 success: function (data) {
                   $('#loading-gif').hide();
                   $('#stats').show();
