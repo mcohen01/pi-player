@@ -1,0 +1,231 @@
+@begin
+Prompts are SD's that are designed to increase the probability of particular _____s. 
+@end
+@answer  responses
+@tries 2
+@graphic none
+@video none
+@begin
+An SD that has a form or physical characteristic which is very similar to the response it tries to evoke is called a ______ ______. 
+@end
+@answer  formal prompt
+@tries 2
+@graphic none
+@video none
+@begin
+The grammatical structure of the sentence serves as a ______ ______ telling the student, in effect, whether a noun, verb, or other part of speech is required. 
+@end
+@answer  formal prompt
+@tries 2
+@graphic none
+@video none
+@begin
+An SD that has a theme designed to increase the probability of a particular response is called a ______ ______. 
+@end
+@answer  thematic prompt
+@tries 2
+@graphic none
+@video none
+@begin
+A programmer can use many of the responses that make up a student's initial behavior as thematic and formal prompts for responses that will eventually make up the student's ______ behavior. 
+@end
+@answer  terminal
+@tries 2
+@graphic none
+@video none
+@begin
+The probability of a response in the early parts of a program is partly determined by the initial behavior of student and partly by the thematic and formal _____s used in the frames. 
+@end
+@answer  prompts
+@tries 2
+@graphic none
+@video none
+@begin
+Besides prompt letters, the blanks in a frame are considered ______ ______ because they indicate a form of the response. 
+@end
+@answer  formal prompts
+@tries 2
+@graphic none
+@video none
+@begin
+In the previous item, the desired observable response was composed of two words and there were ______ blanks. [Spell it out] 
+@end
+@answer  two
+@tries 2
+@graphic none
+@video none
+@begin
+The length or shape of the line in the blank can be a formal prompt.  This frame requires a __ __ __ __ letter word as the response. 
+@end
+@answer  four
+@tries 2
+@graphic none
+@video none
+@begin
+One function of the blanks in a program is that they act as prompts to increase the probability of the ______ the programmer wishes to evoke and reinforce. 
+@end
+@answer  response
+@tries 2
+@graphic none
+@video none
+@begin
+The blank in an item is chosen to prompt a particular observable response so that it will be emitted and immediately ______. 
+@end
+@answer  reinforced
+@tries 2
+@graphic none
+@video none
+@begin
+A second use of the blank in a program is to make sure that the student _____s the words in the frame carefully. 
+@end
+@answer  reads
+@tries 2
+@graphic none
+@video none
+@begin
+The second use of a blank in an frame is to control the student's observing behavior or, in less technical terms, to make sure that the student carefully ______ the frame. 
+@end
+@answer  reads
+@tries 2
+@graphic none
+@video none
+@begin
+In a properly designed program, the student cannot correctly respond to a blank without carefully reading the frame. Here, the blank is said to c_____l the student's observing behavior. 
+@end
+@answer  control
+@tries 2
+@graphic none
+@video none
+@begin
+Programmers require an observable response that the student can make only if he reads the frame very carefully to control the student's ______ _____r. 
+@end
+@answer  observing behavior
+@tries 2
+@graphic none
+@video none
+@begin
+The last four frames that teach about the control of observing behavior could have been written differently.  The initial frame could have been:  If a student is to learn from an item, he must read it carefully; that is, he must pay ______ to what the item says. 
+@end
+@answer  attention
+@tries 2
+@graphic none
+@video none
+@begin
+You probably responded "attention" to the last frame because of the ______ prompting from the words "read it carefully" and because you probably have been told in the past to "pay attention." 
+@end
+@answer  thematic
+@tries 2
+@graphic none
+@video none
+@begin
+The second frame teaching about control of observing behavior could have been:  A student can't learn well if she doesn't ____y ______ to what she is doing. 
+@end
+@answer  pay attention
+@tries 2
+@graphic none
+@video none
+@begin
+The next item could have been:  Technically speaking, the program must control the student's observing behavior.  It must insure that he reads the material. In other words, the program must control what the student pays ______ to. 
+@end
+@answer  attention
+@tries 2
+@graphic none
+@video none
+@begin
+The next item could have been:  We use the technical term "observing behavior," rather than the common term "attention," to emphasize the fact that we are dealing with _____le responses that can be seen and measured. 
+@end
+@answer  observable
+@tries 2
+@graphic none
+@video none
+@begin
+The final item could have been:  To control the student's ______ _____r, we require an observable response that the student can make only if he reads the item very carefully. 
+@end
+@answer  observing behavior
+@tries 2
+@graphic none
+@video none
+@begin
+The last series of frames is provided to show you different ways of using thematic and formal prompts to teach the _____e concept. 
+@end
+@answer  same
+@tries 2
+@graphic none
+@video none
+@begin
+The last series of frames is provided to show you different ways of using thematic and formal prompts to teach the _____e concept.  [Ignore the above blank]  Above is the previous frame.  The letter "e" next to the blank is a ______ prompt for the response "same." 
+@end
+@answer  formal
+@tries 2
+@graphic none
+@video none
+@begin
+The last series of frames is provided to show you different ways of using thematic and formal prompts to teach the _____e concept.  [Ignore the above blank]  Above is the previous frame.  The word "different" is a contrasting ______ prompt for the response "same." 
+@end
+@answer  thematic
+@tries 2
+@graphic none
+@video none
+@begin
+One function of the response required in a frame is to control the _____ing ______ of the student. 
+@end
+@answer  observing behavior
+@tries 2
+@graphic none
+@video none
+@begin
+Another function of the response required by a blank is to get that particular response emitted so that it can be ______. 
+@end
+@answer  reinforced
+@tries 2
+@graphic none
+@video none
+@begin
+Responses are required to increase the probability of the responses through reinforcement and to control the ______ ______ of the student. 
+@end
+@answer  observing behavior
+@tries 2
+@graphic none
+@video none
+@begin
+Besides prompt letters, the blanks in a frame are considered ______ ______ because they indicate a form of the response. 
+@end
+@answer  formal prompts
+@tries 2
+@graphic none
+@video none
+@begin
+The length or shape of the line in the blank can be a ______ prompt. 
+@end
+@answer  formal
+@tries 2
+@graphic none
+@video none
+@begin
+One function of the blanks in a program is that they evoke responses that receives immediate ______ if correct. 
+@end
+@answer  reinforcement
+@tries 2
+@graphic none
+@video none
+@begin
+A second use of the blank in a program is to make sure that the student _____s the words in the frame carefully. 
+@end
+@answer  reads
+@tries 2
+@graphic none
+@video none
+@begin
+When a student is required to read the frame carefully, we say that the blank controls the student's ______ ______. 
+@end
+@answer  observing behavior
+@tries 2
+@graphic none
+@video none
+@begin
+Unlike a textbook or lecture, where the student's attention can "wonder" as he skims or listens, programs require careful reading of the frame content because the student must emit an ______ response. 
+@end
+@answer  observable
+@tries 2
+@graphic none
+@video none

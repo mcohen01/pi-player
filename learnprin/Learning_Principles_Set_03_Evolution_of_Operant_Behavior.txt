@@ -1,0 +1,278 @@
+@begin
+The previous set of frames discussed respondent behavior.  Before we turn to the discussion of operant behavior in the next set lets fill in a few details about how and why r_______ behavior first evolved.
+@end
+@answer respondent
+@tries 2
+@graphic none
+@video none
+@begin
+Scientists say it is likely the conditions that produced the first building blocks of LIFE have existed in many places far out into the universe, not just here on _______.
+@end
+@answer earth
+@tries 2
+@graphic universepicture.jpg
+@video none
+@begin
+Some scientists speculate that billions of years ago in the presence of lightning some building blocks mutated and were able to DUPLICATE themselves and this was the beginning of l____e.
+@end
+@answer life
+@tries 2
+@graphic buildingblocksrock.jpg
+@video none
+@begin
+The evolution of organisms began when the first organic matter accidentally du_______ed itself.  
+@end
+@answer duplicated
+@tries 2
+@graphic none
+@video none
+@begin
+The evolution of l_______ is likely to have happened many billions of years ago and in a great many different places elsewhere in the universe; perhaps it came in a comet.
+@end
+@answer life
+@tries 1
+@graphic comet.jpg
+@video none
+@begin
+It is likely that early building blocks of life like amino acids and organic molecules c_____e to our planet during the comet bombardment that created our oceans billions of years ago.
+@end
+@answer came
+@tries 2
+@graphic none
+@video none
+@begin
+The building blocks of life quite likely became concentrated in favorable conditions in certain places.  We know that the early building blocks of _______e are found deep within the rocks of the earth's crust. The building blocks further mutated during their upwelling into hot gas vents erupting into the floor of the o_______.  [Two words with a space between them.]
+@end
+@answer life ocean
+@answer life oceans
+@tries 2
+@graphic vent.jpg
+@video none
+@begin
+Organisms reproduced mutations that further evolved into bacteria-like stationary organisms.  Subsequent mutations promoted movement.  With movement BEHAVIOR came into existance.  Behavior involves _______t.
+@end
+@answer movement
+@tries 2
+@graphic behavior.gif
+@video none
+@begin
+As we have noted, some offspring produced during reproduction don't look or behave in the same way.  The reasons for these "mistakes" in reproduction are too complex to discuss here.  Nevertheless, reproduction sometimes results in mistakes in offspring and this is where (variation/similarity) _______ arises.
+@end
+@answer variation
+@tries 1
+@graphic none
+@video none
+@begin
+Some variations promoted further development like moving toward sunlight.  Other variations were lethal, for example when an organism failed to struggle toward moisture. (True or false?) _______
+@end
+@answer true
+@tries 1
+@graphic none
+@video none
+@begin
+An animal breeder may intentionally select the fluffiest puppy to become breeding stock for a new litter.  However, natural selection has no intential design.  In contrast to the deliberate selection by a breeder, natural selection (has/has no) _______ ultimate purpose other than survival of the species. 
+@answer has no   
+@tries 1
+@graphic none
+@video none
+@begin
+Mutations happen and the environment "selects" certain mutations that promote further reproduction.  Again, this natural selection process (has no/has) _______ "design."
+@end
+@answer has no
+@tries 1
+@graphic none
+@video none
+@begin
+We say the environment "selected" the favorable variations when it supported them.  Those organisms with the variations lived long enough to reproduce the (lethal/procreative) _______ variations.
+@end
+@answer procreative
+@tries 1
+@graphic none
+@video none
+@begin
+This is the concept of "natural selection."  Nature, without any intention, se_______ts variations that promote procreation.
+@end
+@answer selects
+@tries 2
+@graphic none
+@video none
+@begin
+Evolution is the long line of variations in REPRODUCTION that were selected by the environment when they promoted _______val.
+@end
+@answer survival
+@tries 2
+@graphic evolutionsatire.jpg
+@video none
+@begin
+Sea creatures born with fins on which they could walk enabled them to eat food at the shoreline. (True or false? ) _______
+@end
+@answer true
+@tries 1
+@graphic walkingonfins.jpg
+@video none
+@begin
+All plants and animals of today evolved from earlier forms because the variations they exhibit promoted rep_______ and thus survival.
+@end
+@answer reproduction
+@tries 1
+@graphic none
+@video none
+@begin
+As we noted before, behavior is movement.  Movements away from or toward sunlight are called tropisms.  Tropisms are among the earliest forms of b_______r.  
+@end
+@answer behavior
+@tries 1
+@graphic none
+@video none
+@begin
+Animals first consumed anything they could ingest.  When the food was poisonous that animal died, when it was digestable the animal lived long enough to r_______e and make more of its kind.
+@end
+@answer reproduce
+@tries 1
+@graphic none
+@video none
+@begin
+Mutations leading to sensory organs were sel_______d by the environment when they promoted capturing and eating digestable food.
+@end
+@answer selected
+@tries 2
+@graphic sensoryorgans.jpg
+@video none
+@begin
+Behavior that "chased" a moving object was selected because a moving object was (less/more) _______ likely to be something digestable.
+@end
+@answer more
+@tries 1
+@graphic none
+@video none
+@begin
+Random variations and then selection by their success in leading to reproduction, is what we call _______ selection.
+@end
+@answer natural
+@tries 1
+@graphic none
+@video none
+@begin
+The accidental development of variations leading to sense organs allowed an organism to detect whether an object was hard or soft.  This led to the discrimination between objects that were and those that were ______ digestable.
+@end
+@answer not
+@tries 1
+@graphic none
+@video none
+@begin
+If all moving things are digestible and they are all the same in size, color, or texture, detection of differences (is/is not) _______ important.  
+@end
+@answer is not
+@tries 1
+@graphic none
+@video none
+@begin
+"Inborn" tendencies (reflexes) to eat small round green things led to the sur_______l of that organism when there were plenty of small round green things around to eat.
+@end
+@answer survival
+@tries 1
+@graphic none
+@video none
+@begin
+Reflexes were originally fixed and not conditionable.  There was no possibility of learning within the lifetime of an organism.  This is why many millions of species went extinct when the environment (was stable/rapidly changed) _______.
+@end
+@answer rapidly changed
+@tries 1
+@graphic rapidchangeroad.jpg
+@video none
+@begin
+Suppose the climate trended colder and some green things turned red--yet still remained edible. However, for genetic reasons, the animal would be less likely to reflexively pursue and eat red ones---possibly not at all.  Thus, when (green/red) _______ objects were no longer available the animal would perish due to its inflexibility.
+@end
+@answer green
+@tries 1
+@graphic none
+@video none
+@begin
+For a species to survive in a rapidly changing world there would need to be a genetic mutation that allowed (old/new) _______ stimuli to elicit existing reflexes. 
+@end
+@answer new
+@tries 1
+@graphic none
+@video none
+@begin
+You will recall that respondent behavior is elicited by prior stimuli.  Suppose a genetic mutation occurred that made it it more likely to eat red objects if they occurred next to green ones (i.e., they were paired together). By the process of green occurring together with red, red now ALSO comes to elicit eating the objects.  As you learned in the previous set of frames, this genetic variation or mutation marked the appearance of _______t conditioning in the behavior patterns of the animal because a novel stimulus also elicits the eating reflex.
+@end
+@answer respondent
+@tries 1
+@graphic redgreenfruit.jpg
+@video none
+@begin
+When respondent conditioning evolved, a greater range of stimuli (food) could elicit eating. No longer did organisms immediately perish when their (conditioned/unconditioned) _______ reflexes were their only possessions.  
+@end
+@answer unconditioned
+@tries 1
+@graphic none
+@video none
+@begin
+Respondent conditioning was selected by nature because it allowed an organism to adapt to a (stable/variable) _______ environment.
+@end
+@answer variable
+@tries 1
+@graphic none
+@video none
+@begin
+Animals capable of respondent conditioning more readily (parished/survived)_______ in a changing world.
+@end
+@answer survived
+@tries 1
+@graphic none
+@video none
+@begin
+A drawback, however, is that respondent conditioning does not establish new behavior, it only (extends/reduces) _______ the array of stimuli that can elicit a similar reflex.
+@end
+@answer extends
+@tries 1
+@graphic none
+@video none
+@begin
+What happens when the environment radically changes WITHIN AN ORGANISM'S LIFETIME?  Suppose a drought happens and only tall big fruit trees with deep roots survive.  If a new behavior like climbing trees is required and there is no such reflex available the animal will (survive/perish) _______.
+@end
+@answer perish
+@tries 1
+@graphic none
+@video none
+@begin
+This happened many times in history.  But random genetic variation came to the rescue.  A truly remarkable mutation happened. One member of the species was born with the ability to be affected not only by what happened BEFORE (as in reflexes), but also what happened immediately _______ what it did.  
+@end
+@answer after
+@tries 1
+@graphic none
+@video none
+@begin
+This new mutation in genes enabled random movements around a tree to be (strengthened/weakened) _______ by finding fruit on a few low hanging branches.
+@end
+@answer strengthened
+@tries 1
+@graphic lowfruit.jpg
+@video none
+@begin
+Reaching higher and climbing behavior would also be _________d by seizing and eating fruit.
+@end
+@answer strengthened
+@answer reinforced
+@answer selected
+@answer supported
+@answer conditioned
+@answer acquired
+@tries 1
+@graphic none
+@video none
+@begin
+We have just described how a new kind of behavioral relationship to the environment is likely to have evolved.  This new kind of behavior is called (respondent/operant) ________ behavior because it "operates" on the environment and is strengthened by its consequences.
+@end
+@answer operant
+@tries 1
+@graphic none
+@video none
+@begin
+With operant behavior an animal that could learn from the immediate consequences within its lifetime and could (less/more) _______ quickly adapt to a changing environment.
+@end
+@answer more
+@tries 1
+@graphic none
+@video none

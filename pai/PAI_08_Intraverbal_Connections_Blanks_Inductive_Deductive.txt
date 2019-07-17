@@ -1,0 +1,273 @@
+@begin
+A frame is a "context."  It is an environment; a set of circumstances.  It is a (foreground/background) _______ against which a student is to emit a response. 
+@end
+@answer  background
+@tries 2
+@graphic none
+@video none
+@begin
+The "answer" to the frame is the missing element.  A program can systematically change the "background" while repeatedly asking for and strengthening the same response.  In doing so it is inducing what is technically called generalization of the ______. 
+@end
+@answer  response
+@tries 2
+@graphic none
+@video none
+@begin
+In programmed instruction, generalization is strengthening the intraverbal connection to (different/the same) _______ context(s). 
+@end
+@answer  different
+@tries 2
+@graphic none
+@video none
+@begin
+A student who can appropriately apply an intraverbal to various contexts can make what is technically called a g_____ation. 
+@end
+@answer  generalization
+@tries 2
+@graphic none
+@video none
+@begin
+In a program, "different contexts" are usually different word patterns or arrangements that evoke responses.  A non-verbal stimulus pattern evokes a "tact" but other verbal behavior evokes an _____l. 
+@end
+@answer  intraverbal
+@tries 2
+@graphic none
+@video none
+@begin
+The responses in a program are usually its key or "pivotal" concepts.  At the beginning of the program, the probability that students will emit these responses is (high/low) ______. 
+@end
+@answer  low
+@tries 2
+@graphic none
+@video none
+@begin
+As a student begins to work through initial frames, low probability responses will often be answers given to later _____s. 
+@end
+@answer  frames
+@tries 2
+@graphic none
+@video none
+@begin
+Low probability responses must often be supplemented with additional p_____ting at first. 
+@end
+@answer  prompting
+@tries 2
+@graphic none
+@video none
+@begin
+The average person is not reinforced by others for using technical terms such as "probability" and "behavior" in talking about everything one does.  The probability of saying "behavior" is low, and for that reason would be a good _____e for a program frame. 
+@end
+@answer  response
+@tries 2
+@graphic none
+@video none
+@begin
+Much of what a programmer is trying to get the student to say can already be said by the student.  But the "connections" between some of the words, phrases, or sentences are (weak/strong) ______ in the student's repertoire. 
+@end
+@answer  weak
+@tries 2
+@graphic none
+@video none
+@begin
+These intraverbal connections are strengthened by repeatedly presenting the terms together while getting the student to respond overtly to them.  In other words, the program induces the student to actively _____y the same thing. 
+@end
+@answer  say
+@tries 2
+@graphic none
+@video none
+@begin
+Usually, an intraverbal connection is not firmly established by one reinforcement.  Therefore, the student is asked to respond to a set of stimuli in (only a few ways/a variety of ways) ______. 
+@end
+@answer  a variety of ways
+@tries 2
+@graphic none
+@video none
+@begin
+Intraverbal connections become firmly established when students respond to stimuli in a variety of ways.  For example, a frame early in a series that teaches the rule--"Look before you leap" might contain:  Look before you _______.  But a later frame might then present:  _______ before you leap.  [Ignore the above blanks.]  The responses "look" and "leap" are being separately strengthened to firmly establish intraverbal _____ns. 
+@end
+@answer  connections
+@tries 2
+@graphic none
+@video none
+@begin
+A frame early in a series that teaches the rule--"Look before you leap" might contain:  Look before you _______.  But a later frame might then present:  _______ before you leap.  [Ignore the above blanks.]  Two slightly different occasions will then evoke the same "statement."  A subordinate objective of such a program is to strengthen saying the entire phrase when one is on the verge of saying ei____r of the responses "look" or "leap." 
+@end
+@answer  either
+@tries 2
+@graphic none
+@video none
+@begin
+Many of the words that appear in a frame are candidates for being answers to subsequent frames.  A particular word may be a "stimulus" to which the student responds in one frame and then later the _____r he or she supplies to a blank. 
+@end
+@answer  answer
+@tries 2
+@graphic none
+@video none
+@begin
+The variety and number of contiguous pairings (repetitions) necessary in a program depends upon the student population for which it is constructed.  As a general rule, enough examples should be given to insure that the student rarely makes an ______. 
+@end
+@answer  error
+@tries 2
+@graphic none
+@video none
+@begin
+A rule established by early programmers is that programs should not produce more than a t_____ percent error rate. 
+@end
+@answer  ten
+@tries 2
+@graphic none
+@video none
+@begin
+Experienced programmers have found that students pay (most/least) _______ attention to the sentence in a frame that contains the blank. 
+@end
+@answer  most
+@tries 2
+@graphic none
+@video none
+@begin
+Material presented after the blank is often skipped because the student can sometimes answer _____ctly without reading this material. 
+@end
+@answer  correctly
+@tries 2
+@graphic none
+@video none
+@begin
+When the student neglects to read important material, its presentation is wasted. For efficient instruction, (something/everything) ______ presented within a frame should play a role in achieving the terminal objectives. 
+@end
+@answer  everything
+@tries 2
+@graphic none
+@video none
+@begin
+Because the probability of further reading falls immediately after the blank is read, the blank should appear near the (beginning/end) _____ of the frame. 
+@end
+@answer  end
+@tries 2
+@graphic none
+@video none
+@begin
+As a general rule, the answer blank should appear near the end of a frame because the student may not _____d beyond this point. 
+@end
+@answer  read
+@tries 2
+@graphic none
+@video none
+@begin
+Evans, Homme, and Glasser (1962) discussed the nature and order of sentences within a frame.  Sentences can progress from learning the rule to applying the ______. 
+@end
+@answer  rule
+@tries 2
+@graphic none
+@video none
+@begin
+The most obvious internal order is to present the rule as the first sentence in the frame.  The second sentence then gives an example.  The third sentence gives another example but requires the student to generalize or to _____ly the rule to a specific situation. 
+@end
+@answer  apply
+@tries 2
+@graphic none
+@video none
+@begin
+An obvious internal order of sentences in a frame is the presentation of the ______ first, then examples of it. 
+@end
+@answer  rule
+@tries 2
+@graphic none
+@video none
+@begin
+Presenting the rule first and the examples later is one order format Evans, Homme, and Glasser (1962) catalogued in their "RULEG" system.  The more _____al statement is presented first and the specific statement is presented second. 
+@end
+@answer  general
+@tries 2
+@graphic none
+@video none
+@begin
+The rule-then-example frame format is deductive.  It moves from the general to the _____c. 
+@end
+@answer  specific
+@tries 2
+@graphic none
+@video none
+@begin
+But the format can be reversed.  Examples can be presented first in the frame.  The direction can be _____ive, not deductive. 
+@end
+@answer  inductive
+@tries 2
+@graphic none
+@video none
+@begin
+Examples can be assembled first in the frame.  Then the student is required to draw a conclusion and supply the appropriate ______ that has been exemplified. 
+@end
+@answer  rule
+@tries 2
+@graphic none
+@video none
+@begin
+Read the following example frame (but do not supply the answer within the example):  Preparation saves time.  Making a list at home before you go to the grocery store reduces the task of shopping.  Consulting a map on a driving trip permits one to reach a new destination more _______.  The sample frame above is constructed in the (rule-example/example-rule) _______ format. 
+@end
+@answer  rule-example
+@tries 2
+@graphic none
+@video none
+@begin
+Read the following frame but ignore the blank:  An automobile assembly-line worker rarely interacts with the eventual drivers of the cars he constructs.  Trade crews that do specialized finishing in a new home almost never meet the eventual buyer.  Mass-production workers often do poor quality work because they are alienated from the eventual _______ of their work.  The sample frame above is constructed in the ______-______ format. 
+@end
+@answer  example-rule
+@tries 2
+@graphic none
+@video none
+@begin
+"Keep it simple" is a good rule for frame construction.  A frame should ordinarily introduce only _____e rule at a time. 
+@end
+@answer  one
+@tries 2
+@graphic none
+@video none
+@begin
+The introduction of too much material at once in a frame will reduce the likelihood of a correct _____e. 
+@end
+@answer  response
+@tries 2
+@graphic none
+@video none
+@begin
+New programmers tend to compress too much content into each frame in an effort to save time and space.  This is a bad policy because it doesn't strengthen separate responses adequately and may increase the probability of _____rs. 
+@end
+@answer  errors
+@tries 2
+@graphic none
+@video none
+@begin
+New concepts or rules should be introduced one by one.  Any extra words that do not directly contribute to the emission of a correct answer waste the student's time and may increase the likelihood of an ______. 
+@end
+@answer  error
+@tries 2
+@graphic none
+@video none
+@begin
+In constructing (long/short) ______ frames, the programmer is trying to strengthen too many responses at once. 
+@end
+@answer  long
+@tries 2
+@graphic none
+@video none
+@begin
+Each important intraverbal connection should be conditioned separately.  To make sure an intraverbal relationship is strengthened, the student must _____tly (rather than covertly) respond with a key word. 
+@end
+@answer  overtly
+@tries 2
+@graphic none
+@video none
+@begin
+Just contiguously pairing words together on the screen while the student passively reads is not enough.  The student must actively respond to such stimulation and be correct, for (weakening/strengthening) _______ to take place to any significant degree. 
+@end
+@answer  strengthening
+@tries 2
+@graphic none
+@video none
+@begin
+Therefore, the student can reasonably be held responsible for (be expected to learn) only those word relationships to which he or she has (actively/passively) ______ responded. 
+@end
+@answer  actively
+@tries 2
+@graphic none
+@video none

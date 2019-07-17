@@ -1,0 +1,392 @@
+@begin
+1.   (T or F) The demonstration that a variable is effective does<br/>     not require the attainment of a stringently defined stable<br/>     state as long as the demonstrated change is large enough to<br/>     override the baseline "noise."<br/>
+@end
+@answer T
+@tries 1
+@graphic none
+@video none
+@begin
+2.   G_______y of the results is the ultimate test of the<br/>     validity of any stability criterion.  Pg. 271<br/>
+@end
+@answer GENERALITY
+@tries 1
+@graphic none
+@video none
+@begin
+3.   Instability of a phenomenon may not be a characteristic but<br/>     rather the result of poor _______ over important variables. <br/>     Page 271<br/>
+@end
+@answer CONTROL
+@tries 1
+@graphic none
+@video none
+@begin
+4.   Averaging the performance of many individuals introduces<br/>     ______subject variability into the data.  Averaging the<br/>     data points from ONE individual across sessions introduces a<br/>     (different/similar) ________ problem.  Page 274<br/>
+@end
+@answer INTRASUBJECT SIMILAR
+@tries 1
+@graphic none
+@video none
+@begin
+5.   Averaging across individual data points (submerges from<br/>     view/highlights) _______ fluctuations in performance.  Page<br/>     274<br/>
+@end
+@answer SUBMERGES FROM VIEW
+@tries 1
+@graphic none
+@video none
+@begin
+6.   Group averages are contaminated both by intra- and<br/>     intersubject variability.  Individual averages are free from<br/>     the (latter/former) _______.  Page 274<br/>
+@end
+@answer LATTER
+@tries 1
+@graphic none
+@video none
+@begin
+7.   (T or F)  Group data may often describe a process, or a<br/>     functional relation, that has no validity for any<br/>     individual.  Page 274<br/>
+@end
+@answer T
+@tries 1
+@graphic none
+@video none
+@begin
+8.   The validity of a behavioral description obtained from group<br/>     data will be related (inversely/directly) _______ to the<br/>     amount of intersubject variability.  Page 274<br/>
+@end
+@answer INVERSELY
+@tries 1
+@graphic none
+@video none
+@begin
+9.   We often have no way of evaluating whether or not a given<br/>     example of (individual/group) _______ data actually does<br/>     provide a true picture of (individual/group) _______<br/>     behavioral processes.  Page 274<br/>
+@end
+@answer GROUP INDIVIDUAL
+@tries 1
+@graphic none
+@video none
+@begin
+10.  Reproducible group data describe some kind of order in the<br/>     universe and, as such, may well form the basis of a science.<br/>     It cannot, however, be a science of _______l behavior except<br/>     of the (most refined/crudest) _______ sort.<br/>
+@end
+@answer INDIVIDUAL CRUDEST
+@tries 1
+@graphic none
+@video none
+@begin
+11.  And it is not a science of group behavior in the sense that<br/>     the term "group" is employed by the social psychologist<br/>     (groups are often spoken of as if they were "units" of<br/>     behavior (e.g., "the group thinks x" or "the administration<br/>     thinks . . .," or "the mob took control," etc.)  It is a<br/>     science of averaged behavior of individuals who are linked<br/>     t______r only by the averaging process itself.  <br/>
+@end
+@answer TOGETHER
+@tries 1
+@graphic none
+@video none
+@begin
+12.  Where such a "group" data science fits in the scheme of<br/>     natural phenomena is a matter for conjecture.  Sidman felt<br/>     that it belongs to the  (Page 275)<br/>     <br/>     a.  actuarial (descriptive) statistician<br/>     b.  investigator of behavioral processes <br/>
+@end
+@answer A
+@tries 1
+@graphic none
+@video none
+@begin
+13.  Averaging across the data points of an individual  (Page<br/>     275)<br/>     <br/>     a.  gives a more accurate indication than grouped averages<br/>     b.  describes the performance of THAT individual unfettered <br/>             by intersubject variability<br/>     c.  is not a perfect way to summarize results<br/>     d.  all of the above<br/>
+@end
+@answer D
+@tries 1
+@graphic none
+@video none
+@begin
+14.  By lumping cyclic fluctuations into a single, over-all rate<br/>     measure (or worse yet, a checklist or test score), we may<br/>     (gain/lose) _______ important information about the<br/>     characteristics of the behavior under study.  Page 275<br/>
+@end
+@answer LOSE
+@tries 1
+@graphic none
+@video none
+@begin
+15.  Frequency of behavior, when it is not influenced by<br/>     uncontrolled variables, is the most sensitive indicator of<br/>     the p______y of behavior we have.  Skinner accidently<br/>     discovered the cumulative response curve and then emphasized<br/>     it as the best way he could find to depict changes in this<br/>     BASIC and FUNDAMENTAL (dependent/independent) _______<br/>     variable in a science of behavior.<br/>
+@end
+@answer PROBABILITY DEPENDENT
+@tries 1
+@graphic none
+@video none
+@begin
+16.  Rate is the (weakest/best) ________ measure of probability<br/>     we have.  Changes in probability are what an effective<br/>     t_______ogy of behavior achieves.  <br/>
+@end
+@answer TECHNOLOGY
+@tries 1
+@graphic none
+@video none
+@begin
+17.  That technology moves in the (right/wrong) _______ direction<br/>     when its dependent variables are not directly related to<br/>     _______y. Page 275<br/>
+@end
+@answer WRONG PROBABILITY
+@tries 1
+@graphic none
+@video none
+@begin
+18.  Which of the following is/are most easily translatable into<br/>     the probability of a given specific behavior?<br/>     <br/>     a.  classroom test score<br/>     b.  IQ score<br/>     c.  personality test score<br/>     d.  survey score<br/>     e.  percent of items correctly completed<br/>     f.  number of items correctly matched<br/>     g.  percent of different blanks filled in correctly<br/>     h.  number of words written per hour<br/>     i.  none of the above<br/>
+@end
+@answer H
+@tries 1
+@graphic none
+@video none
+@begin
+19.  (T or F) If a rock concert is sold out, the group must be<br/>     good.  If everybody's going--its got to be good.  Groups<br/>     know what is good.  Big groups know what's REALLY good. <br/>     Young people know what is good--all they have to do is see<br/>     what everyone else is doing.  Going to the beach during<br/>     Spring Break is good--everybody is going.  Be there or be<br/>     square!  Because most people eat meat, eating meat is ok to<br/>     do.  Having a lot is sex is good--everybody's doing it, it<br/>     must be ok.  If everybody else is doing it--its ok, in fact<br/>     that's how we know its GOOD.  If nearly all educators use<br/>     complex dimensions of behavior like test scores, it must be<br/>     the way to go.  After all, everybody else is doing it, so<br/>     its the right thing to do!  We can't change it, even though<br/>     it MIGHT be bad.  Everybody else is doing it, so its GOOD. <br/>     Truth is determined by consensus!  The emperor IS wearing<br/>     clothes, don't be a fool!<br/>
+@end
+@answer F
+@tries 1
+@graphic none
+@video none
+@begin
+20.  It is (advisable/dangerous) _______ for an experimenter to<br/>     assume the subject's point of view in analyzing the behavior<br/>     of the subject.  Page 282<br/>
+@end
+@answer DANGEROUS
+@tries 1
+@graphic none
+@video none
+@begin
+21.  The definition of the beginning of a "transition phase" is<br/>     sometime difficult.  Which of the following is better?  Page<br/>     284<br/>     <br/>     a.  the extinction phase begins when the decision is made to<br/>		no longer reinforce the behavior<br/>     <br/>     b.  the first time the behavior occurs and is not reinforced<br/>
+@end
+@answer B
+@tries 1
+@graphic none
+@video none
+@begin
+22.  Suppose an experimenter wished to compare the performance<br/>     during two instructional conditions.  During the first<br/>     condition the student is required to respond in a<br/>     "meaningful" way immediately after short segments of a<br/>     presentation.  During the next condition, the segments are<br/>     much longer, however,  and the student is NOT required to<br/>     respond until the end of the long segment of presentation. <br/>     With the history of responding frequently, the student would<br/>     probably pay close attention for a while during the second<br/>     phase (the long presentation).  Knowledge of content early<br/>     in this long presentation could be expected to be (bad/good)<br/>     _______.  Knowledge later in the segment would expected to<br/>     be (better/worse) _______.  We would correctly call the<br/>     change in behavior during the long segment a _______ion<br/>     phase.<br/>
+@end
+@answer GOOD WORSE TRANSITION
+@tries 1
+@graphic none
+@video none
+@begin
+23.  If the experimenter did not tell the student about the<br/>     change in conditions, we would expect the _______ phase to<br/>     be (short/long) _______.<br/>
+@end
+@answer TRANSITION LONG
+@tries 1
+@graphic none
+@video none
+@begin
+24.  However, if the experimenter precisely DESCRIBED the<br/>     contingencies to the student at the beginning of each phase,<br/>     we would expect the _______ phase to be (shorter/longer)<br/>     _______. <br/>
+@end
+@answer TRANSITION SHORTER
+@tries 1
+@graphic none
+@video none
+@begin
+25.  In using verbal discriminative stimuli to correlate with the<br/>     changes in experimental contingencies, we introduce<br/>     variables which may (distort/objectify) _______ the relation<br/>     between the current contingencies and the behavior resulting<br/>     (i.e., we draw upon a history of verbal conditioning).<br/>
+@end
+@answer DISTORT
+@tries 1
+@graphic none
+@video none
+@begin
+26.  The experimenter (can/cannot) _______ be accused of biasing<br/>     the outcome of the research when the correlating verbal<br/>     descriptions accurately describe the contingencies.<br/>
+@end
+@answer CANNOT
+@tries 1
+@graphic none
+@video none
+@begin
+27.  The use of verbal description is (appropriate/inappropriate)<br/>     _______ experimental methodology to use when it reduces the<br/>     length of the ________n phase as a consequence of accurately<br/>     describing the contingencies.<br/>
+@end
+@answer APPROPRIATE TRANSITION
+@tries 1
+@graphic none
+@video none
+@begin
+28.  A researcher may be able to produce what he or she wants to<br/>     see as a temporary and artifactual effect by using verbal<br/>     descriptions with do not conform to the real contingencies. <br/>     This behavior would be (weakened/sustained) _______ when the<br/>     observed behavior eventually conformed to the nonverbal<br/>     contingencies and revealed the erroneous use of verbal<br/>     stimuli.<br/>
+@end
+@answer WEAKENED
+@tries 1
+@graphic none
+@video none
+@begin
+29.  Verbal instructions<br/>     <br/>     a.  are useful when they correlate precisely with the<br/>		contingencies they describe<br/>     <br/>     b.  should not be used when the experimenter assumes that<br/>		they can be used IN PLACE OF a conditioning history<br/>     <br/>     c.  should not be used when the experimenter cannot<br/>		determine whether it was the verbal history or the current<br/>       		nonverbal contingencies which produced the experimental <br/>		effect<br/>     <br/>     d.  all of the above<br/>     e.  one of the above<br/>
+@end
+@answer D
+@tries 1
+@graphic none
+@video none
+@begin
+30.  The end of a transition state is marked by a<br/>     (maximum/minimum) _______ degree of change from data point<br/>     to data point.  Page 287<br/>
+@end
+@answer MINIMUM
+@tries 1
+@graphic none
+@video none
+@begin
+31.  Data points (closer together/farther apart) _______ in time,<br/>     other things being equal, will have a more precise<br/>     relationship with changes in probability.  Page 287<br/>
+@end
+@answer CLOSER TOGETHER
+@tries 1
+@graphic none
+@video none
+@begin
+32.  Experimental "sessions" are often 24 hours apart because the<br/>     same situation recurs then.  The _______ rhythm is another<br/>     good reason to keep sessions 24 hours apart.<br/>
+@end
+@answer CIRCADIAN
+@tries 1
+@graphic none
+@video none
+@begin
+33.  Ordinarily, an experimenter should not shift from one phase<br/>     to another during a _______n state.  <br/>
+@end
+@answer TRANSITION
+@tries 1
+@graphic none
+@video none
+@begin
+34.  (T or F) ___  Statistical evaluation eliminates the<br/>     necessity for empirical judgment.  Page 288<br/>
+@end
+@answer F
+@tries 1
+@graphic none
+@video none
+@begin
+35.  (T or F) ___  Statistical evaluation must always use samples<br/>     of at least several values of the behavior in question in<br/>     order to permit a judgment of no significant difference. <br/>     Page 288<br/>
+@end
+@answer T
+@tries 1
+@graphic none
+@video none
+@begin
+36.  (T or F) ___  How far apart in time data points are to be<br/>     derived can be decided through statistical evaluation.<br/>
+@end
+@answer F
+@tries 1
+@graphic none
+@video none
+@begin
+37.  (T or F) ___  How large the sample must be can be decided by<br/>     statistical evaluation.  Page 288<br/>
+@end
+@answer F
+@tries 1
+@graphic none
+@video none
+@begin
+38.  (T or F) ___  How great a change between conditions must be<br/>     to be useful can be decided by statistical evaluation.  Page<br/>     288<br/>
+@end
+@answer F
+@tries 1
+@graphic none
+@video none
+@begin
+39.  (T or F) ___  A difference that is significant within any<br/>     particular statistical method for handling variability may<br/>     well be inconsequential as far as any experimental<br/>     manipulations are concerned.  Page 288<br/>
+@end
+@answer T
+@tries 1
+@graphic none
+@video none
+@begin
+40.  (T or F) ___  A statistically inconsequential difference may<br/>     be of the greatest importance behavioral.  Page 288<br/>
+@end
+@answer T
+@tries 1
+@graphic none
+@video none
+@begin
+41.  Psychologists are busy studying the _______ state called<br/>     learning without being able to identify, with any reasonable<br/>     degree of precision, either the beginning or the end of the<br/>     process.  Page 289<br/>
+@end
+@answer TRANSITION
+@tries 1
+@graphic none
+@video none
+@begin
+42.  Psychologists handle v_______y by treating a group of<br/>     subjects as if it represents a single ideal subject.  Page<br/>     289<br/>
+@end
+@answer VARIABILITY
+@tries 1
+@graphic none
+@video none
+@begin
+43.  The illusion that learning and other behavioral transitions<br/>     are continuous processes, a view fostered by the almost<br/>     exclusive utilization of group averages and inadequate<br/>     experimental control, remains almost unchallenged, in spite<br/>     of a few outstanding demonstrations that discontinuous<br/>     change is often to be (feared/expected) _______.  Page 289<br/>
+@end
+@answer EXPECTED
+@tries 1
+@graphic none
+@video none
+@begin
+44.  A _______n state is one in which behavior is not simply<br/>     maintained by a contingency.  The behavior interacts with<br/>     the consequence in the sense that variations are emitted and<br/>     either strengthened or weakened.  The operant is therefore<br/>     in a state of flux, changing as a result of its repeated<br/>     interaction with the environment.<br/>
+@end
+@answer TRANSITION
+@tries 1
+@graphic none
+@video none
+@begin
+45.  The point of view of the (basic/applied) _______ researcher<br/>     is that a selected property of behavior as a phenomenon of<br/>     interest need not be an example of some more general class. <br/>     Generalizations will come in time, after the properties of a<br/>     number of individual examples have been studied. <br/>     Similarities will emerge, and connections to other phenomena<br/>     will become evident to the alert observer.  An area of study<br/>     will gradually be defined.  Page 290<br/>
+@end
+@answer BASIC
+@tries 1
+@graphic none
+@video none
+@begin
+46.  What is learned by a student is often more than the teacher<br/>     is trying to _______.  Page 296<br/>
+@end
+@answer TEACH
+@tries 1
+@graphic none
+@video none
+@begin
+47.  A tennis player swings at a ball and strikes it.  There are<br/>     many components in the chain of behavior leading up to<br/>     connecting with the ball.  If the ball is struck<br/>     successfully, (some/all) _______ of the preceding components<br/>     are automatically _______ even when some of them are "bad<br/>     form."  <br/>
+@end
+@answer ALL REINFORCED
+@tries 1
+@graphic none
+@video none
+@begin
+48.  So-called "tennis practice" should probably not occur<br/>     without the d_______ r_______ delivered by an instructor.  A<br/>     good instructor knows that the student is _______g more than<br/>     is being deliberately taught.  Page 296<br/>
+@end
+@answer DIFFERENTIAL REINFORCEMENT LEARNING
+@tries 1
+@graphic none
+@video none
+@begin
+49.  Many discontinuous changes occur during the learning<br/>     process.  Elements of chains and the control of stimuli are<br/>     acquired at different stages and times.  Whenever gradual<br/>     curvature is observed in a behavioral transition, one should<br/>     suspect _____rolled processes.<br/>
+@end
+@answer UNCONTROLLED
+@tries 1
+@graphic none
+@video none
+@begin
+50.  A person who can supply a missing word to a definition of a<br/>     "reinforcer" may be (more/less) _______ likely to point out<br/>     that a given behavior is being supported by reinforcement. <br/>     More effective saying may (compete/coincide) _______ with<br/>     effective doing.  <br/>
+@end
+@answer MORE COINCIDE
+@tries 1
+@graphic none
+@video none
+@begin
+51.  In programmed instruction more than class of f_______l<br/>     relations may be strengthened as a student moves forward. <br/>     An intraverbal test at the end of a program may tell (a<br/>     great deal/very little) _______ about the collateral<br/>     behavior strengthened by a program.<br/>
+@end
+@answer FUNCTIONAL VERY LITTLE
+@tries 1
+@graphic none
+@video none
+@begin
+52.  Transitions (can/cannot) _______ be studied in isolation<br/>     from the history of the organism.  Page 299<br/>
+@end
+@answer CANNOT
+@tries 1
+@graphic none
+@video none
+@begin
+53.  Acquisition of behavior involves change.  A changing state<br/>     of behavior is called a _______ state. Page 299<br/>
+@end
+@answer TRANSITION
+@tries 1
+@graphic none
+@video none
+@begin
+54.  Gradual transition usually involves the acquisition of many<br/>     d_______t elements of chains.  Page 299<br/>
+@end
+@answer DIFFERENT
+@tries 1
+@graphic none
+@video none
+@begin
+55.  Teachers tend to work with (end products/component<br/>     processes) _______.  Basic researchers tend to work with<br/>     (end products/component processes) _______.  <br/>
+@end
+@answer END PRODUCTS COMPONENT PROCESSES
+@tries 1
+@graphic none
+@video none
+@begin
+56.  Many educators do not see the relevance of basic research<br/>     about learning processes because they do not understand the<br/>     underlying p______ses involved in the acquisition of<br/>     elaborate chains of behavior.<br/>
+@end
+@answer PROCESSES
+@tries 1
+@graphic none
+@video none

@@ -1,0 +1,210 @@
+@begin
+In their first efforts, some programmers have written a short series of sentences and then gone back through them erasing one word per sentence.  The word-erasing technique may not ______ the observing behavior of the student. 
+@end
+@answer  control
+@tries 2
+@graphic none
+@video none
+@begin
+So students read the entire frame, blanks should occur near the _____ of the frame. 
+@end
+@answer  end
+@tries 2
+@graphic none
+@video none
+@begin
+All the responses and all the behavior leading to the responses that are taught in the program comprise the ______ ______ desired from the program. 
+@end
+@answer  terminal behavior
+@tries 2
+@graphic none
+@video none
+@begin
+Every frame in a program should lead the student closer and ______ to the behavior desired at the end of the program 
+@end
+@answer  closer
+@tries 2
+@graphic none
+@video none
+@begin
+Many beginning programmers write programs which progress too rapidly.  In this case, the responses are not adequately prompted and the error rate is (low/high) ______. 
+@end
+@answer  high
+@tries 2
+@graphic none
+@video none
+@begin
+Many beginning programmers write programs which progress too _____dly. 
+@end
+@answer  rapidly
+@tries 2
+@graphic none
+@video none
+@begin
+On the other hand, some programmers write their first programs so that the students did not progress _____y enough. 
+@end
+@answer  rapidly
+@tries 2
+@graphic none
+@video none
+@begin
+Every frame should be "new," either introducing new material or using old material in _____ situations. 
+@end
+@answer  new
+@tries 2
+@graphic none
+@video none
+@begin
+Any frame that does not lead the student forward, either by introducing new material or by expanding the use of old material, is a(n) (efficient/wasteful) ______ frame. 
+@end
+@answer  wasteful
+@tries 2
+@graphic none
+@video none
+@begin
+Any frame that does not introduce new material or expand the use of old material should be _____sed. 
+@end
+@answer  revised
+@tries 2
+@graphic none
+@video none
+@begin
+Except at the very beginning of the program, few frames should require responses or cover material the student could use before she began the program.  If there are many such frames, the program will progress too (rapidly/slowly) ______. 
+@end
+@answer  slowly
+@tries 2
+@graphic none
+@video none
+@begin
+Every frame should lead the student somewhere.  It doesn't need to lead him far, but it should _____ him in a direction that the programmer wants him to go. 
+@end
+@answer  lead
+@tries 2
+@graphic none
+@video none
+@begin
+As she writes an frame, the programmer considers where she wishes it to ______ the student. 
+@end
+@answer  lead
+@tries 2
+@graphic none
+@video none
+@begin
+Some otherwise good frames do not lead to new uses of old material or to new concepts.  Such frames are said to lead to a dead _____. 
+@end
+@answer  end
+@tries 2
+@graphic none
+@video none
+@begin
+In writing frames, the programmer considers the concept (set of responses) that he is working with, and he considers where the frames are _____ing the student. 
+@end
+@answer  leading
+@tries 2
+@graphic none
+@video none
+@begin
+Most required responses should come from material that has been taught in the ______. 
+@end
+@answer  program
+@tries 2
+@graphic none
+@video none
+@begin
+The programmer should not require the same response in several successive ______s. 
+@end
+@answer  frames
+@tries 2
+@graphic none
+@video none
+@begin
+When creating a program, it is sometimes helpful to keep a tally or list of the correct ______s for each frame in the program. 
+@end
+@answer  responses
+@tries 2
+@graphic none
+@video none
+@begin
+One reason it is sometimes helpful to keep a tally of the responses required of the student is that it makes the programmer (more/less) ______ likely to require the same response in several successive frames. 
+@end
+@answer  less
+@tries 2
+@graphic none
+@video none
+@begin
+Good programs require the student to make new responses that are a part of the ______ behavior in new situations. 
+@end
+@answer  terminal
+@tries 2
+@graphic none
+@video none
+@begin
+There are usually several possible ways of sequencing the concepts to be taught in a particular program.  The programmer may change his original outline as he writes the program and sees new ways of ______ the student from one concept to another. 
+@end
+@answer  leading
+@tries 2
+@graphic none
+@video none
+@begin
+Two programmers may create programs that successfully teach the same concepts, but lead students to the terminal behavior through ______ sequences. 
+@end
+@answer  different
+@tries 2
+@graphic none
+@video none
+@begin
+In most subjects, key concepts are interrelated and can be understood only as they relate to one another.  For example, to teach someone how to raise the probability of a given response, the person must learn about immediate ______. 
+@end
+@answer  reinforcement
+@tries 2
+@graphic none
+@video none
+@begin
+Key concepts are interrelated.  Thus, at early stages of the program, the student must only work with some of the responses that make up the behavioral definition of a given _____. 
+@end
+@answer  concept
+@tries 2
+@graphic none
+@video none
+@begin
+As the student is led from one partial concept to another, she learns more about the _____ns among the concepts and, thus, more about each concept. 
+@end
+@answer  relations
+@tries 2
+@graphic none
+@video none
+@begin
+As a first check on each frame he writes, the programmer should try to pretend that he is the student and _____ to the frame himself. 
+@end
+@answer  respond
+@tries 2
+@graphic none
+@video none
+@begin
+In responding to an frame, the programmer should also deliberately try to make plausible but _____ct responses. 
+@end
+@answer  incorrect
+@tries 2
+@graphic none
+@video none
+@begin
+If the programmer can make a plausible incorrect response, some of the _____s would also probably make that response. 
+@end
+@answer  students
+@tries 2
+@graphic none
+@video none
+@begin
+The programmer is the first _____t to go through the program. 
+@end
+@answer  student
+@tries 2
+@graphic none
+@video none
+@begin
+She should check each frame to see if the correct response is prompted properly (not too much, not too little) and to see if each frame leads the student closer to the behavior desired at the _____ of the program. 
+@end
+@answer  end
+@tries 2
+@graphic none
+@video none

@@ -1,0 +1,266 @@
+@begin
+Evans, Homme, and Glaser developed a systematic way of going about the study of rule interrelationships.  Their technique induces the programmer to systematically compare each rule with each other _____e in a Rule Matrix. 
+@end
+@answer  rule
+@tries 2
+@graphic none
+@video none
+@begin
+The programmer compares rules in a Rule Matrix to carefully examine the similarities and d_____ces between rules. 
+@end
+@answer  differences
+@tries 2
+@graphic none
+@video none
+@begin
+After comparing rules in the Rule Matrix, the programmer constructs _____es that exemplify how the rules relate and differ to each other. 
+@end
+@answer  examples
+@tries 2
+@graphic none
+@video none
+@begin
+Students learn to discriminate and generalize between concepts and rules through carefully constructed _____s. 
+@end
+@answer  examples
+@tries 2
+@graphic none
+@video none
+@begin
+Because examples will be used in frames that teach, review, and test, the programmer should construct (many/few) ______ of them. 
+@end
+@answer  many
+@tries 2
+@graphic none
+@video none
+@begin
+After constructing examples for rule relationships, the programmer places the rules and examples in the developmental _____r of presentation and begins to construct actual frames. 
+@end
+@answer  order
+@tries 2
+@graphic none
+@video none
+@begin
+Some frames will teach and review, and some will test. Those that teach and review will contain stimulus support, such as thematic and formal _____s. 
+@end
+@answer  prompts
+@tries 2
+@graphic none
+@video none
+@begin
+Frames that _____t will not contain stimulus support. 
+@end
+@answer  test
+@tries 2
+@graphic none
+@video none
+@begin
+To designate frames with blanks and stimulus support, a (single/double) ______ asterisk is placed after the RU or EG abbreviations, like this: RU* or EG*. 
+@end
+@answer  single
+@tries 2
+@graphic none
+@video none
+@begin
+Stimulus support usually includes t_____c a____d f_____l prompts. 
+@end
+@answer  thematic and formal
+@tries 2
+@graphic none
+@video none
+@begin
+Frames with thematic and formal prompts are designated by a _____le asterisk after the RU or EG abbreviations. 
+@end
+@answer  single
+@tries 2
+@graphic none
+@video none
+@begin
+To designate frames containing no stimulus support, a double asterisk is placed after the RU or EG abbreviations, like this: RU** or EG**.  These frames are called _____t frames. 
+@end
+@answer  test
+@tries 2
+@graphic none
+@video none
+@begin
+After experimenting with many frame types, Evans, Homme, and Glaser (1962) developed a few standard frame types that programmers can use in their _____ms. 
+@end
+@answer  programs
+@tries 2
+@graphic none
+@video none
+@begin
+ The RU + EG + EG* is an excellent method for the introduction of a new RU.  Here, the rule is presented with two examples.  The second example contains a blank (with/without) ______ stimulus support. 
+@end
+@answer  with
+@tries 2
+@graphic none
+@video none
+@begin
+New rules can be introduced with the RU + EG + EG* frame type.  It includes presenting the rule, followed by (one/two/three) ______ examples. 
+@end
+@answer  two
+@tries 2
+@graphic none
+@video none
+@begin
+The student responds to the second example of a brand new RU, with stimulus support, on the first frame he is exposed to with the RU + EG + ______ frame type.  [Use the abbreviation and symbol in your answer] 
+@end
+@answer  eg*
+@tries 2
+@graphic none
+@video none
+@begin
+The RU + EG + EG* is an excellent method for i_____cing a new RU. 
+@end
+@answer  introducing
+@tries 2
+@graphic none
+@video none
+@begin
+By giving the student an explicit RU, and one or more carefully chosen EG's before calling for a response by means of an EG*, a powerful prompt is set up which (increases/decreases) ______ the probability of an error. 
+@end
+@answer  decreases
+@tries 2
+@graphic none
+@video none
+@begin
+The following is an example of the RU + EG + EG* format:  To multiply by 100, move the decimal point two places to the right.  For example, 100 X 5.937 = 593.7. Also, 100 X 3.821 = ______.  [Ignore the above blank]  From above, the first sentence is the RU.  The second sentence is an EG.  The third sentence is a(n) ______.  [Use the abbreviation and symbol in your answer] 
+@end
+@answer  eg*
+@tries 2
+@graphic none
+@video none
+@begin
+It is best to introduce only one RU at a time, and to introduce (simple/complex) ______ RUs early in the program. 
+@end
+@answer  simple
+@tries 2
+@graphic none
+@video none
+@begin
+Prerequisite behavior must be adequately strengthened before proceeding.  Many _____s may be needed for each RU. 
+@end
+@answer  egs
+@tries 2
+@graphic none
+@video none
+@begin
+Depending on the RU, it is often a good idea to provide multiple complete EGs so the student will begin to generalize on the RU and not have the RU attached to only a small number of _____s. 
+@end
+@answer  egs
+@tries 2
+@graphic none
+@video none
+@begin
+To help students generalize and discriminate, many EGs should be provided for each _____. 
+@end
+@answer  ru
+@tries 2
+@graphic none
+@video none
+@begin
+The RU + EG + EG* frame type can be expanded to the RU + EG + EG + EG* frame type.  In the latter type, (more EGs/less EGs) ______ are provided for the RU. 
+@end
+@answer  more egs
+@tries 2
+@graphic none
+@video none
+@begin
+Technology is the application of knowledge for practical ends.  It includes using a computer to teach, or using reinforcement contingencies to potty-train an infant.  A teacher who gives weekly quizzes to generate consistent study behavior is an example of technology.  Using a straw to drink is _____y.  [Ignore the above blank]   The above frame introduces the concept of ______. 
+@end
+@answer  technology
+@tries 2
+@graphic none
+@video none
+@begin
+Technology is the application of knowledge for practical ends.  It includes using a computer to teach, or using reinforcement contingencies to potty-train an infant.  A teacher who gives weekly quizzes to generate consistent study behavior is an example of technology.  Using a straw to drink is _____y.  [Ignore the above blank]   The above frame uses the  a.  RU + EG + EG* frame type. b.  RU + EG + EG + EG* frame type. c.  RU + EG + EG + EG + EG* frame type. 
+@end
+@answer  c
+@tries 2
+@graphic none
+@video none
+@begin
+The RU + EG + EG* and the RU + EG + EG + EG* frame types are excellent for _____cing a new RU. 
+@end
+@answer  introducing
+@tries 2
+@graphic none
+@video none
+@begin
+ The EG + EG* frame type is called an analogy frame.  Here, the student must induce the RU from the first EG and apply it to the _____nd EG. 
+@end
+@answer  second
+@tries 2
+@graphic none
+@video none
+@begin
+"Induce" means to establish a proposition based on a number of observations.  The chief characteristic of an EG + EG* analogy frame is that one must _____ce the RU from the first EG, then apply it the second EG. 
+@end
+@answer  induce
+@tries 2
+@graphic none
+@video none
+@begin
+An analogy is a similarity between like features of two things.  In an EG + EG* frame, the student must induce the RU that is s_____ar to both of the EGs. 
+@end
+@answer  similar
+@tries 2
+@graphic none
+@video none
+@begin
+Because the student must induce a similar RU between two EGs, the EG + EG* frame type is called an _____gy frame. 
+@end
+@answer  analogy
+@tries 2
+@graphic none
+@video none
+@begin
+The apparatus that moves water throughout an automobile engine is called a water pump.  The apparatus that pumps blood throughout the body is called the _____t.  [Ignore the above blank]   The above frame gives two EGs from which the student is to induce the _____. 
+@end
+@answer  ru
+@tries 2
+@graphic none
+@video none
+@begin
+The apparatus that moves water throughout an automobile engine is called a water pump.  The apparatus that pumps blood throughout the body is called the _____t.  [Ignore the above blank]   From the above EG + EG* analogy frame, what RU is the student to induce?  a.  Fluids circulate throughout mechanical and biological systems. b.  A pump is an apparatus for moving fluids throughout systems. 
+@end
+@answer  b
+@tries 2
+@graphic none
+@video none
+@begin
+Because the student may induce an incorrect RU from an EG + EG* frame, it may be preferable to state the RU for her explicitly in a(n) _____ + EG + EG* introductory frame. 
+@end
+@answer  ru
+@tries 2
+@graphic none
+@video none
+@begin
+When learning an explicit RU, the student should adopt the expert programmer's carefully chosen statements of the RU. After the student can recognize and apply the RU with proficiency, then the ______ analogy frames are acceptable.  [Use the abbreviations and symbols in your answer] 
+@end
+@answer  eg + eg*
+@tries 2
+@graphic none
+@video none
+@begin
+The frame type that contains stimulus support and is an excellent method for introducing a new RU is the ______ frame type.  [Use the abbreviations and symbols in your answer] 
+@end
+@answer  ru + eg + eg*
+@tries 2
+@graphic none
+@video none
+@begin
+If the RU is very complex, the programmer may include (three/four) ______ EGs following the RU, as in the RU + EG + EG + EG* frame type. 
+@end
+@answer  three
+@tries 2
+@graphic none
+@video none
+@begin
+If the programmer wants the student to induce the RU from an EG, and apply it to another EG with stimulus support, the programmer would use the ______ analogy frame type.  [Use the abbreviations and symbols] 
+@end
+@answer  eg + eg*
+@tries 2
+@graphic none
+@video none

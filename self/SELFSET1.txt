@@ -1,0 +1,242 @@
+@begin
+  [This tutorial assumes that you have an "intermediate" acquaintance with terminology in behavior analysis.  To do well, you need NOT have previously read Skinner's paper.  The tutorial teaches as it tests you so pay close attention to every word in each frame.  By the way, this frame calls for two words.  Place a space between them.]  
+  
+  It is often difficult to see what c_____s behavior--we appear<br/>to initiate it ourselves.  For thousands of years we have assumed<br/>that at least some of what we do is caused by external events.  But<br/>when external causes cannot be identified, some behavior seems to<br/>begin (inside/outside) _______ the person. <br/>
+@end
+@answer CAUSES INSIDE
+@tries 2
+@graphic none
+@video none
+@begin
+  A comprehensive analysis of behavior now (questions/confirms)<br/>_______ the possibility of an initiating self.<br/>
+@end
+@answer QUESTIONS
+@tries 1
+@graphic none
+@video none
+@begin
+  Science now explains the origin of species not by creation, but <br/>by ev_______n (i.e., natural selection).  From this point of view, variations are s_______ed<br/>by a changing environment.  They (are/are not) _______ caused by an<br/>initiating agent.<br/>
+@end
+@answer EVOLUTION SELECTED ARE NOT
+@tries 2
+@graphic none
+@video none
+@begin
+  [Notice your accumulated percent correct in the upper left hand corner. It doesn't have to be a perfect 100 percent, even though might you think so.] 
+  
+  Well over a century ago, Darwin emphasized the contribution of<br/>a selecting en_______nt.  In the 20th century b_______or come<br/>within scope of scientific analysis. <br/>
+@end
+@answer ENVIRONMENT BEHAVIOR
+@tries 2
+@graphic none
+@video none
+@begin
+  Behavior is product of three kinds of s_______n (i.e., natural,<br/>operant, and cultural).<br/>
+@end
+@answer SELECTION
+@tries 2
+@graphic none
+@video none
+@begin
+  (Natural/operant/cultural) _______ selection is the field of<br/>ethology.<br/>
+@end
+@answer NATURAL
+@tries 2
+@graphic none
+@video none
+@begin
+  _______nt conditioning is the field of behavior analysis.  It occurs within a "culture," which is a set of reinforcement contingencies.<br/>
+@end
+@answer OPERANT
+@tries 2
+@graphic none
+@video none
+@begin
+  A c_______re is a set of social contingencies.  Much of what<br/>people __ is the product of these social contingencies.<br/>
+@end
+@answer CULTURE DO
+@tries 2
+@graphic none
+@video none
+@begin
+  S_______ _______ies shape how people b_______ve.<br/>
+@end
+@answer SOCIAL CONTINGENCIES BEHAVE
+@tries 2
+@graphic none
+@video none
+@begin
+  Much of our daily behavior has been established by s______l<br/>contingencies that select behavior from available variations.<br/>
+@end
+@answer SOCIAL
+@tries 2
+@graphic none
+@video none
+@begin
+  Selection may be survival of a structural mutation or a behavioral one.  The type of s_______n determines the terms we use to designate<br/>features of the behaving individual.<br/>
+@end
+@answer SELECTION
+@tries 2
+@graphic none
+@video none
+@begin
+  (Natural/operant/cultural) _______ selection gives us<br/> the "organism." <br/>
+@end
+@answer NATURAL
+@tries 2
+@graphic none
+@video none
+@begin
+  The kind of selection called _______ conditioning gives us the<br/>repertoire we call a "person" (in contrast to "organism" or<br/>"self").<br/>
+@end
+@answer OPERANT
+@tries 2
+@graphic none
+@video none
+@begin
+  While operant conditioning develops the repertoire we call a<br/>(person/self) _______, the social contingencies we call cultures<br/>give us the (person/self) _______.<br/>
+@end
+@answer PERSON SELF
+@tries 2
+@graphic none
+@video none
+@begin
+  The term "self" once referred to a repertoire of<br/>(operant/respondent) _______ behavior, but it now seems better to<br/>restrict this term to (operant/respondent) ________ behavior (i.e., internal<br/>physiological behavior established by social contingencies).<br/>
+@end
+@answer OPERANT RESPONDENT
+@tries 2
+@graphic none
+@video none
+@begin
+  In this more refined use, the term _______ refers to a person's<br/>respondent reactions, not an operant repertoire.<br/>
+@end
+@answer SELF
+@tries 2
+@graphic none
+@video none
+@begin
+  Therefore, the term self better refers to _______ behavior.<br/>
+@end
+@answer RESPONDENT
+@tries 2
+@graphic none
+@video none
+@begin
+  Given this change in definition, a (self/person) _______ is a repertoire of behavior that can<br/>be observed by others.  However, a _______ is a set of accompanying internal<br/>states, observed only through feeling or introspection.<br/>
+@end
+@answer PERSON SELF
+@tries 2
+@graphic none
+@video none
+@begin
+  When a person refers to "myself" the person is using what is<br/>called the reflexive self of the grammarian, but this (is/is not)<br/>_______ the self described here.<br/>
+@end
+@answer IS NOT
+@tries 1
+@graphic none
+@video none
+@begin
+  With this refined usage, the (self/person) _______ is what one <br/>actively does; the (self/person) _______ is the behavior one feels.<br/>
+@end
+@answer PERSON SELF
+@tries 2
+@graphic none
+@video none
+@begin
+  The self is what a person _______s like.<br/>
+@end
+@answer FEELS
+@tries 2
+@graphic none
+@video none
+@begin
+  The kind of s___ we are describing here is the one a person is<br/>enjoined to know when advised to "know thyself."<br/>
+@end
+@answer SELF
+@tries 2
+@graphic none
+@video none
+@begin
+  In the injunction "know thyself," the self to be known is <br/> really (respondent/operant) _______ behavior.<br/>
+@end
+@answer RESPONDENT
+@tries 1
+@graphic none
+@video none
+@begin
+  The English language evolved when it was assumed that behavior<br/>began (outside/inside) _______ the individual.<br/>
+@end
+@answer INSIDE
+@tries 1
+@graphic none
+@video none
+@begin
+  For example, one was said to sense the environment and then<br/>act upon it.  The direction of control was once thought to be:  (a or b)<br/>          <br/>          a.  inside to outside<br/>          b.  outside to inside<br/>
+@end
+@answer A
+@tries 1
+@graphic none
+@video none
+@begin
+  However, prior stimuli elicit or evoke behavior and<br/>consequences then select behavior.  In both cases, the chain of<br/>events leading to action begins (inside the person/in the external environment) _______.<br/>
+@end
+@answer IN THE EXTERNAL ENVIRONMENT
+@tries 1
+@graphic none
+@video none
+@begin
+  A science of behavior has reversed the traditional explanation<br/>of the source of behavior.  It demonstrates that behavior begins<br/>_______side the person.<br/>
+@end
+@answer OUTSIDE
+@tries 2
+@graphic none
+@video none
+@begin
+  The products of a scientific analysis of behavior have shown that <br/>the environment acts (first/last) _______, and in either of two ways.<br/>
+@end
+@answer FIRST
+@tries 1
+@graphic none
+@video none
+@begin
+  When it acts as a consequence, the e_______nt reinforces and <br/>establishes operants. <br/>
+@end
+@answer ENVIRONMENT
+@tries 2
+@graphic none
+@video none
+@begin
+  As a setting, the _______ also elicits or evokes behavior.<br/>
+@end
+@answer ENVIRONMENT
+@tries 2
+@graphic none
+@video none
+@begin
+  Few everyday English words (i.e.,the vernacular) are at home<br/>in the behavioral interpretation because they usually imply that behavior<br/>begins _______e the individual.<br/>
+@end
+@answer INSIDE
+@tries 2
+@graphic none
+@video none
+@begin
+  We are more easily understood by the layman when we ask why <br/>  (1) people observe certain conditions of their bodies  <br/>  (2) the conditions evoke self-observation.  <br/><br/>The reason is that (1/2) _______ emphasizes the individual's role as an<br/>originator.<br/>
+@end
+@answer 1
+@tries 1
+@graphic none
+@video none
+@begin
+  The ver_______ar is the language we use at home.  This<br/>traditional interpretation of why we behave can scarcely be<br/>avoided.  But it is a great (help/obstacle) _______ to a better<br/>understanding of behavior.<br/>
+@end
+@answer VERNACULAR OBSTACLE
+@tries 2
+@graphic none
+@video none
+@begin
+  Our everyday language (denies/implies) _______ the very<br/>explanation we are trying to eradicate.  [You are about to complete Set 1]<br/>
+@end
+@answer IMPLIES
+@tries 1
+@graphic none
+@video none

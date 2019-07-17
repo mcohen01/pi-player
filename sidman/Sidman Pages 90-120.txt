@@ -1,0 +1,336 @@
+@begin
+1.   When evaluating the effects of independent variables on a<br/>     baseline, complexity of the baseline is (a serious/not<br/>     necessarily a) _______ problem.<br/>
+@end
+@answer NOT NECESSARILY A
+@tries 1
+@graphic none
+@video none
+@begin
+2.   (T or F)  Successful replications can balance out failures<br/>     to replicate.  The problem is solved by finding that a<br/>     statistically significant number of subjects show the<br/>     effect.<br/>
+@end
+@answer F
+@tries 1
+@graphic none
+@video none
+@begin
+3.   Which of the following is the appropriate solution to the<br/>     problem of failure to replicate?<br/>     <br/>     a.  drop the problem and have a beer<br/>     b.  demonstrate that successful replications were the result<br/>          of some experimental artifact<br/>     c.  demonstrate that failures resulted from inadequate<br/>          control<br/>     d.  state the percent of the total subjects who showed the<br/>          replicated experimental effects and let the reader<br/>          ponder the issue<br/>     e.  two of the above<br/>
+@end
+@answer E
+@tries 1
+@graphic none
+@video none
+@begin
+4.   (T or F)  A natural process exists independently of our<br/>     degree of confidence in its reality.<br/>
+@end
+@answer T
+@tries 1
+@graphic none
+@video none
+@begin
+5.   (T or F)  Some data can be true only within certain limits<br/>     of probability, but these limits are imposed by our<br/>     inevitable errors of measurement.<br/>
+@end
+@answer T
+@tries 1
+@graphic none
+@video none
+@begin
+6.   (T or F)  If a datum fails to achieve consistent<br/>     replication, the scientist may reasonably assume that we<br/>     live in a probabilistic world where truth is a relative<br/>     matter.<br/>
+@end
+@answer F
+@tries 1
+@graphic none
+@video none
+@begin
+7.   The proper conclusion to draw from variability is that one's<br/>     _______ over the datum is inadequate.<br/>
+@end
+@answer CONTROL
+@tries 1
+@graphic none
+@video none
+@begin
+8.   Once an organism has experienced a particular contingency it<br/>     may be changed in such a way that further research with some<br/>     variables will not be characteristic of organisms who have<br/>     not experienced the particular contingency.  In this case,<br/>     intersubject comparison is (still unjustified/necessary)<br/>     _______.<br/>
+@end
+@answer NECESSARY
+@tries 1
+@graphic none
+@video none
+@begin
+9.   Resistance to extinction with respect to a normal adult<br/>     human (can/cannot) _______ be adequately evaluated by<br/>     counting the number of unreinforced responses it takes to<br/>     reach an "operant level."<br/>
+@end
+@answer CANNOT
+@tries 1
+@graphic none
+@video none
+@begin
+10.  If a transition state is not recoverable, it is (not/still)<br/>     _______ amenable to intrasubject replication.<br/>
+@end
+@answer NOT
+@tries 1
+@graphic none
+@video none
+@begin
+11.  Inability to recover an initial transition state may not be<br/>     result from an irreversible change in behavior or in the<br/>     nervous system, but rather because of incomplete<br/>     experimental _______ of the variables involved in the<br/>     transition.<br/>
+@end
+@answer CONTROL
+@tries 1
+@graphic none
+@video none
+@begin
+12.  Replication of a phenomenon may not be possible because a<br/>     number of _______es may not have been present in the<br/>     original experiment.<br/>
+@end
+@answer VARIABLES
+@tries 1
+@graphic none
+@video none
+@begin
+13.  The neatest, simplest, and most satisfying systematizations<br/>     of the complexity of phenomena are usually the result of<br/>     painstaking, arduous, and compulsively thorough e_______al<br/>     labor.<br/>
+@end
+@answer EXPERIMENTAL
+@tries 1
+@graphic none
+@video none
+@begin
+14.  (T or F) Intrasubject replication is usually a more rigorous<br/>     endeavor because it may require more control of relevant<br/>     variables.<br/>
+@end
+@answer T
+@tries 1
+@graphic none
+@video none
+@begin
+15.  When a different group of subjects is used for comparison in<br/>     an experimental analysis (in which the effect of a given<br/>     variable upon a transition phase is evaluated) the relevance<br/>     of the resulting data depends upon the population<br/>     distribution of various parameters of the ind______al<br/>     behavioral processes in question.<br/>
+@end
+@answer INDIVIDUAL
+@tries 1
+@graphic none
+@video none
+@begin
+16.  A group statistical analysis (precludes/underlines) _______<br/>     the determination of parametric values in the individuals of<br/>     a population, since the same individuals are (always/never)<br/>     _______ exposed to more than one value.<br/>
+@end
+@answer PRECLUDES NEVER
+@tries 1
+@graphic none
+@video none
+@begin
+17.  Failure to replicate may be due to behavior absent in the<br/>     person who tries to replicate.  If the research report is<br/>     published and the researcher has followed the "procedure"<br/>     section as closely as possible, the written research report<br/>     is (adequate/defective) _______.<br/>
+@end
+@answer DEFECTIVE
+@tries 1
+@graphic none
+@video none
+@begin
+18.  An experiment in which parameters of the independent or the<br/>     dependent variable have been altered from preceding similar<br/>     research is called a _______ replication.<br/>
+@end
+@answer SYSTEMATIC
+@tries 1
+@graphic none
+@video none
+@begin
+19.  Successful systematic replication demonstrates that the<br/>     finding in question can be observed under conditions which<br/>     are (different from/the same as) _________ those prevailing<br/>     in the original experiment.<br/>
+@end
+@answer DIFFERENT FROM
+@tries 1
+@graphic none
+@video none
+@begin
+20.  _______ replication helps to establish generality of a<br/>     phenomenon among the members of a species.  _______<br/>     replication accomplishes the same thing while extending the<br/>     generality to different situations.<br/>
+@end
+@answer DIRECT SYSTEMATIC
+@tries 1
+@graphic none
+@video none
+@begin
+21.  If a systematic replication fails, the original experiment<br/>     will still have to be redone, otherwise there is no way of<br/>     determining whether the failure to replicate stemmed from<br/>     the introduction of (old/new) _______ variables in the<br/>     second experiment, or whether the _______l of relevant<br/>     factors was inadequate in the first one.<br/>
+@end
+@answer NEW CONTROL
+@tries 1
+@graphic none
+@video none
+@begin
+22.  If systematic replication succeeds, the reliability of the<br/>     original finding is confirmed and the _______lity with<br/>     respect to other organisms and to other experimental<br/>     procedures is greatly (enhanced/reduced) _______.  More data<br/>     are then available than would have resulted from a simple<br/>     _______ replication.<br/>
+@end
+@answer GENERALITY ENHANCED DIRECT
+@tries 1
+@graphic none
+@video none
+@begin
+23.  _______ replication makes better use of limited resources.<br/>
+@end
+@answer SYSTEMATIC
+@tries 1
+@graphic none
+@video none
+@begin
+24.  The techniques of systematic replication (permit/do not<br/>     permit) _______ a relaxation of experimental effort.<br/>
+@end
+@answer DO NOT PERMIT
+@tries 1
+@graphic none
+@video none
+@begin
+25.  When the same baseline is used to compare the effect of one<br/>     variable and then it is used to evaluate the effects of a<br/>     new variable, the second manipulation is called a _______<br/>     replication.<br/>
+@end
+@answer SYSTEMATIC
+@tries 1
+@graphic none
+@video none
+@begin
+26.  Psychology failed to advance as a practical science until it<br/>     discovered the most fundamental dimension of behavior.  This<br/>     basic datum is the f_________ of behavior per unit of<br/>     time, or the _____e of behavior.<br/>
+@end
+@answer FREQUENCY RATE
+@tries 1
+@graphic none
+@video none
+@begin
+27.  Baselines upon which variables could be evaluated were not<br/>     available for experimental analysis until _____e was<br/>     discovered as the basic datum.<br/>
+@end
+@answer RATE
+@tries 1
+@graphic none
+@video none
+@begin
+28.  The _______ of behavior is inferred from frequency over<br/>     time, or rate.<br/>
+@end
+@answer PROBABILITY
+@tries 1
+@graphic none
+@video none
+@begin
+29.  The ______e of behavior is observed, the _______ of behavior<br/>     is inferred.  We (can/cannot) _______ directly observe the<br/>     latter.<br/>
+@end
+@answer RATE PROBABILITY CANNOT
+@tries 1
+@graphic none
+@video none
+@begin
+30.  Researchers outside "the experimental analysis of behavior"<br/>     do not ordinarily work with baselines because they do not<br/>     emphasize the ______ty of behavior as the basic dimension.<br/>
+@end
+@answer PROBABILITY
+@tries 1
+@graphic none
+@video none
+@begin
+31.  The notion of intrasubject replication (is/is not) _______<br/>     an important issue for those whose research focuses upon<br/>     momentary samplings of behavior rather than changes in the<br/>     ______e of behavior.<br/>
+@end
+@answer IS NOT RATE
+@tries 1
+@graphic none
+@video none
+@begin
+32.  Professors in traditional social science and educational<br/>     research courses are often unfamiliar with designs which<br/>     incorporate intrasubject replication because they do not<br/>     often work with experiments which focus upon changes in the<br/>     _______ty of behavior as revealed by comparison with a<br/>     baseline.<br/>
+@end
+@answer PROBABILITY
+@tries 1
+@graphic none
+@video none
+@begin
+33.  If you wish to know "about behavioral relationships" you<br/>     might be satisfied with (correlations/effective procedures)<br/>     _______.  If you wish to develop a technology for changing<br/>     behavior, you will concentrate upon research which deals<br/>     with (correlations/effective procedures) _______.<br/>
+@end
+@answer CORRELATIONS EFFECTIVE PROCEDURES
+@tries 1
+@graphic none
+@video none
+@begin
+34.  Intrasubject replication requires (more/less) _______<br/>     rigorous control of variables.  It (will/will not) _______<br/>     contribute more significantly to an effective technology<br/>     than research which deals with imperfect c_______ons between variables.<br/>
+@end
+@answer MORE WILL CORRELATIONS
+@tries 1
+@graphic none
+@video none
+@begin
+35.  The notion of a "free operant" situation means that the<br/>     a.  organism is free to respond during each "trial"<br/>          presentation of a discriminative stimulus<br/>     b.  organism can freely emit the response without<br/>          experimental or situational restriction<br/>
+@end
+@answer B
+@tries 1
+@graphic none
+@video none
+@begin
+36.  The "operant conditioning chamber" is a "_____ operant"<br/>     situation because the organism can emit the response without<br/>     restriction.<br/>
+@end
+@answer FREE
+@tries 1
+@graphic none
+@video none
+@begin
+37.  One of the great contributions of Skinner's early work was<br/>     that he first identified _______ty as the basic dimension of<br/>     a science of behavior.  He then discovered that the<br/>     so-called "_______  _______" [do not enter the quotes in<br/>     your answer] situation most sensitively revealed the effect<br/>     of independent variables upon this basic dimension of<br/>     behavior.  <br/>
+@end
+@answer PROBABILITY FREE OPERANT
+@tries 1
+@graphic none
+@video none
+@begin
+38.  The final crowning discovery was the importance of _______<br/>     as the major controlling class of variables responsible for changes in<br/>     the probability of behavior.<br/>
+@end
+@answer CONSEQUENCES
+@tries 1
+@graphic none
+@video none
+@begin
+39.  Research which employs "trials to criterion" (uses/does <br/>     not use) _______ the free operant situation to evaluate the rate<br/>     of behavior.<br/>
+@end
+@answer DOES NOT USE
+@tries 1
+@graphic none
+@video none
+@begin
+40.  The likelihood that an organism will do something is best<br/>     indicated by the observed _____e of the behavior.<br/>
+@end
+@answer RATE
+@tries 1
+@graphic none
+@video none
+@begin
+41.  Rate is best evaluated in a _______ operant situation.<br/>
+@end
+@answer FREE
+@tries 1
+@graphic none
+@video none
+@begin
+42.  The rate of a free operant is the best indication of the<br/>     overall _______ that the behavior will occur.<br/>
+@end
+@answer PROBABILITY
+@tries 1
+@graphic none
+@video none
+@begin
+43.  The behavior of an individual person was once thought to be<br/>     too variable to concentrate upon alone.  One had to ______p<br/>     individuals together to get a "general indicator" which was<br/>     to better typify the performance of the individual IF IT<br/>     WERE NOT SO VARIABLE.  Grouping was an effort to "control<br/>     for" variability without gaining better _______ of the<br/>     environmental factors which were producing the _______.<br/>
+@end
+@answer GROUP CONTROL VARIABILITY
+@tries 1
+@graphic none
+@video none
+@begin
+44.  Before the selection of rate as a basic datum and the free<br/>     operant situation as an experimental environment, _____ines<br/>     of behavior were not stable enough to use as "experimental<br/>     controls" upon which to compare the effects of independent<br/>     variables.  This could happen only when the variables<br/>     producing the troublesome _______ in the datum were<br/>     themselves adequately _______ed.<br/>
+@end
+@answer BASELINES VARIABILITY CONTROLLED
+@tries 1
+@graphic none
+@video none
+@begin
+45.  The term acq____ion refers to the emergence of new forms of<br/>     behavior which have not existed in the organism's repertoire<br/>     prior to the experimental manipulations.<br/>
+@end
+@answer ACQUISITION
+@tries 1
+@graphic none
+@video none
+@begin
+46.  The proper domain of l____ing includes any transition<br/>     that results from changes in the environmental _______cies<br/>     maintaining behavior.<br/>
+@end
+@answer LEARNING CONTINGENCIES
+@tries 1
+@graphic none
+@video none
+@begin
+47.  The properties of acq____ion are a function of the (following/prior)<br/>     _______ state of the behavior.  There is always some sort of<br/>     baseline of elements of the terminal behavior prior to<br/>     conditioning.<br/>
+@end
+@answer ACQUISITION PRIOR
+@tries 1
+@graphic none
+@video none
+@begin
+48.  More rigorous c_____l of the variables affecting behavior<br/>     leads to greater utility.<br/>
+@end
+@answer CONTROL
+@tries 1
+@graphic none
+@video none

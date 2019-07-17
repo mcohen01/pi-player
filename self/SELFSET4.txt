@@ -1,0 +1,119 @@
+@begin
+This is Frame 74 of 115 in the entire series of five sets.  OK, lets discuss what is called "the rational self."  "Reasons" are names of consequences.  When asked to explain why we are doing something, we "give a reason" by pointing to some _______e we are working to get.<br/>
+@end
+@answer CONSEQUENCE
+@tries 2
+@graphic none
+@video none
+@begin
+75.  "Rules" are statements that connect behavior with consequences.  "Haste makes waste" connects hasty behavior with _______ as a consequence.<br/>
+@end
+@answer WASTE
+@tries 2
+@graphic none
+@video none
+@begin
+76.  A person can extract a r_____ for himself such as "haste makes waste" by personally experiencing the consequences of hurrying too fast.<br/>
+@end
+@answer RULE
+@tries 2
+@graphic none
+@video none
+@begin
+77.  We learn by acquaintance with the contingencies rules describe and we also learn from the rules or descriptions of contingencies given to us by other people.  Learning by experience is "the school of hard knocks."  Learning from experience is learning by _______ with contingencies.<br/>
+@end
+@answer ACQUAINTANCE
+@tries 2
+@graphic none
+@video none
+@begin
+78.  The rule "experience is the dearest teacher, but a fool will have no other" suggests that fools can learn only by _______ance and not by responding to the description of contingencies (rules).<br/>
+@end
+@answer ACQUAINTANCE
+@tries 2
+@graphic none
+@video none
+@begin
+79.  Contingency-shaped behavior often has collateral emotional byproducts.  Lighting a gas burner may make a person who has previously burned himself feel anxious.  In this case, _______ity is a byproduct of contingency-shaped behavior.<br/>
+@end
+@answer ANXIETY
+@tries 2
+@graphic none
+@video none
+@begin
+80.  A person may learn to say a rule, not from personal experience, but because he or she is taught to do so by someone else.  A person who has learned to follow the rule--"light the match before turning the burner on" from advice rather than experience has learned (rule-governed/contingency-shaped) _______ behavior.<br/>
+@end
+@answer RULE-GOVERNED
+@tries 1
+@graphic none
+@video none
+@begin
+81.  Rule-governed behavior has little feeling except when consequences have followed.  In other words, so-called "book learning" has (few/many) _______ emotional byproducts because the person does not directly experience the consequences implied by the ______e.<br/>
+@end
+@answer FEW RULE
+@tries 2
+@graphic none
+@video none
+@begin
+82.  One is "reasonable" or "reasons" when one describes rules that govern behavior.  We act rationally when we can "put the r_______ into words."<br/>
+@end
+@answer REASONS
+@tries 2
+@graphic none
+@video none
+@begin
+83.  _______ing is the behavior of describing contingent relationships between _______ and its consequences.<br/>
+@end
+@answer REASONING BEHAVIOR
+@tries 2
+@graphic none
+@video none
+@begin
+84.  A person is acting rationally when he or she "puts _______ns into words."<br/>
+@end
+@answer REASONS
+@tries 2
+@graphic none
+@video none
+@begin
+85.  Most of our _______r is not rational in the sense that to a large part we cannot adequately supply good reasons for it.<br/>
+@end
+@answer BEHAVIOR
+@tries 2
+@graphic none
+@video none
+@begin
+86.  Most behavior is due to multiple causes acting together.  We may point to the more socially acceptable causes when, indeed, the more powerful contributing causes are punishable.  "I spanked him for his own good."  "Rationalizing" is giving the wrong or more socially acceptable _______ns for behavior.<br/>
+@end
+@answer REASONS
+@tries 2
+@graphic none
+@video none
+@begin
+87.  Lets discuss the issues of the "mine" and the "self."  Both the mind and the self refer to events that seemingly originate (outside/inside) _______ the person.<br/>
+@end
+@answer INSIDE
+@tries 1
+@graphic none
+@video none
+@begin
+88.  As a word for a felt or introspectively observed state that accompanies behavior, the s___f resembles the mind.<br/>
+@end
+@answer SELF
+@tries 2
+@graphic none
+@video none
+@begin
+89.  The _____d seems to be something "farther back inside" than self and is therefore even more likely to be mistaken for an originator.  <br/>
+@end
+@answer MIND
+@tries 2
+@graphic none
+@video none
+@begin
+90.  A further step back would, of course, reach the environmental _______ of reinforcement that are truly responsible for behavior. [You have one more set to do to complete this tutorial about the "originating" self.]<br/>
+@end
+@answer CONTINGENCIES
+@tries 2
+@graphic none
+@video none

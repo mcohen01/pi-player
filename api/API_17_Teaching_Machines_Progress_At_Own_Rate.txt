@@ -1,0 +1,252 @@
+@begin
+Programmed instruction is a technology designed to ______ the educational process. 
+@end
+@answer  control
+@tries 2
+@graphic none
+@video none
+@begin
+Programmed instruction controls the educational process.  If the desired changes in behavior are not produced, the program can be _____ed. 
+@end
+@answer  revised
+@tries 2
+@graphic none
+@video none
+@begin
+Teaching machines are an important part of programmed instruction because they control the presentation of the _____m itself. 
+@end
+@answer  program
+@tries 2
+@graphic none
+@video none
+@begin
+Teaching machines are important because they ______ the presentation of programmed materials. 
+@end
+@answer  control
+@tries 2
+@graphic none
+@video none
+@begin
+A computer is called a teaching ______ when it presents programmed instruction. 
+@end
+@answer  machine
+@tries 2
+@graphic none
+@video none
+@begin
+Programs are designed to be presented in a controlled manner.  ______ _____s provide the instrumentation for presenting them in this manner. 
+@end
+@answer  Teaching machines
+@tries 2
+@graphic none
+@video none
+@begin
+One can present many materials by means of teaching machines which could not be presented even by an individual tutor with such precise ______ of the presentation. 
+@end
+@answer  control
+@tries 2
+@graphic none
+@video none
+@begin
+A programmer can control exactly what items are presented to the student if he presents the material by means of a ______ ______. 
+@end
+@answer  teaching machine
+@tries 2
+@graphic none
+@video none
+@begin
+Teaching machines are designed to ______ the presentation of the program. 
+@end
+@answer  control
+@tries 2
+@graphic none
+@video none
+@begin
+Teaching machines can be evaluated according to whether or not they can be used to present a particular program in a carefully _____led manner. 
+@end
+@answer  controlled
+@tries 2
+@graphic none
+@video none
+@begin
+Teaching machines, such as computers, are designed to control the presentation of programs.  Just as a movie projector is useless without a film, a teaching machine is useless without a ______. 
+@end
+@answer  program
+@tries 2
+@graphic none
+@video none
+@begin
+Some programs can be presented successfully without machines, but other programs (for example, audio programs) could not be presented without a ______. 
+@end
+@answer  machine
+@tries 2
+@graphic none
+@video none
+@begin
+Teaching machines are used to control the presentation of programs.  Since the essence of programming is the ______ of the educational process, machines are often very important. 
+@end
+@answer  control
+@tries 2
+@graphic none
+@video none
+@begin
+If a student can go through a program without making the responses called for by the program, the presentation of the program is not adequately _____ed. 
+@end
+@answer  controlled
+@tries 2
+@graphic none
+@video none
+@begin
+If a student can go through a program without making the required responses, the programmer has lost ______ of the educational process. 
+@end
+@answer  control
+@tries 2
+@graphic none
+@video none
+@begin
+It is a fact of human nature that if a program does not require students to make the desired responses the programmer cannot rely upon the students to make the desired ______ on their own. 
+@end
+@answer  responses
+@tries 2
+@graphic none
+@video none
+@begin
+To assure control of the educational process, the presentation of the ______ must be foolproof and cheatproof. 
+@end
+@answer  program
+@tries 2
+@graphic none
+@video none
+@begin
+The programmer cannot rely upon instructions or upon the students' desire to learn to assure himself that students will make the desired ______s. 
+@end
+@answer  responses
+@tries 2
+@graphic none
+@video none
+@begin
+Students do learn from unprogrammed materials and from inadequately controlled programs.  But this, by itself, is insufficient reason for using an _____tely controlled program. 
+@end
+@answer  inadequately
+@tries 2
+@graphic none
+@video none
+@begin
+It is sometimes of practical value to develop an inadequately controlled program to demonstrate the effectiveness of a particular application of ______ instruction. 
+@end
+@answer  programmed
+@tries 2
+@graphic none
+@video none
+@begin
+You can sometimes effect a change in the behavior of your superiors by a gradual progression from traditional teaching to programmed instruction.  But, in this case, a gradual ______ of small steps may be more costly than one large step. 
+@end
+@answer  progression
+@tries 2
+@graphic none
+@video none
+@begin
+In a teaching machine program, the student is presented with items in a gradual progression of small steps.  Each student can go through the ______ at his or her own rate. 
+@end
+@answer  program
+@tries 2
+@graphic none
+@video none
+@begin
+One of the advantages of a teaching machine program is that each student can go through the program at (the same rate/his own rate) ______. 
+@end
+@answer  his own rate
+@tries 2
+@graphic none
+@video none
+@begin
+Lecture presentations and discussions can move too slow for the advanced students and too _____t for the low ability students. 
+@end
+@answer  fast
+@tries 2
+@graphic none
+@video none
+@begin
+Students learn at _____nt rates. 
+@end
+@answer  different
+@tries 2
+@graphic none
+@video none
+@begin
+A student who makes an "F" in a course may not have failed if he was able to progress at his own ______. 
+@end
+@answer  rate
+@tries 2
+@graphic none
+@video none
+@begin
+In programmed instruction, the program progresses when the student progresses.  If the student stops responding, the teaching machine should ______ presenting the program. 
+@end
+@answer  stop
+@tries 2
+@graphic none
+@video none
+@begin
+The teaching machine should stop presenting the program if the student stops _____ing. 
+@end
+@answer  responding
+@tries 2
+@graphic none
+@video none
+@begin
+Since one of the techniques that control the educational process requires the immediate reinforcement of correct responses, the machine and program must provide for ______ ______ of correct responses. 
+@end
+@answer  immediate reinforcement
+@tries 2
+@graphic none
+@video none
+@begin
+If a machine does not provide for immediate reinforcement of correct responses, the machine is not a ______ machine. 
+@end
+@answer  teaching
+@tries 2
+@graphic none
+@video none
+@begin
+Machines which do not provide for the techniques used in programming for controlling the educational process are not ______ ______. 
+@end
+@answer  teaching machines
+@tries 2
+@graphic none
+@video none
+@begin
+A teaching machine is a device which presents programs and provides for the techniques of _____l used in programming. 
+@end
+@answer  control
+@tries 2
+@graphic none
+@video none
+@begin
+Teaching machines are designed with features necessary for the _____ed presentation of a particular type of program. 
+@end
+@answer  controlled
+@tries 2
+@graphic none
+@video none
+@begin
+If a machine does not have the features necessary for the controlled presentation of programs, it is not a ______ ______. 
+@end
+@answer  teaching machine
+@tries 2
+@graphic none
+@video none
+@begin
+Devices for the controlled presentation of programmed materials are called ______ ______. 
+@end
+@answer  teaching machines
+@tries 2
+@graphic none
+@video none
+@begin
+Teaching machines let learners progress at their own _____s. 
+@end
+@answer  rates
+@tries 2
+@graphic none
+@video none

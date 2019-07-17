@@ -1,0 +1,196 @@
+@begin
+The answer a student is to give to a frame is derived from the list of r_____s and concepts that is the backbone of the program. 
+@end
+@answer  rules
+@tries 2
+@graphic none
+@video none
+@begin
+The programmer's choice of the answer required by a frame will influence the content organization within the frame; therefore, the answer should be determined (before/after) ______ the frame is composed. 
+@end
+@answer  before
+@tries 2
+@graphic none
+@video none
+@begin
+Both the answer and the o_____r of the rule and examples within a frame should be determined before a frame is composed. 
+@end
+@answer  order
+@tries 2
+@graphic none
+@video none
+@begin
+Since important strengthening comes from frequent overt responding, most frames will be (short/long) ______. 
+@end
+@answer  short
+@tries 2
+@graphic none
+@video none
+@begin
+The successful introduction of a rule usually requires the inclusion of many e_____s. 
+@end
+@answer  examples
+@tries 2
+@graphic none
+@video none
+@begin
+Since "induction" is a difficult process to achieve and can result in a higher probability of a wrong answer, the rule within each frame should usually occur (first/last) ______. 
+@end
+@answer  first
+@tries 2
+@graphic none
+@video none
+@begin
+Since the probability of continued reading falls immediately after the student reaches a blank, the answer blank should be positioned near the ______ of the frame. 
+@end
+@answer  end
+@tries 2
+@graphic none
+@video none
+@begin
+Everything in a frame should contribute to terminal objectives and should relate directly to the answer.  If material doesn't contribute to program objectives it could detract from them and it wastes the _____e of both the student and the programmer. 
+@end
+@answer  time
+@tries 2
+@graphic none
+@video none
+@begin
+_____thing in a frame should contribute to terminal objectives. 
+@end
+@answer  everything
+@tries 2
+@graphic none
+@video none
+@begin
+Student performance should be well-primed.  Sentence content and vocabulary should (distantly/closely) _______ approximate what the student is already on the verge of saying. 
+@end
+@answer  closely
+@tries 2
+@graphic none
+@video none
+@begin
+A good frame plays upon strengths already established. Sentences should use familiar language and be simple and straightforward.  But frame sentences will also be saying (new/old) ______ things to a student. 
+@end
+@answer  new
+@tries 2
+@graphic none
+@video none
+@begin
+When a programmer uses long sentences she tries to condition too much "in one sweep."  Therefore, as a rule, sentences in frames should be ______. 
+@end
+@answer  short
+@tries 2
+@graphic none
+@video none
+@begin
+Frames condition new ways of saying things; they establish new intraverbal relationships.  But trying to condition too much in one frame will only increase the frequency of student e_____s. 
+@end
+@answer  errors
+@tries 2
+@graphic none
+@video none
+@begin
+A programmer's expressions and vocabulary are, of course, well-known to him, but there may ____t be a very close match with what the learner using the program says. 
+@end
+@answer  not
+@tries 2
+@graphic none
+@video none
+@begin
+Odd phrases or unusual vocabulary could raise the likelihood of _____rs and slow down reading. 
+@end
+@answer  errors
+@tries 2
+@graphic none
+@video none
+@begin
+Except for the points in the frames where the new conditioning is the deliberate focus of the frame, the words and phrases should be _____iar to the student. 
+@end
+@answer  familiar
+@tries 2
+@graphic none
+@video none
+@begin
+You have not experienced many illustrations or any video displays in the present program.  Illustrations take extra time to construct.  But more importantly, the relationship of illustrations to the strengthening of answers is (very/not) ______ clear. 
+@end
+@answer  not
+@tries 2
+@graphic none
+@video none
+@begin
+Graphics or video displays can be used for two reasons. First, they can increase the r_____ing effect of moving to a new frame. 
+@end
+@answer  reinforcing
+@tries 2
+@graphic none
+@video none
+@begin
+Graphics can also contribute to the student's production of a c_____t response. 
+@end
+@answer  correct
+@tries 2
+@graphic none
+@video none
+@begin
+A graphic or video display can be used for "motivational" reasons; it can be a pleasing stimulus used to make progress through a program more _____cing. 
+@end
+@answer  reinforcing
+@tries 2
+@graphic none
+@video none
+@begin
+But if being correct is already a reinforcer sufficient to sustain a student's working on the program, the addition of "motivational" graphics (would/would not) ______ seem to be necessary. 
+@end
+@answer  would not
+@tries 2
+@graphic none
+@video none
+@begin
+Most software programmers are not familiar with the principles of good programming you are now learning.  They are often just making the computer "do fun things" in the name of ed_____ion. 
+@end
+@answer  education
+@tries 2
+@graphic none
+@video none
+@begin
+Many software programmers think the more "exciting" the computer can be, the more learning goes on.  They are not aware that simply being ______ when responding to successive frames can be powerfully motivational. 
+@end
+@answer  correct
+@tries 2
+@graphic none
+@video none
+@begin
+A graphic or video display can be used for a better purpose than simply to be pleasing.  Just like words, an illustration or graphic in a frame should contribute to the likelihood of appropriate intraverbals.  It can serve as a s_____y stimulus (i.e., a prompt or a prime). 
+@end
+@answer  supplementary
+@tries 2
+@graphic none
+@video none
+@begin
+A graphic is a stimulus that can be slowly faded or withdrawn as the program proceeds.  The words that are contiguously paired with the graphic will then come to evoke "seeing" the graphic when it is (there/not there) ______. 
+@end
+@answer  not there
+@tries 2
+@graphic none
+@video none
+@begin
+Seeing a graphic or image when it is no longer there is often very helpful in producing a correct answer.  A student can "imagine" a graphic and automatically think of related in_____al responses. 
+@end
+@answer  intraverbal
+@tries 2
+@graphic none
+@video none
+@begin
+Thinking or saying words can evoke thinking about, remembering, or "seeing" a g_____ic when it is no longer present. 
+@end
+@answer  graphic
+@tries 2
+@graphic none
+@video none
+@begin
+Relationships between sets of words, objects, or events are often very difficult to say in words.  The "seeing" of a graphic may be a helpful link in a "chain of thinking."  One graphic or video display may be worth a thousand _______ 
+@end
+@answer  words
+@tries 2
+@graphic none
+@video none

@@ -1,0 +1,280 @@
+@begin
+1.   Sidman argues that<br/>     <br/>     a.  there are exacting rules of experimental design<br/>     b.  there are no rules of experimental design<br/>
+@end
+@answer B
+@tries 1
+@graphic none
+@video none
+@begin
+2.   Appropriate experimental design is determined by<br/>     <br/>     a.  logical and empirical principles<br/>     b.  the contingencies of the experimental situation<br/>
+@end
+@answer B
+@tries 1
+@graphic none
+@video none
+@begin
+3.   Pilot studies<br/>     <br/>     a.  are small trials of the same contingencies of the<br/>          full-fledged experiment<br/>     <br/>     b.  are very often attempts with less precisely controlled<br/>conditions<br/>
+@end
+@answer B
+@tries 1
+@graphic none
+@video none
+@begin
+4.   The results of a pilot study may not be g______able to the<br/>     conditions of the eventual planned study.<br/>
+@end
+@answer GENERALIZABLE
+@tries 1
+@graphic none
+@video none
+@begin
+5.   Sloppy experiments are often called ______ experiments.<br/>
+@end
+@answer PILOT
+@tries 1
+@graphic none
+@video none
+@begin
+6.   Sidman sees (a/no) _______ distinction between a pilot study<br/>     and a full-fledged experiment.<br/>
+@end
+@answer NO
+@tries 1
+@graphic none
+@video none
+@begin
+7.   An experiment is (always/never) ______ designed as a pilot<br/>     study, according to Sidman.<br/>
+@end
+@answer NEVER
+@tries 1
+@graphic none
+@video none
+@begin
+8.   An experiment becomes a _______ study only when some<br/>     overlooked factor comes into play and reveals a technical<br/>     fault in the procedure.<br/>
+@end
+@answer PILOT
+@tries 1
+@graphic none
+@video none
+@begin
+9.   An experimenter may fail to control some variable in an<br/>     experiment, then discover a resulting new behavioral<br/>     relationship.  He may call the first attempt a ______ study.<br/>
+@end
+@answer PILOT
+@tries 1
+@graphic none
+@video none
+@begin
+10.  The student of experimental design can be assured that there<br/>     is generally a certain amount of unwritten material between<br/>     the _____ of any experimental report.<br/>     <br/>     a.  results and discussion<br/>     b.  discussion and references<br/>     c.  introduction and the main body<br/>     d.  apparatus and procedures section<br/>
+@end
+@answer C
+@tries 1
+@graphic none
+@video none
+@begin
+11.  There is (no neat/a clear) ______ demarcation at which an<br/>     experiment is transformed from a ______ study into a<br/>     substantial contribution.<br/>
+@end
+@answer NOT NEAT PILOT
+@tries 1
+@graphic none
+@video none
+@begin
+12.  The Estes and Skinner (1941) study presented a stimulus<br/>     which terminated with a shock to the feet.  Subsequently,<br/>     the intermittently reinforced lever pressing rate declined<br/>     during the stimulus.  The effect was called _______ed<br/>     _______n.<br/>
+@end
+@answer CONDITIONED SUPPRESSION
+@tries 1
+@graphic none
+@video none
+@begin
+13.  The "conditioned suppression" effect was (also/not) _______<br/>     observed when the same procedure was applied to avoidance<br/>     behavior.<br/>
+@end
+@answer NOT
+@tries 1
+@graphic none
+@video none
+@begin
+14.  Researchers found that the pre-shock stimulus would<br/>     (facilitate/suppress) ______ a food-reinforced response when<br/>     they had given that response a prior history of avoidance<br/>     conditioning.<br/>
+@end
+@answer FACILITATE
+@tries 1
+@graphic none
+@video none
+@begin
+15.  The experiment was accomplished with concurrent avoidance<br/>     and food-reinforced schedules.  The results were that<br/>     <br/>     a.  both responses were suppressed close to shocks<br/>     b.  both responses were facilitated close to shocks<br/>     c.  one went up and the other went down<br/>
+@end
+@answer B
+@tries 1
+@graphic none
+@video none
+@begin
+16.  The researchers found that<br/>     <br/>     a.  they could extinguish the food maintained responding<br/>     b.  the avoidance contingency was somehow maintaining<br/>          responses for the concurrent food schedule<br/>     c.  neither of the above<br/>
+@end
+@answer B
+@tries 1
+@graphic none
+@video none
+@begin
+17.  A pilot study (is/is not) _______ a necessary first step in<br/>     experimental design.<br/>
+@end
+@answer IS NOT
+@tries 1
+@graphic none
+@video none
+@begin
+18.  A pilot study is<br/>     <br/>     a.  a carefully constructed study to see whether the area of<br/>          research will be productive<br/>     b.  an unplanned consequence of insufficient knowledge<br/>
+@end
+@answer B
+@tries 1
+@graphic none
+@video none
+@begin
+19.  The stable or _______ state is one in which the behavior in<br/>     question does not change its characteristics over a period<br/>     of time.  The extinction process (is/is not) _______ an<br/>     example of this phenomenon.<br/>
+@end
+@answer STEADY IS NOT
+@tries 1
+@graphic none
+@video none
+@begin
+20.  The "descriptive" type of experiment (relates/does not<br/>     relate) _______ an aspect of behavior to several values of a<br/>     manipulated independent variable.<br/>
+@end
+@answer DOES NOT RELATE
+@tries 1
+@graphic none
+@video none
+@begin
+21.  It is the characteristics of behavior in time, under a<br/>     constant set of maintaining conditions, which are of major<br/>     interest in the (descriptive/manipulative) _______ study.<br/>
+@end
+@answer DESCRIPTIVE
+@tries 1
+@graphic none
+@video none
+@begin
+22.  A mixed schedule of reinforcement involves ____o or more<br/>     different and ran__mly alter___ting schedules of<br/>     reinforcement.<br/>
+@end
+@answer TWO RANDOMLY ALTERNATING
+@tries 1
+@graphic none
+@video none
+@begin
+23.  A "mixed" schedule of reinforcement<br/>     <br/>     a.  involves one complex schedule with a mixed<br/>          discriminative stimulus<br/>     <br/>     b.  two different schedules with no correlated stimuli<br/>
+@end
+@answer B
+@tries 1
+@graphic none
+@video none
+@begin
+24.  Complicated social situations are probably examples of<br/>     _____d schedules of reinforcement.<br/>
+@end
+@answer MIXED
+@tries 1
+@graphic none
+@video none
+@begin
+25.  D_______ive experiments involving st____y states which<br/>     evolve after many hours are not esoteric.  They are<br/>     duplications of situations which occur in s_____l<br/>     relationships.<br/>
+@end
+@answer DESCRIPTIVE STEADY SOCIAL
+@tries 1
+@graphic none
+@video none
+@begin
+26.  Scientists (are not/are) _______ likely to call the simple<br/>     description of behavioral properties as they reveal<br/>     themselves over a long period of time and under a constant<br/>     set of conditions, an "experiment."<br/>
+@end
+@answer ARE NOT
+@tries 1
+@graphic none
+@video none
+@begin
+27.  Textbooks about experimentation (usually/rarely) _______<br/>     discuss steady state demonstrations like what happens after<br/>     long exposure to reinforcement schedules.<br/>
+@end
+@answer RARELY
+@tries 1
+@graphic none
+@video none
+@begin
+28.  "Ethnographic" studies (do not/appear to) ______ qualify as<br/>     scientific experiments.<br/>
+@end
+@answer APPEAR TO
+@tries 1
+@graphic none
+@video none
+@begin
+29.  Margaret Mead accomplished ethnographic studies in the form<br/>     of her books about cultures.  Such ethnographic studies may<br/>     be criticized because they do not verify the _______<br/>     responsible for the behaviors observed.<br/>
+@end
+@answer VARIABLES
+@tries 1
+@graphic none
+@video none
+@begin
+30.  (T or F) ___ Demonstrations without manipulation can be<br/>     compared across different situations.<br/>
+@end
+@answer T
+@tries 1
+@graphic none
+@video none
+@begin
+31.  It is possible to use independently accomplished<br/>     demonstrations<br/>     <br/>     a.  without the necessity of repeating them within an<br/>          experiment<br/>     <br/>     b.  only in areas where a high order of control has been<br/>          demonstrated<br/>
+@end
+@answer B
+@tries 1
+@graphic none
+@video none
+@begin
+32.  Comparison across ethnographic studies is a (tenuous/valid)<br/>     _____ practice because the order of control demonstrated in<br/>     each study is (low/high) _______.<br/>
+@end
+@answer TENUOUS LOW
+@tries 1
+@graphic none
+@video none
+@begin
+33.  Sidman argues that the (descriptive/manipulative) _______<br/>     investigation of steady-state behavior must precede any<br/>     (descriptive/manipulative) _______ study.<br/>
+@end
+@answer DESCRIPTIVE MANIPULATIVE
+@tries 1
+@graphic none
+@video none
+@begin
+34.  Before introducing a new _____le, we need to establish a<br/>     baseline revealing a ______ state.<br/>
+@end
+@answer VARIABLE STEADY
+@tries 1
+@graphic none
+@video none
+@begin
+35.  The steady state baseline permits the effects of the<br/>     manipulated _______les to be evaluated with reference to the<br/>     i______'s own _______r.<br/>
+@end
+@answer VARIABLES INDIVIDUAL'S BEHAVIOR
+@tries 1
+@graphic none
+@video none
+@begin
+36.  An immediate virtue of the _____ state is that it can<br/>     substitute for a _______l group.  <br/>
+@end
+@answer STEADY CONTROL
+@tries 1
+@graphic none
+@video none
+@begin
+37.  A steady state baseline thus eliminates ______subject ______<br/>     from the data.<br/>
+@end
+@answer INTRASUBJECT VARIABILITY
+@tries 1
+@graphic none
+@video none
+@begin
+38.  Variables that are dismissed as having little or no effect,<br/>     when group comparisons are made, may prove to be<br/>     (inconsequential/extremely powerful)  when evaluated against<br/>     a stable individual b_______e.<br/>
+@end
+@answer EXTREMELY POWERFUL BASELINE
+@tries 1
+@graphic none
+@video none
+@begin
+39.  Intersubject variability (is/is not) _______ a feature of<br/>     behavioral processes in the individual organism.  When such<br/>     variability is included in the measurement of presumed<br/>     individual processes, the resolving power of the measures is<br/>     (increased/sacrificed) _______.<br/>
+@end
+@answer IS NOT SACRIFICED
+@tries 1
+@graphic none
+@video none
+@begin
+40.  The more rigorous the experimental _______, and the more<br/>     precise and sensitive the m______nt technique, the greater<br/>     will be the g_______ possessed by the experimental results.<br/>
+@end
+@answer CONTROL MEASUREMENT GENERALITY
+@tries 1
+@graphic none
+@video none

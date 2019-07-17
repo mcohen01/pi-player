@@ -1,0 +1,273 @@
+@begin
+Unlike reading a book or listening to lectures, programmed instruction requires students to make _____e responses. 
+@end
+@answer  observable
+@tries 2
+@graphic none
+@video none
+@begin
+By immediately telling the student whether or not a response is acceptable, a programmer changes the ______y that the response will be emitted on future occasions. 
+@end
+@answer  probability
+@tries 2
+@graphic none
+@video none
+@begin
+Immediately telling the student that a response is correct increases the probability that the response will occur on future occasions.  This is called _____ing the response. 
+@end
+@answer  reinforcing
+@tries 2
+@graphic none
+@video none
+@begin
+To increase the probability of an acceptable response, we must reinforce it _____y. 
+@end
+@answer  immediately
+@tries 2
+@graphic none
+@video none
+@begin
+To be able to immediately reinforce a response, the student must first _____t an observable response. 
+@end
+@answer  emit
+@tries 2
+@graphic none
+@video none
+@begin
+The programmer's task is to change the _____y of particular responses in particular circumstances. 
+@end
+@answer  probability
+@tries 2
+@graphic none
+@video none
+@begin
+A program changes initial behavior to match the specified ______ _____r. 
+@end
+@answer  terminal behavior
+@tries 2
+@graphic none
+@video none
+@begin
+By informing students that they are correct, programs can ______e acceptable responses. 
+@end
+@answer  reinforce
+@tries 2
+@graphic none
+@video none
+@begin
+Reinforcers are events which increase the ______ that a response will occur on future occasions. 
+@end
+@answer  probability
+@tries 2
+@graphic none
+@video none
+@begin
+In an audio-discrimination program, a student presses a key when he hears a particular sound.  If he immediately sees a the word "Correct" on the screen, it is ______ probable that he will press the key when he hears that sound again. 
+@end
+@answer  more
+@tries 2
+@graphic none
+@video none
+@begin
+After hearing the particular sound, the student receives _____ment (the "Correct" on the screen) if he presses the key. 
+@end
+@answer  reinforcement
+@tries 2
+@graphic none
+@video none
+@begin
+The particular sound is the occasion upon which the key press is followed by reinforcement.  If the student responds to any other sound, he (does/does not) ______ receive reinforcement. 
+@end
+@answer  does not
+@tries 2
+@graphic none
+@video none
+@begin
+When a certain stimulus is the occasion upon which responses are followed by reinforcement, the stimulus is called a discriminative stimulus.  In the audio-discrimination program, the particular sound is the _______ ______ for pressing the key. 
+@end
+@answer  discriminative stimulus
+@tries 2
+@graphic none
+@video none
+@begin
+We use the two letters SD (pronounced "S-dee") to represent discriminative stimulus.  The occasion upon which responses are followed by reinforcement is called the discriminative stimulus or ______.  [ Use the symbols ] 
+@end
+@answer  sd
+@tries 2
+@graphic none
+@video none
+@begin
+A student hears a sound, presses a key, and sees the word "Correct."  The sound is called the discriminative stimulus or the SD (S-dee), the key-pressing is called the response, and the "Correct" is called the _____r. 
+@end
+@answer  reinforcer
+@tries 2
+@graphic none
+@video none
+@begin
+The probability that the student will respond when he hears the SD again is (increased/decreased) ______ by the reinforcer. 
+@end
+@answer  increased
+@tries 2
+@graphic none
+@video none
+@begin
+If the student responds when he hears a sound, and the response is reinforced, we call the sound a discriminative stimulus, or _____. 
+@end
+@answer  SD
+@tries 2
+@graphic none
+@video none
+@begin
+An event that sets the occasion upon which a response will be reinforced is the SD or _____ _____. 
+@end
+@answer  discriminative stimulus
+@tries 2
+@graphic none
+@video none
+@begin
+The future occasion upon which a response will be reinforced is set by the SD, or _____ _____. 
+@end
+@answer  discriminative stimulus
+@tries 2
+@graphic none
+@video none
+@begin
+A discriminate stimulus sets the _____ for reinforcement of a particular response. 
+@end
+@answer  occasion
+@tries 2
+@graphic none
+@video none
+@begin
+A response is reinforced in the presence of an SD.  If the SD is again presented, the _____ will probably occur again. 
+@end
+@answer  response
+@tries 2
+@graphic none
+@video none
+@begin
+A response in the presence of an SD would be reinforced. But a response in the presence of S^ (pronounced "S-delta") _____ _____ be reinforced. 
+@end
+@answer  would not
+@tries 2
+@graphic none
+@video none
+@begin
+An S^ (S-delta) is a stimulus which is consistently present when responses (are/are not) ______ reinforced. 
+@end
+@answer  are not
+@tries 2
+@graphic none
+@video none
+@begin
+SD's set the occasion for reinforcement of responses.  S^'s set the occasion for non-______t of responses.  [ Answer in this form: XXX-XXXXX ] 
+@end
+@answer  non-reinforcement
+@tries 2
+@graphic none
+@video none
+@begin
+An S^ sets the ______ for non-reinforcement of a response. 
+@end
+@answer  occasion
+@tries 2
+@graphic none
+@video none
+@begin
+An ______ sets the occasion for non-reinforcement of a response.  [ Use the shift-6 keys for the ^ ] 
+@end
+@answer  s^
+@tries 2
+@graphic none
+@video none
+@begin
+Responses are reinforced in the presence of a(n) _____. They are not reinforced in the presence of a(n) _____.  [ Use the symbols to answer in this form: XX XX ] 
+@end
+@answer  SD S^
+@tries 2
+@graphic none
+@video none
+@begin
+If a response is to be reinforced in the presence of SD, the programmer must arrange conditions so that the response will be _____ted. 
+@end
+@answer  emitted
+@tries 2
+@graphic none
+@video none
+@begin
+If a key press is reinforced when a sound has a high pitch but not when the sound has a low pitch, the high pitch becomes an S_____ and the low pitch an S_____.  [ Answer in this form: XX XX ] 
+@end
+@answer  sd s^
+@tries 2
+@graphic none
+@video none
+@begin
+A student is said to have developed a discrimination when responding is maintained in the presence of an S______, and no responding in the presence of an S_____.  [ Answer in this form: XX,XX ] 
+@end
+@answer  sd s^
+@tries 2
+@graphic none
+@video none
+@begin
+When responding is maintained in the presence of an SD, and no responding in the presence of an S^, the student is said to have developed a ______tion. 
+@end
+@answer  discrimination
+@tries 2
+@graphic none
+@video none
+@begin
+When a certain stimulus is the occasion upon which responses are followed by reinforcement, the stimulus is called a ______ ______. 
+@end
+@answer  discriminative stimulus
+@tries 2
+@graphic none
+@video none
+@begin
+A stimulus which is consistently present when responses are not reinforced is called an S-delta or ______. 
+@end
+@answer  s^
+@tries 2
+@graphic none
+@video none
+@begin
+The two-letter symbol for discriminative stimulus is ______. 
+@end
+@answer  sd
+@tries 2
+@graphic none
+@video none
+@begin
+The two-letter symbol for S-delta is ______. 
+@end
+@answer  s^
+@tries 2
+@graphic none
+@video none
+@begin
+An event that sets the occasion upon which a response will be reinforced is the ______. 
+@end
+@answer  sd
+@tries 2
+@graphic none
+@video none
+@begin
+A discriminate stimulus sets the _____ for reinforcement of a particular response. 
+@end
+@answer  occasion
+@tries 2
+@graphic none
+@video none
+@begin
+Responses are reinforced in the presence of a(n) _____. They are not reinforced in the presence of a(n) _____.  [ Answer in this form: XX XX ] 
+@end
+@answer  SD S^
+@tries 2
+@graphic none
+@video none
+@begin
+When responding is maintained in the presence of an SD, and no responding in the presence of an S^, the student is said to have developed a ______. 
+@end
+@answer  discrimination
+@tries 2
+@graphic none
+@video none

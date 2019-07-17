@@ -1,0 +1,280 @@
+@begin
+The first step in creating a program is identifying what the student can ______ after working through the program. 
+@end
+@answer  do
+@tries 2
+@graphic none
+@video none
+@begin
+The programmer specifies what the student can do after working through the program in the t_____l _____s. 
+@end
+@answer  terminal objectives
+@tries 2
+@graphic none
+@video none
+@begin
+A well-constructed instructional program teaches a student how to do or say something.  It establishes and strengthens specific responses while slowly withdrawing h_____p. 
+@end
+@answer  help
+@tries 2
+@graphic none
+@video none
+@begin
+But a good program teaches more than the specific answers to its frames.  It establishes a tendency to engage in (similar/different) ______ behavior elsewhere. 
+@end
+@answer  similar
+@tries 2
+@graphic none
+@video none
+@begin
+One objective of education is to prepare the person for life after instruction, i.e., the so-called "real" ______. 
+@end
+@answer  world
+@tries 2
+@graphic none
+@video none
+@begin
+The terminal objectives of a program should, therefore, describe situations to which behavior should GENERALIZE. This is difficult because behavior occurs in new situations due to their s_____rity to the original conditions of instruction. 
+@end
+@answer  similarity
+@tries 2
+@graphic none
+@video none
+@begin
+A programmer can increase generalization by making the program as _____ar to the "real" world as possible. 
+@end
+@answer  similar
+@tries 2
+@graphic none
+@video none
+@begin
+A programmer makes his or her program as similar to the "real" world as possible to increase g_____tion. 
+@end
+@answer  generalization
+@tries 2
+@graphic none
+@video none
+@begin
+Acquiring VERBAL behavior about a medium isn't necessarily the same as acquiring physical interactive skills.  The old saying "talk is cheap" suggests that it is easy to _____y something, but more difficult to do it. 
+@end
+@answer  say
+@tries 2
+@graphic none
+@video none
+@begin
+But even though the relationship is far from perfect, teaching someone to describe appropriate behavior first (and the reasons for it) will probably increase the likelihood the person will actually ______ the behavior later. 
+@end
+@answer  do
+@tries 2
+@graphic none
+@video none
+@begin
+Programmers use techniques and learning principles to enable learners to accomplish g_____tion between verbal knowledge and physical action. 
+@end
+@answer  generalization
+@tries 2
+@graphic none
+@video none
+@begin
+To accomplish generalization, the programmer must develop frames for that purpose.  These frames cannot be developed unless the programmer has first carefully specified his or her t_____ _____s. 
+@end
+@answer  terminal objectives
+@tries 2
+@graphic none
+@video none
+@begin
+Terminal objectives give a program focus.  They influence the nature and order in which sub-objectives occur within the ______. 
+@end
+@answer  program
+@tries 2
+@graphic none
+@video none
+@begin
+Subordinate skills and concepts are necessary for accomplishing the terminal objectives.  Terminal objectives influence the nature and o_____r of the sub-objectives. 
+@end
+@answer  order
+@tries 2
+@graphic none
+@video none
+@begin
+Most terminal behaviors of a program depend upon subordinate concepts along the way.  These _______ concepts are the "building blocks" of the program's internal structure. 
+@end
+@answer  subordinate
+@tries 2
+@graphic none
+@video none
+@begin
+While a programmer may understand and be able to apply programming and learning principles, he or she may lack knowledge in a specific field.  He or she may lack knowledge of the ______ concepts. 
+@end
+@answer  subordinate
+@tries 2
+@graphic none
+@video none
+@begin
+A good program cannot be composed alone by a programmer who is a newcomer to a field because he or she almost always lacks a thorough knowledge of the subordinate concepts that lead to the ______ objectives. 
+@end
+@answer  terminal
+@tries 2
+@graphic none
+@video none
+@begin
+The creation of well-programmed instruction requires knowledge of the specific field, as well as knowledge about the principles of programming and l_____ing. 
+@end
+@answer  learning
+@tries 2
+@graphic none
+@video none
+@begin
+A subject matter expert may not necessarily compose a good program, because he or she may not know how to apply the important conditioning or learning _____s involved in effective instructional frames. 
+@end
+@answer  principles
+@tries 2
+@graphic none
+@video none
+@begin
+Good automated instructional programs cannot be composed by an individual without two required qualifications.  First, he or she must understand and be able to apply l_____g p_____s. 
+@end
+@answer  learning principles
+@tries 2
+@graphic none
+@video none
+@begin
+Besides understanding and applying learning principles, a programmer must be an _____t in that field. 
+@end
+@answer  expert
+@tries 2
+@graphic none
+@video none
+@begin
+It is easy to see why the creation of many ineffective programs lead to the decline of the programmed instruction movement.  Many novices in their fields tried to create programs without applying learning _____s. 
+@end
+@answer  principles
+@tries 2
+@graphic none
+@video none
+@begin
+A subordinate objective specifies behavior that is a necessary component of _____l behavior. 
+@end
+@answer  terminal
+@tries 2
+@graphic none
+@video none
+@begin
+Were you to teach a person to change a tire, you would not teach him or her to begin in a RANDOM fashion.  For example, you wouldn't teach how to tighten the lug-nuts (first/last) ______. 
+@end
+@answer  first
+@tries 2
+@graphic none
+@video none
+@begin
+You would probably teach placement of the car on even terrain and away from traffic (first/last) ______. 
+@end
+@answer  first
+@tries 2
+@graphic none
+@video none
+@begin
+Safety and car positioning would be _____e objectives which lead to effective tire changing as a completed terminal performance. 
+@end
+@answer  subordinate
+@tries 2
+@graphic none
+@video none
+@begin
+Any terminal performance (whether verbal or non-verbal) that interacts with some medium is usually complicated enough to require ______ objectives. 
+@end
+@answer  subordinate
+@tries 2
+@graphic none
+@video none
+@begin
+In many, if not most, cases the sequencing of these subordinate objectives should not be done in a _____m order, but in a developmental sequence. 
+@end
+@answer  random
+@tries 2
+@graphic none
+@video none
+@begin
+The program through which you are currently working is teaching and reviewing various conditioning or learning principles and the important variables that contribute to effective i_____tion. 
+@end
+@answer  instruction
+@tries 2
+@graphic none
+@video none
+@begin
+The actual composition of effective frames incorporates many of these principles and requires that the programmer pay attention to m_____y variables simultaneously. 
+@end
+@answer  many
+@tries 2
+@graphic none
+@video none
+@begin
+There should be no unnecessary stimuli (i.e., words or illustrations) in a frame.  Everything a student sees, hears, or reads in an instructional sequence should contribute to the probability of achieving the ______ objectives of the program. 
+@end
+@answer  terminal
+@tries 2
+@graphic none
+@video none
+@begin
+Ideally, each frame contains only the minimal stimuli necessary to sufficiently strengthen an answer.  A well-composed frame is, therefore, (condensed/expanded) _______. 
+@end
+@answer  condensed
+@tries 2
+@graphic none
+@video none
+@begin
+A well-composed frame is brief and compact.  There should be no u_____sary words or sentences. 
+@end
+@answer  unnecessary
+@tries 2
+@graphic none
+@video none
+@begin
+Well-composed frames are terse, concise, brief, and _____pact. 
+@end
+@answer  compact
+@tries 2
+@graphic none
+@video none
+@begin
+Teachers frequently incorporate interesting stories and anecdotes to maintain student attention.  This is often done in traditional instruction, such as l_____ring, to keep students listening. 
+@end
+@answer  lecturing
+@tries 2
+@graphic none
+@video none
+@begin
+Instruction that requires active responding makes this unnecessary.  The important content to be learned can be made automatically reinforcing by making sure that the student responds frequently and is nearly always _____ct. 
+@end
+@answer  correct
+@tries 2
+@graphic none
+@video none
+@begin
+A programmer must understand learning principles and be an ______ in his or her field. 
+@end
+@answer  expert
+@tries 2
+@graphic none
+@video none
+@begin
+A programmer uses certain techniques to enable students to _____ze from verbal to physical ability. 
+@end
+@answer  generalize
+@tries 2
+@graphic none
+@video none
+@begin
+To accomplish generalization a program must teach all the subordinate skills necessary for achieving the terminal objectives, and have students apply skills in new and "real" _____d situations. 
+@end
+@answer  world
+@tries 2
+@graphic none
+@video none
+@begin
+For efficient instruction, frames should exclude all _____sary words and sentences. 
+@end
+@answer  unnecessary
+@tries 2
+@graphic none
+@video none

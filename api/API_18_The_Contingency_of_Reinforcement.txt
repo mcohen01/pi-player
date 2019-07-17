@@ -1,0 +1,350 @@
+@begin
+Behavior is anything an organism does.  Birds fly, horses run, people talk, dolphins swim, and bugs crawl.  Flying, running, talking, swimming, and crawling are all forms of ______. 
+@end
+@answer  behavior
+@tries 2
+@graphic none
+@video none
+@begin
+A response is a particular instance of behavior.  Jumping is behavior, but a particular jump is a ______. 
+@end
+@answer  response
+@tries 2
+@graphic none
+@video none
+@begin
+A particular instance of behavior is called a ______. 
+@end
+@answer  response
+@tries 2
+@graphic none
+@video none
+@begin
+Organisms are "trained" with rewards.  The behavior of a hungry child can be rewarded with _____d. 
+@end
+@answer  food
+@tries 2
+@graphic none
+@video none
+@begin
+The technical term for "reward" is reinforce.  To strengthen the behavior of a child with food is to ______ it with food. 
+@end
+@answer  reinforce
+@tries 2
+@graphic none
+@video none
+@begin
+Food is more than a reward if it strengthens behavior. Technically, we call a reward a ______r. 
+@end
+@answer  reinforcer
+@tries 2
+@graphic none
+@video none
+@begin
+Hungry animals find food to be reinforcing.  For students, being correct is ______. 
+@end
+@answer  reinforcing
+@tries 2
+@graphic none
+@video none
+@begin
+A parent reinforces a child's response by saying "Correct!" or "Very good!" (before/after) ______ the child has responded correctly. 
+@end
+@answer  after
+@tries 2
+@graphic none
+@video none
+@begin
+A response and a reinforcer occur in a particular order. First the response, then the ______. 
+@end
+@answer  reinforcer
+@tries 2
+@graphic none
+@video none
+@begin
+The word "probability" means likelihood of an occurrence. When a reinforcer follows a response, the response has a higher ______y of occurring in the future. 
+@end
+@answer  probability
+@tries 2
+@graphic none
+@video none
+@begin
+A reinforcer makes it (more/less) ______ probable that an child will respond in the same way again. 
+@end
+@answer  more
+@tries 2
+@graphic none
+@video none
+@begin
+"Strengthen" means to gain in strength.  A weightlifter lifts weights to ______ his or her muscles. 
+@end
+@answer  strengthen
+@tries 2
+@graphic none
+@video none
+@begin
+When a reinforcer follows a response the probability of that response occurring again increases.  We say it _____ns the response. 
+@end
+@answer  strengthens
+@tries 2
+@graphic none
+@video none
+@begin
+By strengthening a response, a reinforcer increases the ______ of the response occurring again in the future. 
+@end
+@answer  probability
+@tries 2
+@graphic none
+@video none
+@begin
+To weaken a response is to decrease the ______ that it may occur in the future. 
+@end
+@answer  probability
+@tries 2
+@graphic none
+@video none
+@begin
+When no reinforcer follows a response, the response _____ns in strength. 
+@end
+@answer  weakens
+@tries 2
+@graphic none
+@video none
+@begin
+A consequence is anything that follows a response.  A reinforcer is a ______ because it follows a response. 
+@end
+@answer  consequence
+@tries 2
+@graphic none
+@video none
+@begin
+A consequence can strengthen or weaken a response.  A reinforcer is a consequence that ______ the response it follows. 
+@end
+@answer  strengthens
+@tries 2
+@graphic none
+@video none
+@begin
+When no reinforcer is given, this kind of consequence _____ns the response. 
+@end
+@answer  weakens
+@tries 2
+@graphic none
+@video none
+@begin
+Behavior is never reinforced "in a vacuum," there is always environmental stimuli present when a c_____e follows and strengthens or weakens a response. 
+@end
+@answer  consequence
+@tries 2
+@graphic none
+@video none
+@begin
+A stimulus is an object or event in the environment.  One object is a stimulus.  Many objects are stimuli.  Stop signs, trees, lights, people, and sounds are ______. 
+@end
+@answer  stimuli
+@tries 2
+@graphic none
+@video none
+@begin
+One thing is a ______. 
+@end
+@answer  stimulus
+@tries 2
+@graphic none
+@video none
+@begin
+Words, sentences, questions, graphics, and animation on a computer screen are ______. 
+@end
+@answer  stimuli
+@tries 2
+@graphic none
+@video none
+@begin
+To train a student to correctly respond to a question, the computer program presents the stimuli, waits for the child to respond, and contingently delivers a strengthening or weakening ______e. 
+@end
+@answer  consequence
+@tries 2
+@graphic none
+@video none
+@begin
+First the stimulus, then the response, then the strengthening or weakening _____. 
+@end
+@answer  consequence
+@tries 2
+@graphic none
+@video none
+@begin
+Being correct is a reinforcing consequence that strengthens the response and increases the ______ that the response will occur again in the future. 
+@end
+@answer  probability
+@tries 2
+@graphic none
+@video none
+@begin
+When a reinforcer is dependent upon the occurrence of a correct response we say that it is contingent (pronounced "con-tin-jent") upon the response. "Dependent" means _______. 
+@end
+@answer  contingent
+@tries 2
+@graphic none
+@video none
+@begin
+Many reinforcers are contingent upon certain responses.  For example, a teacher tells students they cannot leave the room until everyone is quiet.  The teacher makes leaving the room ______ upon being quiet. 
+@end
+@answer  contingent
+@tries 2
+@graphic none
+@video none
+@begin
+A student learns to respond appropriately when reinforcers are precisely _______ upon the behavior. 
+@end
+@answer  contingent
+@tries 2
+@graphic none
+@video none
+@begin
+A response is strengthened or weakened depending upon what type of consequence is ______ upon the response. 
+@end
+@answer  contingent
+@tries 2
+@graphic none
+@video none
+@begin
+First the stimulus, then the response, then the consequence. These three terms make up what is called a contingency (pronounced "con-tin-jen-see").  It is called a contingency because when the stimulus occurs, the reinforcer is ______ upon the response. 
+@end
+@answer  contingent
+@tries 2
+@graphic none
+@video none
+@begin
+A relationship between the stimulus, response, and the consequence is called a _____y. 
+@end
+@answer  contingency
+@tries 2
+@graphic none
+@video none
+@begin
+A program presents some information and asks a question. The student answers, and the program says "correct" or "incorrect."   The information and question are stimuli, the answer is the response, and the program's feedback is the ______e. 
+@end
+@answer  consequence
+@tries 2
+@graphic none
+@video none
+@begin
+If the program says "correct" the response is reinforced and strengthened.  If the program says "incorrect" the response is _____ned. 
+@end
+@answer  weakened
+@tries 2
+@graphic none
+@video none
+@begin
+Strengthened responses have a higher _____ of occurring again in the future. 
+@end
+@answer  probability
+@tries 2
+@graphic none
+@video none
+@begin
+Thinking is behaving (sometimes referred to as "cognitive behavior").  Thinking behavior (can/cannot) _____ be seen by other observers. 
+@end
+@answer  cannot
+@tries 2
+@graphic none
+@video none
+@begin
+Students learn to solve problems by strengthening effective problem-solving _____r. 
+@end
+@answer  behavior
+@tries 2
+@graphic none
+@video none
+@begin
+After students have learned how to solve many different problems in many different situations, students eventually learn to ______ for themselves. 
+@end
+@answer  think
+@tries 2
+@graphic none
+@video none
+@begin
+Teachers use contingencies to (weaken/strengthen) ______ behavior that will make students successful in life. 
+@end
+@answer  strengthen
+@tries 2
+@graphic none
+@video none
+@begin
+And now a little review...  Jumping is behavior, but a particular jump is a ______. 
+@end
+@answer  response
+@tries 2
+@graphic none
+@video none
+@begin
+A thing or event that follows and increases the strength of the response is called a ______. 
+@end
+@answer  reinforcer
+@tries 2
+@graphic none
+@video none
+@begin
+A reinforcer occurs ______ a response in order to have an effect. 
+@end
+@answer  after
+@tries 2
+@graphic none
+@video none
+@begin
+A response that has been s______ by a reinforcer is more likely to occur again. 
+@end
+@answer  strengthened
+@tries 2
+@graphic none
+@video none
+@begin
+When a reinforcer follows a response, it increases the _____ that the response will occur again in the future. 
+@end
+@answer  probability
+@tries 2
+@graphic none
+@video none
+@begin
+To _____ a response is to decrease the probability that it may occur in the future. 
+@end
+@answer  weaken
+@tries 2
+@graphic none
+@video none
+@begin
+Anything that follows and strengthens or weakens a response is called a ______. 
+@end
+@answer  consequence
+@tries 2
+@graphic none
+@video none
+@begin
+A particular object or event in the environment is a ______. 
+@end
+@answer  stimulus
+@tries 2
+@graphic none
+@video none
+@begin
+A relationship between a stimulus, response, and a consequence is called a ______. 
+@end
+@answer  contingency
+@tries 2
+@graphic none
+@video none
+@begin
+A contingency consists of three terms: a stimulus, response, and a ______. 
+@end
+@answer  consequence
+@tries 2
+@graphic none
+@video none
+@begin
+"Programmed instruction" involves a series of events which involve student responses and reinforcing consequences. Each of these response-consequence events is called a ________ because in each case there is a dependent relationship between what the student does and whether a strengthening consequence occurs. 
+@end
+@answer  contingency
+@tries 2
+@graphic none
+@video none

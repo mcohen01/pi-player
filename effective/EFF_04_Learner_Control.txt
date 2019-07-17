@@ -1,0 +1,385 @@
+@begin
+Some programs are designed to CONTROL how the student progresses through the program.  Other programs enable the learner to _____l how he or she progresses through the program. 
+@end
+@answer  control
+@tries 2
+@graphic none
+@video none
+@begin
+An electronic encyclopedia enables the learner to _____l how he or she progresses through the program. 
+@end
+@answer  control
+@tries 2
+@graphic none
+@video none
+@begin
+The extent to which a LEARNER determines the progression through a program is called _____r _____l (Hannafin & Peck, 1988). 
+@end
+@answer  learner control
+@tries 2
+@graphic none
+@video none
+@begin
+The extent to which a PROGRAM determines the progress of students is called _____m ______. 
+@end
+@answer  program control
+@tries 2
+@graphic none
+@video none
+@begin
+The program you are working through right now requires you to work through a series of sequenced frames.  You cannot jump ahead or skip sections.  This program has more (program/learner) ______ control than (program/learner) ______ control. 
+@end
+@answer  program learner
+@tries 2
+@graphic none
+@video none
+@begin
+Some experts recommend that students in general should not determine the order and parts of the programs they use. Instead, students should be led in a sequential manner that best matches the instructional objectives of the software developers (Jolicoeur & Berger, 1988).  This suggests more ______ control. 
+@end
+@answer  program
+@tries 2
+@graphic none
+@video none
+@begin
+Other experts recommend more learner control.  As the somewhat conflicting recommendations reveal, the issue of program/learner control is (resolved/unresolved) ______ (Hannafin & Peck, 1988). 
+@end
+@answer  unresolved
+@tries 2
+@graphic none
+@video none
+@begin
+Researchers (agree/do not agree) ______ upon the extent to which a program should provide for learner or program control. 
+@end
+@answer  do not agree
+@tries 2
+@graphic none
+@video none
+@begin
+Although the issue of learner control is UNresolved, programs can contain certain features to (hinder/facilitate) ______ a learner's progression through a program. 
+@end
+@answer  facilitate
+@tries 2
+@graphic none
+@video none
+@begin
+ PROVIDE CLEARLY STATED DIRECTIONS  To find out how to operate a new appliance, customers are instructed to read the appliance's DIRECTIONS.  To find out how to operate a new program, users are instructed to read the program's _____s. 
+@end
+@answer  directions
+@tries 2
+@graphic none
+@video none
+@begin
+Learners need to know how to operate the programs they use. Such instructions are usually provided in a program's d_____ns. 
+@end
+@answer  directions
+@tries 2
+@graphic none
+@video none
+@begin
+Learners may not properly perform if they do not know how to use their programs.  ______s instruct users how to _____rate programs. 
+@end
+@answer  directions operate
+@tries 2
+@graphic none
+@video none
+@begin
+Directions need to be clearly stated.  Which of the following directions is more clearly stated?  [Type only the letter a or b]  a.  Insert the diskette in drive A:, turn on the computer, and wait for the program to begin. b.  Install the program and work through it until you are prepared for the self-quiz. 
+@end
+@answer  a
+@tries 2
+@graphic none
+@video none
+@begin
+So students know how to properly _____te the programs they use, effective programs provide clear and adequate _____s, (Merrill, 1988; Lillie, Hannum, & Stuck, 1989). 
+@end
+@answer  operate directions
+@tries 2
+@graphic none
+@video none
+@begin
+Effective programs provide _____rly stated directions. 
+@end
+@answer  clearly
+@tries 2
+@graphic none
+@video none
+@begin
+ARRANGEMENT OF TOPICS IN ADVANCE  Some textbooks provide a table of contents that clearly states the arrangement of topics at the (beginning/ending) ______ of the book. 
+@end
+@answer  beginning
+@tries 2
+@graphic none
+@video none
+@begin
+Like some textbooks, effective programs make the arrangement of t____cs obvious to the student (Hannafin & Peck, 1988). 
+@end
+@answer  topics
+@tries 2
+@graphic none
+@video none
+@begin
+Effective programs clearly state the directions, instructional objectives, and _____ment of topics in advance. 
+@end
+@answer  arrangement
+@tries 2
+@graphic none
+@video none
+@begin
+Like a table of contents in a textbook, effective programs provide an _____nt ____f _____ics in advance. 
+@end
+@answer  arrangement of topics
+@tries 2
+@graphic none
+@video none
+@begin
+TIME ESTIMATE FOR COMPLETION  Most public school periods last less than an hour.  For effective planning, teachers need to know how much _____e it takes an average student to work through a program. 
+@end
+@answer  time
+@tries 2
+@graphic none
+@video none
+@begin
+So the teacher and learner have an idea of how long it will take to complete a program, effective programs provide ______ estimates needed for completion (Hannafin & Peck, 1988). 
+@end
+@answer  time
+@tries 2
+@graphic none
+@video none
+@begin
+The title frame of this program stated "You will need approximately 25 minutes to complete this program."  This statement is a _____e _____ate 
+@end
+@answer  time estimate
+@tries 2
+@graphic none
+@video none
+@begin
+Effective programs clearly state the program's instructional objectives, d_____ns for use, arrangement of _____s, and estimated ______ for completion. 
+@end
+@answer  directions topics time
+@tries 2
+@graphic none
+@video none
+@begin
+PROVIDE LOCATION INDICATORS  A student is "lost" when he is unable to locate his position.  When working through programs, students can (conserve/waste) ______ time if they become unable to locate where they are in a program. 
+@end
+@answer  waste
+@tries 2
+@graphic none
+@video none
+@begin
+Maps and roadsigns are indicators that help drivers to _____te where they are driving. 
+@end
+@answer  locate
+@tries 2
+@graphic none
+@video none
+@begin
+Page numbers in books are ind____tors that help readers to _____e where they are reading. 
+@end
+@answer  indicators locate
+@tries 2
+@graphic none
+@video none
+@begin
+So students know where they are, effective programs provide some sort of _____tion in_____rs (Merrill, 1988). 
+@end
+@answer  location indicators
+@tries 2
+@graphic none
+@video none
+@begin
+Arrows, time-lines, progress gauges, page n_____rs, and maps are all forms of ______n_____rs 
+@end
+@answer  numbers location indicators
+@tries 2
+@graphic none
+@video none
+@begin
+The title frame of this program stated that this program is 55 frames long.  The number of this frame is 29.  These numbers are called _____n _____rs. 
+@end
+@answer  location indicators
+@tries 2
+@graphic none
+@video none
+@begin
+NO PROGRESSION UNTIL THE LEARNER IS READY TO CONTINUE  Students learn at different rates.  When lecturing to a class, the teacher may move on to new material (before/after) ______ some of the slower students are ready to continue. 
+@end
+@answer  before
+@tries 2
+@graphic none
+@video none
+@begin
+When working through a program, each student should indicate when she or he is _____y to continue (Merrill, 1988). 
+@end
+@answer  ready
+@tries 2
+@graphic none
+@video none
+@begin
+Effective programs never erase information on the screen until the student indicates he or she is ______ to _____ue. 
+@end
+@answer  ready continue
+@tries 2
+@graphic none
+@video none
+@begin
+After a student answers a question, a program may play audio, clear the screen, and show some exciting graphics. However, the student may want to study the item, even if answered correctly.  Here, the program (did/did not) ______ wait until the student was ready to continue. 
+@end
+@answer  did not
+@tries 2
+@graphic none
+@video none
+@begin
+In this program, if the user incorrectly answers an item (one/two) ______ time(s), the correct answer is displayed. This information is not erased until the user indicates he or she is _____y t___ c_____e. 
+@end
+@answer  two ready to continue
+@tries 2
+@graphic none
+@video none
+@begin
+PROVIDE SEPARATE LESSON SEGMENTS FOR EASY REVIEW  Many programs are divided into separate lessons.  A student may need to REVIEW a particular lesson if she or he has (superior/poor) ______ performance. 
+@end
+@answer  poor
+@tries 2
+@graphic none
+@video none
+@begin
+A geography program may take the student on a trip around the world.  If the student performs poorly in a particular area and wants to REVIEW, he or she has to start the trip from the very beginning.  Here, the program (is/is not) ______ divided into separate lessons. 
+@end
+@answer  is not
+@tries 2
+@graphic none
+@video none
+@begin
+Programs should be divided into separate lesson segments so students can easily r_____w particular sections. 
+@end
+@answer  review
+@tries 2
+@graphic none
+@video none
+@begin
+Programs should be divided into s____rate lesson segments to allow for _____w (Hannafin & Peck, 1988). 
+@end
+@answer  separate review
+@tries 2
+@graphic none
+@video none
+@begin
+The information on effective characteristics of programs is s_____ated into individual lesson programs that can be easily accessed at a later time for ______. 
+@end
+@answer  separated review
+@tries 2
+@graphic none
+@video none
+@begin
+CONTINUE WHERE THE STUDENT LAST EXITED  School environments can include many unexpected interruptions.  Unplanned assemblies, fire drills, accidents, and shortened periods can cause a student to exit a learning experience (as planned/unexpectedly) ______. 
+@end
+@answer  unexpectedly
+@tries 2
+@graphic none
+@video none
+@begin
+When working through a program, a student may have to e_____t unexpectedly. 
+@end
+@answer  exit
+@tries 2
+@graphic none
+@video none
+@begin
+Simply turning off a computer unexpectedly may damage a program.  Programs should provide learners an appropriate way to _____t an activity (Merrill, 1988). 
+@end
+@answer  exit
+@tries 2
+@graphic none
+@video none
+@begin
+As a student works through a program, the program may keep a record of student responses.  The program records the responses and other data at the END of the program.  If the student exits this program by turning _____ff the power, the program (will/will not) ______ record all the data. 
+@end
+@answer  off will not
+@tries 2
+@graphic none
+@video none
+@begin
+While working through this program, if you need to _____t unexpectedly you can simply press the ESC key. 
+@end
+@answer  exit
+@tries 2
+@graphic none
+@video none
+@begin
+After exiting a program, the learner should be allowed to _____ue where he or she left off (Hannafin & Peck, 1988). 
+@end
+@answer  continue
+@tries 2
+@graphic none
+@video none
+@begin
+AND NOW A LITTLE REVIEW...  The extent to which students determine their progress through a program is called _____r ______. 
+@end
+@answer  learner control
+@tries 2
+@graphic none
+@video none
+@begin
+Concerning the issue of learner/program control, the experts (agree/do not agree) ______. 
+@end
+@answer  do not agree
+@tries 2
+@graphic none
+@video none
+@begin
+Effective programs provide clear _____s for operation. 
+@end
+@answer  directions
+@tries 2
+@graphic none
+@video none
+@begin
+Like a table of contents in a book, effective programs provide an _____ment ____f _____s. 
+@end
+@answer  arrangement of topics
+@tries 2
+@graphic none
+@video none
+@begin
+Programs should provide an estimate of the ______ needed to complete the program. 
+@end
+@answer  time
+@tries 2
+@graphic none
+@video none
+@begin
+The (learner/program) ______ should control when to move on to new material. 
+@end
+@answer  learner
+@tries 2
+@graphic none
+@video none
+@begin
+So learners do not get lost, a program should provide some sort of _____on ______r. 
+@end
+@answer  location indicator
+@tries 2
+@graphic none
+@video none
+@begin
+A program should never erase information until the student indicates he or she is ______ to continue. 
+@end
+@answer  ready
+@tries 2
+@graphic none
+@video none
+@begin
+A program should allow easy access to lesson segments to facilitate ______. 
+@end
+@answer  review
+@tries 2
+@graphic none
+@video none
+@begin
+Unexpected interruptions can be common.  For this reason, programs should allow learners to _____t activities and ______ where they left off. 
+@end
+@answer  exit continue
+@tries 2
+@graphic none
+@video none

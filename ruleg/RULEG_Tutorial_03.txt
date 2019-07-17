@@ -1,0 +1,217 @@
+@begin
+You have learned that the EG + EG* frame type is used to create an analogy or induction frame.  Here, the student must _____ce the RU from the first EG and apply it to the second EG. 
+@end
+@answer  induce
+@tries 2
+@graphic none
+@video none
+@begin
+You have also learned that the student may induce an incorrect RU from an EG + EG* frame, and that it is usually more effective to explicitly state the RU for the student in a(n) _____ + EG + EG* frame. 
+@end
+@answer  ru
+@tries 2
+@graphic none
+@video none
+@begin
+However, there is another frame type that requires the student to induce a RU from an EG.  This frame type provides more stimulus support than the EG + EG* frame.  The extra stimulus support _____creases the probability of inducing an incorrect RU. 
+@end
+@answer  decreases
+@tries 2
+@graphic none
+@video none
+@begin
+Besides the EG + EG*, another type of induction frame is the EG + RU* frame type.  Both types require the student to induce the RU from the first ______. 
+@end
+@answer  eg
+@tries 2
+@graphic none
+@video none
+@begin
+Both the EG + EG* and the EG + RU* are induction frames. They require the student to _____e the RU. 
+@end
+@answer  induce
+@tries 2
+@graphic none
+@video none
+@begin
+Although they are similar, it is easier to induce the RU from an EG + RU* frame than an EG + EG* frame.  The EG + RU* frame provides (more/less) ______ stimulus support from the RU*. 
+@end
+@answer  more
+@tries 2
+@graphic none
+@video none
+@begin
+It is easier to induce the RU from the EG + RU* frame than the EG + EG* frame because the EG + RU* frame provides more s_____s s_____t. 
+@end
+@answer  stimulus support
+@tries 2
+@graphic none
+@video none
+@begin
+The frog crawled up to the road, looked to the left, looked to the right, and safely hopped across the road.  It is better to look before you _____p.  [Ignore the above blank]  Because the first sentence in the above frame is an EG, and the second sentence is a RU with a blank and stimulus support, we call the frame a ______ frame type.  [Use the abbreviation and symbol] 
+@end
+@answer  eg + ru*
+@tries 2
+@graphic none
+@video none
+@begin
+The frog crawled up to the road, looked to the left, looked to the right, and safely hopped across the road.  It is better to look before you _____p.  [Ignore the above blank]  In the above frame, the words "frog" and "hopped" are (thematic/formal) ______ prompts for the response "leap." 
+@end
+@answer  thematic
+@tries 2
+@graphic none
+@video none
+@begin
+The frog crawled up to the road, looked to the left, looked to the right, and safely hopped across the road.  It is better to look before you _____p.  [Ignore the above blank]  In the above frame, the "p" is a (thematic/formal) ______ prompt for the response "leap." 
+@end
+@answer  formal
+@tries 2
+@graphic none
+@video none
+@begin
+Because the EG + RU* frame requires the student to induce the RU from the EG, we call it an i_____tion frame. 
+@end
+@answer  induction
+@tries 2
+@graphic none
+@video none
+@begin
+Induction frames, such as the EG + EG* and the EG + RU*, are effective if the student has already acquired the RU at some strength.  Induction frames should occur (before/after) ______ instructional frames, such as the RU + EG + EG* frame type. 
+@end
+@answer  after
+@tries 2
+@graphic none
+@video none
+@begin
+You have learned that the RU + EG + EG* frame type provides an excellent way to introduce a student to a new RU.  After the student has the new RU at some strength, the EG + RU* _____on frame can be used more safely. 
+@end
+@answer  induction
+@tries 2
+@graphic none
+@video none
+@begin
+After the student has learned two different RUs, the programmer may want the student to be able to discriminate between the two _____s. 
+@end
+@answer  rus
+@tries 2
+@graphic none
+@video none
+@begin
+In the programming technique called discrimination training, the program requires the student to d_____ate between RUs. 
+@end
+@answer  discriminate
+@tries 2
+@graphic none
+@video none
+@begin
+Comparing, contrasting, and discriminating between two different RUs is part of the programming technique called _____tion t_____ing. 
+@end
+@answer  discrimination training
+@tries 2
+@graphic none
+@video none
+@begin
+In the RU1 + RU2* frame type, two different RUs are presented and the student must _____te between them. 
+@end
+@answer  discriminate
+@tries 2
+@graphic none
+@video none
+@begin
+[This frame is a RU1 + RU2* discrimination frame.]  The EG + RU* frame type is used to create an induction frame.  The RU1 + RU2 frame type is used to create a _____ion frame. 
+@end
+@answer  discrimination
+@tries 2
+@graphic none
+@video none
+@begin
+The frame type that requires students to discriminate between two RUs is labeled RU1 + RU2*.  The first RU is followed by the numeral 1, and the second RU is followed by the numeral _____ and an *.  [Type the numeral] 
+@end
+@answer  2
+@tries 2
+@graphic none
+@video none
+@begin
+The frame type that presents two RUs and causes the student to discriminate between them is the ______ frame type.  [Use the abbreviation and the symbol] 
+@end
+@answer  ru1 + ru2*
+@tries 2
+@graphic none
+@video none
+@begin
+Good things come to those who wait.  But sometimes it is better to strike the iron while the metal is h_____t.  [Ignore the above blank]  The above frame presents two RUs.  It is an example of the ______ frame type.  [Use the abbreviations and symbol] 
+@end
+@answer  ru1 + ru2*
+@tries 2
+@graphic none
+@video none
+@begin
+Dogs, bears, and lions can run, leap, growl and do many other things.  Anything an organism does is called b_____r.  [Ignore the above blank]  The above frame is an example of the (EG + RU*/RU1 + RU2*) ______ frame type. 
+@end
+@answer  eg + ru*
+@tries 2
+@graphic none
+@video none
+@begin
+Behavior is anything an organism does.  A single instance of behavior is called a _____se.  [Ignore the above blank]  The above frame includes the (EG + RU*/RU1 + RU2*) ______ frame type. 
+@end
+@answer  ru1 + ru2*
+@tries 2
+@graphic none
+@video none
+@begin
+The RU1 + RU2* frame type can be extended to RU1* + RU2* + RU3* frame type.  Here, the student must discriminate between (two/three) ______ RUs. 
+@end
+@answer  three
+@tries 2
+@graphic none
+@video none
+@begin
+After comparing, contrasting, and discriminating between two RUs using the RU1 + RU2* frame type, the student may be required to discriminate between examples of the two different EGs.  Here, the frame type would be EG1 + ______. 
+@end
+@answer  eg2*
+@tries 2
+@graphic none
+@video none
+@begin
+When demonstrating how two RUs can be applied to two different EGs, the programmer can use the EG1 + EG2* frame type.  Here, the student must _____te between two EGs. 
+@end
+@answer  discriminate
+@tries 2
+@graphic none
+@video none
+@begin
+For comparing and contrasting EGs of two different RU's, the programmer can use the ______ frame type. 
+@end
+@answer  eg1 + eg2*
+@tries 2
+@graphic none
+@video none
+@begin
+The EG1 + EG2* frame type can be extended to the EG1* + EG2* + EG3* frame type.  Here, the student must discriminate between (two/three) ______ EGs. 
+@end
+@answer  three
+@tries 2
+@graphic none
+@video none
+@begin
+The RU1 + RU2* and EG1 + EG2* frames are (induction/discrimination) ______ frames. 
+@end
+@answer  discrimination
+@tries 2
+@graphic none
+@video none
+@begin
+The EG + RU1* frame is a(n) (induction/discrimination) ______ frame. 
+@end
+@answer  induction
+@tries 2
+@graphic none
+@video none
+@begin
+Compared to other induction frames, such as the EG + EG* frame, it is easier to induce the RU from the EG + RU* frame because it requires the student to respond to an EG with ______s ______t from the RU*. 
+@end
+@answer  stimulus support
+@tries 2
+@graphic none
+@video none

@@ -1,0 +1,399 @@
+@begin
+This program is an introduction.  You should work through it (before/after) ______ you work through the programs that teach effective characteristics of educational programs. 
+@end
+@answer  before
+@tries 2
+@graphic none
+@video none
+@begin
+This introduction is presented to provide a background as to WHY the author created the programs that teach the (ineffective/effective) ______ characteristics of educational programs. 
+@end
+@answer  effective
+@tries 2
+@graphic none
+@video none
+@begin
+However, this IS NOT programmed instruction.  The author has simply "punched holes" in this presentation, similar to sw____ss cheese. 
+@end
+@answer  swiss
+@tries 2
+@graphic none
+@video none
+@begin
+If this material were truly PROGRAMMED, the tutorial would be much longer and more effective.  Fortunately, all of the tutorials that teach about effective characteristics of educational software (are/are not) ______ programmed. 
+@end
+@answer  are
+@tries 2
+@graphic none
+@video none
+@begin
+WHY SHOULD YOU WORK THROUGH THE FOLLOWING PROGRAMS?  The amount of available educational software is increasing. Educators need to be able to select and design programs that are instructionally (ineffective/effective) ______. 
+@end
+@answer  effective
+@tries 2
+@graphic none
+@video none
+@begin
+However, educators may get little help from educational research. Studies of the actual effectiveness of educational software are (many/few) ______ in number (Jolicoeur & Berger, 1986). 
+@end
+@answer  few
+@tries 2
+@graphic none
+@video none
+@begin
+Of the few, findings are discouraging.  Owston (1987) reports that many programs (do/do not) ______ incorporate sound educational practices. 
+@end
+@answer  do not
+@tries 2
+@graphic none
+@video none
+@begin
+After evaluating 213 computer-based training programs, Pritchard, Micceri, and Barrett (1989) report that f____w of them incorporate "tried and true" instructional techniques. 
+@end
+@answer  few
+@tries 2
+@graphic none
+@video none
+@begin
+Why are so many educational programs of such p_____r instructional quality? 
+@end
+@answer  poor
+@tries 2
+@graphic none
+@video none
+@begin
+One reason is that many educational materials have been developed and marketed (with/without) ______ any consideration of instructional design (Sloan, Gordon, Gunn, & Mickelson). 
+@end
+@answer  without
+@tries 2
+@graphic none
+@video none
+@begin
+An important component of instructional design is the use of instructional objectives.  However, in order not to limit their products to small audiences, many producers (do/do not) ______ specify instructional objectives (Caffarella, 1987). 
+@end
+@answer  do not
+@tries 2
+@graphic none
+@video none
+@begin
+Some producers simply transfer traditional instruction to computer formats, and add a few bells and wh_____les to attempt to maintain student interest (Pritchard, Micceri, & Barrett, 1989). 
+@end
+@answer  whistles
+@tries 2
+@graphic none
+@video none
+@begin
+Producers may market their products using "buzz" words such as "interactive" and "process oriented" to increase sales, rather than presenting empirical r_____lts of effectiveness (Curely & Strickland, 1986). 
+@end
+@answer  results
+@tries 2
+@graphic none
+@video none
+@begin
+When integrating software into their courses, educators may focus (too little/too much) ______ on technical characteristics and "slick packaging," rather than sound pedagogy (Curely & Strickland, 1986). 
+@end
+@answer  too much
+@tries 2
+@graphic none
+@video none
+@begin
+Slick packaging, bells, whistles, buzz words, and little research on effective programs makes choosing and designing effective software very (easy/hard) ______ for educators. 
+@end
+@answer  hard
+@tries 2
+@graphic none
+@video none
+@begin
+Educators need ____lp in selecting and designing effective software programs. 
+@end
+@answer  help
+@tries 2
+@graphic none
+@video none
+@begin
+Producers could help educators by conducting FORMATIVE EVALUATIONS to increase the quality of their software products (before/after) ______ making them available to educators. 
+@end
+@answer  before
+@tries 2
+@graphic none
+@video none
+@begin
+FORMATIVE evaluations, which usually include collecting empirical data during program development for refinement and revision, are (essential/worthless) ______ for developing effective instructional materials (ChanLin and Okey, 1991). 
+@end
+@answer  essential
+@tries 2
+@graphic none
+@video none
+@begin
+When producers field test portions of their products, they are engaging in f_____tive evaluation. 
+@end
+@answer  formative
+@tries 2
+@graphic none
+@video none
+@begin
+Although formative evaluation is a critical factor considering the substantial amount of funds which are wasted every year on the purchase and utilization of ineffective courseware, this process is (often/seldom) ______ conducted (Patterson & Block, 1987). 
+@end
+@answer  seldom
+@tries 2
+@graphic none
+@video none
+@begin
+Unfortunately, the formative evaluation process (occurs/does not occur) ______ very often. 
+@end
+@answer  does not occur
+@tries 2
+@graphic none
+@video none
+@begin
+Educators (can/cannot) ______ rely on producers to conduct formative evaluations of their products. 
+@end
+@answer  cannot
+@tries 2
+@graphic none
+@video none
+@begin
+Inadequate design of software may not be the only factor hindering educators from selecting effective programs. Educators themselves may be (qualified/unqualified) ______ to select effective programs. 
+@end
+@answer  unqualified
+@tries 2
+@graphic none
+@video none
+@begin
+Programs which teachers rated to be most effective produced the (highest/lowest) ______ achievement scores when given to students under experimental conditions (Jolicoeur & Berger, 1988). 
+@end
+@answer  lowest
+@tries 2
+@graphic none
+@video none
+@begin
+Because some educators are not able to identify effective programs, many INFORMAL EVALUATIONS have been developed to _____p them. 
+@end
+@answer  help
+@tries 2
+@graphic none
+@video none
+@begin
+Most INFORMAL EVALUATION devices "emphasize looking at the program itself to see what it contains" and are designed to help educators make intelligent decisions (before/after) ______ they purchase software packages (Sloane, Gordon, Gunn, & Mickelson, 1989). 
+@end
+@answer  before
+@tries 2
+@graphic none
+@video none
+@begin
+INFORMAL evaluations can include rating scales, guidelines, ch_____lists, and prompts for identifying certain program features (Taylor, 1987). 
+@end
+@answer  checklists
+@tries 2
+@graphic none
+@video none
+@begin
+A rating scale or checklist of program features is called an in_____al evaluation. 
+@end
+@answer  informal
+@tries 2
+@graphic none
+@video none
+@begin
+However, informal evaluations have problems.  Jolicoeur and Berger (1986) suggest that informal evaluations are based on the reviewer's _____jective opinions rather than on objective operationally defined variables. 
+@end
+@answer  subjective
+@tries 2
+@graphic none
+@video none
+@begin
+As a result, correlations between two independent services' ratings on instructional features of identical programs were very (high/low) ______. 
+@end
+@answer  low
+@tries 2
+@graphic none
+@video none
+@begin
+After a review of informal evaluations, Curley and Strickland (1986) found that most were c_____list based. 
+@end
+@answer  checklist
+@tries 2
+@graphic none
+@video none
+@begin
+Checklists tend to address  a.  software characteristics. b.  instructional characteristics.  [Type only the letter a or b.] 
+@end
+@answer  a
+@tries 2
+@graphic none
+@video none
+@begin
+Unfortunately, after reviewing many informal evaluations, Schuecler and Shuell (1989) found (consistent/inconsistent) ______ use of criteria. 
+@end
+@answer  inconsistent
+@tries 2
+@graphic none
+@video none
+@begin
+Schuecler and Shuell (1989) suggest that present informal evaluations (do/do not) ______ address principles of effective instruction. 
+@end
+@answer  do not
+@tries 2
+@graphic none
+@video none
+@begin
+Micceri, Prichard, and Barrett (1989) suggest that many informal evaluators are influenced by the "seductive nature of technology," and pay more attention to  a.  presentation than instructional aspects. b.  instructional aspects than presentation.  [Type only the letter a or b.] 
+@end
+@answer  a
+@tries 2
+@graphic none
+@video none
+@begin
+Reiser and Dick (1990) suggest few, if any, informal evaluations involve t____ting students after they use the software. 
+@end
+@answer  testing
+@tries 2
+@graphic none
+@video none
+@begin
+Evaluation services are not dismayed at such claims.  The EPIE (Educational Products Information Exchange) Institute (1987) admits that the service provides only general guidelines, and that controlled (income/outcome) ______ studies are the answer for software evaluations. 
+@end
+@answer  outcome
+@tries 2
+@graphic none
+@video none
+@begin
+The subjectivity involved in informal evaluations may produce conflicting and confusing recommendations.  It seems that a more _____jective process is needed to evaluate software. 
+@end
+@answer  objective
+@tries 2
+@graphic none
+@video none
+@begin
+Jolicoeur and Berger (1988) suggest that in order to establish the validity of an evaluation system, comparative results from controlled outcome studies are required.  Such an analysis includes a(n) (informal/formal) ______ evaluation. 
+@end
+@answer  formal
+@tries 2
+@graphic none
+@video none
+@begin
+A FORMAL evaluation usually consists of a systematic attempt to (subjectively/empirically) ______ determine learning gains after using a program (Sloane, Gordon, Gunn & Mickelsen, 1989). 
+@end
+@answer  empirically
+@tries 2
+@graphic none
+@video none
+@begin
+Different FORMAL evaluations have been developed.  Jolicoeur and Berger (1988) suggest that students should be pretested to establish baseline scores which are then compared to their p____ttest scores after using the program. 
+@end
+@answer  posttest
+@tries 2
+@graphic none
+@video none
+@begin
+Reiser and Dick (1983) present a formal evaluation model that includes identifying the objectives, writing test items, providing the program, and administering the _____st items. 
+@end
+@answer  test
+@tries 2
+@graphic none
+@video none
+@begin
+However, after conducting a formal evaluation, teachers reported that they (did/did not) ______ have enough time in their daily schedules to properly use the model (Reiser & Dick, 1990). 
+@end
+@answer  did not
+@tries 2
+@graphic none
+@video none
+@begin
+The teachers also expressed concern about using the model (with/without) ______ the researcher's assistance. 
+@end
+@answer  without
+@tries 2
+@graphic none
+@video none
+@begin
+The EPIE Institute (1987) suggests that conducting formal evaluation studies for even ten percent of the available software would be _____ssible. 
+@end
+@answer  impossible
+@tries 2
+@graphic none
+@video none
+@begin
+It seems that educators may not have the time, resources, and expertise necessary to conduct f_____al evaluations. 
+@end
+@answer  formal
+@tries 2
+@graphic none
+@video none
+@begin
+And any attempt to create objective informal evaluation devices based on research-supported design principles will unavoidably include ____tive criteria that could lead to conflicting recommendations. 
+@end
+@answer  subjective
+@tries 2
+@graphic none
+@video none
+@begin
+However, the inclusion of subjective criteria may be useful if the evaluators have a fundamental u_____standing of effective instructional strategies and techniques. 
+@end
+@answer  understanding
+@tries 2
+@graphic none
+@video none
+@begin
+If the expertise cannot be put into evaluation instruments, why not put the expertise into the ev_____tors? 
+@end
+@answer  evaluators
+@tries 2
+@graphic none
+@video none
+@begin
+Jolicoeur and Berger (1986) suggest that in order to develop valid evaluation measures, software reviewers (need/do not need) ______ to know how specific program characteristics influence effectiveness. 
+@end
+@answer  need
+@tries 2
+@graphic none
+@video none
+@begin
+Educators may be able to select and design effective programs if they have the necessary _____tise in principles of effective computer instruction. 
+@end
+@answer  expertise
+@tries 2
+@graphic none
+@video none
+@begin
+After reviewing the research literature, the author has identified procedures and characteristics related to _____tive computer instruction. 
+@end
+@answer  effective
+@tries 2
+@graphic none
+@video none
+@begin
+This information has been converted into "sets" of computer programmed ins_____tion. 
+@end
+@answer  instruction
+@tries 2
+@graphic none
+@video none
+@begin
+Remember, the program you are working through right now is "swiss cheese."  Programmed instruction is (the same/very different) ______. 
+@end
+@answer  very different
+@tries 2
+@graphic none
+@video none
+@begin
+The authour has found that most of the principles of effective computer instruction support using programmed instruction as an _____tive teaching technique. 
+@end
+@answer  effective
+@tries 2
+@graphic none
+@video none
+@begin
+In order to gain the expertise necessary to properly evaluate or create educational software, educators are to work through these tutorials (before/after) ______ evaluating or creating programs. 
+@end
+@answer  before
+@tries 2
+@graphic none
+@video none
+@begin
+In a nut shell, the author wants to teach people research-supported effective characteristics and features of educational software.  Such knowledge would (hinder/benefit) ______ those who select, evaluate, or create educational software. 
+@end
+@answer  benefit
+@tries 2
+@graphic none
+@video none

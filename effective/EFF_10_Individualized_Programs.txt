@@ -1,0 +1,322 @@
+@begin
+EFFECTIVE PROGRAMS ARE INDIVIDUALIZED  Instructional programs that contain features that match a person's learning characteristics are said to be INDIVIDUALIZED.  For example, students learn at different rates.  Programs that enable learners to progress at (the same/their own) ______ pace are said to be INDIVIDUALIZED. 
+@end
+@answer  their own
+@tries 2
+@graphic none
+@video none
+@begin
+Effective computer-assisted instructional programs are INDIVIDUALIZED (Hannafin & Peck, 1988).  An individualized program contains features that match a student's l_____ning characteristics. 
+@end
+@answer  learning
+@tries 2
+@graphic none
+@video none
+@begin
+A suit is tailored to match a person's physical characteristics.  Programs that contain features that match a person's learning characteristics are called i_____ed programs. 
+@end
+@answer  individualized
+@tries 2
+@graphic none
+@video none
+@begin
+INDIVIDUALIZED PROGRAMS ENABLE LEARNERS TO PROGRESS AT THEIR OWN PACE  A typical lecture or discussion forces low-ability and high-ability students to progress at nearly the same pace. However, students learn at (the same/different) ______ paces. 
+@end
+@answer  different
+@tries 2
+@graphic none
+@video none
+@begin
+One of the features of i_____zed programs is the ability for learners to work and progress at their own _____ce. 
+@end
+@answer  individualized pace
+@tries 2
+@graphic none
+@video none
+@begin
+The program you are working through right now will not continue until you are ready.  You can progress at your own p_____. 
+@end
+@answer  pace
+@tries 2
+@graphic none
+@video none
+@begin
+The pace at which a learner progresses is an individual characteristic.  Progressing at your own pace is a feature of _____d programs. 
+@end
+@answer  individualized
+@tries 2
+@graphic none
+@video none
+@begin
+INDIVIDUALIZED PROGRAMS MAINTAIN HIGH RATES OF SUCCESS  If a program contains features that match a student's learning characteristics, and the program content and level is appropriate, the student is likely to have a (high/low) ______ rate of success when working through the program. 
+@end
+@answer  high
+@tries 2
+@graphic none
+@video none
+@begin
+Individualized programs keep learners successfully engaging in the appropriate behavior.  This occurs when error rates are (low/high) ______. 
+@end
+@answer  low
+@tries 2
+@graphic none
+@video none
+@begin
+Low error rates indicate (low/high) ______ success rates. 
+@end
+@answer  high
+@tries 2
+@graphic none
+@video none
+@begin
+Research indicates that error-free learning may be superior to learning riddled with errors (Hannafin & Peck, 1988). Programs that match a student's learning characteristics and ensure ______ success rates are said to be i______d. 
+@end
+@answer  high individualized
+@tries 2
+@graphic none
+@video none
+@begin
+INDIVIDUALIZED PROGRAMS PRODUCE LOW ERROR RATES  When a student makes an error, all that he learns is what NOT to do; correct behavior (does/does not) ______ get strengthened. 
+@end
+@answer  does not
+@tries 2
+@graphic none
+@video none
+@begin
+Individualized programs produce _____ error rates. 
+@end
+@answer  low
+@tries 2
+@graphic none
+@video none
+@begin
+Lesson objectives are achieved more efficiently if errors (are/are not) ______ encouraged (Hannafin & Peck, 1988). 
+@end
+@answer  are not
+@tries 2
+@graphic none
+@video none
+@begin
+Individualized programs produce ______ error rates and _____ success rates. 
+@end
+@answer  low high
+@tries 2
+@graphic none
+@video none
+@begin
+FEATURES THAT PRODUCE HIGH SUCCESS RATES: SMALL STEPS  You must walk before you run.  You must jump over the low bar before you jump over the _____h bar. 
+@end
+@answer  high
+@tries 2
+@graphic none
+@video none
+@begin
+When a child learns to ride a bike, training wheels are gradually raised from the ground until the child can ride without them.  Taking such small steps produces (low/high) ______ error rates. 
+@end
+@answer  low
+@tries 2
+@graphic none
+@video none
+@begin
+A program that forces learners to take large steps by teaching a complex skill to quickly may produce high _____r rates. 
+@end
+@answer  error
+@tries 2
+@graphic none
+@video none
+@begin
+Individualized programs produce low error rates by enabling the learner to take _____l steps. 
+@end
+@answer  small
+@tries 2
+@graphic none
+@video none
+@begin
+When material is divided into small steps, learners are more able to learn and progress at their own p_____. 
+@end
+@answer  pace
+@tries 2
+@graphic none
+@video none
+@begin
+Individualized programs contain features that minimize errors, such as taking ______ steps. 
+@end
+@answer  small
+@tries 2
+@graphic none
+@video none
+@begin
+FEATURES THAT PRODUCE HIGH SUCCESS RATES: PROMPTS  Besides small steps, programs can contain cues, hints, or PROMPTS to provide for ______ error rates. 
+@end
+@answer  low
+@tries 2
+@graphic none
+@video none
+@begin
+The "help" letters next to the blank on this frame are called PROMPTS.  Prompts are included to produce high _____ss rates. 
+@end
+@answer  success
+@tries 2
+@graphic none
+@video none
+@begin
+Prompts are initially presented to keep error rates l_____. Prompts are later withdrawn to ensure that the learner can make the correct responses (with help/on his own) ______. 
+@end
+@answer  low on his own
+@tries 2
+@graphic none
+@video none
+@begin
+Initial cues, hints, or "help" letters that serve to raise the probability that learners will emit the correct response are called _____pts. 
+@end
+@answer  prompts
+@tries 2
+@graphic none
+@video none
+@begin
+Allowing the learner to progress at her own pace, dividing material into small steps, and including initial prompts contribute to low error rates.  These are features of ______d programs. 
+@end
+@answer  individualized
+@tries 2
+@graphic none
+@video none
+@begin
+INDIVIDUALIZED PROGRAMS CONTAIN RELEVANT MATERIAL  Learners "identify" with individualized programs.  Such programs contain RELEVANT material that the learners (can/cannot) _____ relate to. 
+@end
+@answer  can
+@tries 2
+@graphic none
+@video none
+@begin
+An individualized program given to inner-city learners would probably contain examples about (city/farm) ______ life because they are more relevant. 
+@end
+@answer  city
+@tries 2
+@graphic none
+@video none
+@begin
+So learners can identify with the material, individualized programs include _____vant examples. 
+@end
+@answer  relevant
+@tries 2
+@graphic none
+@video none
+@begin
+Students learn to discriminate between concepts by providing many relevant _____ples. 
+@end
+@answer  examples
+@tries 2
+@graphic none
+@video none
+@begin
+Programs that include small steps, prompts, relevant examples, and enable self-pacing are said to be ______. 
+@end
+@answer  individualized
+@tries 2
+@graphic none
+@video none
+@begin
+INDIVIDUALIZED PROGRAMS PROVIDE APPROPRIATE AND IMMEDIATE FEEDBACK  Programs that are individualized provide IMMEDIATE FEEDBACK to learner responses.  The "Correct" or "Incorrect" message you receive after you type a response to this frame is a form of immediate ______. 
+@end
+@answer  feedback
+@tries 2
+@graphic none
+@video none
+@begin
+Some programs provide feedback in the form of crashes, explosions, and loud audio.  If such entertaining feedback occurs immediately after INCORRECT responses, learners may make (more/less) ______ errors to produce such feedback. 
+@end
+@answer  more
+@tries 2
+@graphic none
+@video none
+@begin
+Programs should avoid the use of graphics and gimmicks in an attempt to enhance interest and motivation; research shows that gimmicks do not enhance and actually (increase/slow) ______ the pace of instruction (Lillie, Hannum, & Stuck, 1989). 
+@end
+@answer  slow
+@tries 2
+@graphic none
+@video none
+@begin
+Programs should confirm correct responses and move on; simple affirmation is desirable (Lillie, Hannum, & Stuck, 1989).  The "Correct" or "Incorrect" feedback you receive (is/is not) ______ simple affirmation. 
+@end
+@answer  is
+@tries 2
+@graphic none
+@video none
+@begin
+Immediate feedback should state whether the answer is incorrect or correct (Hannafin & Peck, 1988). Individualized programs will mostly state that the learner is _____ect because such programs produce low error rates. 
+@end
+@answer  correct
+@tries 2
+@graphic none
+@video none
+@begin
+A program should inform the learner if she is correct immediately after she responds.  After a student responds, _____k should be given immediately (Hannafin & Peck, 1988). 
+@end
+@answer  feedback
+@tries 2
+@graphic none
+@video none
+@begin
+The "Correct" or "Incorrect" _____k message at the bottom of this screen will appear i_____tely after your enter your answer. 
+@end
+@answer  feedback immediately
+@tries 2
+@graphic none
+@video none
+@begin
+After a learner responds, programs should provide sincere, specific, and _____ate f_____ on regular basis (Lillie, Hannum, & Stuck, 1989). 
+@end
+@answer  immediate feedback
+@tries 2
+@graphic none
+@video none
+@begin
+When a student makes an error, correct behavior (does/does not) ______ get strengthened by the immediate ______. 
+@end
+@answer  does not feedback
+@tries 2
+@graphic none
+@video none
+@begin
+Individualized programs enable the learner to progress at his or her _____n p_____. 
+@end
+@answer  own pace
+@tries 2
+@graphic none
+@video none
+@begin
+Individualized programs keep learners engaging in the appropriate behavior.  This occurs when error rates are ______. 
+@end
+@answer  low
+@tries 2
+@graphic none
+@video none
+@begin
+Individualized programs enable the learner to progress in ______ steps. 
+@end
+@answer  small
+@tries 2
+@graphic none
+@video none
+@begin
+P_____ts are initially presented to keep error rates low and later withdrawn to ensure that the learner can make the correct response on his _____n. 
+@end
+@answer  prompts own
+@tries 2
+@graphic none
+@video none
+@begin
+So learners can identify and relate to the content, programs that are individualized contain r_____t examples. 
+@end
+@answer  relevant
+@tries 2
+@graphic none
+@video none
+@begin
+Programs that provide for self-pacing, low error rates, small steps, relevant examples, and immediate feedback are said to be ______. 
+@end
+@answer  individualized
+@tries 2
+@graphic none
+@video none

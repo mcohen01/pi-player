@@ -1,0 +1,252 @@
+@begin
+1.   The ______be technique is sometimes applicable when a<br/>     particular baseline we wish to study may be inadequate to<br/>     keep behavior in progress for as extended a length of time<br/>     as is necessary.<br/>
+@end
+@answer PROBE
+@tries 1
+@graphic none
+@video none
+@begin
+2.   Behavior can be maintained by a baseline which is<br/>     insensitive to the long-term variable under investigation,<br/>     and the behavioral changes under study then be pr____ed by<br/>     applying a more sensitive baseline procedure at specified<br/>     times.  The conditioned suppression paradigm (would/would<br/>     not) _______ be an example--where the effect of an aversive<br/>     stimulus followed by unavoidable shock is superimposed over<br/>     a variable interval schedule.<br/>
+@end
+@answer PROBED WOULD
+@tries 1
+@graphic none
+@video none
+@begin
+3.   In applying the probe technique of replication, the<br/>     experimenter (makes direct use/is unaware) _______ of known<br/>     properties of behavior, empirically determined, to<br/>     accomplish a finer analysis than would have been possible in<br/>     the absence of such knowledge.  It is a procedure that has<br/>     been (relatively rare/frequently employed) _______ in<br/>     behavioral science.<br/>
+@end
+@answer MAKES DIRECT USE/RELATIVELY RARE
+@tries 1
+@graphic none
+@video none
+@begin
+4.   It became possible on to use the probe technique when<br/>     (individual/group) _______ data revealed precise and<br/>     consistent relationships.<br/>
+@end
+@answer INDIVIDUAL
+@tries 1
+@graphic none
+@video none
+@begin
+5.   A phenomenon that appears a certain number of times on the<br/>     average, among a group of subjects, (might/cannot) _______<br/>     be used as a probe.<br/>
+@end
+@answer CANNOT
+@tries 1
+@graphic none
+@video none
+@begin
+6.   One of the significant generalizations of the work on<br/>     schedules of reinforcement by Ferster and Skinner was that<br/>     the properties of behavior over long periods of time are<br/>     determined by the characteristics which the behavior<br/>     displays just prior to _______.<br/>
+@end
+@answer REINFORCEMENT
+@tries 1
+@graphic none
+@video none
+@begin
+7.   In a variable-interval schedule the p_______y of<br/>     reinforcement changes with the passage of time.  Relatively<br/>     long pauses in responding are (more/less) _______ likely to<br/>     be followed by reinforcement.  This condition, therefore,<br/>     generates a (lower/higher) _______ rate of responding.  The<br/>     result is a (high/intermediate) _______ rate of responding<br/>     when compared with, say, ratio schedules.<br/>
+@end
+@answer PROBABILITY MORE LOWER INTERMEDIATE
+@tries 1
+@graphic none
+@video none
+@begin
+8.   In a ratio schedule, reinforcement delivery is (directly<br/>     dependent upon/relatively independent of) _______ the<br/>     passage of time, but requires the emission of a particular<br/>     number of responses.  The probability of reinforcement<br/>     (increases/does not increase) _______ if the subject pauses<br/>     between responses.  <br/>
+@end
+@answer RELATIVELY INDEPENDENT OF DOES NOT INCREASE
+@tries 1
+@graphic none
+@video none
+@begin
+9.   Assuming even slight irregularities in the response rate<br/>     with respect to ratio schedules, reinforcement is most<br/>     likely to follow a (rapid burst of responses/pause) _______.<br/><br/>     The likelihood that a long pause will terminate with a<br/>     reinforced response is (great/small) _______.  In<br/>     consequence, a high, near maximal response rate develops.<br/>
+@end
+@answer RAPID BURST OF RESPONSES SMALL
+@tries 1
+@graphic none
+@video none
+@begin
+10.  The (tandem schedule) introduction of a DRL 10 sec. schedule<br/>     with a VI schedule, superimposed the DRL as a kind of<br/>     _______e.  The animal's responding approximated the rate<br/>     appropriate to the (FI/DRL) _______ schedule.  <br/>
+@end
+@answer PROBE DRL
+@tries 1
+@graphic none
+@video none
+@begin
+11.  Since DRL schedules were previously known to produce low<br/>     rates of responding, using a DRL as a probe confirmed that<br/>     the conditions just prior to reinforcement were<br/>     (unimportant/critical) _______. <br/>
+@end
+@answer CRITICAL
+@tries 1
+@graphic none
+@video none
+@begin
+12.  The application of the DRL in the tandem schedule was an<br/>     example of the (direct/systematic) _______ replication of<br/>     DRL effects.<br/>
+@end
+@answer SYSTEMATIC
+@tries 1
+@graphic none
+@video none
+@begin
+13.  Successful application of a sophisticated probe technique<br/>     achieves<br/>     a.  subject generality<br/>     b.  generality of principles<br/>
+@end
+@answer B
+@tries 1
+@graphic none
+@video none
+@begin
+14.  Suppose A is true and that if A is true, B is true.  But<br/>     suppose we find that B is true independently of knowing<br/>     about A.  Can we then assume A to be true (if we know B is<br/>     true when A is)? (Y or N) ____<br/>
+@end
+@answer N
+@tries 1
+@graphic none
+@video none
+@begin
+15.  (T or F) Scientists know more things than the rules of logic<br/>     would permit them to derive from the available evidence.<br/>
+@end
+@answer T
+@tries 1
+@graphic none
+@video none
+@begin
+16.  A(n) (likely/unlikely) _______ confirmation gives us more<br/>     confidence than a(n) (likely/unlikely) ________ one.<br/>
+@end
+@answer UNLIKE LIKELY
+@tries 1
+@graphic none
+@video none
+@begin
+17.  The technique of affirming the consequent is usually<br/>     reserved for evaluating (data/theory) _______.<br/>
+@end
+@answer THEORY
+@tries 1
+@graphic none
+@video none
+@begin
+18.  A variable is often considered to be ineffective is it can<br/>     be shown that the observed changes in behavior might have<br/>     resulted from "chance" as few as two times in a hundred (and<br/>     nearly always rejected if the level of chance is found to be<br/>     as high as five out of a hundred).  A 50/50 numerical split<br/>     in the evidence for and against a theory will<br/>(rarely/always)<br/>     _______ cause a psychological theorist to abandon his<br/>     position.<br/>
+@end
+@answer RARELY
+@tries 1
+@graphic none
+@video none
+@begin
+19.  It is (appropriate/inappropriate) _______ to evaluate a<br/>     theory by affirming the consequent when the basic statements<br/>     of the theory are ambiguous.  The results (can/cannot)<br/>     _______ verify the validity of the theory.<br/>
+@end
+@answer INAPPROPRIATE CANNOT
+@tries 1
+@graphic none
+@video none
+@begin
+20.  THE DESIGN OF SYSTEMATIC REPLICATION <br/>     <br/>     Systematic replication is<br/>     <br/>     a. a deliberate process<br/>     b. a byproduct<br/>
+@end
+@answer B
+@tries 1
+@graphic none
+@video none
+@begin
+21.  Systematic _______ is an inevitable accompaniment of<br/>     systematic experimentation.<br/>
+@end
+@answer REPLICATION
+@tries 1
+@graphic none
+@video none
+@begin
+22.  (T or F) ____   There are explicit rules for determining the<br/>     most appropriate replicative technique.<br/>
+@end
+@answer F
+@tries 1
+@graphic none
+@video none
+@begin
+23.  The fact that a scientist employs _______ replication to<br/>     substantiate his or her findings is, in itself, almost a<br/>     guarantee of his or her scientific integrity.<br/>
+@end
+@answer SYSTEMATIC
+@tries 1
+@graphic none
+@video none
+@begin
+24.  The scientist we can most trust is the one whose research<br/>     behaviors are under the control of<br/>     <br/>     a.  the medium<br/>     b.  the research audience<br/>
+@end
+@answer A
+@tries 1
+@graphic none
+@video none
+@begin
+25.  The scientist motivated to publish in order to get tenure is<br/>     most likely to pay attention to the consequences of his<br/>     behavior which derive from<br/>     <br/>     a.  the medium<br/>     b.  the research audience<br/>
+@end
+@answer B
+@tries 1
+@graphic none
+@video none
+@begin
+26.  If further grants are made possible by the character of the<br/>     research results obtained, (money/the medium) _______ may<br/>     have an undue influence upon the interpretation of research<br/>     results.<br/>
+@end
+@answer MONEY
+@tries 1
+@graphic none
+@video none
+@begin
+27.  A researcher behaves for reinforcement like everyone else. <br/>     Which of the following will produce the most valid<br/>     scientific practices?<br/>     <br/>     a.  utility in the conduct of future research<br/>     b.  ethical regulation by the research community<br/>
+@end
+@answer A
+@tries 1
+@graphic none
+@video none
+@begin
+28.  Researchers with the most extensive and highest quality<br/>     vitas are in better positions to "win" the few academic<br/>     research positions available.  A publication can be listed<br/>     only when it has been officially accepted by a periodical. <br/>     Editorial staffs, therefore, determine how extensive a<br/>     researcher's vita will be.  Thus, universities may<br/>     accumulate faculty who<br/>     <br/>     a.  pay close attention to what editorial staffs accept<br/>     b.  follow the consequences of their research in the<br/>accumulation of a unified conception and applied technology<br/>
+@end
+@answer A
+@tries 1
+@graphic none
+@video none
+@begin
+29.  PART III VARIABILITY   The acceptance of _______sic<br/>     variability as a basic property of behavior has let to the<br/>     adoption of experimental designs whose nature effectively<br/>     prevents further investigation of the problem.<br/>
+@end
+@answer INTRINSIC
+@tries 1
+@graphic none
+@video none
+@begin
+30.  (T or F) ____  Statistical experimental design takes<br/>     variability as its starting point for the evaluation of<br/>     data.<br/>
+@end
+@answer T
+@tries 1
+@graphic none
+@video none
+@begin
+31.  (T or F)  ____  Variability may be measured, and even used<br/>     as a datum, but it cannot be eliminated without destroying<br/>     the experimental strategy.<br/>
+@end
+@answer T
+@tries 1
+@graphic none
+@video none
+@begin
+32.  In order to treat any given instance of variability as a<br/>     manifestation of an orderly process, we must not only<br/>     identify the source of variability but also _______l it. <br/>     Each time _______l is achieved the assumption of _______ic<br/>     variability loses another prop.<br/>
+@end
+@answer CONTROL CONTROL INTRINSIC
+@tries 1
+@graphic none
+@video none
+@begin
+33.  Experimental identification of a source of variability<br/>     automatically (precludes/implies) _______ experimental<br/>     control, and once control has been achieved, any subsequent<br/>     instances of the variability in question must be considered<br/>     to be a function of <br/>     a.  the experimenter<br/>     b.  the subject matter<br/>
+@end
+@answer IMPLIES B
+@tries 1
+@graphic none
+@video none
+@begin
+34.  The effects of an independent variable may not be the same<br/>     on each individual subject due to subject variables.  In<br/>     other words, there may be an interaction with subject<br/>     variables.  Does a broader selection of subjects cancel this<br/>     problem?  (Y or N) ___<br/>
+@end
+@answer N
+@tries 1
+@graphic none
+@video none
+@begin
+35.  Group data<br/>     a. reveal population variability<br/>     b. eliminate population variability<br/>     c. neither of the above<br/>
+@end
+@answer C
+@tries 1
+@graphic none
+@video none
+@begin
+36.  Where a factor which underlines the variability is itself<br/>     distributed unevenly through the population, group data will<br/>     (compensate for/prevent) _______ recognition that the<br/>     problem even e__ts.<br/>
+@end
+@answer PREVENT EXISTS
+@tries 1
+@graphic none
+@video none

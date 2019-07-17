@@ -1,0 +1,231 @@
+@begin
+We are often asked to repeat what someone else has said.  If it is an exact duplication, it is an example of an ______ response. 
+@end
+@answer  echoic
+@tries 2
+@graphic none
+@video none
+@begin
+One important goal in programmed instruction is to strengthen the student's echoic behavior because this sets the stage for responding correctly when echoic or textual stimuli (are present/are not present) ______. 
+@end
+@answer  are not present
+@tries 2
+@graphic none
+@video none
+@begin
+INTRAVERBAL behavior is more difficult to establish because it is not simply echoing a stimulus.  When one is asked "What is two plus two?" the appropriate response is not the echoic response of saying "What is two plus two?" but is instead saying "four."  Saying "four" (is/is not) _______ an echoic response. 
+@end
+@answer  is not
+@tries 2
+@graphic none
+@video none
+@begin
+Saying "four" to the question "What is two plus two?" is an (echoic/intraverbal) ______ response. 
+@end
+@answer  intraverbal
+@tries 2
+@graphic none
+@video none
+@begin
+Getting a child to count by "ones" involves strengthening his tendency to say "three" after he says "one, two,..." Since the verbal response "three" is different from the verbal stimulus "one, two,..." it is not an echoic response but instead an ______ response. 
+@end
+@answer  intraverbal
+@tries 2
+@graphic none
+@video none
+@begin
+Giving the response "Paris" to the question "What city is the capital of France?" is an example of ______ behavior. 
+@end
+@answer  intraverbal
+@tries 2
+@graphic none
+@video none
+@begin
+(Echoic/Intraverbal) ______ responses have a different form than the question. 
+@end
+@answer  intraverbal
+@tries 2
+@graphic none
+@video none
+@begin
+The frame you are reading at this moment is a series of verbal stimuli.  Since you are not echoing or duplicating a response when you supply an answer, the answer is an example of an ______ response. 
+@end
+@answer  intraverbal
+@tries 2
+@graphic none
+@video none
+@begin
+Instructional frames induce the learner to behave verbally in the same way the programmer does.  A program progressively strengthens the learner's tendency to say the same things by c_____y pairing words or phrases with other words or phrases. 
+@end
+@answer  contiguously
+@tries 2
+@graphic none
+@video none
+@begin
+To teach a child to count, a parent contiguously pairs the stimulus "one, two,..." with the response "three."  Here, the child first emits _____c behavior by copying the chain of responses. 
+@end
+@answer  echoic
+@tries 2
+@graphic none
+@video none
+@begin
+Later, the parent reduces the intensity of the word "three" while the child responds "three."  The parent, in doing so, is _____ing out a prompt. 
+@end
+@answer  fading
+@tries 2
+@graphic none
+@video none
+@begin
+Fading a prompt, in this case, is the procedure used to convert the child's echoic response "three" to an ______ response. 
+@end
+@answer  intraverbal
+@tries 2
+@graphic none
+@video none
+@begin
+A fundamental objective programmed instruction is to slowly reduce the contribution of textual stimuli, thereby converting what was once echoic behavior into ______ behavior. 
+@end
+@answer  intraverbal
+@tries 2
+@graphic none
+@video none
+@begin
+Intraverbal behavior is more difficult to establish if the learner (does/does not) _______ already respond strongly to the words heard or read. 
+@end
+@answer  does not
+@tries 2
+@graphic none
+@video none
+@begin
+To ensure that the learner can respond strongly to the words heard are read, programs should be written at the appropriate reading level, and initially use words and phrases that the learner is f_____r with. 
+@end
+@answer  familiar
+@tries 2
+@graphic none
+@video none
+@begin
+The learner must repeatedly hear or see words or phrases together.  The strengthening of both echoic and intraverbal behavior results from what we call _____s pairing. 
+@end
+@answer  contiguous
+@tries 2
+@graphic none
+@video none
+@begin
+Saying "one, two,..." to the child is the appropriate stimulus, but the child must overtly respond with "three" and earn some sort of ______t if much strengthening is to occur." 
+@end
+@answer  reinforcement
+@tries 2
+@graphic none
+@video none
+@begin
+Behavior is strengthened only when it is _____d. 
+@end
+@answer  reinforced
+@tries 2
+@graphic none
+@video none
+@begin
+But reinforcement such as discovering one is correct cannot be precisely delivered unless the response is (weak/strong) ______ enough to be detected. 
+@end
+@answer  strong
+@tries 2
+@graphic none
+@video none
+@begin
+A student may "think" an answer, but this is not sufficient for the teaching medium.  The response must be (overt/covert) ______. 
+@end
+@answer  overt
+@tries 2
+@graphic none
+@video none
+@begin
+"Overt" means "open to view" or "not concealed."  Observable responses are _____rt. 
+@end
+@answer  overt
+@tries 2
+@graphic none
+@video none
+@begin
+Overt responses are s______d only when they are emitted and immediately reinforced. 
+@end
+@answer  strengthened
+@tries 2
+@graphic none
+@video none
+@begin
+A good gauge of how rapidly learning will occur is how frequently behavior is emitted and _____ed. 
+@end
+@answer  reinforced
+@tries 2
+@graphic none
+@video none
+@begin
+Programmed instruction can produce faster and more thorough learning than conventional school instruction because standard classroom situations (do/do not) ______ induce students to overtly respond very frequently. 
+@end
+@answer  do not
+@tries 2
+@graphic none
+@video none
+@begin
+Students learn more when they are required to make f_____nt overt responses that get reinforced. 
+@end
+@answer  frequent
+@tries 2
+@graphic none
+@video none
+@begin
+A "fact" is a statement about the world.  In a standard testing situation, a student is asked to write or state a _____t in response to a question. 
+@end
+@answer  fact
+@tries 2
+@graphic none
+@video none
+@begin
+Since the question has a different physical form than the response it evokes, the student's answer is an example of a(n) ______ response. 
+@end
+@answer  intraverbal
+@tries 2
+@graphic none
+@video none
+@begin
+Before students can solve complex problems, they must learn many basic facts.  Teaching such facts involves the establishment of _____l behavior. 
+@end
+@answer  intraverbal
+@tries 2
+@graphic none
+@video none
+@begin
+The student learns to give facts about science, music, mathematics, geography, history, etc.  The student does not give these facts in direct response to the world of "things," but in response to a classroom or a q_____ on a test." 
+@end
+@answer  question
+@tries 2
+@graphic none
+@video none
+@begin
+When a person supplies an intraverbal in response to a question, the person who asked the question usually provides some sort of ______, such as saying "correct." 
+@end
+@answer  reinforcement
+@tries 2
+@graphic none
+@video none
+@begin
+The question, the intraverbal response, and the reinforcer are the three elements that form a _____y of reinforcement. 
+@end
+@answer  contingency
+@tries 2
+@graphic none
+@video none
+@begin
+The antecedent (or prior) stimulus that gives rise to an intraverbal response is often someone asking a ______. 
+@end
+@answer  question
+@tries 2
+@graphic none
+@video none
+@begin
+A response to a question is an example of a(n) ______ response. 
+@end
+@answer  intraverbal
+@tries 2
+@graphic none
+@video none

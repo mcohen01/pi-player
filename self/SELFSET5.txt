@@ -1,0 +1,175 @@
+@begin
+This is Frame 91 of 115, and this set is the final of five sets.  We recently discussed the "esteemed" self--the byproduct of having our behavior _______ by others.  How we feel inside our body is part of what we respond to each day.  We feel these reactions in different ways.  The _____f we observe is made up of respondent behavior and the felt probability of operant behavior.<br/>
+@end
+@answer REINFORCED SELF
+@tries 2
+@graphic none
+@video none
+@begin
+92.  Lets review a little from the previous set.  The  es_______med self refers to a bodily state resulting from the commendation of others or self-commendation learned from others.  The confident self is the byproduct of s_______fully accomplishing things.<br/>
+@end
+@answer ESTEEMED SUCCESSFULLY
+@tries 2
+@graphic none
+@video none
+@begin
+93.  The _______ent self refers to the accompaniment of positively reinforced behavior.<br/>
+@end
+@answer CONFIDENT
+@tries 2
+@graphic none
+@video none
+@begin
+94.  The respondent byproducts of aversive contingencies is called the _______le self.<br/>
+@end
+@answer RESPONSIBLE
+@tries 2
+@graphic none
+@video none
+@begin
+95.  The _______ self is an accompaniment of behavior governed by rules, including rules made by the behaving person.<br/>
+@end
+@answer RATIONAL
+@tries 2
+@graphic none
+@video none
+@begin
+96.  We (can/cannot) _______ accurately respond to these selves because the selves are directly responded to only by the person who feels them.<br/>
+@end
+@answer CANNOT
+@tries 1
+@graphic none
+@video none
+@begin
+97.  We (can/cannot) _______ respond directly to the areas inside focused upon through introspection.  There (are/are no) _______ sensory nerves going to the place upon which introspection focuses.<br/>
+@end
+@answer CANNOT ARE NO
+@tries 2
+@graphic none
+@video none
+@begin
+98.  The selves we feel (can/cannot) _______ be directly observed by another person.  This privacy makes agreement by those who would teach us (possible/impossible) _______.  Introspection is inherently (accurate/inaccurate) _______.<br/>
+@end
+@answer CANNOT IMPOSSIBLE INACCURATE
+@tries 2
+@graphic none
+@video none
+@begin
+99.  Physiologists will more accurately observe the body but what they will observe will be the product of evolutionary contingencies of variation and selection rather than what is less clearly seen through intro_______n.<br/>
+@end
+@answer INTROSPECTION
+@tries 2
+@graphic none
+@video none
+@begin
+100.  Almost every field of science has two languages: one for things casually observed in daily life called the (vernacular/scientific) _______, the other for things observed with the methods of science.<br/>
+@end
+@answer VERNACULAR
+@tries 2
+@graphic none
+@video none
+@begin
+101.  The field of human behavior has a third language, a vocabulary for things within the observer that are felt or in_______ively observed.<br/>
+@end
+@answer INTROSPECTIVELY
+@tries 2
+@graphic none
+@video none
+@begin
+102.  The reflexive "self" (as in "myself") is part of the (informal/scientific) _______ language.<br/>
+@end
+@answer INFORMAL
+@tries 1
+@graphic none
+@video none
+@begin
+103.  The "selves" previously discussed are part of the (vernacular/scientific/psychological) _______ vocabulary for things felt or introspectively observed.<br/>
+@end
+@answer PSYCHOLOGICAL
+@tries 1
+@graphic none
+@video none
+@begin
+104.  With respect to the (1) vernacular, (2) scientific, and (3) psychological (i.e., those discussed in this program) selves, both the first and third vocabularies (have/do not have) _______ practical uses.<br/>
+@end
+@answer HAVE
+@tries 1
+@graphic none
+@video none
+@begin
+105.  From the selves discussed in this program we (can/cannot) _______ infer something of what has happened to a person.<br/>
+@end
+@answer CAN
+@tries 1
+@graphic none
+@video none
+@begin
+106.  The "selves" described herein are helpful in taking practical action but they (are/are not) _______ a part of the technical scientific language because they refer to events that cannot be scientifically verified.<br/>
+@end
+@answer ARE NOT
+@tries 1
+@graphic none
+@video none
+@begin
+107.  The REFERENT of the verbal response "self" is impossible to isolate with precision due to its very nature.  Therefore the "self" as it is typically used (is/is not) _______ a term that belongs in a scientific language.<br/>
+@end
+@answer IS NOT
+@tries 1
+@graphic none
+@video none
+@begin
+108.  The same thing is true for all private events often used to explain behavior including the "miraculous" m___d. <br/>
+@end
+@answer MIND
+@tries 2
+@graphic none
+@video none
+@begin
+109.  Therefore, the "initiating self" is a term that is misleading and refers to a locus (inside/outside) _______ the body; its existance is now being (confirmed/questioned) _______ by a science of behavior.<br/>
+@end
+@answer INSIDE QUESTIONED
+@tries 2
+@graphic none
+@video none
+@begin
+110.  From the scientific point of view, the "initiating self" or mind refers to processes that begin (outside/inside) _______ the body, in the form of reinforcement contingencies.<br/>
+@end
+@answer OUTSIDE
+@tries 1
+@graphic none
+@video none
+@begin
+111.  From a scientific point of view, a person (does/does not) _______ initiate his or own behavior.  Instead, the view argues that _______ of reinforcement do.<br/>
+@end
+@answer DOES NOT CONTINGENCIES
+@tries 2
+@graphic none
+@video none
+@begin
+112.  Lets summarize.  The initiating or creative _____f is not a "causal locus" within a person, it is instead the respondent byproduct that occurs at just the right place and time to be (confirmed as/mistaken for) _______ an originating force or agent.<br/>
+@end
+@answer SELF MISTAKEN FOR
+@tries 2
+@graphic none
+@video none
+@begin
+113.  We do not really originate anything, from a scientific point of view.  We learn to manipulate (external/internal) _______ conditions that produce the byproducts called the _____f and in doing so we appear to be self-governing.<br/>
+@end
+@answer EXTERNAL SELF
+@tries 2
+@graphic none
+@video none
+@begin
+114.  Through reading, observing, and imitating, we acquire behavior that gives the APPEARANCE of self-governance or orig_____ion.<br/>
+@end
+@answer ORIGINATION
+@tries 2
+@graphic none
+@video none
+@begin
+115.  Self-governing or originating behavior does NOT begin _______e the person; its causes are to be found in the env_______t of selecting contingencies we call the culture.  The solutions to personal as well as world problems will come from (appealing to the individual to change/rearranging contingencies of reinforcement) _______.  [You have reached the end of this program of five sets.]<br/>
+@end
+@answer INSIDE ENVIRONMENT REARRANGING CONTINGENCIES OF REINFORCEMENT
+@tries 2
+@graphic none
+@video none

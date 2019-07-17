@@ -1,0 +1,224 @@
+@begin
+In the classroom, the student makes infrequent observable responses.  In a program, the student makes ______ent observable responses. 
+@end
+@answer  frequent
+@tries 2
+@graphic none
+@video none
+@begin
+Because revisions are based on student performance, it is said the ______ writes the program. 
+@end
+@answer  student
+@tries 2
+@graphic none
+@video none
+@begin
+Programs should try to achieve less than _____ percent error rates. [ Type the number ] 
+@end
+@answer  10
+@tries 2
+@graphic none
+@video none
+@begin
+As the student goes through the program, she makes frequent observable responses which, if acceptable, are ______ reinforced. 
+@end
+@answer  immediately
+@tries 2
+@graphic none
+@video none
+@begin
+The responses are prompted thematically by what the student can do as part of his initial behavior or by what he has learned to do in the gradual progression of steps in the ______. 
+@end
+@answer  program
+@tries 2
+@graphic none
+@video none
+@begin
+Responses are prompted both thematically and formally to produce the desired response so that the responses can be immediately ______. 
+@end
+@answer  reinforced
+@tries 2
+@graphic none
+@video none
+@begin
+By making frequent responses, the student is taking an (active/passive) ______ part in the learning process. 
+@end
+@answer  active
+@tries 2
+@graphic none
+@video none
+@begin
+By requiring the student to make observable responses, the programmer assures himself that he will have the data he needs to revise the program in case the students make too frequent errors, take too much time, or do not attain the desired ______ behavior. 
+@end
+@answer  terminal
+@tries 2
+@graphic none
+@video none
+@begin
+A behaviorally defined concept is a set of observable _____es. 
+@end
+@answer  responses
+@tries 2
+@graphic none
+@video none
+@begin
+The fading of SD's and S^'s and other prompts are techniques one can use to teach _____lly defined concepts. 
+@end
+@answer  behaviorally
+@tries 2
+@graphic none
+@video none
+@begin
+The programmer's primary task is to _____ge the behavior of the student. 
+@end
+@answer  change
+@tries 2
+@graphic none
+@video none
+@begin
+The response required by the program may be selected to control the _____g behavior of the student, i.e., to make sure that he attends carefully to the frame. 
+@end
+@answer  observing
+@tries 2
+@graphic none
+@video none
+@begin
+The required response may also be selected to make sure that the response is emitted and reinforced.  This will increase the ______ of its occurrence when the SD is presented again. 
+@end
+@answer  probability
+@tries 2
+@graphic none
+@video none
+@begin
+A graphic can be useful in programming.  The _____c can contain diagrams, a blueprint, a schematic drawing, a page of text, etc. 
+@end
+@answer  graphic
+@tries 2
+@graphic none
+@video none
+@begin
+A graphic presents information.  The program associated with it trains the student to use the i_____. 
+@end
+@answer  information
+@tries 2
+@graphic none
+@video none
+@begin
+For example, a graphic may contain a description of an experiment in chemistry or physics.  The student may have to analyze, synthesize, or evaluate the information to correctly ______ to frames. 
+@end
+@answer  respond
+@tries 2
+@graphic none
+@video none
+@begin
+This program could present a graphic that contains many rules for programming.  You would have to ______ these rules to construct your own frames. 
+@end
+@answer  use
+@tries 2
+@graphic none
+@video none
+@begin
+Most educational techniques present information, e.g. the lecture.  Programmed instruction teaches the student to _____ the information. 
+@end
+@answer  use
+@tries 2
+@graphic none
+@video none
+@begin
+Merely presenting information is not enough.  To be sure that the information is learned, the programmer must make sure that the student actively ______ to what is presented. 
+@end
+@answer  responds
+@tries 2
+@graphic none
+@video none
+@begin
+The information in a graphic is a complex stimulus or set of stimuli to which the programmer must teach the ______t to respond. 
+@end
+@answer  student
+@tries 2
+@graphic none
+@video none
+@begin
+The student responds correctly to frames only if she observes the graphic carefully; i.e., the frames control her ______ behavior of the graphic. 
+@end
+@answer  observing
+@tries 2
+@graphic none
+@video none
+@begin
+A frame may require the student to study only a small part of a graphic.  Here, the frame (does/does not) ______ control the student's observing behavior of the entire graphic. 
+@end
+@answer  does not
+@tries 2
+@graphic none
+@video none
+@begin
+Reading graphs and charts is a skill that can be taught with a program that uses a ______. 
+@end
+@answer  graphic
+@tries 2
+@graphic none
+@video none
+@begin
+Graphics can be presented on the computer screen or on separate sheets of _____. 
+@end
+@answer  paper
+@tries 2
+@graphic none
+@video none
+@begin
+Large amounts of information are often presented in graphic. The program then teaches the student to respond differentially to parts of that information, i.e., to ______ that information. 
+@end
+@answer  use
+@tries 2
+@graphic none
+@video none
+@begin
+The program is designed to make sure that the student observes each relevant part of the information presented in a ______. 
+@end
+@answer  graphic
+@tries 2
+@graphic none
+@video none
+@begin
+Particular aspects of the graphic become SD's in the presence of which only particular responses will be ______ if they are emitted. 
+@end
+@answer  reinforced
+@tries 2
+@graphic none
+@video none
+@begin
+The programmer's primary task is to change the ______ of the student. 
+@end
+@answer  behavior
+@tries 2
+@graphic none
+@video none
+@begin
+A graphic presents information.  The program associated with it trains the student to ______ the information. 
+@end
+@answer  use
+@tries 2
+@graphic none
+@video none
+@begin
+The student responds correctly to frames only if she observes the graphic carefully; i.e., the frames control her ______ behavior of the graphic. 
+@end
+@answer  observing
+@tries 2
+@graphic none
+@video none
+@begin
+Particular aspects of the graphic become SD's in the presence of which only particular responses will be ______ if they are emitted. 
+@end
+@answer  reinforced
+@tries 2
+@graphic none
+@video none
+@begin
+The information in a graphic is a complex stimulus or set of stimuli to which the programmer must teach the student to _____d. 
+@end
+@answer  respond
+@tries 2
+@graphic none
+@video none

@@ -1,0 +1,357 @@
+@begin
+Instructional objectives state what students are to be able to DO after experiencing instruction.  For example, an objective of a program that teaches how to bake a cake may state that students will be able to measure four cups of flour.  An objective of this program is that students will be _____e to explain why effective programs are based on instructional _____s. 
+@end
+@answer  able objectives
+@tries 2
+@graphic none
+@video none
+@begin
+Instructional objectives clearly state what students are able to DO as a result of working through programs.  They specify what students are able to do (before/after) ______ experiencing instruction. 
+@end
+@answer  after
+@tries 2
+@graphic none
+@video none
+@begin
+Instructional objectives of programs should clearly state what students are able to _____ as a result of working through programs. 
+@end
+@answer  do
+@tries 2
+@graphic none
+@video none
+@begin
+Statements that specify what students are able to do after experiencing instruction are called _____l _____s. 
+@end
+@answer  instructional objectives
+@tries 2
+@graphic none
+@video none
+@begin
+USING OBJECTIVES TO CONSTRUCT PROGRAMS  Effective educational programs are based on instructional objectives (Hannafin & Peck, 1988).  Builders do not construct houses without first specifying the results in blueprints.  Instructional designers do not c_____ct programs without first specifying what the programs will teach in the instructional _____s. 
+@end
+@answer  construct objectives
+@tries 2
+@graphic none
+@video none
+@begin
+Blueprints guide builders as they construct houses. ______ _____s guide instructional designers as they construct _____ms. 
+@end
+@answer  instructional objectives programs
+@tries 2
+@graphic none
+@video none
+@begin
+Because they describe in advance what programs will teach, instructional objectives are like _____prints for constructing programs. 
+@end
+@answer  blueprints
+@tries 2
+@graphic none
+@video none
+@begin
+Specifying the instructional objectives is one of the (first/last) ______ steps in the instructional design process for constructing effective programs. 
+@end
+@answer  first
+@tries 2
+@graphic none
+@video none
+@begin
+When you specify what students will be able to _____ in advance, you are in a (better/worse) ______ position to design effective instructional experiences. 
+@end
+@answer  do better
+@tries 2
+@graphic none
+@video none
+@begin
+How effective a program is at accomplishing its objectives is influenced by the methods used to develop the program. Using _____es to construct programs suggests (good/bad) ______ developmental practice (Taylor, 1987). 
+@end
+@answer  objectives good
+@tries 2
+@graphic none
+@video none
+@begin
+Program designers use instructional objectives to construct programs similar to the way builders use _____ts to construct houses. 
+@end
+@answer  blueprints
+@tries 2
+@graphic none
+@video none
+@begin
+Objectives help developers prescribe and design appropriate activities (Hannafin & Peck, 1988).  Generally, programs are (more effective/less effective) ______ at accomplishing their goals if they were developed using instructional objectives. 
+@end
+@answer  more effective
+@tries 2
+@graphic none
+@video none
+@begin
+Specifying the instructional objectives is one of the first steps in the instructional _____gn process for creating effective _____ms. 
+@end
+@answer  design programs
+@tries 2
+@graphic none
+@video none
+@begin
+BETTER STUDENT PERFORMANCE  Generally, when people know in advance what is expected of them, they are (more/less) ______ likely to do what is expected of them.  For example, when you inform a student in advance what she is to learn from reading a book, she is (more/less) ______ likely to concentrate on those topics when reading the book. 
+@end
+@answer  more more
+@tries 2
+@graphic none
+@video none
+@begin
+Instructional objectives inform students in advance what is expected of them.  Instructional objectives state what students should be able to _____ after experiencing instruction. 
+@end
+@answer  do
+@tries 2
+@graphic none
+@video none
+@begin
+Instructional objectives should be established in advance and given to students before instruction so they know what is _____ed of them (Hannum & Briggs, 1982). 
+@end
+@answer  expected
+@tries 2
+@graphic none
+@video none
+@begin
+A student working through a program is better prepared to concentrate on important topics if the objectives are stated in _____ce. 
+@end
+@answer  advance
+@tries 2
+@graphic none
+@video none
+@begin
+When given to students in advance, objectives aid in learning by pointing out important topics (Hannafin & Peck, 1988).  Students should be aware of the instructional objectives (before/after) _____ working through a program. 
+@end
+@answer  before
+@tries 2
+@graphic none
+@video none
+@begin
+Providing the instructional objectives in advance can help students in other ways.  For example, students usually have (more/less) ______ anxiety if they know what is expected of them (Taylor, 1987). 
+@end
+@answer  less
+@tries 2
+@graphic none
+@video none
+@begin
+Students who study WITHOUT instructional objectives may become anxious because they (know/do not know) ______ what is expected of them. 
+@end
+@answer  do not know
+@tries 2
+@graphic none
+@video none
+@begin
+So students know what is _____d of them, effective programs clearly state their instructional objectives in _____e. 
+@end
+@answer  expected advance
+@tries 2
+@graphic none
+@video none
+@begin
+Specifying instructional objectives in advance helps instructional designers to _____ct more effective programs, and informs learners of what is _____d of them in advance. 
+@end
+@answer  construct expected
+@tries 2
+@graphic none
+@video none
+@begin
+Besides guiding designers and helping students, the specification of instructional objectives in advance also benefits the t_____rs who create or select programs for their students. 
+@end
+@answer  teachers
+@tries 2
+@graphic none
+@video none
+@begin
+OBJECTIVES INFORM TEACHERS OF THE PURPOSE OF PROGRAMS  A teacher may have trouble identifying if a program fits into the curriculum.  For example, a biology program may provide only a title and an exciting description.  Here, a biology teacher (does/does not) ______ know exactly what the program teaches. 
+@end
+@answer  does not
+@tries 2
+@graphic none
+@video none
+@begin
+Objectives inform teachers of the purpose of programs (Taylor, 1987).  The purpose of a program includes the goals of the lesson and what the students are to be able to _____ after working through it. 
+@end
+@answer  do
+@tries 2
+@graphic none
+@video none
+@begin
+Instructional objectives inform t_____rs of the purpose of programs. 
+@end
+@answer  teachers
+@tries 2
+@graphic none
+@video none
+@begin
+A teacher can properly evaluate whether a program fits into the curriculum when she or he knows the ______ _____s. 
+@end
+@answer  instructional objectives
+@tries 2
+@graphic none
+@video none
+@begin
+Objectives not only benefit (learners/teachers) ______ by informing them what is expected of them in advance, they benefit (learners/teachers) ______ by informing them of the purpose of the program. 
+@end
+@answer  learners teachers
+@tries 2
+@graphic none
+@video none
+@begin
+Teachers should select those instructional programs for their students that clearly specify the ______ ______. 
+@end
+@answer  instructional objectives
+@tries 2
+@graphic none
+@video none
+@begin
+HOW OBJECTIVES ARE STATED  Objectives should be stated in terms of observable outcome behaviors (Hannum & Briggs, 1982).  For example, the objectives "The student will be able to bake a cake" and "The student will be able to underline all the verbs in a given sentence" specify observable outcome _____rs. 
+@end
+@answer  behaviors
+@tries 2
+@graphic none
+@video none
+@begin
+Because instructional objectives clearly specify the observable BEHAVIORS of a student, they are sometimes called b_____oral objectives. 
+@end
+@answer  behavioral
+@tries 2
+@graphic none
+@video none
+@begin
+Instructional objectives such as "The student will be able to understand math" and "The student will appreciate chemistry" (do/do not) ______ clearly specify observable behaviors. 
+@end
+@answer  do not
+@tries 2
+@graphic none
+@video none
+@begin
+It must be clear if students have accomplished the objectives of a program.  Objectives should clearly specify observable _____s. 
+@end
+@answer  behaviors
+@tries 2
+@graphic none
+@video none
+@begin
+Which of the following is the best example of a clearly stated instructional objective?  [Type only the letter a, b, or c.]  a.  The student will accumulate and demonstrate a general regard and respect for literature. b.  The student will be able to appreciate the importance of biodiversity. c.  The student will be able to state the term "computer" when given its definition. 
+@end
+@answer  c
+@tries 2
+@graphic none
+@video none
+@begin
+It must be clear if the student has mastered the intended objectives in order to MEASURE the effectiveness of a program (Hannafin & Peck, 1988).  If objectives are not clearly specified, can learning be accurately measured? (yes/no) _____ 
+@end
+@answer  no
+@tries 2
+@graphic none
+@video none
+@begin
+Instructional objectives should be stated in such a way so that they can be measured for accomplishment.  For this reason, they should be statements of _____able outcome _____s. 
+@end
+@answer  observable behaviors
+@tries 2
+@graphic none
+@video none
+@begin
+Instructional objectives should be statements of observable outcome behaviors so learning can be accurately m_____red. 
+@end
+@answer  measured
+@tries 2
+@graphic none
+@video none
+@begin
+"Program A" clearly specifies its instructional objectives. "Program B" contains an exciting description of the program.  Which program has a better chance of being properly designed? (A/B) ______  [Type only the letter A or B] 
+@end
+@answer  a
+@tries 2
+@graphic none
+@video none
+@begin
+"Program A" clearly specifies its instructional objectives. "Program B" contains an exciting description of the program.  Which program will inform students of what is expected of them? (A/B) ______  [Type only the letter A or B] 
+@end
+@answer  a
+@tries 2
+@graphic none
+@video none
+@begin
+"Program A" clearly specifies its instructional objectives. "Program B" contains an exciting description of the program.  Which program is more difficult to measure for effectiveness? (A/B) ______  [Type only the letter A or B] 
+@end
+@answer  b
+@tries 2
+@graphic none
+@video none
+@begin
+You know that effective programs were designed using instructional objectives and clearly state them in _____e. However, because they don't want to limit their programs to small audiences, many educational software producers (do/do not) ______ specify instructional objectives in their programs (Caffarella, 1987). 
+@end
+@answer  advance do not
+@tries 2
+@graphic none
+@video none
+@begin
+Commercial producers of programs may provide only broad and general descriptions of their programs to attract (more/less) ______ buyers. 
+@end
+@answer  more
+@tries 2
+@graphic none
+@video none
+@begin
+Broad and general descriptions of a program may benefit the commercial producers of programs, but they (do/do not) _____ benefit the teachers and students who use the programs. 
+@end
+@answer  do not
+@tries 2
+@graphic none
+@video none
+@begin
+(General/specific) ______ instructional objectives benefit commercial producers.  (General/specific) ______ instructional objectives benefit teachers and students. 
+@end
+@answer  general specific
+@tries 2
+@graphic none
+@video none
+@begin
+Instructional objectives should be clear and specific.  They should be statements of observable outcome _____s. 
+@end
+@answer  behaviors
+@tries 2
+@graphic none
+@video none
+@begin
+Specifying clear objectives is one of the _____t steps in the instructional design process. 
+@end
+@answer  first
+@tries 2
+@graphic none
+@video none
+@begin
+Programs are usually more effective at accomplishing their goals if they were designed using (specific/general) ______ instructional objectives. 
+@end
+@answer  specific
+@tries 2
+@graphic none
+@video none
+@begin
+Instructional objectives benefit students by informing them of what is _____d of them in _____e. 
+@end
+@answer  expected advance
+@tries 2
+@graphic none
+@video none
+@begin
+When program objectives are clearly specified, t_____s can properly include them in their classes. 
+@end
+@answer  teachers
+@tries 2
+@graphic none
+@video none
+@begin
+Objectives should be statements of observable outcome behaviors so learning can be accurately _____d. 
+@end
+@answer  measured
+@tries 2
+@graphic none
+@video none
+@begin
+Teachers need to be very careful when selecting programs for their students because many commercial producers (do/do not) ______ clearly specify instructional objectives. 
+@end
+@answer  do not
+@tries 2
+@graphic none
+@video none

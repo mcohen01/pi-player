@@ -1,0 +1,224 @@
+@begin
+You learned at the beginning of this program that the basic building block or teaching unit in programmed instruction is called the f_____. 
+@end
+@answer  frame
+@tries 2
+@graphic none
+@video none
+@begin
+In a well constructed program, each successive frame strengthens behavior the student will be able to emit at the ______ of the program. 
+@end
+@answer  end
+@tries 2
+@graphic none
+@video none
+@begin
+When a student embarks upon a program he or she is incapable of emitting the terminal behavior under the specified conditions.  We say the terminal responses have a very (low/high) ______ probability of occurrence. 
+@end
+@answer  low
+@tries 2
+@graphic none
+@video none
+@begin
+A good program begins where the student is; it makes use of _____r that has already been established. 
+@end
+@answer  behavior
+@tries 2
+@graphic none
+@video none
+@begin
+The student should respond (readily/with difficulty) ______ to the first frames and questions. 
+@end
+@answer  readily
+@tries 2
+@graphic none
+@video none
+@begin
+If the student is to be successful, or in other words, is to find the program reinforcing, terminal responses or answers (should/should not) ______ be required at the beginning of a program. 
+@end
+@answer  should not
+@tries 2
+@graphic none
+@video none
+@begin
+In a well designed program, behavior is established and maintained by a carefully arranged program of contingencies of _____t. 
+@end
+@answer  reinforcement
+@tries 2
+@graphic none
+@video none
+@begin
+The more similar the current contingency is to those previously experienced in the program, the (higher/lower) ______ the probability of responding correctly. 
+@end
+@answer  higher
+@tries 2
+@graphic none
+@video none
+@begin
+In progressively establishing fragmentary components of its terminal behavior, a good program begins by requiring answers which already have a high _____y of occurrence. 
+@end
+@answer  probability
+@tries 2
+@graphic none
+@video none
+@begin
+The strengthening of weak behavior is accomplished by evoking the behavior (or components of it) and then following the performance with a reward, or more technically a ______. 
+@end
+@answer  reinforcer
+@tries 2
+@graphic none
+@video none
+@begin
+Answers a programmer does not expect are called errors.  But when a student emits an error, that response has a relatively (high/low) ______ probability, or else it would fail to be emitted. 
+@end
+@answer  high
+@tries 2
+@graphic none
+@video none
+@begin
+The probability of a student's response is determined by a history of conditioning as well as the current frame material.  A programmer can firmly establish a new _____y of conditioning by carefully arranging a series of frames. 
+@end
+@answer  history
+@tries 2
+@graphic none
+@video none
+@begin
+The programmer can also carefully select the material he or she places in the current frame.  Therefore, most so-called "wrong" answers are largely the responsibility of the ______ and are not the fault of the student. 
+@end
+@answer  programmer
+@tries 2
+@graphic none
+@video none
+@begin
+An "error" is a programmer's evaluation of a response; it is not an inherent characteristic of behavior.  It is the result of frame of material and the student's ______ of conditioning. 
+@end
+@answer  history
+@tries 2
+@graphic none
+@video none
+@begin
+One measure of the quality of an instructional program is the likelihood, or technically speaking, the p_____ the student will make an error at any given frame. 
+@end
+@answer  probability
+@tries 2
+@graphic none
+@video none
+@begin
+Years ago, a controversy existed between advocates of what was called "linear" programming and "branching" programming. A program that presented frames in a predefined sequence, regardless of the student's responses, is called (linear/branching) ______. 
+@end
+@answer  linear
+@tries 2
+@graphic none
+@video none
+@begin
+A program that responds to an error by presenting remedial frames is called (linear/branching) ______. 
+@end
+@answer  branching
+@tries 2
+@graphic none
+@video none
+@begin
+Because it is designed to present remedial frames to student errors, a ______ program treated making errors as natural or expected, something a student was expected to do while he or she learned. 
+@end
+@answer  branching
+@tries 2
+@graphic none
+@video none
+@begin
+On the other hand, creators of ______ programs revised them until the error rates were very low. 
+@end
+@answer  linear
+@tries 2
+@graphic none
+@video none
+@begin
+If errors are a product of a person's instructional history and the current frame content, they are the responsibility of the ______, and not the student. 
+@end
+@answer  programmer
+@tries 2
+@graphic none
+@video none
+@begin
+Making an error is aversive to most of us.  A branching program which not only allows, but anticipates, errors will not be as reinforcing as a well-developed ______ program, because the student may often be wrong. 
+@end
+@answer  linear
+@tries 2
+@graphic none
+@video none
+@begin
+We should expect that a student would find working on a well-refined linear program to be (more/less) ______ reinforcing than on a branching program. 
+@end
+@answer  more
+@tries 2
+@graphic none
+@video none
+@begin
+If you were to teach someone how to do a fine technical skill, you wouldn't first show the student how to do it the wrong way, because his tendency to do it that way might (increase/decrease) ______ as a result of seeing it done that way first. 
+@end
+@answer  increase
+@tries 2
+@graphic none
+@video none
+@begin
+Because it gradually progresses in carefully constructed approximations, good programming reduces the probability of _____ect responses. 
+@end
+@answer  incorrect
+@tries 2
+@graphic none
+@video none
+@begin
+Branching programs frequently employ multiple-choice "foils."  If the student selects the correct answer she moves forward in the program.  If she selects a "foil" she is br_____ed to remedial frames and then brought back to the main program frame series. 
+@end
+@answer  branched
+@tries 2
+@graphic none
+@video none
+@begin
+A "good" multiple-choice foil is one that is plausible, yet wrong; it is a discrimination test.  But during the early stages of instruction, the student may respond weakly to the correct answer, and seeing plausible foils could _____crease the tendency to emit wrong answers. 
+@end
+@answer  increase
+@tries 2
+@graphic none
+@video none
+@begin
+There are occasions where multiple-choices are appropriate in a linear program--perhaps to verify already learned responses or for review.  But because they can strengthen wrong answers, multiple-choice sequences (should/should not) ______ be used in instructional programs. 
+@end
+@answer  should not
+@tries 2
+@graphic none
+@video none
+@begin
+Selecting from an array of choices is different from constructing the response.  A response that is not well conditioned can be (more/less) _______ easily emitted if it is "cued" or prompted by a stimulus. 
+@end
+@answer  more
+@tries 2
+@graphic none
+@video none
+@begin
+A correct response, when listed as an alternative, is a powerful prompt.  A student, who is only weakly inclined to emit the correct response, can more easily do so if the correct response is already th___e to choose from. 
+@end
+@answer  there
+@tries 2
+@graphic none
+@video none
+@begin
+A frame which requires a (constructed/selected) ______ answer requires behavior having a higher probability. 
+@end
+@answer  constructed
+@tries 2
+@graphic none
+@video none
+@begin
+Multiple-choice frames require the student to (construct/select) _____ the response. 
+@end
+@answer  select
+@tries 2
+@graphic none
+@video none
+@begin
+Frames of programmed instruction should incorporate mainly (constructed-response/multiple-choice) ______ questions. 
+@end
+@answer  constructed-response
+@tries 2
+@graphic none
+@video none

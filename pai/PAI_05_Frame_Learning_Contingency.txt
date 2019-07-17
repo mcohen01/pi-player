@@ -1,0 +1,280 @@
+@begin
+A dictionary defines a FRAME as "an open border or case for enclosing a picture" or "a structure for admitting or enclosing something such as a window."  At this moment, you are looking into a computer screen which is a kind of picture or window _____e. 
+@end
+@answer  frame
+@tries 2
+@graphic none
+@video none
+@begin
+A dictionary also defines the word PAGE as "one side of a "leaf of something printed or written, such as a book."  In computer, automated, or "programmed" instruction, material is presented in successive _____es rather than pages of a book. 
+@end
+@answer  frames
+@tries 2
+@graphic none
+@video none
+@begin
+When working with a computer, there is no page that is turned or read; the term _______ is more appropriate. 
+@end
+@answer  frame
+@tries 2
+@graphic none
+@video none
+@begin
+Programmed instruction is a method of teaching.  It incorporates principles of learning derived from the experimental analysis of behavior.  Students can readily learn from p_____ instruction. 
+@end
+@answer  programmed
+@tries 2
+@graphic none
+@video none
+@begin
+Learning is acquiring new behavior.  A hungry baby learns to open its ______ in response to approaching food. 
+@end
+@answer  mouth
+@tries 2
+@graphic none
+@video none
+@begin
+When food in the mouth strengthens or increases the probability of mouth-opening behavior, we say that _____g has taken place. 
+@end
+@answer  learning
+@tries 2
+@graphic none
+@video none
+@begin
+Learning is a change in the p_____ity of doing something, i.e., a "tendency." 
+@end
+@answer  probability
+@tries 2
+@graphic none
+@video none
+@begin
+However, we can be absolutely sure a change has happened only when we actually observe or see the new change in _____r. 
+@end
+@answer  behavior
+@tries 2
+@graphic none
+@video none
+@begin
+Overt action is the (critical/unimportant) _______ variable in the learning process. 
+@end
+@answer  critical
+@tries 2
+@graphic none
+@video none
+@begin
+If we want to verify that a person "knows" how to do something, we need to arrange appropriate conditions and watch the person actually _______ (or perhaps say) the thing (behavior). 
+@end
+@answer  do
+@tries 2
+@graphic none
+@video none
+@begin
+A change in the probability that a person can do something is called _____g. 
+@end
+@answer  learning
+@tries 2
+@graphic none
+@video none
+@begin
+Knowledge is often potential behavior.  A person need not be currently engaging in some behavior to "know" how to do it. But we confirm or verify that he "knows" when we actually observe him engaging in the ______. 
+@end
+@answer  behavior
+@tries 2
+@graphic none
+@video none
+@begin
+When we teach a person to do or say something, we can be sure she "knows" how to do or say it only if we _____ve her doing or saying it. 
+@end
+@answer  observe
+@tries 2
+@graphic none
+@video none
+@begin
+To verify learning, we must ______ the student engaging in behavior. 
+@end
+@answer  observe
+@tries 2
+@graphic none
+@video none
+@begin
+To verify learning, the student must make an _____ble response. 
+@end
+@answer  observable
+@tries 2
+@graphic none
+@video none
+@begin
+Teaching is the arrangement of conditions that expedite learning.  It is ch_____g behavior through the use of conditioning principles. 
+@end
+@answer  changing
+@tries 2
+@graphic none
+@video none
+@begin
+Teaching involves the setting in which something is to be done, the behavior, and the consequences that happen immediately (before/after) ______ the student responds. 
+@end
+@answer  after
+@tries 2
+@graphic none
+@video none
+@begin
+If we define "teaching" as the arrangement of conditions that result in the strengthening of behavior, teaching has NOT happened if we observe no c______ in behavior. 
+@end
+@answer  change
+@tries 2
+@graphic none
+@video none
+@begin
+Merely "presenting information" or going through certain motions is not enough.  A teacher (or instructional program) is not technically _______ing if the student doesn't learn. 
+@end
+@answer  teaching
+@tries 2
+@graphic none
+@video none
+@begin
+Effective instruction involves the consideration of three variables.  The setting, the b_____ the person does, and its consequences (immediate reinforcement). 
+@end
+@answer  behavior
+@tries 2
+@graphic none
+@video none
+@begin
+Conditioning is the strengthening of a particular behavior resulting from immediate _____nt. 
+@end
+@answer  reinforcement
+@tries 2
+@graphic none
+@video none
+@begin
+In operant conditioning, a kind of response becomes more probable when it is immediately _____ed. 
+@end
+@answer  reinforced
+@tries 2
+@graphic none
+@video none
+@begin
+Reinforcement is a technical term that means a response is strengthened, i.e., its p______y is increased. 
+@end
+@answer  probability
+@tries 2
+@graphic none
+@video none
+@begin
+When a teacher says "correct" to an answer that is given, that kind of answer is often strengthened.  We call the teacher's response a _____r for the student's answer. 
+@end
+@answer  reinforcer
+@tries 2
+@graphic none
+@video none
+@begin
+Instruction is most effective when reinforcement immediately follows a response.  Technically, we say that reinforcement should be contingent upon a _____e. 
+@end
+@answer  response
+@tries 2
+@graphic none
+@video none
+@begin
+Students may not leave the room (reinforcing consequence) until everyone is quiet (behavior).  Here, the teacher makes leaving the room contingent upon being _____t. 
+@end
+@answer  quiet
+@tries 2
+@graphic none
+@video none
+@begin
+Reinforcement is the consequence that is c_____gent upon the response. 
+@end
+@answer  contingent
+@tries 2
+@graphic none
+@video none
+@begin
+Since the letter grade at the end of a course occurs long after any studying behavior, a grade (is/is not) ______ typically contingent upon appropriate studying and therefore probably strengthens little behavior. 
+@end
+@answer  is not
+@tries 2
+@graphic none
+@video none
+@begin
+Since important consequences for studying in the normal classroom situation are nearly always delayed, little st_______ning (or increase in the probability) of behavior normally occurs. 
+@end
+@answer  strengthening
+@tries 2
+@graphic none
+@video none
+@begin
+Teaching machines have a distinct advantage over the normal situation with a teacher and a class of students.  With a teaching machine, students respond frequently and, if the program is carefully designed, receive immediate ______. 
+@end
+@answer  reinforcement
+@tries 2
+@graphic none
+@video none
+@begin
+Immediate reinforcement _____hens responses. 
+@end
+@answer  strengthens
+@tries 2
+@graphic none
+@video none
+@begin
+Automated instruction can produce faster and more thorough learning because it can more precisely arrange what is called a contingency of _____nt. 
+@end
+@answer  reinforcement
+@tries 2
+@graphic none
+@video none
+@begin
+A contingency of reinforcement incorporates all three terms--the environmental situation, the _____r, and the consequence. 
+@end
+@answer  behavior
+@tries 2
+@graphic none
+@video none
+@begin
+When using programmed instruction, a reinforcement contingency includes the computer screen (the environmental situation), the answer to a blank (the behavior), and usually getting the answer _____ct (the consequence). 
+@end
+@answer  correct
+@tries 2
+@graphic none
+@video none
+@begin
+The setting, behavior, and consequence make up what is called a _____ncy of reinforcement. 
+@end
+@answer  contingency
+@tries 2
+@graphic none
+@video none
+@begin
+A good teaching machine, such as a computer, can arrange the setting in which the answer is to occur, it can evaluate the appropriateness of the answer given, and it can immediately ______ the student's response. 
+@end
+@answer  reinforce
+@tries 2
+@graphic none
+@video none
+@begin
+Automated or computer instruction, when correctly designed, can teach more effectively than a classroom teacher because it can deliver immediate ______t more frequently and precisely. 
+@end
+@answer  reinforcement
+@tries 2
+@graphic none
+@video none
+@begin
+In classes with many students and only one teacher, there is little opportunity for personal interaction; the student must remain (active/passive) ______ most of the time. 
+@end
+@answer  passive
+@tries 2
+@graphic none
+@video none
+@begin
+With automated instruction the student can respond frequently.  Being correct, i.e., being successful, is a _____r for nearly all people; it strengthens that kind of answer as well as their tendency to continue trying. 
+@end
+@answer  reinforcer
+@tries 2
+@graphic none
+@video none
+@begin
+Every effective instructional situation involves a setting, a response, and a consequence.  Therefore, technically speaking, every instructional situation is a _____y of reinforcement. 
+@end
+@answer  contingency
+@tries 2
+@graphic none
+@video none

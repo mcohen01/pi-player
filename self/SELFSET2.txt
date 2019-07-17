@@ -1,0 +1,161 @@
+@begin
+This is Set 2, Frame 35.  You will recall that the process called discrimination involves the reinforcement of a response exclusively in the presence of a discriminative stimulus.  One kind of self-observation plays a role in effective operant movement.  When the body is moved in certain ways feedback occurs.  This feedback is a di________ve  sti_______ for appropriate operant behavior.<br/>
+@end
+@answer DISCRIMINATIVE STIMULUS
+@tries 2
+@graphic none
+@video none
+@begin
+Set 2, (Frame 36, of the entire program).  The "person" is a repertoire of behavior.   The "person" is connected to internal stimulation through differential reinforcement by the verbal community.  The proprioceptive feedback from operant behavior we call a "person" is one part of the _____f we feel.<br/>
+@end
+@answer SELF
+@tries 2
+@graphic none
+@video none
+@begin
+Set 2, Frame 37 of the entire program).  Self-observation (decreased/increased) _______ with the advent of vocal verbal behavior because s_____l contingencies (constructed in the form of cultural practices by the verbal community) gave a person more reasons to respond to internal stimulation.<br/>
+@end
+@answer INCREASED SOCIAL
+@tries 2
+@graphic none
+@video none
+@begin
+Frame 38.  (Verbal/non-verbal) _______ behavior rapidly increased in frequency because it was (easier/more difficult) _______ to talk about what one is doing than to model it.<br/>
+@end
+@answer VERBAL EASIER
+@tries 2
+@graphic none
+@video none
+@begin
+Frame 39.  Responding in effective ways to one's self was induced by the contingencies arranged by others, in other words, it was a product of c_______l practices.<br/>
+@end
+@answer CULTURAL
+@tries 2
+@graphic none
+@video none
+@begin
+Frame 40.  It is important to may a fine distinction.  The self is NOT the stimuli to which one responds, it is the functional re_______nship between these stimuli and what a person _____s. <br/>
+@end
+@answer RELATIONSHIP DOES
+@tries 2
+@graphic none
+@video none
+@begin
+41.  A person who does not respond effectively to his or her internal conditions (has a/has no) _______ self because there is no functional _______p between behavior and what is felt.<br/>
+@end
+@answer HAS NO RELATIONSHIP
+@tries 2
+@graphic none
+@video none
+@begin
+42.  The self is a set of f_______l relationships between what one feels and what one _______s.<br/>
+@end
+@answer FUNCTIONAL DOES
+@tries 2
+@graphic none
+@video none
+@begin
+43.  The "environment" to which one responds can be both inside and outside the skin.  When one responds to how one feels, one responds to the environment that is _____side.<br/>
+@end
+@answer INSIDE
+@tries 1
+@graphic none
+@video none
+@begin
+44.  When a person responds to how he or she feels with operant behavior that is consistently reinforced by the verbal community, we say he has a _____f.  The verbal community has constructed that functional relationship.<br/>
+@end
+@answer SELF
+@tries 2
+@graphic none
+@video none
+@begin
+45.  So, the _____ is not simply internal conditions, it is the _______ionship between  one's operant _______r and these conditions.<br/>
+@end
+@answer SELF RELATIONSHIP BEHAVIOR
+@tries 2
+@graphic none
+@video none
+@begin
+46.  The "search for self" is the dis____very of these relations along with one's _______l behavior that describes them.<br/>
+@end
+@answer DISCOVERY VERBAL
+@tries 2
+@graphic none
+@video none
+@begin
+47.  "Self-esteem" refers to one's satisfaction with oneself.  Satisfaction means that one finds these current  emotional feeling to be (reinforcing/aversive) _______.<br/>
+@end
+@answer REINFORCING
+@tries 1
+@graphic none
+@video none
+@begin
+48.  A feeling is not a cause of what one does, it is a byproduct of what one does.  What one "feels" inside is (operant/respondent) _______ behavior, it is the byproduct of operant behavior that successfully achieves re_______nt.<br/>
+@end
+@answer RESPONDENT REINFORCEMENT
+@tries 2
+@graphic none
+@video none
+@begin
+49.  Feelings acquire positive or negative characteristics when paired with external events.  In other words, the condition inside one's body that one "feels" may often be simultaneously paired with social approval (i.e., social r_______), for example.<br/>
+@end
+@answer REINFORCEMENT
+@tries 2
+@graphic none
+@video none
+@begin
+50.  Through the process of classical conditioning, the respondents felt when one receives _______l reinforcement become _____itioned reinforcers.<br/>
+@end
+@answer SOCIAL CONDITIONED
+@tries 2
+@graphic none
+@video none
+@begin
+51.  Previously unpaired respondents become _______ reinforcers.  Eventually, a person will work to achieve these feelings by doing what other people are likely to r_______.  We learn to do what others want us to do in order to feel good about ourselves.<br/>
+@end
+@answer CONDITIONED REINFORCE
+@tries 2
+@graphic none
+@video none
+@begin
+52.  So, self-esteem arises from _______l reinforcement--the commendation of the verbal community.<br/>
+@end
+@answer SOCIAL
+@tries 2
+@graphic none
+@video none
+@begin
+53. Conversely, a person "has low self-esteem" when others find what he or she does (reinforcing/aversive) _______.  The community punishes behavior and also reinforces it.  Behavior that "builds character" frequently receives s_______ reinforcement.<br/>
+@end
+@answer AVERSIVE SOCIAL
+@tries 1
+@graphic none
+@video none
+@begin
+54.  The culture we live in engages in an undesirable tradition, however.  A person, himself, is more likely to be given credit for his accomplishments when the observer cannot see the causes, i.e., some people are called "naturals" because how they got that way is lost in history.  For example, the assumed "self-made man" is given (less/more) _______ credit than one who has been carefully tutored.<br/>
+@end
+@answer MORE
+@tries 1
+@graphic none
+@video none
+@begin
+55.  Lets return to our theme.  How one "feels about himself" (has/does not have) _______ social origins.<br/>
+@end
+@answer HAS
+@tries 1
+@graphic none
+@video none
+@begin
+56.  A science of behavior seeks to discover the causes for behavior.  However, that science will be challenged when it emphasizes variables (inside/outside) _______ the individual because the individual can no longer claim credit and admiration for his achievements.  In the process of exposing the true origins of his behavior, he loses self-_______.<br/>
+@end
+@answer OUTSIDE SELF-ESTEEM
+@tries 2
+@graphic none
+@video none
+@begin
+57.  Science often destroys traditions.  A science of behavior "wounds" the dignity of man because it destroys the opportunity for c______t and admiration.  In other words, being a "biological machine" is (less/more) _______ worthy of admiration than "being created in the image of God."  [You are about to finish Set 2]<br/>
+@end
+@answer CREDIT LESS
+@tries 2
+@graphic none
+@video none

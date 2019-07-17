@@ -1,0 +1,315 @@
+@begin
+STEP 6. CONSTRUCTION OF RU EXAMPLES. Because it is mainly through EGs (examples) that the student will interact with the subject matter, each RU must have an adequate number of _____s. 
+@end
+@answer  egs
+@tries 2
+@graphic none
+@video none
+@begin
+In STEP 6, the programmer examines how each RU relates and differs from other RUs (the red and green check marks), and begins to construct specific _____les of these similarities and differences. 
+@end
+@answer  examples
+@tries 2
+@graphic none
+@video none
+@begin
+In STEP 6, the programmer constructs EGs that exemplify the how the RUs relate and d_____r. 
+@end
+@answer  differ
+@tries 2
+@graphic none
+@video none
+@begin
+For example, RU1 may be "Behavior is anything an organism does."  RU2 may be "A response is a single instance of behavior."  An EG may be "Animals have many forms of behavior, including jumping, flying, swimming, running and eating.  But a single jump or swim is called a response." The EG exemplifies how the RUs _____er. 
+@end
+@answer  differ
+@tries 2
+@graphic none
+@video none
+@begin
+Many different types of EGs should be used, including special cases, limiting cases, trivial cases, EGs with inadequate information, and EGs with redundant i_____tion. 
+@end
+@answer  information
+@tries 2
+@graphic none
+@video none
+@begin
+A good rule of thumb is to have initial EGs contain the simplest information.  Later, when the student's behavior has been strengthened, more _____ex EGs can be used. 
+@end
+@answer  complex
+@tries 2
+@graphic none
+@video none
+@begin
+For effective discrimination between RUs, the attached EGs must be as (similar/diverse) ______ as possible. 
+@end
+@answer  similar
+@tries 2
+@graphic none
+@video none
+@begin
+To ensure generalization of a RU, the attached EGs must be as (similar/diverse) ______ as possible and still exemplify the RU. 
+@end
+@answer  diverse
+@tries 2
+@graphic none
+@video none
+@begin
+EGs must not only exemplify RUs, but provide later practice and review for each _____. 
+@end
+@answer  ru
+@tries 2
+@graphic none
+@video none
+@begin
+The EGs should be recorded on separate index cards, or in an outline processor, with the number of the _____s they exemplify written on them. 
+@end
+@answer  rus
+@tries 2
+@graphic none
+@video none
+@begin
+Because the EGs are written down on separate index cards, they can be easily rearranged and in_____ted in between the cards that contain the RUs. 
+@end
+@answer  inserted
+@tries 2
+@graphic none
+@video none
+@begin
+STEP 7.  NUMBER THE CELLS IN THE MATRIX TO INDICATE THEIR ORDER OF PRESENTATION The programmer can number the cells in the matrix to indicate their order of presentation, or simply rearrange and order the _____x _____ds containing the RUs and EGs. 
+@end
+@answer  index cards
+@tries 2
+@graphic none
+@video none
+@begin
+In STEP 7, the programmer rearranges and places all the RUs and EGs in their _____r of presentation. 
+@end
+@answer  order
+@tries 2
+@graphic none
+@video none
+@begin
+STEP 8.  PUT THE RUS AND EGS INTO FRAMES. Frames are constructed by selecting and combining RUs and EGs from the index cards.  "Blanks" for student responses are carefully selected based on their relation to the criterion or _____ behavior. 
+@end
+@answer  terminal
+@tries 2
+@graphic none
+@video none
+@begin
+In STEP 8, separate RU and EG index cards are rewritten and combined on new cards that will make up the _____mes in the program. 
+@end
+@answer  frames
+@tries 2
+@graphic none
+@video none
+@begin
+Some frames will teach and some will test.  Those frames that teach contain supplemental stimulus support, such as cues and prompts.  Those frames that test (do/do not) ______ contain supplemental stimulus support. 
+@end
+@answer  do not
+@tries 2
+@graphic none
+@video none
+@begin
+Frames that teach contain supplemental stimulus support (such as thematic and formal prompts) to raise the probability that the student will emit the correct _____se. 
+@end
+@answer  response
+@tries 2
+@graphic none
+@video none
+@begin
+Frames that test check to see if the student can emit the correct response (with/without) ______ supplemental stimulus support. 
+@end
+@answer  without
+@tries 2
+@graphic none
+@video none
+@begin
+This frame contains supplemental stimulus support: Behavior is anything an organism does.  Birds fly, fish swim, and horses run.  Flying, swimming, and running are all forms of b_____r. 
+@end
+@answer  behavior
+@tries 2
+@graphic none
+@video none
+@begin
+This frame does not contain stimulus support: Anything and organism does is called ______. 
+@end
+@answer  behavior
+@tries 2
+@graphic none
+@video none
+@begin
+Test frames usually occur (early/late) _____ in the program. 
+@end
+@answer  late
+@tries 2
+@graphic none
+@video none
+@begin
+In the RULEG System, symbols are used to designate frames that do and do not contain supplemental stimulus _____rt. 
+@end
+@answer  support
+@tries 2
+@graphic none
+@video none
+@begin
+To designate frames with blanks AND stimulus support, a single * (called a snowflake, star, or asterisk) is placed (before/after) ______ the RU or EG abbreviations, like this: RU* and EG*. 
+@end
+@answer  after
+@tries 2
+@graphic none
+@video none
+@begin
+A frame with only the RU and stimulus support would be labeled RU*.  An frame with only the EG and stimulus support would be labeled _____. [Use the shift-8 key combination to type the asterisk.] 
+@end
+@answer  eg*
+@tries 2
+@graphic none
+@video none
+@begin
+Anything an organism does is called b_____r. [Ignore the above blank.]  The above frame contains a RU and stimulus support.  We would label the frame (RU*/EG*) ______. 
+@end
+@answer  ru*
+@tries 2
+@graphic none
+@video none
+@begin
+A frame containing a rule, followed by an example with a blank and stimulus support would be labeled RU + EG*.  A frame containing a rule, followed by two examples with a blank and stimulus support would be labeled RU + EG + _____. 
+@end
+@answer  eg*
+@tries 2
+@graphic none
+@video none
+@begin
+An index card may contain the frame:  Behavior is anything and organism does.  Birds fly, fish swim, and horses run.  Flying, swimming, and running are all forms of b_____r. [Ignore the above blank.]  The above frame contains a RU and two EGs with stimulus support.  On the top of the card, the programmer would write the symbols  a. RU + EG b. RU + EG* c. RU + EG + EG d. RU + EG + EG* [Type only the letter of the correct answer.] 
+@end
+@answer  d
+@tries 2
+@graphic none
+@video none
+@begin
+To designate a frame that contains a RU or EG with stimulus support, the programmer uses a (single/double) ______ asterisk. 
+@end
+@answer  single
+@tries 2
+@graphic none
+@video none
+@begin
+To designate test frames containing no stimulus support, a ** (double asterisk) is placed (before/after) ______ the RU or EG abbreviations, like this RU** and EG**. 
+@end
+@answer  after
+@tries 2
+@graphic none
+@video none
+@begin
+A single asterisk (*) is used to designate a blank with stimulus support.  A double asterisk (**) is used to designate a blank (with/without) ______ stimulus support. 
+@end
+@answer  without
+@tries 2
+@graphic none
+@video none
+@begin
+Anything an organism does is called _____. [Ignore the above blank.]  Because the above frame contains a RU with NO stimulus support, we would label the frame  a. RU* b. RU** 
+@end
+@answer  b
+@tries 2
+@graphic none
+@video none
+@begin
+Flying, swimming, and running are all forms of ______. [Ignore the above blank.]  Because the above frame contains an EG with NO stimulus support, we would label the frame ______. 
+@end
+@answer  eg**
+@tries 2
+@graphic none
+@video none
+@begin
+Test frames that contain no stimulus support are represented by a (single/double) ______ asterisk. 
+@end
+@answer  double
+@tries 2
+@graphic none
+@video none
+@begin
+FRAME TYPES: For introduction of a new rule:  RU + EG + EG*. For introducing technical vocabulary:  RU + RU*. When withdrawing stimulus support:  RU + EG*. When the student is ready for induction frames:  EG + RU*. Compare/contrast RUs (discrimination training):  RU1* + RU2*. Compare/contrast EGs (discrimination training):  EG1* + EG2*. Test frame of criterion behavior without cues:  EG**. Test frame of criterion behavior without cues:  RU**.  When introducing a new rule, it is recommended that the frame contain a RU + EG + _____. 
+@end
+@answer  eg*
+@tries 2
+@graphic none
+@video none
+@begin
+FRAME TYPES: For introduction of a new rule:  RU + EG + EG*. For introducing technical vocabulary:  RU + RU*. When withdrawing stimulus support:  RU + EG*. When the student is ready for induction frames:  EG + RU*. Compare/contrast RUs (discrimination training):  RU1* + RU2*. Compare/contrast EGs (discrimination training):  EG1* + EG2*. Test frame of criterion behavior without cues:  EG**. Test frame of criterion behavior without cues:  RU**.  A test frame of criterion behavior for a RU that contains no stimulus support is represented by the symbols ______. 
+@end
+@answer  ru**
+@tries 2
+@graphic none
+@video none
+@begin
+FRAME TYPES: For introduction of a new rule:  RU + EG + EG*. For introducing technical vocabulary:  RU + RU*. When withdrawing stimulus support:  RU + EG*. When the student is ready for induction frames:  EG + RU*. Compare/contrast RUs (discrimination training):  RU1* + RU2*. Compare/contrast EGs (discrimination training):  EG1* + EG2*. Test frame of criterion behavior without cues:  EG**. Test frame of criterion behavior without cues:  RU**.  When the student is ready for an induction frame, a frame can present an example from which the rule has to be induced.  The symbol to represent this frame is EG + _____. 
+@end
+@answer  ru*
+@tries 2
+@graphic none
+@video none
+@begin
+FRAME TYPES: For introduction of a new rule:  RU + EG + EG*. For introducing technical vocabulary:  RU + RU*. When withdrawing stimulus support:  RU + EG*. When the student is ready for induction frames:  EG + RU*. Compare/contrast RUs (discrimination training):  RU1* + RU2*. Compare/contrast EGs (discrimination training):  EG1* + EG2*. Test frame of criterion behavior without cues:  EG**. Test frame of criterion behavior without cues:  RU**.  If the student is to discriminate between RU4 and RU5, the frame may contain both RUs with a blank in each RU.  The symbols used to represent this frame is RU4* + _____. 
+@end
+@answer  ru5*
+@tries 2
+@graphic none
+@video none
+@begin
+Certain frames types are more appropriate for certain types of teaching.  The programmer should be familiar with the symbols that represent the different types of frames to aid in _____me construction. 
+@end
+@answer  frame
+@tries 2
+@graphic none
+@video none
+@begin
+The symbols representing frame types should be written on the top of the _____x _____ds. 
+@end
+@answer  index cards
+@tries 2
+@graphic none
+@video none
+@begin
+STEP 9.  ASSEMBLE THE FRAMES INTO A PROGRAM USING THE NUMBERED RULES OR INDEX CARDS AS A PROMPT. For starting off a program, the RU + EG + EG* is recommended.  Subsequent frames for the initial rule, such as RU + EG*, EG + EG*, and EG + RU*, withdraw stimulus support and lead to EG** and RU** f_____s for that rule. 
+@end
+@answer  frames
+@tries 2
+@graphic none
+@video none
+@begin
+STEP 10.  TEST OUT THE PROGRAM. When inspecting student responses, if EG** and RU** frames are being answered correctly, the program is performing well.  If not, additional frames must be in_____ted or rearranged to clear up ambiguities. 
+@end
+@answer  inserted
+@tries 2
+@graphic none
+@video none
+@begin
+STEP 11.  REVISE THE PROGRAM BASED ON STUDENT RESPONSES. In this way, the student "writes" the program.  This process may take _____ger than constructing the program. 
+@end
+@answer  longer
+@tries 2
+@graphic none
+@video none
+@begin
+When revising the program, (do/do not) _____ revise by over-prompting. 
+@end
+@answer  do not
+@tries 2
+@graphic none
+@video none
+@begin
+The proof of the pudding is in the EG**s.  Here, example frames require students to generalize and discriminate between rules (with/without) ______ stimulus support. 
+@end
+@answer  without
+@tries 2
+@graphic none
+@video none
+@begin
+STEP 12.  READMINISTER THE PROGRAM AND MAKE REVISIONS IF NECESSARY. If subsequent revisions do not increase the effectiveness of the program, the program should be  a. discarded and the entire process repeated. b. used anyway. 
+@end
+@answer  a
+@tries 2
+@graphic none
+@video none

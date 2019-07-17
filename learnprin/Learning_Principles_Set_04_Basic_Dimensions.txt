@@ -1,0 +1,200 @@
+@begin
+In the previous instructional segments of this program, you learned that operant behavior is strengthened by its (prior eliciting stimuli/consequences)  _______.
+@end
+@answer consequences
+@tries 1
+@graphic none
+@video none
+@begin
+You quite likely have a cellular phone. You tap icons on its screen and open applications.  Your tapping is _______t behavior and not respondent behavior because it is strengthened by its consequences.
+@end
+@answer operant
+@tries 2
+@graphic cellphoneicons.jpg
+@video none
+@begin
+Probability means likelihood.  The weather forecaster sometimes says "There is a high ________y of rain tomorrow."
+@end
+@answer probability
+@tries 2
+@graphic none
+@video none
+@begin
+How often you engage in a behavior is an important dimension of it.  The observed frequency or rate of behavior is an indication of the likelihood or the p________y of engaging in the given behavior.
+@end
+@answer probability
+@tries 2
+@graphic probability.jpg
+@video none
+@begin
+Your "rate" of tapping smart phone icons is the frequency of your tapping over a period of time.  From observing your _____e of tapping we infer the probability tapping.
+@end
+@answer rate
+@tries 2
+@graphic none
+@video none
+@begin
+Some days you tap your cell phone screen more frequently than other days.  We say your "tapping" response occurs at a higher rate or has a higher _________y on some days than others.
+@end
+@answer probability
+@answer frequency
+@tries 2
+@graphic rateofemails.jpg
+@video none
+@begin
+The _______y or strength of your operant tapping response is inferred from the observed rate or frequency of it.
+@end
+@answer probability
+@tries 2
+@graphic none
+@video none
+@begin
+Suppose you anticipate an important text or email message.  If you don't have the phone automatically signaling you when these messages arrive, you need to turn it on and check for messages.  Since the anticipated message is important to you, the ________ or rate of checking your phone's messages is likely to be (low/high) ______.  [Two words.]
+@end
+@answer probability high
+@answer frequency high
+@tries 2
+@graphic none
+@video none
+@begin
+You can't actually "see" a probability.  Instead, you infer it from the ______ at which a behavior occurs.
+@end
+@answer rate
+@answer frequency
+@tries 2
+@graphic none
+@video none
+@begin
+If you just saw an advertisement for your favorite cookie, you might have a high _______ of eating a cookie even when there are no cookies around.
+@end
+@answer probability
+@tries 2
+@graphic none
+@video none
+@begin
+"White lies" are common; nearly all people misrepresent themselves now and then.  We can overlook this without concern.  But it is a cause for action when individuals frequently distort the truth.  Lying is punished in our culture.  The critical dimension of behavior here is the _______ty of the behavior of lying.  
+@end
+@answer probability
+@tries 2
+@graphic none
+@video none
+@begin
+Another basic dimension of operant behavior is TOPOGRAPHY.  Topography is the form of behavior.  Running and jumping each have a different physical form so we say the _______ is different.
+@end
+@answer topography
+@tries 2
+@graphic none
+@video none
+@begin
+Using the correct fingers to type at the keyboard has a different t_______ than the "hunt and peck" method.
+@end
+@answer topography
+@tries 2
+@graphic none
+@video none
+@begin
+You can speak loudly or softly saying the same word. In this case the intensity of your behavior is different but the form or  ________ of the behavior is the same.
+@end
+@answer topography
+@tries 2
+@graphic none
+@video none
+@begin
+A third dimension of operant behavior is INTENSITY.  You can strike a nail with a hammer lightly or forcefully.  Striking a nail in either case has the same topography but a different _______.
+@end
+@answer intensity
+@tries 2
+@graphic none
+@video none
+@begin
+Another dimension of operant behavior is DURATION.  Buttons to operate devices require some minimal force or threshold to push.  However, a device might not operate unless you push a button and hold it on for a couple of seconds.  For example, when adjusting a vehicle power window to a desired position, which dimension of behavior is important in this case?  (intensity or duration?)  _______.
+@end
+@answer duration
+@tries 1
+@graphic none
+@video none
+@begin
+In a previous instructional segment you learned that a weak conditioned stimulus will elicit a conditioned response with a long LATENCY.  Weak operant behavior like recalling the name of an old friend may also have a long _______.
+@end
+@answer latency
+@tries 2
+@graphic none
+@video none
+@begin
+Two events are "contiguous" when they occur adjacent to each other in time, sometimes overlapping.  In an earlier segment of this program you learned that fierce growling comes to elicit the respondent withdrawal reflex when paired with a painful bite.  Due to the timing, we say that growling and biting are ________s events because they closely accompany each other.
+@end
+@answer contiguous
+@tries 2
+@graphic none
+@video none
+@begin
+In the past, dinner was announced by a dinner bell.  The bell elicited a little salivation.  Those hearing it began to salivate a little when they heard the bell due to previous respondent conditioning.  This happened because the food and the bell were c______usly paired in the past.
+@end
+@answer contiguously
+@tries 2
+@graphic none
+@video none
+@begin
+Restaurants sometimes hand out devices that blink and vibrate to announce that your table is ready.  Blinking and vibrating can result in both respondent and operant behavior on your part.  This device may _______t salivation in the same manner as a dinner bell.
+@end
+@answer elicit
+@tries 2
+@graphic restaurantblinker.jpg
+@video none
+@begin
+Being ushered to a table, seeing others eating food, and the aroma of food, were contiguously paired with the blinking light.  The blinking light acquired the ability to elicit a little salivation.  But it simultaneously reinforces the behavior of watching for it to blink.   Watching for the blinking light is supported by its consequences.  We have a high pr_______y of watching the device because blinking reinforces that (operant/respondent) _______ behavior.  (two answers)
+@end
+@answer probability operant
+@tries 2
+@graphic none
+@video none
+@begin
+Operant behavior is strengthened when a reinforcer immediately ([precedes/follows])________s that behavior.
+@end
+@answer follows
+@tries 2
+@graphic none
+@video none
+@begin
+Putting coins in a beverage vending machine results in the delivery of the beverage.  The behavior is r________ed by getting the beverage.
+@end
+@answer reinforced
+@tries 2
+@graphic none
+@video none
+@begin
+When you first learned to tie your shoes, you were taught by someone who demonstrated how to take the two laces each in a separate hand.  When you imitated this correctly you were IMMEDIATELY told "Good!" or "Correct!."  "Good" was a positive reinforcer for you and it strengthened the p_______ty that would would do this again.
+@end
+@answer probability
+@tries 2
+@graphic shoetie.jpg
+@video none
+@begin
+Reinforcement most powerfully strengthens operant behavior when it occurs i_______ly after the behavior or when the behavior is currently in progress. 
+@end
+@answer immediately
+@tries 2
+@graphic none
+@video none
+@begin
+The probability of behavior is not strengthened when the reinforcer is delayed.  Immediacy is critical.  For example, some people rarely make oatmeal from scratch.  Instead, they stir the contents of a packet into a bowl and microwave it.  Even though microwaved oatmeal isn't the same quality as oatmeal made from scratch the critical variable is the i________y of reinforcement.
+@end
+@answer immediacy
+@tries 2
+@graphic none
+@video none
+@begin
+The descending line in the figure below is called the gradient of reinforcement.  At which point in time in the figure below would the reinforcing effect be greatest?  (A or B) _____
+@end
+@answer A
+@tries 1
+@graphic gradientofreinforcement.jpg
+@video none
+@begin
+If you wish to shape behavior most rapidly you should reinforce behavior i_______ely.  
+@end
+@answer immediately
+@tries 2
+@graphic none
+@video none
+@begin

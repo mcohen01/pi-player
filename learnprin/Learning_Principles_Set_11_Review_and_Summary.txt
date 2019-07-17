@@ -1,0 +1,213 @@
+@begin
+This program has suggested that the causes of your behavior lie _____side you and not in your mind.  It has suggested that you can most efficiently manage your behavior by manipulating events out in your _______t.  [Two words]
+@end
+@answer outside environment
+@tries 2
+@graphic none
+@video none
+@begin
+In this program, a "mental" analysis has been contrasted with a behavioral analysis.  The program suggests that a (mental/behavioral) _______ analysis leads you to look in the right places for the causes of your behavior.
+@end
+@answer behavioral
+@tries 2
+@graphic none
+@video none
+@begin
+You don't have to wait around to "get motivated" when you wish to develop and change your own behavior and the behavior of others.   To take effective action you arrange for consequences out in your _______t that reinforce your behavior.
+@end
+@answer environment
+@tries 2
+@graphic none
+@video none
+@begin
+Your operant behavior changes when the con_______s for it change. The byproducts are your emotional conditions.  When the consequences are positive reinforcers you _______l better. [Two words]
+@end
+@answer consequences feel
+@answer contingencies feel
+@tries 2
+@graphic none
+@video none
+@begin
+Evolution has given you two types of behavior: operant and _______t behavior.
+@end
+@answer respondent
+@tries 2
+@graphic none
+@video none
+@begin
+It was pointed out in this program that feelings are (operant/respondent) _______ behaviors that are byproducts of what you do and what the consequences are.
+@end
+@answer respondent
+@tries 1
+@graphic none
+@video none
+@begin
+Again, your operant behavior has emotional b_________cts that may be positive or or aversive.
+@end
+@answer byproducts
+@tries 2
+@graphic none
+@video none
+@begin
+If you don't like how you feel, you need to change the consequences for what you are doing.  When these consequences change, the bodily states we call your f________s will change.
+@end
+@answer feelings
+@tries 2
+@graphic none
+@video none
+@begin
+Technically speaking, one is "successful" in life when one's operant behavior is frequently r_______d.
+@end
+@answer reinforced
+@tries 2
+@graphic none
+@video none
+@begin
+"Happiness" isn't an end point that you achieve, it is the emotional byproduct when your behavior being frequently _______d.
+@end
+@answer reinforced
+@tries 2
+@graphic none
+@video none
+@begin
+"Deliberate" action is behavior done to achieve a particular effect.  One can plan ahead and design environments that promote the feeling we call h_______ness.
+@end
+@answer happiness
+@tries 2
+@graphic none
+@video none
+@begin
+You can sharpen the effect of reinforcers by making them more concrete.  You make a daily "do list" and check off each time you complete an action.  These checks are additional ________rs that further strengthen that operant behavior.
+@end
+@answer reinforcers
+@tries 2
+@graphic none
+@video none
+@begin
+There are smart phone applications that cue you with preset reminders during the day.  Completing each scheduled behavior and checking it off will become a powerful ________r that increases the probability of doing more.
+@end
+@answer reinforcer
+@tries 2
+@graphic none
+@video none
+@begin
+The true causes of your behavior lie outside you.  When you think of something you want to do you can make a (mental/physical) _______ note and put it in your "pathway" such as a cue on your smart phone.
+@end
+@answer physical
+@tries 1
+@graphic none
+@video none
+@begin
+Drugs like alcohol and marijuana are "synthetic" reinforcers.  They did not play a significant role in the evolution of operant behavior and our species in general.  Their reinforcing effects (are not/are) _______ the natural byproduct of a life full of successful behavior.
+@end
+@answer are not
+@tries 1
+@graphic none
+@video none
+@begin
+Doing physical things like painting, making pottery, building something, playing an instrument, or writing things others enjoy reading, all have (synthetic/genuine) _______ positive emotional byproducts.
+@end
+@answer genuine
+@tries 1
+@graphic none
+@video none
+@begin
+People who are skillful tend to be happier because they earn many genuine natural reinforcers.  Associating with them is the opportunity to acquire some of their skills through imitation--thereby becoming _______ like they are.
+@end
+@answer happy
+@answer more
+@answer skillful
+@answer happier
+@answer skilled
+@tries 2
+@graphic none
+@video none
+@begin
+Genuine and enduring happiness comes from (a) consuming more things, (b) more effective operant behavior.  (A or B?) _____
+@end
+@answer b
+@tries 1
+@graphic none
+@video none
+@begin
+Your "values" are those things that reinforce your behavior.  You acquired many of your values through associating with other people.  During this program you have learned that these ______s were acquired via respondent pairing.
+@end
+@answer values
+@answer reinforcers
+@tries 2
+@graphic none
+@video none
+@begin
+Working for your values usually has multiple consequences, some good and some bad.  Spending everything you earn on immediate pleasures such as clothing, food, entertainment, a spacious up-scale home, and an attractive vehicle--without worrying about your more remote future (is/is not) _______ in your best overall interest.
+@end
+@answer is not
+@tries 1
+@graphic none
+@video none
+@begin
+You learned about the gradient of reinforcement.  Your behavior is most powerfully controlled by (immediate/remote) _______ values.
+@end
+@answer immediate
+@tries 1
+@graphic none
+@video none
+@begin
+A very serious situation has developed.  Your world is now facing tremendous challenges.  A major source of these problems is that people work for (remote/immediate) ______ values and ignore (remote/immediate) _______ values because evolution established this tendency. [Two words]
+@end
+@answer immediate remote
+@tries 2
+@graphic none
+@video none
+@begin
+In the current world we can no longer just do what pleases us.  We (can/cannot) _______ continue to have as many children as we want, pollute the environment, and consume irreplaceable resources forever.
+@end
+@answer cannot
+@tries 1
+@graphic none
+@video none
+@begin
+Simply stated: Humans will continue to work primarily for their personal values and ignore threatening remote consequences without help because of the gradient of reinforcement.  (True or False?) _______.  
+@end
+@answer true
+@tries 1
+@graphic none
+@video none
+@begin
+You have been introduced to the principles of learning.  Now, lets look at the BIG PICTURE.  The human species is in trouble.  Someone or group must enter into the situation and arrange (immediate/remote) ________ consequences that take into account and align with a future that is now being predicted by scientists.
+@end
+@answer immediate
+@tries 1
+@graphic uncertainfuture.jpg
+@video none
+@begin
+A culture that understands the behavioral principles discussed in this program is in the best position to contrive powerful (immediate/remote) _______ contingencies because they understand that consequences control behavior--not the mind.
+@end
+@answer immediate
+@tries 1
+@graphic none
+@video none
+@begin
+Such a special culture can arrange powerful immediate ________.
+@end
+@answer consequences
+@answer contingencies
+@answer reinforcement
+@answer reinforcers
+@tries 2
+@graphic none
+@video none
+@begin
+This special culture is composed of people in education, science, and the media.  Because they tend to be less committed to ideological beliefs, religions, governments, and economic wealth, they are (more/less) ________ likely to work for the remote welfare of the human species.  
+@end
+@answer more
+@tries 1
+@graphic none
+@video none
+@begin
+Changes in human behavior are the keys to our future--that is what this program has been all about.  Those of us who work for a survivable world are the engineers of our future.  We are members of this small culture of behavioral architects working for a brighter future.  The creators of the instructional program you are now completing hope you will become a member of this c________e of people.
+@end
+@answer culture
+@answer group
+@tries 2
+@graphic personwithhalo.jpg
+@video none

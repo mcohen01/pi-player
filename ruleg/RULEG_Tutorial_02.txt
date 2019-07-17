@@ -1,0 +1,161 @@
+@begin
+RUs typically contain technical terms or use familiar words with new meanings.  For example, the RU "intraverbal connections in verbal behavior are a product of contiguous pairings" contains technical terms that probably (are/are not) ______ a part of a student's active vocabulary. 
+@end
+@answer  are not
+@tries 2
+@graphic none
+@video none
+@begin
+Students often are slow in adding t_____al terms to their active vocabulary. 
+@end
+@answer  technical
+@tries 2
+@graphic none
+@video none
+@begin
+Before students are able to use technical terms and apply RUs to their lives, the technical terms must become part of their active _____ry. 
+@end
+@answer  vocabulary
+@tries 2
+@graphic none
+@video none
+@begin
+If a technical term is defined in one frame, and then called for in a subsequent frame, the student will often fail to come up with the technical term.  Here, the technical term (is/is not) ______ a part of the student's active vocabulary. 
+@end
+@answer  is not
+@tries 2
+@graphic none
+@video none
+@begin
+A better technique is to force attention to the technical term by calling for it soon after the student is introduced to the technical term in (the same/a different) ______ frame. 
+@end
+@answer  the same
+@tries 2
+@graphic none
+@video none
+@begin
+When the student is given a frame that contains a technical term, and is asked to respond by typing the same technical term, the student copies the ______ term. 
+@end
+@answer  technical
+@tries 2
+@graphic none
+@video none
+@begin
+A frame that forces a student to COPY a technical term is called a _____py frame. 
+@end
+@answer  copy
+@tries 2
+@graphic none
+@video none
+@begin
+ The RU + RU* frame type includes presenting the same rule twice.  Here, the frame forces the student to _____y one or more technical terms. 
+@end
+@answer  copy
+@tries 2
+@graphic none
+@video none
+@begin
+We call the RU + RU* frame a _____y f_____me. 
+@end
+@answer  copy frame
+@tries 2
+@graphic none
+@video none
+@begin
+[Read and answer the following RU + RU* example.]  The Commutative Law permits the interchange of members connected by a + (plus) sign.  So if you found a case where two numbers had been switched about a + sign you could be sure that the ______ _____ had been used. 
+@end
+@answer  commutative law
+@tries 2
+@graphic none
+@video none
+@begin
+A copy frame forces the student to copy a word that is presented on that frame.  The RU + ______ frame is a copy frame.  [Use the abbreviation and symbol in your answer] 
+@end
+@answer  ru*
+@tries 2
+@graphic none
+@video none
+@begin
+Programmers should use copy frames sparingly.  The objective of a program is to get the student to respond (with/without) ______ stimulus support. 
+@end
+@answer  without
+@tries 2
+@graphic none
+@video none
+@begin
+Copy frames, like the RU + RU* frame type, should only be used to introduce technical terms.  After the student can echo the technical term, he or she should have to respond _____t stimulus support. 
+@end
+@answer  without
+@tries 2
+@graphic none
+@video none
+@begin
+A copy frame forces the student to engage in (echoic/intraverbal) ______ behavior. 
+@end
+@answer  echoic
+@tries 2
+@graphic none
+@video none
+@begin
+Effective programs contain few, if any, copy frames. Instead, they contiguously pair technical terms with words that are already a part of the student's _____e _____y. 
+@end
+@answer  active vocabulary
+@tries 2
+@graphic none
+@video none
+@begin
+The frame type that presents the same RU twice and forces the student to echo a technical terms is the ______ frame type.  [Use the abbreviations and symbol in your answer] 
+@end
+@answer  ru + ru*
+@tries 2
+@graphic none
+@video none
+@begin
+The RU + RU* frame type is useful for introducing technical terms, but should be used sparingly because it is a _____ frame. 
+@end
+@answer  copy
+@tries 2
+@graphic none
+@video none
+@begin
+After the student echoes any difficult technical terms, the program develops intraverbal behavior through contiguous pairings.  Soon after, the student begins to apply the RU to relevant EGs.  Such frames would include the RU + EG + _____ frame type. 
+@end
+@answer  eg*
+@tries 2
+@graphic none
+@video none
+@begin
+ In later frames, stimulus support can be gradually withdrawn by giving only the RU before giving the EG*.  Such a frame is known as the RU + ______ frame type. 
+@end
+@answer  eg*
+@tries 2
+@graphic none
+@video none
+@begin
+The RU + EG* frame contains (more/less) ______ stimulus support than the RU + EG + EG* frame. 
+@end
+@answer  less
+@tries 2
+@graphic none
+@video none
+@begin
+[Read and answer the following RU + EG* frame.]  Technology is the application of knowledge for practical ends.  It can be as simple as drinking through a _____w to avoid putting your lips on a dirty container. 
+@end
+@answer  straw
+@tries 2
+@graphic none
+@video none
+@begin
+The frame that presents the RU and requires the student to respond to only one example is the ______ frame type. 
+@end
+@answer  ru + eg*
+@tries 2
+@graphic none
+@video none
+@begin
+The copy frame that presents the same RU twice and requires the student to echo technical terms is the ______ frame type. 
+@end
+@answer  ru + ru*
+@tries 2
+@graphic none
+@video none

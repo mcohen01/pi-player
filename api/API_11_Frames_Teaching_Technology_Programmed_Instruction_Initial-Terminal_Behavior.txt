@@ -1,0 +1,287 @@
+@begin
+A dictionary defines a FRAME as a border or case for enclosing a picture or window.  At this moment, you are looking into a computer screen which is a kind of picture or window f_____. 
+@end
+@answer  frame
+@tries 2
+@graphic none
+@video none
+@begin
+The words you are reading are surrounded by an border we call a ______. 
+@end
+@answer  frame
+@tries 2
+@graphic none
+@video none
+@begin
+A dictionary also defines the word PAGE as one side of something printed or written, such as a page in a _____k. 
+@end
+@answer  book
+@tries 2
+@graphic none
+@video none
+@begin
+In computer instruction, material is presented in successive _____mes rather than pages. 
+@end
+@answer  frames
+@tries 2
+@graphic none
+@video none
+@begin
+When working with a computer, there is technically no page that is turned or read; the term f_____ is more appropriate. 
+@end
+@answer  frame
+@tries 2
+@graphic none
+@video none
+@begin
+In every frame one or more words is missing.  You are required to type the missing word(s) before advancing to the next ______. 
+@end
+@answer  frame
+@tries 2
+@graphic none
+@video none
+@begin
+In other frames you will be required to select the correct response from among several alternative choices.  Here, you need only type the  a.  letter of the correct response. b.  entire answer. 
+@end
+@answer  a
+@tries 2
+@graphic none
+@video none
+@begin
+Proceed in this manner step-by-step to the _____d of the program. 
+@end
+@answer  end
+@tries 2
+@graphic none
+@video none
+@begin
+Never simply press the Enter or Return key to continue.  You will get maximum benefit from this and other programs if you (sometimes/always) ______ type an answer to the blank on the screen. 
+@end
+@answer  always
+@tries 2
+@graphic none
+@video none
+@begin
+Properly used, this program and others will teach you the basic principles and techniques of programmed instruction, and will allow you to take the first steps toward writing your own _____m. 
+@end
+@answer  program
+@tries 2
+@graphic none
+@video none
+@begin
+Programmed instruction is part of a technology of teaching. The technology can be used to _____ch students many concepts and skills. 
+@end
+@answer  teach
+@tries 2
+@graphic none
+@video none
+@begin
+Principles discovered in laboratory investigations of learning are applied to practical teaching situations in the educational _____y called programmed instruction. 
+@end
+@answer  technology
+@tries 2
+@graphic none
+@video none
+@begin
+Teaching learners to say and do certain things is the major concern of the technology of teaching called p_____ i_____. 
+@end
+@answer  programmed instruction
+@tries 2
+@graphic none
+@video none
+@begin
+The "technology" of programmed instruction is not hardware or software.  It is a method or set of procedures for _____ing students. 
+@end
+@answer  teaching
+@tries 2
+@graphic none
+@video none
+@begin
+A list or specification of the things the programmer wants the student to be able to say and _____ at the end of the program is called a specification of the terminal behavior for the program. 
+@end
+@answer  do
+@tries 2
+@graphic none
+@video none
+@begin
+A specification of the terminal _____r is important to the programmer. 
+@end
+@answer  behavior
+@tries 2
+@graphic none
+@video none
+@begin
+Most programmers find a precise specification of the _____l behavior to be more useful than a general or vague specification. 
+@end
+@answer  terminal
+@tries 2
+@graphic none
+@video none
+@begin
+The desired rate of correctly spelling vocabulary words, the accuracy of the spelling, and so on, would be included in a precise ______ of the terminal behavior for a spelling program. 
+@end
+@answer  specification
+@tries 2
+@graphic none
+@video none
+@begin
+One of the first things the programmer does in preparing a program is to make a precise specification of the ______ ______. 
+@end
+@answer  terminal behavior
+@tries 2
+@graphic none
+@video none
+@begin
+A first step in preparing a program is to specify the terminal ______.  A second step is to specify the present or initial ______ of the learner.  [ Answer is this form: XXXXX XXXXX ] 
+@end
+@answer  behavior behavior
+@tries 2
+@graphic none
+@video none
+@begin
+For some purposes, the specification of the initial ______ need not be precise.  The programmer may only need to know that the trainees can read, write, or _____pe letters on the keyboard. 
+@end
+@answer  behavior type
+@tries 2
+@graphic none
+@video none
+@begin
+In other cases, the specification of the initial behavior must be more _____ise. 
+@end
+@answer  precise
+@tries 2
+@graphic none
+@video none
+@begin
+In preparing a course in physics, for example, the programmer must know the mathematical skills in the student's ______ behavior. 
+@end
+@answer  initial
+@tries 2
+@graphic none
+@video none
+@begin
+A specification of both the initial behavior and the ______ behavior tells the programmer which skills the program must teach. 
+@end
+@answer  terminal
+@tries 2
+@graphic none
+@video none
+@begin
+The programmer's task is to change the student's initial behavior until it (vaguely resembles/matches) ______ the terminal behavior. 
+@end
+@answer  matches
+@tries 2
+@graphic none
+@video none
+@begin
+The programmer's task is to produce a change in the student's ______ ______. 
+@end
+@answer  initial behavior
+@tries 2
+@graphic none
+@video none
+@begin
+The program is not to produce "understanding" or "abilities" but to produce the specific _____r from which we infer that the student "understands" or "has the ability." 
+@end
+@answer  behavior
+@tries 2
+@graphic none
+@video none
+@begin
+Programs produce changes in _____. 
+@end
+@answer  behavior
+@tries 2
+@graphic none
+@video none
+@begin
+Education is concerned with changes in behavior.  The change in behavior produced by a good program is the change from the ______ to the ______ behavior. 
+@end
+@answer  initial terminal
+@tries 2
+@graphic none
+@video none
+@begin
+The science of learning provides an educational ______ called programmed instruction. 
+@end
+@answer  technology
+@tries 2
+@graphic none
+@video none
+@begin
+In computer programmed instruction, material is presented step-by-step in successive _____s rather than pages. 
+@end
+@answer  frames
+@tries 2
+@graphic none
+@video none
+@begin
+Users of programs should always type an answer to the blank on the screen and _____r simply press the Enter or Return key. 
+@end
+@answer  never
+@tries 2
+@graphic none
+@video none
+@begin
+Principles of learning are applied to practical teaching situations in the educational technology called ______ ______. 
+@end
+@answer  programmed instruction
+@tries 2
+@graphic none
+@video none
+@begin
+The "technology" of programmed instruction is not hardware or software.  It is a method or set of procedures for _____ing students. 
+@end
+@answer  teaching
+@tries 2
+@graphic none
+@video none
+@begin
+A technology of teaching refers to  a.  computers, hardware, and software. b.  a set of procedures for teaching. 
+@end
+@answer  b
+@tries 2
+@graphic none
+@video none
+@begin
+A list or specification of the things the programmer wants the student to be able to say and do at the end of the program is called a specification of the ______ ______ for the program. 
+@end
+@answer  terminal behavior
+@tries 2
+@graphic none
+@video none
+@begin
+A first step in preparing a program is to specify the ______ ______. 
+@end
+@answer  terminal behavior
+@tries 2
+@graphic none
+@video none
+@begin
+A second step is to specify the present or ______ ______ of the learner. 
+@end
+@answer  initial behavior
+@tries 2
+@graphic none
+@video none
+@begin
+A specification of both the initial and ______ behavior tells the programmer which skills the program must teach. 
+@end
+@answer  terminal
+@tries 2
+@graphic none
+@video none
+@begin
+A programmer's task is to _____ge the initial behavior until it matches the terminal behavior. 
+@end
+@answer  change
+@tries 2
+@graphic none
+@video none
+@begin
+Educators infer "understanding" or other mental events from observable behavior.  A technology of teaching is concerned with producing the _____r from which we infer "understanding." 
+@end
+@answer  behavior
+@tries 2
+@graphic none
+@video none

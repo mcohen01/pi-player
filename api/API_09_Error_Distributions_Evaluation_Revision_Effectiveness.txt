@@ -1,0 +1,280 @@
+@begin
+One of the things we try for in a program is a low _____ rate. 
+@end
+@answer  error
+@tries 2
+@graphic none
+@video none
+@begin
+One reason for designing a low error rate is motivational. If students make too many _____, they are likely to stop going through the program. 
+@end
+@answer  errors
+@tries 2
+@graphic none
+@video none
+@begin
+In addition to the motivational advantage, a low error rate is desirable because it allows the programmer to learn more from the distribution of errors made in a _____. 
+@end
+@answer  program
+@tries 2
+@graphic none
+@video none
+@begin
+Errors are, at first, not randomly distributed among the frames.  Instead, most errors occur on a relatively few _____. 
+@end
+@answer  frames
+@tries 2
+@graphic none
+@video none
+@begin
+The uneven distribution of errors tells the programmer that most students are having trouble with particular parts of the program.  In other words, particular parts of the program (do/do not) ______ control the students' responses. 
+@end
+@answer  do not
+@tries 2
+@graphic none
+@video none
+@begin
+The uneven distribution of errors tells the programmer that particular parts of the program do not control the students' responses and the responses (are/are not) ______ learned well. 
+@end
+@answer  are not
+@tries 2
+@graphic none
+@video none
+@begin
+The programmer uses the uneven distribution of errors to select the parts of the program that need to be changed.  He uses the error distribution as a guide in _____ing the program. 
+@end
+@answer  revising
+@tries 2
+@graphic none
+@video none
+@begin
+Programmers have found that the material in an item which is frequently missed is poorly learned and rapidly forgotten. The programmer should, therefore, _____e the parts of the program containing frequently missed items. 
+@end
+@answer  revise
+@tries 2
+@graphic none
+@video none
+@begin
+Computer programs, like the one your are working through right now, can make a record of every student response. The programmer can use the record of student errors to ______ parts of the program. 
+@end
+@answer  revise
+@tries 2
+@graphic none
+@video none
+@begin
+One could achieve the recommended 10% error rate by having 90 items out of 100 that were never missed and 10 items that were always missed.  This (would/would not) ______ be a good program. 
+@end
+@answer  would not
+@tries 2
+@graphic none
+@video none
+@begin
+One tries for an even distribution of errors, i.e., a program in which the items are answered incorrectly about equally often.  The error rate of about 10% is recommended because this appears to be about the level at which an _____n distribution of errors is achieved. 
+@end
+@answer  even
+@tries 2
+@graphic none
+@video none
+@begin
+One tries for an ______ _____ion of errors in a program. 
+@end
+@answer  even distribution
+@tries 2
+@graphic none
+@video none
+@begin
+In writing a programmed sequence of frames to teach someone to write a definition, you should use  a.  constructed responses. b.  multiple-choice. 
+@end
+@answer  a
+@tries 2
+@graphic none
+@video none
+@begin
+In teaching someone to write a definition, the first frame could require the student to fill in (technical/nontechnical) ______ words that are apart of her initial repertoire. 
+@end
+@answer  nontechnical
+@tries 2
+@graphic none
+@video none
+@begin
+The second frame could present the definition without a few of the technical words and instruct the student to fill in the missing _____ds. 
+@end
+@answer  words
+@tries 2
+@graphic none
+@video none
+@begin
+The third frame would leave out more words until, finally, the student could write the definition (with/without) ______ prompts. 
+@end
+@answer  without
+@tries 2
+@graphic none
+@video none
+@begin
+Programmed instruction is a technology for the _____l of the educational process. 
+@end
+@answer  control
+@tries 2
+@graphic none
+@video none
+@begin
+Programs can be evaluated on the basis of the extent to which they use the techniques of control.  It should provide for (1) immediate reinforcement, (2) gradual progression from initial to terminal behavior, (3) control of observing _____, (4) etc. 
+@end
+@answer  behavior
+@tries 2
+@graphic none
+@video none
+@begin
+If the program is not adequately controlled, you know before trying it that it could be improved by revising it to use the techniques of _____l. 
+@end
+@answer  control
+@tries 2
+@graphic none
+@video none
+@begin
+To really test a program, you should try it out on some of the students for whom it is designed.  If the error distribution is uneven so that particular items are missed by most students and/or if the error rate is very high, you know the program should be _____d. 
+@end
+@answer  revised
+@tries 2
+@graphic none
+@video none
+@begin
+If the error rate is high and/or the error distribution is (even/uneven) ______, you should revise the program. 
+@end
+@answer  uneven
+@tries 2
+@graphic none
+@video none
+@begin
+Some of your revision may be done by simply reordering or rearranging some of the _____es. 
+@end
+@answer  frames
+@tries 2
+@graphic none
+@video none
+@begin
+Some errors may be prevented by adding simple formal _____s such as breaking a blank into the number of letters in the required response. 
+@end
+@answer  prompts
+@tries 2
+@graphic none
+@video none
+@begin
+But when you revise a program, you will probably add items. Although the number of items is increased, the total time the student takes to go through the program may be _____eased. 
+@end
+@answer  decreased
+@tries 2
+@graphic none
+@video none
+@begin
+Students initial behavior may be different with respect to their grammatical ability.  Some errors may be due to correct words spelled in the wrong tense (singular or plural).  Here, the programmer can revise the program by adding ______ prompts at the end of blanks. 
+@end
+@answer  formal
+@tries 2
+@graphic none
+@video none
+@begin
+After one or two or more revisions, depending upon the complexity of the subject matter and the skill of the programmer, the errors should be evenly _____ted. 
+@end
+@answer  distributed
+@tries 2
+@graphic none
+@video none
+@begin
+An even distribution of errors is not the only criterion for the evaluation of a program.  The program must also be evaluated as to its effectiveness in getting the students to engage in the _____ behavior. 
+@end
+@answer  terminal
+@tries 2
+@graphic none
+@video none
+@begin
+The effectiveness of the program may be difficult to measure if there has been an inadequate specification of the t_____ ______. 
+@end
+@answer  terminal behavior
+@tries 2
+@graphic none
+@video none
+@begin
+The measure of the effectiveness of a program is whether or not, after completing the program, the students can ____ what the program teaches. 
+@end
+@answer  do
+@tries 2
+@graphic none
+@video none
+@begin
+After a program has been evaluated, shown to enable the students to engage in the terminal behavior, and shown to have a low, even ______ of errors, you may still revise it. 
+@end
+@answer  distribution
+@tries 2
+@graphic none
+@video none
+@begin
+You may wish to revise a program to decrease the time it takes to go through it, even after you have succeeded in writing a program that enables the students to engage in the desired ______ ______. 
+@end
+@answer  terminal behavior
+@tries 2
+@graphic none
+@video none
+@begin
+Writing programs is not easy.  The major reason why the programmed instruction movement declined was that too many people wrote programs of _____r quality. 
+@end
+@answer  poor
+@tries 2
+@graphic none
+@video none
+@begin
+In the past, many people who did not understand the techniques of programmed instruction, and could not engage in the terminal behaviors necessary for creating effective programs, wrote many programs of poor quality.  The effects of their programs led others to (criticize/support) ______ programmed instruction. 
+@end
+@answer  criticize
+@tries 2
+@graphic none
+@video none
+@begin
+The programmer uses the uneven distribution of errors as a guide in _____ing the program. 
+@end
+@answer  revising
+@tries 2
+@graphic none
+@video none
+@begin
+The programmer should _____e the parts of the program containing frequently missed frames. 
+@end
+@answer  revise
+@tries 2
+@graphic none
+@video none
+@begin
+An even distribution of errors means  a.  certain frames almost always produce incorrect responses. b.  the frames are answered incorrectly about equally often. 
+@end
+@answer  b
+@tries 2
+@graphic none
+@video none
+@begin
+The error rate of about 10% is recommended because this appears to be about the level at which an _____ distribution of errors is achieved. 
+@end
+@answer  even
+@tries 2
+@graphic none
+@video none
+@begin
+To test a program, you should try it out on some of the _____ts for whom it is designed. 
+@end
+@answer  students
+@tries 2
+@graphic none
+@video none
+@begin
+The program should be revised if  a. the error distribution is uneven. b. particular items are missed by most students. c. the error rate is very high. d. only a and c. e. all of the above. 
+@end
+@answer  e
+@tries 2
+@graphic none
+@video none
+@begin
+Programmers revise programs by adding more items.  This usually _____eases the total time the student takes to go through the program. 
+@end
+@answer  decreases
+@tries 2
+@graphic none
+@video none

@@ -1,0 +1,224 @@
+@begin
+Most well-prepared frames include what is called a RULE.  A rule is a verbal statement that describes or implies a contingency of _____nt. 
+@end
+@answer  reinforcement
+@tries 2
+@graphic none
+@video none
+@begin
+For example, the sentence--"The frame is the basic element of programmed instruction" is a rule.  It implies that if you correctly point to a frame and call it a "frame" you will usually receive some sort of ______ from knowledgeable programmers. 
+@end
+@answer  reinforcement
+@tries 2
+@graphic none
+@video none
+@begin
+A verbal statement that describes or implies a contingency of reinforcement is called a _____e. 
+@end
+@answer  rule
+@tries 2
+@graphic none
+@video none
+@begin
+Specific examples, as well as general assertions or statements about things in the world, can be called rules if they express a relation between stimuli and the reinforcing consequences of _____es made to them. 
+@end
+@answer  responses
+@tries 2
+@graphic none
+@video none
+@begin
+When a statement expresses a relation between stimuli and the reinforcing consequences of responses made to them, we call such a statement a ______. 
+@end
+@answer  rule
+@tries 2
+@graphic none
+@video none
+@begin
+Which of the following is more clearly a RULE?  a.  Red apples are sweet. b.  She eats a green apple. 
+@end
+@answer  a
+@tries 2
+@graphic none
+@video none
+@begin
+The statement "Do not judge a book by its cover" implies that the initial appearances of things or people may not be valid indicators of their worth.  Because it expresses a relation between stimuli and the consequences made to them, we call the statement a ______. 
+@end
+@answer  rule
+@tries 2
+@graphic none
+@video none
+@begin
+A rule is a more general form of what we call the TACT.  It "tacts" or describes a general _____p between events or things out in the world. 
+@end
+@answer  relationship
+@tries 2
+@graphic none
+@video none
+@begin
+The terminal objectives of most instructional programs will include getting the student to identify stimuli correctly. In teaching the student to tact the world correctly, a program is teaching how to apply _____s. 
+@end
+@answer  rules
+@tries 2
+@graphic none
+@video none
+@begin
+One objective of a program is to induce the student to identify and give examples of rules.  This is accomplished by presenting a rule and contiguously _____g the rule with an example within the same frame. 
+@end
+@answer  pairing
+@tries 2
+@graphic none
+@video none
+@begin
+When contiguously pairing a rule and example, the student's tendency to give the correct rule is extended to the example when the student responds correctly; in other words, when the correct extension gets _____d. 
+@end
+@answer  reinforced
+@tries 2
+@graphic none
+@video none
+@begin
+An instructional program accomplishes what is called "discrimination training" when the student can _____ate between correct and incorrect examples. 
+@end
+@answer  discriminate
+@tries 2
+@graphic none
+@video none
+@begin
+The student is said to discriminate between correct and incorrect examples" when the student responds with the rule only to _____ct examples. 
+@end
+@answer  correct
+@tries 2
+@graphic none
+@video none
+@begin
+A wolf repeatedly charges toward a small herd of cattle.  As long as the cattle stay close to each other, the wolf cannot harm them.  However, a few cattle become scared.  The next charge splits the small heard in half, and two of the cattle are eaten.  Which rule applies most to the above example?  a.  Don't judge a book by its cover. b.  United we stand, divided we fall. 
+@end
+@answer  b
+@tries 2
+@graphic none
+@video none
+@begin
+When the student responds with the rule only to correct examples, the program has accomplished what is called _____ion _____ing. 
+@end
+@answer  discrimination training
+@tries 2
+@graphic none
+@video none
+@begin
+A complicated subject should be explained progressively. The learner must have the "basic tools" (i.e., understand certain prerequisites) before he or she can respond successfully to (less/more) _______ complicated concepts or rules. 
+@end
+@answer  more
+@tries 2
+@graphic none
+@video none
+@begin
+In a well-designed instructional program the rules the student learns should be presented one after the other, from simple to complex, in a carefully constructed developmental _____der or sequence. 
+@end
+@answer  order
+@tries 2
+@graphic none
+@video none
+@begin
+Considerable planning is necessary for the preparation of programmed instruction.  The specification of terminal objectives makes possible, in turn, the specification of _____ate objectives. 
+@end
+@answer  subordinate
+@tries 2
+@graphic none
+@video none
+@begin
+But the subordinate objectives may not automatically occur to the programmer in a developmental _____der. 
+@end
+@answer  order
+@tries 2
+@graphic none
+@video none
+@begin
+Correct ordering or sequencing of the objectives or rules by the programmer will lead to the most efficient learning on the part of the _____nt. 
+@end
+@answer  student
+@tries 2
+@graphic none
+@video none
+@begin
+After the initial selection or construction of the rules that lead to appropriate terminal behavior, the rules must be arranged in a d_____al sequence. 
+@end
+@answer  developmental
+@tries 2
+@graphic none
+@video none
+@begin
+One can most effectively compose an essay, for example, by first outlining and ordering thoughts.  Complete, "polished," and grammatically correct sentences are a stage close to the (beginning/completion) _______ of composing; they are fashioned very late in the process. 
+@end
+@answer  completion
+@tries 2
+@graphic none
+@video none
+@begin
+Similarly, the construction of specific frame material to which the student will respond should appropriately occur (early/late) ______ in program development. 
+@end
+@answer  late
+@tries 2
+@graphic none
+@video none
+@begin
+The developmental sequencing of the progression of rules in a program must be done early in the process.  But this cannot be done until the _____s have been collected together. 
+@end
+@answer  rules
+@tries 2
+@graphic none
+@video none
+@begin
+After identifying the terminal objectives of the program, a simple listing of the _____s that contribute to program objectives is the next step. 
+@end
+@answer  rules
+@tries 2
+@graphic none
+@video none
+@begin
+If a program is to teach how to safely dispose toxic chemicals in a science classroom, the programmer should first list all the rules that contribute to the program _____ves. 
+@end
+@answer  objectives
+@tries 2
+@graphic none
+@video none
+@begin
+The first step in the development of an appropriate rule sequence is to simply _____st the rules on a word processor or a sheet of paper. 
+@end
+@answer  list
+@tries 2
+@graphic none
+@video none
+@begin
+Concept and rule listing should occur after a thorough review of the content area.  Recent acquaintance with the subject matter area makes listing rules easier.  Once some have been listed, the list itself will begin to evoke other _____s. 
+@end
+@answer  rules
+@tries 2
+@graphic none
+@video none
+@begin
+Rules should appear in a developmental sequence.  This order is based upon the concepts used within the rules.  For example, a program that taught the correct procedure for building a fire in a fireplace would not begin by discussing where to light the wood.  It might begin by first discussing different kinds of ______ and the quality of fire they produce. 
+@end
+@answer  wood
+@tries 2
+@graphic none
+@video none
+@begin
+Concepts must occur in a developmental order.  The ______ that incorporate these concepts must also occur in a planned sequence. 
+@end
+@answer  rules
+@tries 2
+@graphic none
+@video none
+@begin
+A rule like "debits must equal credits" requires the prior understanding of two accounting concepts.  The concepts of "debit" and "credit" must be introduced (before/after) ______ this rule is introduced. 
+@end
+@answer  before
+@tries 2
+@graphic none
+@video none
+@begin
+The concepts and subordinate objectives of a program, and the rules that contain them, should be taught in a carefully designed developmental sequence or ______. 
+@end
+@answer  order
+@tries 2
+@graphic none
+@video none

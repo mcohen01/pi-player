@@ -1,0 +1,308 @@
+@begin
+1.   A good scientist may no be trying to "demonstrate something"<br/>     with a particular piece of research.  Instead, he may be<br/>     seeking to show _______r in nature.<br/>
+@end
+@answer ORDER
+@tries 1
+@graphic none
+@video none
+@begin
+2.   "Basic" research (needs/does not need) _______ to imply some<br/>     relevant social utility, "applied" research (does/doesn't)<br/>     _______.<br/>
+@end
+@answer DOES NOT NEED DOES
+@tries 1
+@graphic none
+@video none
+@begin
+3.   Subtle methodological variations and their effects<br/>     (should/need not) _______ be shared with colleagues (by word<br/>     or mouth, or perhaps at conferences) because they (are\are<br/>     not) _______ germane to the formulation of a unified<br/>     science.<br/>
+@end
+@answer SHOULD ARE
+@tries 1
+@graphic none
+@video none
+@begin
+4.   The inability to recover the kind of performance<br/>     demonstrated prior to an experimental manipulation is called<br/>     _______y.<br/>
+@end
+@answer IRREVERSIBILITY
+@tries 1
+@graphic none
+@video none
+@begin
+5.   Even if a variable seems of little cu_____t systematic or<br/>     methodological importance, it is nonetheless, a fact about<br/>     behavior.  As such, it is important.<br/>
+@end
+@answer CURRENT
+@tries 1
+@graphic none
+@video none
+@begin
+6.   One kind of systematization involves the demonstration that<br/>     the results of phenomena converge at some point (and then<br/>     possibly diverge at some other point) is what Sidman called<br/>     the method of quantitative c_______y.<br/>
+@end
+@answer CONTIGUITY
+@tries 1
+@graphic none
+@video none
+@begin
+7.   The role of a variable may be similar to the role of another<br/>     variable in that both produce similar behavior (even though<br/>     the qualitative and quantitative characteristics may be very<br/>     different).  This is the kind of systematization Sidman<br/>     referred to as the method of _______al contiguity.<br/>
+@end
+@answer FUNCTIONAL
+@tries 1
+@graphic none
+@video none
+@begin
+8.   Why a variable or phenomenon was selected for analysis has<br/>     (nothing/everything) _______ to do with the importance of<br/>     the resulting data (from the point of view of a basic<br/>     science of behavior).<br/>
+@end
+@answer NOTHING
+@tries 1
+@graphic none
+@video none
+@begin
+9.   A fixed set of standards or criteria for evaluating the<br/>     importance of data (exist/do not exist) _______.<br/>
+@end
+@answer DO NOT EXIST
+@tries 1
+@graphic none
+@video none
+@begin
+10.  An ec_______ic is a scientist whose feet are planted firmly<br/>     in mid-air.<br/>
+@end
+@answer ECLECTIC
+@tries 1
+@graphic none
+@video none
+@begin
+11.  The cumulative development of a science provides the only<br/>     final answer as to the _______ce of any particular data.<br/>
+@end
+@answer IMPORTANCE
+@tries 1
+@graphic none
+@video none
+@begin
+12.  Sometimes it is the _______er scientists entering the field<br/>     unencumbered by the prejudices of past or current<br/>     controversies, who pick out the threads of continuity from<br/>     the tangle of theory data, and pseudo-problems that form<br/>     part of every stage of scientific progress.<br/>
+@end
+@answer YOUNGER
+@tries 1
+@graphic none
+@video none
+@begin
+13.  Sidman points to three criteria by which data are evaluated<br/>     in science.  They are im_____ce and  rel_____y and<br/>     gen______y.<br/>
+@end
+@answer IMPORTANCE RELIABILITY GENERALITY
+@tries 1
+@graphic none
+@video none
+@begin
+14.  The objectivity of science consists not so much in specific<br/>     rules of procedure, as in the self-c_____ive nature of the<br/>     scientific process.<br/>
+@end
+@answer SELF-CORRECTIVE
+@tries 1
+@graphic none
+@video none
+@begin
+15.  "Will the experiment, if repeated, yield the same results?"<br/>     is a question of _______ity.<br/>
+@end
+@answer RELIABILITY
+@tries 1
+@graphic none
+@video none
+@begin
+16.  One problem with statistical analysis and the behavior of<br/>     sampling is that the form and parameters of the _______t<br/>     population (distribution) are rarely been statistically<br/>     determined.<br/>
+@end
+@answer PARENT
+@tries 1
+@graphic none
+@video none
+@begin
+17.  A single experiment without replication is subject to two<br/>     types of error.  A statistical judgment of significance or<br/>     nonsignificance may itself be the product of _______.<br/>
+@end
+@answer CHANCE
+@tries 1
+@graphic none
+@video none
+@begin
+18.  To some experimenters, chance is simply a name for the<br/>     combined effects of _______ed variables.<br/>
+@end
+@answer UNCONTROLLED
+@tries 1
+@graphic none
+@video none
+@begin
+19.  If the variables attributed to chance are in fact<br/>     controllable, then chance in this sense is simply an<br/>     e_____se for sloppy experimentation.<br/>
+@end
+@answer EXCUSE
+@tries 1
+@graphic none
+@video none
+@begin
+20.  If the uncontrolled variables are actually unknown, then<br/>     chance is a synonym for i_______ce.<br/>
+@end
+@answer IGNORANCE
+@tries 1
+@graphic none
+@video none
+@begin
+21.  Science is presumably dedicated to stamping out i______ce,<br/>     but statistical evaluation of data against a baseline whose<br/>     characteristics are determined by unknown variables<br/>     constitutes the passive a______ce of ignorance.<br/>
+@end
+@answer IGNORANCE ACCEPTANCE
+@tries 1
+@graphic none
+@video none
+@begin
+22.  To some experimenters, _______e means the same thing as it<br/>     does to the person on the street: unpredictability.<br/>
+@end
+@answer CHANCE
+@tries 1
+@graphic none
+@video none
+@begin
+23.  It is better to apply ex_______ control than sta_______<br/>     control of variability.<br/>
+@end
+@answer EXPERIMENTAL STATISTICAL
+@tries 1
+@graphic none
+@video none
+@begin
+24.  (T or F) __  The larger the group, the greater the<br/>     generality of the data.<br/>
+@end
+@answer F
+@tries 1
+@graphic none
+@video none
+@begin
+25.  The addition of subjects to a group (will/will not) _______<br/>     help to determine the generality of the particular shape of<br/>     a distribution that has been obtained through initial<br/>     sampling.<br/>
+@end
+@answer WILL NOT
+@tries 1
+@graphic none
+@video none
+@begin
+26.  We cannot know the representativeness of a given mean unless<br/>     we know the _______ of individuals who actually fell at that<br/>     value.<br/>
+@end
+@answer NUMBER
+@tries 1
+@graphic none
+@video none
+@begin
+27.  Unless the form of the _______ distribution is known, it<br/>     will be impossible to determine representativeness within<br/>     the species simply from the mean and standard deviation of<br/>     an experimentally obtained sample distribution.<br/>
+@end
+@answer POPULATION
+@tries 1
+@graphic none
+@video none
+@begin
+28.  _______n among subjects often derives from differences in<br/>     the par_____ers of the functional relations between behavior<br/>     and its controlling conditions.<br/>
+@end
+@answer VARIATION PARAMETERS
+@tries 1
+@graphic none
+@video none
+@begin
+29.  A functional relation between two variables may be a linear<br/>     one, but the sl____ and _____cepts may be different for each<br/>     individual.  In this case, a mean (is/is not) _______<br/>     representative.<br/>
+@end
+@answer SLOPE INTERCEPT IS NOT
+@tries 1
+@graphic none
+@video none
+@begin
+30.  With respect to a curvilinear relation, the value of the<br/>     independent variable may catch particular subjects at<br/>     markedly different phases of the process that is represented<br/>     by the curvilinear relation.  Traditional group design will<br/>     not reveal this fact because the _______l functions are not<br/>     examined nor even obtained.  This is a primary argument for<br/>     _______l rather than group analyses.<br/>
+@end
+@answer INDIVIDUAL INDIVIDUAL
+@tries 1
+@graphic none
+@video none
+@begin
+31.  The dictionary defines an "artifact" as "a spurious<br/>     observation."  The quantitative similarity of two subjects'<br/>     behavior can be an a_______ of an e_______al design which<br/>     does not permit analysis of the causes of variability which<br/>     is observable at the level of the individual.<br/>
+@end
+@answer ARTIFACT EXPERIMENTAL
+@tries 1
+@graphic none
+@video none
+@begin
+32.  Quantitative differences or similarities among subjects at<br/>     single isolated points of a functional relation (do/do not)<br/>     _______ provide appropriate criteria for evaluating the<br/>     representativeness of experimental data.<br/>
+@end
+@answer DO NOT
+@tries 1
+@graphic none
+@video none
+@begin
+33.  The spread around a mean value gives (little/a great deal<br/>     of) _______ information about the orderly relations between<br/>     variables at the level of the individual.<br/>
+@end
+@answer LITTLE
+@tries 1
+@graphic none
+@video none
+@begin
+34.  (T or F)  ___  If it can be shown that a given factor<br/>     produces the same KIND of lawfulness in the individuals of<br/>     the population, then the finding has great generality (in<br/>     spite of the fact that quantitative differences are still<br/>     observed).<br/>
+@end
+@answer T
+@tries 1
+@graphic none
+@video none
+@begin
+35.  Variability between subjects is due to:<br/>     <br/>     a.  inherent randomness between individuals<br/>     b.  uncontrolled independent variables<br/>
+@end
+@answer B
+@tries 1
+@graphic none
+@video none
+@begin
+36.  (T or F) __  The representativeness of specific numbers is<br/>     more important than the generality of lawful relations.<br/>
+@end
+@answer F
+@tries 1
+@graphic none
+@video none
+@begin
+37.  The use of separate groups (supplies/destroys) _______ the<br/>     continuity of cause and effect that characterizes an<br/>     irreversible behavioral process.<br/>
+@end
+@answer DESTROYS
+@tries 1
+@graphic none
+@video none
+@begin
+38.  With respect to an irreversible relationship, the function<br/>     obtained from the individual (at the level of the<br/>     individual) is the result of an interactive process that<br/>     extends from one segment of the subject's behavior to<br/>     another.  When a group analysis is used to compare<br/>     performance with different levels of an independent<br/>     variable, the empirical points on the function obtained from<br/>     the separate groups (reveal/bear no resemblance to) _______<br/>     the relation.<br/>
+@end
+@answer BEAR NO RESEMBLANCE TO
+@tries 1
+@graphic none
+@video none
+@begin
+39.  Humans are often held to be a (continuous/discontinuous)<br/>     _______ leap from subhuman species; their behavior is not as<br/>     orderly and lawful.<br/>
+@end
+@answer DISCONTINUOUS
+@tries 1
+@graphic none
+@video none
+@begin
+40.  (Similarities/differences) _______ are the true subject<br/>     matter of a science of behavior.<br/>
+@end
+@answer SIMILARITIES
+@tries 1
+@graphic none
+@video none
+@begin
+41.  Variable generality is of (lesser/greater) ______ concern<br/>     than species generality to the behavior analyst interested<br/>     in social problems.<br/>
+@end
+@answer GREATER
+@tries 1
+@graphic none
+@video none
+@begin
+42.  There is no straightforward way of assessing the generality<br/>of<br/>     a variable, for each successive experiment that serves to<br/>     extend such generality is necessarily _______t in some way<br/>     from the preceding ones.<br/>
+@end
+@answer DIFFERENT
+@tries 1
+@graphic none
+@video none
+@begin
+43.  When a scientist examines the relations between variables<br/>     experimentally then formulates general statements which<br/>     describe these relationships, he or she is engaging in<br/>     _______ive reasoning.<br/>
+@end
+@answer INDUCTIVE
+@tries 1
+@graphic none
+@video none
+@begin
+44.  The (closer/further removed) _______ a replication is from<br/>     the original the more it is valued by the scientific<br/>     community.<br/>
+@end
+@answer FURTHER REMOVED
+@tries 1
+@graphic none
+@video none

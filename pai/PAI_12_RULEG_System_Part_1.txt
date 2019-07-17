@@ -1,0 +1,266 @@
+@begin
+Evans, Homme, and Glasser (1962) suggest that verbal material can be grouped into (two/three) ______ main classes of statements called RUs (rules) and EGs (examples). 
+@end
+@answer  two
+@tries 2
+@graphic none
+@video none
+@begin
+The abbreviation for rules is (RUs/EGs) ______. 
+@end
+@answer  rus
+@tries 2
+@graphic none
+@video none
+@begin
+The abbreviation for examples is (RUs/EGs) ______ 
+@end
+@answer  egs
+@tries 2
+@graphic none
+@video none
+@begin
+A RU (pronounced "roo") may be an operational definition, mathematical formula, empirical law, principle, axiom, postulate or hypothesis.  The statement "A reinforcer raises the probability of the response it follows" is a _____. [Within this program, always use the abbreviations.] 
+@end
+@answer  ru
+@tries 2
+@graphic none
+@video none
+@begin
+All rules are statements of some generality from which _____s (examples) can be obtained. [Within this program, always use the abbreviations.] 
+@end
+@answer  egs
+@tries 2
+@graphic none
+@video none
+@begin
+An EG (pronounced "egg") may be a description of a physical event, theorem or deduction, or statement of a _____ip between things (physical or conceptual). 
+@end
+@answer  relationship
+@tries 2
+@graphic none
+@video none
+@begin
+All EGs are statements of some specificity derived from more generalized RUs.  For example, the statement a + b = b + a is a RU.  5 + 2 = 2 + 5 is an _____. 
+@end
+@answer  eg
+@tries 2
+@graphic none
+@video none
+@begin
+"A reinforcer raises the probability of the response it follows" is a RU.  "Getting inside the door raises the probability that the person will use the correct key" is an _____ for the previous RU. 
+@end
+@answer  eg
+@tries 2
+@graphic none
+@video none
+@begin
+Evans, Homme, and Glasser (1962) developed twelve steps called the RULEG System for Programmed Construction of Verbal Learning Sequences.  Novice programmers are encouraged to follow these steps when creating their own pr_____s. 
+@end
+@answer  programs
+@tries 2
+@graphic none
+@video none
+@begin
+STEP 1.  SPECIFY THE CRITERION OR TERMINAL BEHAVIOR. Here, the programmer outlines as precisely as possible the responses the student is to make at the _____d of the program. 
+@end
+@answer  end
+@tries 2
+@graphic none
+@video none
+@begin
+When specifying the criterion or terminal behavior in STEP 1, the programmer should also specify the stimuli or conditions in the presence of which the student will be expected to make the terminal _____ses. 
+@end
+@answer  responses
+@tries 2
+@graphic none
+@video none
+@begin
+When specifying the terminal behavior, the programmer may specify test items and their correct responses.  Or the programmer may specify the exact conditions under which students will apply the skills learned in the _____. 
+@end
+@answer  program
+@tries 2
+@graphic none
+@video none
+@begin
+A programmer creating a program that teaches how to bake a cake specifies that students will be able to bake a cake in the presence of all the necessary ingredients, utensils, and heating devices.  Here, the programmer has specified the terminal behavior and the _____ions under which the students will apply the skills learned in the program. 
+@end
+@answer  conditions
+@tries 2
+@graphic none
+@video none
+@begin
+The first step is to sp_____fy t___e t_____l b_____r, and the conditions under which it will occur. 
+@end
+@answer  specify the terminal behavior
+@tries 2
+@graphic none
+@video none
+@begin
+STEP 2.  SPECIFY THE SUBJECT MATTER RUS. The programmer should specify all the subject matter RUs needed to be taught in the program without the use of support materials.  If the programmer initially uses support materials, he is apt to (construct/neglect) _____ some RUs he might otherwise have thought of. 
+@end
+@answer  neglect
+@tries 2
+@graphic none
+@video none
+@begin
+When specifying the necessary RUs in STEP 2, the programmer should write them down on index cards, or in a outline processor, to permit easy rearrangement and insertion of additional _____s. 
+@end
+@answer  rus
+@tries 2
+@graphic none
+@video none
+@begin
+A programmer specifying RUs for baking a cake may write down "gather two mixing bowls," "preheat oven," "measure four cups of flour," "mix three eggs with flour in a large bowl," etc., on index _____s. 
+@end
+@answer  cards
+@tries 2
+@graphic none
+@video none
+@begin
+STEP 1 is specifying the terminal behavior and conditions. STEP 2 is specifying all the subject matter _____s without the use of support materials. 
+@end
+@answer  rus
+@tries 2
+@graphic none
+@video none
+@begin
+STEP 3.  COLLECT ALL FORMS OF STIMULUS SUPPORT. The programmer should systematically examine notes, texts, films, other programs, etc., for additional RUs necessary for accomplishing the criterion or _____ behavior. 
+@end
+@answer  terminal
+@tries 2
+@graphic none
+@video none
+@begin
+When collecting other RUs from stimulus support materials in STEP 3, the materials may yield only _____s, in which case the programmer may have to induce the RUs herself. 
+@end
+@answer  egs
+@tries 2
+@graphic none
+@video none
+@begin
+RUs derived from other forms of stimulus support should be put on index cards or inserted into the _____line processor. 
+@end
+@answer  outline
+@tries 2
+@graphic none
+@video none
+@begin
+The programmer making the cake-baking program may examine other recipes or cook _____ks for additional RUs. 
+@end
+@answer  books
+@tries 2
+@graphic none
+@video none
+@begin
+After specifying all the subject matter RUs she can think of without stimulus support in STEP 2, the programmer should then collect and examine support materials in STEP 3 to generate any additional _____s. 
+@end
+@answer  rus
+@tries 2
+@graphic none
+@video none
+@begin
+STEP 4.  PRELIMINARY ORDERING OF THE RUS. After specifying all the necessary RUs, the programmer should start putting the RUs in some _____r. 
+@end
+@answer  order
+@tries 2
+@graphic none
+@video none
+@begin
+When ordering the rules in STEP 4, methods for ordering include chronology (order of RUs in time), dependence of prerequisites (need to know earlier RUs to understand later RUs), and c_____xity (simpler RUs first). 
+@end
+@answer  complexity
+@tries 2
+@graphic none
+@video none
+@begin
+RUs may be gathered directly from textbooks in STEP 3. However, the order presented in some texts may not be best for learning.  In STEP 4, the programmer should sequence the RUs in a developmental _____r that is best for learning. 
+@end
+@answer  order
+@tries 2
+@graphic none
+@video none
+@begin
+Because the RUs are recorded on separate index cards, or in an outline processor, they can be easily rearranged and placed in a dev_____tal _____r. 
+@end
+@answer  developmental order
+@tries 2
+@graphic none
+@video none
+@begin
+At the end of STEP 4, the programmer may have all the RUs sequenced within an outline processor, or arranged developmental order within a stack of index _____s. 
+@end
+@answer  cards
+@tries 2
+@graphic none
+@video none
+@begin
+STEP 5.  CREATE A RU MATRIX. The RULE MATRIX is a grid of horizontal and vertical lines. Each square in the grid is called a cell.  RUs are listed in developmental order along the left side of the grid, and then the same RUs in the same order are listed along the _____p of the grid.  #1. #2. #3.  etc... ____________________ rule 1  __|___|___|___|_____ rule 2  __|___|___|___|_____ rule 3  __|___|___|___|_____ . .  
+@end
+@answer  top
+@tries 2
+@graphic none
+@video none
+@begin
+In STEP 5, the programmer places his RUs along the left side and top of the matrix in their developmental order.  To fit each RU on a line, the programmer usually thinks of one or _____o words to represent each RU.  #1. #2. #3.  etc... ____________________ rule 1  __|___|___|___|_____ rule 2  __|___|___|___|_____ rule 3  __|___|___|___|_____ . .  
+@end
+@answer  two
+@tries 2
+@graphic none
+@video none
+@begin
+A matrix is created so the programmer can identify relationships between RUs.  Here, RUs can be carefully examined and checked to see how they relate or how they _____fer.  #1. #2. #3.  etc... ____________________ rule 1  __|___|___|___|_____ rule 2  __|___|___|___|_____ rule 3  __|___|___|___|_____ . .  
+@end
+@answer  differ
+@tries 2
+@graphic none
+@video none
+@begin
+The programmer examines how each RU on the left side of the matrix relates to, or differs from, each RU along the _____p of the matrix.  #1. #2. #3.  etc... ____________________ rule 1  __|___|___|___|_____ rule 2  __|___|___|___|_____ rule 3  __|___|___|___|_____ . .  
+@end
+@answer  top
+@tries 2
+@graphic none
+@video none
+@begin
+If RU1 is related to RU3, a green check mark is placed in the adjoining cell.  If RU1 differs from RU3, a red _____k _____k is placed in the adjoining cell.  #1. #2. #3.  etc... ____________________ rule 1  __|___|___|___|_____ rule 2  __|___|___|___|_____ rule 3  __|___|___|___|_____ . .  
+@end
+@answer  check mark
+@tries 2
+@graphic none
+@video none
+@begin
+A green check mark should be placed in the adjoining cell between two RUs that _____te to each other in a significant way. 
+@end
+@answer  relate
+@tries 2
+@graphic none
+@video none
+@begin
+RUs that differ in a significant way should contain a _____d check mark in their adjoining cell. 
+@end
+@answer  red
+@tries 2
+@graphic none
+@video none
+@begin
+A program that teaches about a "contingency of reinforcement" would teach the concepts "behavior" and "responses."  A green check mark would be place in their adjoining RU cells because these concepts _____e to each other. 
+@end
+@answer  relate
+@tries 2
+@graphic none
+@video none
+@begin
+However, a "response" is one instance of "behavior." Because these concepts also differ in a significant way, a _____ check mark would also be placed in their adjoining cells. 
+@end
+@answer  red
+@tries 2
+@graphic none
+@video none
+@begin
+The diagonal cells in the matrix are ignored because these cells relate each RU to (other RUs/itself) ______. 
+@end
+@answer  itself
+@tries 2
+@graphic none
+@video none

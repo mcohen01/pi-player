@@ -1,0 +1,273 @@
+@begin
+Evans, Homme, and Glaser (1962) developed a systematic way of going about the study of rule/concept interrelationships. Their technique induces the programmer to systematically compare each rule with each other _____e. 
+@end
+@answer  rule
+@tries 2
+@graphic none
+@video none
+@begin
+In rushing off to construct frames that teach a specific rule, a novice programmer might discover one rule depends upon another.  A comparison of the _____s would have been helpful. 
+@end
+@answer  rules
+@tries 2
+@graphic none
+@video none
+@begin
+For example, a program that teaches how to make cake frosting might call for "powdered" sugar.  If the student did not already discriminate between powdered and granulated s_____s, the frosting may not turn out right. 
+@end
+@answer  sugars
+@tries 2
+@graphic none
+@video none
+@begin
+The necessary prerequisite rules about the difference between sugars would probably occur to the programmer if he had compared rules (before/after) ______ starting to write frames. 
+@end
+@answer  before
+@tries 2
+@graphic none
+@video none
+@begin
+The technique developed by Evans, Homme, and Glaser (1962) induces the programmer to systematically _____re each rule with each other rule. 
+@end
+@answer  compare
+@tries 2
+@graphic none
+@video none
+@begin
+The technique developed by Evans, Homme, and Glasser (1962) includes the construction of a "matrix" that contains _____es that will be compared. 
+@end
+@answer  rules
+@tries 2
+@graphic none
+@video none
+@begin
+A matrix is a grid for indicating whether the programmer can think of a relationship between one _____e and another.  #1. #2. #3.  etc... ____________________ rule 1  __|___|___|___|_____ rule 2  __|___|___|___|_____ rule 3  __|___|___|___|_____ . .  
+@end
+@answer  rule
+@tries 2
+@graphic none
+@video none
+@begin
+Before the rule matrix is constructed, the programmer makes a developmental list of rules as best he or she can.  The matrix has a vertical and a horizontal axis.  He places condensed statements of these rules, or perhaps simply words (concepts), that automatically suggest the rules along the v_____ axis of the matrix.  #1. #2. #3.  etc... ____________________ rule 1  __|___|___|___|_____ rule 2  __|___|___|___|_____ rule 3  __|___|___|___|_____ . .  
+@end
+@answer  vertical
+@tries 2
+@graphic none
+@video none
+@begin
+The same list of rules is then placed from right to left on the ______ of the rule matrix as shown below.  #1. #2. #3.  etc... ____________________ rule 1  __|___|___|___|_____ rule 2  __|___|___|___|_____ rule 3  __|___|___|___|_____ . .  
+@end
+@answer  top
+@tries 2
+@graphic none
+@video none
+@begin
+The squares down in the grid are for checkmarks or notes. The programmer is to systematically compare each rule along the vertical axis with each rule along the ______ axis.  #1. #2. #3.  etc... ____________________ rule 1  __|___|___|___|_____ rule 2  __|___|___|___|_____ rule 3  __|___|___|___|_____ . .  
+@end
+@answer  horizontal
+@tries 2
+@graphic none
+@video none
+@begin
+This systematic comparison of each rule with each other rule is done repeatedly, but each time asking a different q_____ion. 
+@end
+@answer  question
+@tries 2
+@graphic none
+@video none
+@begin
+The question the programmer asks prompts the comparison to be made.  For example, an obvious question is "Are these rules related?"  The programmer will make a c_____k in the grid square where the appropriate line and column converge. 
+@end
+@answer  check
+@tries 2
+@graphic none
+@video none
+@begin
+Duplicate grids can be constructed for different questions (a "relate" grid and a "differ" grid).  Or, one large single grid can be used while making different colored checks or notes in the appropriate sq_____ where columns and rows converge. 
+@end
+@answer  squares
+@tries 2
+@graphic none
+@video none
+@begin
+Questions like "Are these rules related?" compel the programmer to see common elements in rules.  They set the stage for revision of rules and for o_____g the concepts and rules into a developmental sequence. 
+@end
+@answer  ordering
+@tries 2
+@graphic none
+@video none
+@begin
+When preparing a rule matrix the first time, the programmer has only a general idea of the order of rule presentation. The first listing of rules is usually (permanent/tentative) ______. 
+@end
+@answer  tentative
+@tries 2
+@graphic none
+@video none
+@begin
+The relation between rules indicated by grid check marks may suggest that one _____r of presenting the two rules is better than another. 
+@end
+@answer  order
+@tries 2
+@graphic none
+@video none
+@begin
+No computer program that converts the marks on a rule matrix into a "best" order of rules currently exists.  Instead, the programmer must do the process manually and "eyeball" a completed rule matrix in order to place the rules in the best developmental _____r. 
+@end
+@answer  order
+@tries 2
+@graphic none
+@video none
+@begin
+Another important function of a good rule matrix is its use in determining where review frames should appear in a program.  A rule or concept may be introduced at one point in a program and then come into play again at a l_____r point. 
+@end
+@answer  later
+@tries 2
+@graphic none
+@video none
+@begin
+The probability of a correct answer weakens as time goes by and other material is presented.  A program of any size will teach many concepts and the student needs (a single opportunity/repeated opportunities) ______ to emit the concept in appropriate contexts. 
+@end
+@answer  repeated opportunities
+@tries 2
+@graphic none
+@video none
+@begin
+The old stage trick of keeping many saucers spinning on the top of sticks is a kind of analogy.  Every so often the performer has to accelerate the spin of each saucer. Likewise, frequent review _____es help to re-strengthen behavior important for later instruction. 
+@end
+@answer  frames
+@tries 2
+@graphic none
+@video none
+@begin
+The rule matrix may show that one rule relates to many other rules.  Teaching all of these multiple relations may not be necessary for understanding the key concepts, but they can be included in _____w frames to re-strengthen behavior. 
+@end
+@answer  review
+@tries 2
+@graphic none
+@video none
+@begin
+A good instructional program should have an "internal unity."  As new concepts are introduced, there are (common/uncommon) ______ themes, facts, or principles that recur. 
+@end
+@answer  common
+@tries 2
+@graphic none
+@video none
+@begin
+The programmer needs to associate related concepts and rules.  For example, in the present program, "reinforcement" is a fundamental and recurring concept.  Many other concepts like "linear," "error," "probability," etc., can be explained adequately only when the student understands the concept of _____nt. 
+@end
+@answer  reinforcement
+@tries 2
+@graphic none
+@video none
+@begin
+A thorough instructional program should contain certain frames that were deliberately constructed to _____te one concept to another. 
+@end
+@answer  relate
+@tries 2
+@graphic none
+@video none
+@begin
+We say that a student "understands a relationship" or "associates" one concept with another when, upon hearing or reading one concept, he finds himself (weakly/readily) _______ saying the  other concept. 
+@end
+@answer  readily
+@tries 2
+@graphic none
+@video none
+@begin
+Students associate concepts when programmers deliberately construct frames that contiguously ______ the terms and then require students to emit them. 
+@end
+@answer  pair
+@tries 2
+@graphic none
+@video none
+@begin
+Comparison of one rule with another may suggest relationships.  It may imply the review frames necessary before a new rule is introduced.  A programmer is more likely to build frames that contiguously pair terms if he or she has constructed a good  r_____ _____x with squares that show the interrelationships. 
+@end
+@answer  rule matrix
+@tries 2
+@graphic none
+@video none
+@begin
+A purpose of the rule matrix is to induce the programmer to systematically _____re of each rule with each other rule. 
+@end
+@answer  compare
+@tries 2
+@graphic none
+@video none
+@begin
+The original listing of rules placed vertically and horizontally on the rule matrix is a beginning step. Analysis of the check marks and notes within the squares may suggest a better _____ring of the rules. 
+@end
+@answer  ordering
+@tries 2
+@graphic none
+@video none
+@begin
+The rule matrix will also suggest where ______ frames should occur in the sequence to re-strengthen concepts already learned. 
+@end
+@answer  review
+@tries 2
+@graphic none
+@video none
+@begin
+Before the actual composition of frames, the rules must be properly ordered.  It is helpful to list the rules vertically on large sheets of paper.  The extra space between rules will be used for inserting _____w frames.  rule x rule t rule b rule y etc... 
+@end
+@answer  review
+@tries 2
+@graphic none
+@video none
+@begin
+If using index cards, the programmer can lay the cards down on a large table, one below the other in order, to get the "grand picture."  The programmer can then create review frames on new cards and _____rt them between the existing cards.  card 6 card 7 card 8 review card card 9 etc... 
+@end
+@answer  insert
+@tries 2
+@graphic none
+@video none
+@begin
+One measure of the "thoroughness of a student's knowledge" about a content area is how many concepts he can use and how he relates them to each other.  The _____p of concepts to each other in a content area can be described as "unity." 
+@end
+@answer  relationship
+@tries 2
+@graphic none
+@video none
+@begin
+When concepts share common properties they tend to be used together.  "Conceptual unity" means the concepts often occur t_____er in the same sentences. 
+@end
+@answer  together
+@tries 2
+@graphic none
+@video none
+@begin
+A kind of "internal unity" is revealed when the student can eventually supply an answer and can relate the answer to other concepts.  To induce this in an instructional program, the concepts must be "tied together."  They must be contiguously ______ in frames throughout the program. 
+@end
+@answer  paired
+@tries 2
+@graphic none
+@video none
+@begin
+The programmer prompts herself to unify the content by inspecting the marks on the rule matrix, spreading out the index cards and examining the "grand picture," or making notes on the revised _____e list. 
+@end
+@answer  rule
+@tries 2
+@graphic none
+@video none
+@begin
+A good frame cannot be constructed without first identifying the response that is to be given by the student.  Giving the response is a small part of engaging in terminal behavior. In most cases the student will not be learning new words but using old words in ______ ways. 
+@end
+@answer  new
+@tries 2
+@graphic none
+@video none
+@begin
+An appropriately constructed frame raises the strength of intraverbal connections.  You are demonstrating that the present program has strengthened an intraverbal connection in your behavior when you correctly supply the answer to the following:  "A series of frames" is another way of saying "a" series of ______ contingencies."  You would probably not have been able to supply the response had this been the first frame in this program. 
+@end
+@answer  reinforcement
+@tries 2
+@graphic none
+@video none
+@begin
+The programmer strives to achieve generalization of a response such as saying the word "contingency."  To do so he or she constructs a program that presents a variety of frames all calling for the same _____e. 
+@end
+@answer  response
+@tries 2
+@graphic none
+@video none

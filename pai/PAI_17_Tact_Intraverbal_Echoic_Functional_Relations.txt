@@ -1,0 +1,196 @@
+@begin
+We are often asked to repeat what someone else has said.  If it is an exact duplication, it is an example of an ______ response. 
+@end
+@answer  echoic
+@tries 2
+@graphic none
+@video none
+@begin
+A response to a question is an example of a(n) ______ response. 
+@end
+@answer  intraverbal
+@tries 2
+@graphic none
+@video none
+@begin
+The question, the intraverbal response, and the reinforcer are the three elements that form a _____y of reinforcement. 
+@end
+@answer  contingency
+@tries 2
+@graphic none
+@video none
+@begin
+Another important kind of verbal behavior is the "tact."  A tact is a verbal _____se a student makes that makes conTACT directly with the world of things or events. 
+@end
+@answer  response
+@tries 2
+@graphic none
+@video none
+@begin
+When a student is asked to name an object, the object is the source of stimulation rather than the question "What is this?"  When a student names an object, his response called a(n) (intraverbal/tact) ______. 
+@end
+@answer  tact
+@tries 2
+@graphic none
+@video none
+@begin
+A teacher holds an apple in his hand and asks a student "What is this?"  The student responds "apple."  Because the source of stimulation for the student's response is an object (the apple), the student's response is called a(n) ______. 
+@end
+@answer  tact
+@tries 2
+@graphic none
+@video none
+@begin
+A teacher holds an apple in her hand and says "Say apple." The student imitates the teacher and says "apple."  Here, the student makes a(n) ______ response. 
+@end
+@answer  echoic
+@tries 2
+@graphic none
+@video none
+@begin
+A teacher asks "What is red, grows on trees, is nutritious, and is often a gift to teachers from students?"  A student responds "apple."  Because the student responds to a question of different form than the response, and not an object or event, the response is called an ______ response. 
+@end
+@answer  intraverbal
+@tries 2
+@graphic none
+@video none
+@begin
+When an instructional program describes a situation and gets you to call it a "contingency of reinforcement," the situation responded to is "a thing or event."  Typing "contingency of reinforcement" would be a(n) ______ response to the thing. 
+@end
+@answer  tact
+@tries 2
+@graphic none
+@video none
+@begin
+If you learn from someone else that there is an apple in the refrigerator and then tell another person "there is an apple in the refrigerator" your behavior is intraverbal.  The "source of information" was (the apple/someone else's verbal behavior) ______. 
+@end
+@answer  someone else's verbal behavior
+@tries 2
+@graphic none
+@video none
+@begin
+However, if you had opened the refrigerator and directly observed an apple, saying "there is an apple in the refrigerator" would be an example of a ______ because it was a response to the apple as a stimulus. 
+@end
+@answer  tact
+@tries 2
+@graphic none
+@video none
+@begin
+Roughly speaking, intraverbal behavior is acquired from experience with other "words," while tact behavior arises from direct experience with the world of _____gs or events. 
+@end
+@answer  things
+@tries 2
+@graphic none
+@video none
+@begin
+Another word for the "world of things or events" is the "environment."  A person tacts when she describes things in the _____ment. 
+@end
+@answer  environment
+@tries 2
+@graphic none
+@video none
+@begin
+So-called "book learning" is largely ______ behavior, while naming and describing events and processes when actually observing them is ______ behavior.  [Type only the letter of the correct response]  a. tact,intraverbal b. intraverbal,tact 
+@end
+@answer  b
+@tries 2
+@graphic none
+@video none
+@begin
+A child may learn to say "three" after hearing the question "What number comes after two?"  But when shown three objects and asked "How many are there?" he or she may not readily say "three."  This suggests that a response acquired as an ______ cannot automatically "be used" as a tact. 
+@end
+@answer  intraverbal
+@tries 2
+@graphic none
+@video none
+@begin
+Teaching "about" the world is not enough, knowledge must eventually translate into direct (study/application) _______. 
+@end
+@answer  application
+@tries 2
+@graphic none
+@video none
+@begin
+Students must be able to use or _____ly intraverbal responses to practical situations. 
+@end
+@answer  apply
+@tries 2
+@graphic none
+@video none
+@begin
+One goal of instruction is to get the student to do or say some specific response, for example, to vocalize the word "pencil."  When the child imitates or copies your prompt "pencil," his response is correctly called an _____c response. 
+@end
+@answer  echoic
+@tries 2
+@graphic none
+@video none
+@begin
+You could teach the child to say that she should remember to bring a pencil to school with her each day.  In doing so you would repeatedly ask the question "What should you bring to school each day?" (perhaps with an added prompt) and _____ce the response "pencil." 
+@end
+@answer  reinforce
+@tries 2
+@graphic none
+@video none
+@begin
+But the child could learn to correctly say she should bring a pencil _____out knowing what a pencil is. 
+@end
+@answer  without
+@tries 2
+@graphic none
+@video none
+@begin
+In other words, upon being shown a pencil, she might not correctly identify it or label it with the response "pencil."  More precisely, we would say she could emit the response "pencil" as an intraverbal but not as a ______. 
+@end
+@answer  tact
+@tries 2
+@graphic none
+@video none
+@begin
+The program (to which you are at the moment responding) presents various arrangements of word patterns, asking you to supply answers to blanks.  It is strengthening new FUNCTIONAL RELATIONSHIPS (i.e., connections) in your verbal _____r. 
+@end
+@answer  behavior
+@tries 2
+@graphic none
+@video none
+@begin
+This program both establishes behavior and strengthens functional relations between various verbal responses. Since most of your responses are responses to other words, your responses are examples of _____s. 
+@end
+@answer  intraverbals
+@tries 2
+@graphic none
+@video none
+@begin
+A good teacher or program contiguously pairs many stimuli with a response and many responses with a stimulus.  The objective is to establish new functional _____ions. 
+@end
+@answer  relations
+@tries 2
+@graphic none
+@video none
+@begin
+To guarantee adequate strengthening of functional relationships, the program requires (covert/overt) ______ responses. 
+@end
+@answer  overt
+@tries 2
+@graphic none
+@video none
+@begin
+When a given answer is emitted in response to a variety of different stimuli, we say that new f_____nal rel_____s have been established. 
+@end
+@answer  functional relations
+@tries 2
+@graphic none
+@video none
+@begin
+A response to a question is an example of a(n) ______ response.  [Ignore the above blank]  You would respond to the above blank with the word "intraverbal."  Here, a new functional relation has been established between the textual stimuli in the question and your _____e. 
+@end
+@answer  response
+@tries 2
+@graphic none
+@video none
+@begin
+"Instruction" is the establishment of  new _____l _____s in the behavior of the student. 
+@end
+@answer  functional relations
+@tries 2
+@graphic none
+@video none

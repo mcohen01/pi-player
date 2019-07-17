@@ -1,0 +1,175 @@
+@begin
+The previous program demonstrated how a student could be taught to discriminate between shades of the color ______. 
+@end
+@answer  grey
+@tries 2
+@graphic none
+@video none
+@begin
+It was demonstrated that in a gradual progression, the programmer would bring the shades of grey closer and ______ to the shade number 7. 
+@end
+@answer  closer
+@tries 2
+@graphic none
+@video none
+@begin
+By starting with shades very different from shade 7, the programmer started with a discrimination the student could already make and proceeded by a g_____l progression of shades to the discrimination he hoped to teach. 
+@end
+@answer  gradual
+@tries 2
+@graphic none
+@video none
+@begin
+The various techniques used in programming result in a gradual ______ of frames designed to change the behavior of the student. 
+@end
+@answer  progression
+@tries 2
+@graphic none
+@video none
+@begin
+The example of the discrimination training program for shades of grey involve a ______ ______ from a discrimination the student can already make to the one that is being taught. 
+@end
+@answer  gradual progression
+@tries 2
+@graphic none
+@video none
+@begin
+A programmer can teach new concepts by much the same technique used to teach discriminations.  She can begin with a concept the student already has and by a ______ ______ of small steps the programmer can "shape" it into a new concept. 
+@end
+@answer  gradual progression
+@tries 2
+@graphic none
+@video none
+@begin
+A programmer starts with a concept the student already has and "shapes" it into a new ______. 
+@end
+@answer  concept
+@tries 2
+@graphic none
+@video none
+@begin
+For example, a programmer could present textual stimuli (words on the screen) that enable the student to easily emit a response that is a part of his ______ behavior. 
+@end
+@answer  initial
+@tries 2
+@graphic none
+@video none
+@begin
+Frame by frame, new textual stimuli are gradually introduced as the student continues to respond and receive ______. 
+@end
+@answer  reinforcement
+@tries 2
+@graphic none
+@video none
+@begin
+As the student begins to be reinforced for responding to new textual stimuli, the control of the response is transferred from the old stimuli to the ______ stimuli. 
+@end
+@answer  new
+@tries 2
+@graphic none
+@video none
+@begin
+The student initially responded to old SD's, but now responds to new _____'s. 
+@end
+@answer  SD's
+@tries 2
+@graphic none
+@video none
+@begin
+The old concept is "shaped" into the ______ concept. 
+@end
+@answer  new
+@tries 2
+@graphic none
+@video none
+@begin
+The transfer of stimulus control of a response from one SD to another SD, can be accomplished by the technique of fading the first _____. 
+@end
+@answer  SD
+@tries 2
+@graphic none
+@video none
+@begin
+The transfer of stimulus control from an SD that evokes initial behavior to an SD that evokes terminal behavior by the technique known as ______ can be used in a discrimination training program. 
+@end
+@answer  fading
+@tries 2
+@graphic none
+@video none
+@begin
+Fading involves the transfer of stimulus ______ from one SD to another. 
+@end
+@answer  control
+@tries 2
+@graphic none
+@video none
+@begin
+A previous program took an old concept called "help letters," and shaped it into a new concept called ______ prompts. 
+@end
+@answer  formal
+@tries 2
+@graphic none
+@video none
+@begin
+The programmer assumed that the words "help letters" were apart of your initial behavior.  Gradually, stimulus control was transferred.  Now, when presented with the stimuli...  prog_____ed in____ction  [Ignore the above blanks]  ...you now respond to the above "help letters" as ______ _____s. 
+@end
+@answer  formal prompts
+@tries 2
+@graphic none
+@video none
+@begin
+You responded to old textual stimuli about "help letters" while new textual stimuli about "formal prompts" were _____lly introduced. 
+@end
+@answer  gradually
+@tries 2
+@graphic none
+@video none
+@begin
+After teaching you the concepts of formal and thematic prompts, the program then taught you to ______ between them. 
+@end
+@answer  discriminate
+@tries 2
+@graphic none
+@video none
+@begin
+If you understand the concepts of formal and thematic prompts, and can discriminate between them, you are more likely to be able to properly use them when you create your own _____s. 
+@end
+@answer  programs
+@tries 2
+@graphic none
+@video none
+@begin
+The various techniques used in programming result in a gradual ______ of frames designed to change the behavior of the student. 
+@end
+@answer  progression
+@tries 2
+@graphic none
+@video none
+@begin
+The transfer of stimulus control of a response from one SD to another SD, can be accomplished by the technique of ______ the first SD. 
+@end
+@answer  fading
+@tries 2
+@graphic none
+@video none
+@begin
+The transfer of stimulus control from an SD that evokes initial behavior to an SD that evokes terminal behavior by the technique known as ______ can be used in a discrimination training program. 
+@end
+@answer  fading
+@tries 2
+@graphic none
+@video none
+@begin
+Fading involves the transfer of stimulus ______ from one SD to another. 
+@end
+@answer  control
+@tries 2
+@graphic none
+@video none
+@begin
+A programmer can teach new concepts by much the same technique used to teach discriminations.  She can begin with a concept the student already has and by a ______ ______ of small steps the programmer can "shape" it into a new concept. 
+@end
+@answer  gradual progression
+@tries 2
+@graphic none
+@video none

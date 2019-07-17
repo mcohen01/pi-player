@@ -1,0 +1,273 @@
+@begin
+1.   There are some reinforcement contingencies which generate<br/>     powerful internal control by making the r______s themselves<br/>     act as _______d reinforcers, as in fixed-ratio behavior and<br/>     the terminal portion of a fixed-interval scallop.  Page 362<br/>
+@end
+@answer RESPONSES CONDITIONED
+@tries 1
+@graphic none
+@video none
+@begin
+2.   An instructional frame (in programmed instruction) is<br/>     similar to a magazine in a conditioning chamber.  It is the<br/>     point at which the student supplies a response.  The<br/>     overt and covert behaviors immediately preceding the<br/>     behavior of typing the answer are automatically _______ when<br/>     the answer is correct.  Much of this behavior may be<br/>     _______ious in that it is not explicitly connected to the<br/>     behavior of supplying the correct answer.  Page 366<br/>
+@end
+@answer REINFORCED SUPERSTITIOUS
+@tries 1
+@graphic none
+@video none
+@begin
+3.   Ideally, reading ALL words in a frame should contribute to<br/>     the p______ity of the correct answer.  When a programmer<br/>     spends (much/little) _______ time constructing frame content<br/>     in such a way that the student MUST read essentially all<br/>     words, the programmer inadvertently reinforcers _______s<br/>     behavior.<br/>
+@end
+@answer PROBABILITY LITTLE SUPERSTITIOUS
+@tries 1
+@graphic none
+@video none
+@begin
+4.   Elaborate chains of superstitious behavior are sometimes<br/>     automatically reinforced when a magazine operates. <br/>     Likewise, a student may COPY an answer word from the text in<br/>     a frame .  In other words, a student supplies a textual<br/>     operant, not an i_____al.  This may lead a student to<br/>     randomly search for words which contain the help letters<br/>     given beside a blank.  Such random searching behavior is<br/>     ______able with careful sequential reading and is a function<br/>     of (good/poor) ______ frame construction.  Page 366<br/>
+@end
+@answer INTRAVERBAL INCOMPATIBLE POOR
+@tries 1
+@graphic none
+@video none
+@begin
+5.   Adventitious contingencies (reduce/increase) _______ the<br/>     variability of data.  Page 369<br/>
+@end
+@answer INCREASE
+@tries 1
+@graphic none
+@video none
+@begin
+6.   The conclusion drawn from experiments which delay<br/>     reinforcement is that it has its greatest effect when it is<br/>     i_______t.  Page 371<br/>
+@end
+@answer IMMEDIATE
+@tries 1
+@graphic none
+@video none
+@begin
+7.   The effect of delay is that it dissipates the reinforcement<br/>     over a number of (other recorded/unrecorded) _______<br/>     responses.  Page 371<br/>
+@end
+@answer UNRECORDED
+@tries 1
+@graphic none
+@video none
+@begin
+8.   Because of the mediating effects of a______ous<br/>     contingencies, delayed reinforcement appears to be<br/>     (less/more) _______ effective than immediate reinforcement. <br/>     Page 371<br/>
+@end
+@answer ADVENTITIOUS LESS
+@tries 1
+@graphic none
+@video none
+@begin
+9.   Ferster developed a way of getting around the difficulty. <br/>     His technique involved the deliberate conditioning, by<br/>     immediate reinforcement, of the response that is eventually<br/>     to comprise the m______ing behavior in a delayed<br/>     reinforcement contingency.  Page 372<br/>
+@end
+@answer MEDIATING
+@tries 1
+@graphic none
+@video none
+@begin
+10.  An animal can be deliberately taught to engage in behavior<br/>     which takes up the time until a reinforcer is available.  If<br/>     there is no if/then connection between this "adventitiously"<br/>     reinforced behavior and the contingency for the reinforced<br/>     response, this behavior can (never/still) _______ serve a<br/>     useful purpose because it is _______able with responding too<br/>     early.  Page 372<br/>
+@end
+@answer STILL INCOMPATIBLE
+@tries 1
+@graphic none
+@video none
+@begin
+11.  Delayed contingencies can never have an effect upon an<br/>     organism unless something or someone enters in to<br/>     (randomly/deliberately) _______ shape up m_____ing behavior.<br/><br/>     Page 372<br/>
+@end
+@answer DELIBERATELY MEDIATING
+@tries 1
+@graphic none
+@video none
+@begin
+12.  Delayed contingencies have little effect under normal<br/>     conditions because much of the mediating behavior is<br/>     a______ly reinforced by chance relationships to _______ment.<br/>
+@end
+@answer ADVENTITIOUSLY REINFORCEMENT
+@tries 1
+@graphic none
+@video none
+@begin
+13.  The relationships between behavior an ultimate consequences<br/>     (are/are not) _______ easily recognized because organisms<br/>     are sensitive only to consequences which i______ follow<br/>     behavior.<br/>
+@end
+@answer ARE NOT IMMEDIATELY
+@tries 1
+@graphic none
+@video none
+@begin
+14.  Casual or informal or unaided inspection of the relation of<br/>     behavior to remote consequences is (unlikely/likely) ______<br/>     to reveal the delayed effects of behavior.  The disciplined,<br/>     organized, and objective methods of ______ are necessary to<br/>     identify the relations between immediate and delayed<br/>     consequences.<br/>
+@end
+@answer UNLIKELY SCIENCE
+@tries 1
+@graphic none
+@video none
+@begin
+15.  _______ reveals the relation between behavior and remote<br/>     c______s.<br/>
+@end
+@answer SCIENCE
+@tries 1
+@graphic none
+@video none
+@begin
+16.  Behavioral  _______ts must intervene and deliberately<br/>     establish m______ing behaviors which prevent undesirable<br/>     consequences or promote desirable ones.  <br/>
+@end
+@answer SCIENTISTS MEDIATING
+@tries 1
+@graphic none
+@video none
+@begin
+17.  We cannot wait for ad______s contingencies to supply the<br/>     m_____ing behavior.  It takes too long for ad_____ious<br/>     contingencies to select appropriate behavior on their own. <br/>
+@end
+@answer ADVENTITIOUS MEDIATING ADVENTITIOUS
+@tries 1
+@graphic none
+@video none
+@begin
+18.  There is no good r_____n for the behavior that bridges the<br/>     d____y in consequences.  In other words, there is no<br/>     naturally co_____gent relation between the necessary<br/>     behavior and the ultimate consequences--it must be<br/>     deliberately arranged by the members of a c_____re.<br/>
+@end
+@answer REASON DELAY CONTINGENT CULTURE
+@tries 1
+@graphic none
+@video none
+@begin
+19.  The fabled grasshopper fiddled away during the summer<br/>     enjoying momentary reinforcers, while the ants industriously<br/>     put off joys of the moment in favor of putting up supplies<br/>     for the winter.  Engaging in behaviors which m_____te<br/>     between summer and winter was done by the ant c____ure.  <br/>
+@end
+@answer MEDIATE CULTURE
+@tries 1
+@graphic none
+@video none
+@begin
+20.  Those people who enter into the lives of others and<br/>     deliberately set up behavior which mediates behavior and<br/>     d____ed consequences are those who are working for its<br/>     ______al.<br/>
+@end
+@answer DELAYED SURVIVAL
+@tries 1
+@graphic none
+@video none
+@begin
+21.  Occasionally, adv____ly reinforced may need to be p______ed<br/>     in favor of m_____ing behaviors which contribute to<br/>     survival.  In these cases, such intervention is especially<br/>     likely to be (encouraged/resisted) ______.<br/>
+@end
+@answer ADVENTITIOUSLY PUNISHED MEDIATING RESISTED
+@tries 1
+@graphic none
+@video none
+@begin
+22.  Those "do-gooders" who construct surrogate contingencies<br/>     which shape up mediating behavior will be<br/>     (accepted/resisted) _______ as meddlers in our personal<br/>     lives.<br/>
+@end
+@answer RESISTED
+@tries 1
+@graphic none
+@video none
+@begin
+23.  Those working to establish desirable mediating behavior may<br/>     need to both r_____e and p______h behavior.  Their<br/>     techniques of doing so will determine their rate of s____s.<br/>
+@end
+@answer REINFORCE PUNISH SUCCESS
+@tries 1
+@graphic none
+@video none
+@begin
+24.  By establishment of an appropriate reinforcement history for<br/>     a given response, we can almost g______ee that this response<br/>     will be the one adventitiously reinforced by a delayed<br/>     reinforcement. Page 373<br/>
+@end
+@answer GUARANTEE
+@tries 1
+@graphic none
+@video none
+@begin
+25.  The consistent behavior pattern, along with its associated<br/>     environmental stimuli, will comprise an immediate<br/>     conditioned _______ strong enough to maintain the behavior<br/>     whose primary reinforcement is d_____ed.  Cultural practices<br/>     which bridge the gap between behavior and remote<br/>     consequences may have no specific relation to the remote<br/>     consequences.  They are accidently sustained in a culture<br/>     that continues to s_____ve.  Page 373<br/>
+@end
+@answer REINFORCERS DELAYED SURVIVE
+@tries 1
+@graphic none
+@video none
+@begin
+26.  An adventitious contingency that we initially mold into some<br/>     desired configuration through the deliberate application of<br/>     behavioral technology, eventually takes on a life of its<br/>     own.  The mediating behavior (is/is not) ______ necessary<br/>     for the occurrence of the consequences which maintain it. <br/>     Page 374<br/>
+@end
+@answer IS NOT
+@tries 1
+@graphic none
+@video none
+@begin
+27.  If for some uncontrolled reason the correlation between the<br/>     behavior and its adventitious consequences is weakened or<br/>     interrupted, that behavior may weaken or even ___pear.  It<br/>     will be replaced by behavior not of the cultural manager's<br/>     choosing, thereby raising again the problems of va______ty<br/>     and inadequate c____l over relevant variables.  Page 374<br/>
+@end
+@answer DISAPPEAR VARIABILITY CONTROL
+@tries 1
+@graphic none
+@video none
+@begin
+28.  Science may show a correlation between practices and<br/>     eventual consequences, but the gap is too (large/small)<br/>     _____.  <br/>
+@end
+@answer LARGE
+@tries 1
+@graphic none
+@video none
+@begin
+29.  Cultural controllers must be brought under the control of<br/>     this problem and construct contingencies which me____ate the<br/>     immediate behaviors and the remote consequences.  <br/>
+@end
+@answer MEDIATE
+@tries 1
+@graphic none
+@video none
+@begin
+30.  The culture must also contain c______cies which maintain the<br/>     c_____'s behavior because there are no _____ reasons (except<br/>     personal reinforcers) for arranging conditions which will<br/>     never  be experienced by the c_____r.<br/>
+@end
+@answer CONTINGENCIES CONTROLLER'S GOOD CONTROLLER
+@tries 1
+@graphic none
+@video none
+@begin
+31.  There is no good _______ to work for the welfare of others<br/>     unless someone contrives one.<br/>
+@end
+@answer REASON
+@tries 1
+@graphic none
+@video none
+@begin
+32.  But people are likely to (support/resist) _______ control<br/>     for the sake of people not yet born when it reduces the own<br/>     personal _______s.<br/>
+@end
+@answer RESIST
+@tries 1
+@graphic none
+@video none
+@begin
+33.  Delayed reinforcement generates a chain whose final<br/>     component is (is/is usually not) _______ specified or<br/>     controlled in any direct way.  Page 374<br/>
+@end
+@answer IS USUALLY NOT
+@tries 1
+@graphic none
+@video none
+@begin
+34.  Behavior whose reinforcement is delayed is always followed<br/>     by unanalyzed behavior which can act as a stimulus to _____<br/>     the delay.  A deliberate chaining technique simply (makes<br/>     the sequence explicit/obscures the process) ______ and<br/>     exposes it for examination and manipulation.  Page 375<br/>
+@end
+@answer BRIDGE MAKES THE SEQUENCE EXPLICIT
+@tries 1
+@graphic none
+@video none
+@begin
+35.  Delayed reinforcement always involves some terminal behavior<br/>     immediately prior to the delivery of primary reinforcement. <br/>     The properties of this behavior are a critical factor in<br/>     mediating the effects of delayed reinforcement.  Why not<br/>     make the mediating behavior both explicit and permanent? <br/>     The reason is people resist being ______ed.  They do so<br/>     because the process usually involves a reduction in _____ate<br/>     reinforcement.  Page 375<br/>
+@end
+@answer CONTROLLED IMMEDIATE
+@tries 1
+@graphic none
+@video none
+@begin
+36.  Cultures flourish and die.  The practices within them are<br/>     perpetuated by differential ad____ious contingencies. <br/>     Through this kind of selection cultures evolve with patterns<br/>     which effectively bridge delays.  But scientific data now<br/>     suggest that the time necessary for this kind of unplanned<br/>     evolution is too (long/short) _______ to avert extinction of<br/>     our species if current tr___ds continue.  <br/>
+@end
+@answer LONG TRENDS
+@tries 1
+@graphic none
+@video none
+@begin
+37.  When the external controlling stimuli for mediating behavior<br/>     are too weak or even nonexistent, the b_____ itself must<br/>     carry the discriminative load.   Doing "good works" must<br/>     become automatic _______ed reinforcers as a result of<br/>     deliberate inst____ion.  Page 379<br/>
+@end
+@answer BEHAVIOR CONDITIONED INSTRUCTION
+@tries 1
+@graphic none
+@video none
+@begin
+38.  The lack of direct control inherent in adventitious<br/>     contingencies (magnifies/reduces) _______ the effects of<br/>     variables which might be almost completely powerless in the<br/>     face of a deliberately programmed contingency.  Page 382<br/>
+@end
+@answer MAGNIFIES
+@tries 1
+@graphic none
+@video none
+@begin
+39.  An organism's behavior is determined by a genetic endowment,<br/>     past experiences, and the current situation.  If factors in<br/>     current situations contribute to inappropriate behavior,<br/>     displacement of appropriate behavior,  or behavior<br/>     incompatible with appropriate mediating behavior, we must<br/>     look to establishing strong dispositions through            <br/><br/>     Page 384<br/>     <br/>     a.  changing the genetic endowment<br/>     b.  changing the contingencies to be mediated<br/>     c.  establishing patterns which are supported by <br/>         powerful conditioned reinforcement<br/>
+@end
+@answer C
+@tries 1
+@graphic none
+@video none

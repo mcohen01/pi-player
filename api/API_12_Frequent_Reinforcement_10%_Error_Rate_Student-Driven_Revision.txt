@@ -1,0 +1,273 @@
+@begin
+We infer "understanding" by what a student does.  One goal of programmed instruction is to develop or change what a student ______. 
+@end
+@answer  does
+@tries 2
+@graphic none
+@video none
+@begin
+Many programs in the past failed because they taught simple concept definitions.  The student must be taught to identify examples of the concept and to _____ the concept. 
+@end
+@answer  use
+@tries 2
+@graphic none
+@video none
+@begin
+A useful technique in programming requires the student to use a response in different _____al contexts. 
+@end
+@answer  grammatical
+@tries 2
+@graphic none
+@video none
+@begin
+The use of a response in different grammatical forms teaches the student to ______ the response in different ways in different contexts. 
+@end
+@answer  use
+@tries 2
+@graphic none
+@video none
+@begin
+For the purposes of programming, we define a concept in terms of the ______ of the student. 
+@end
+@answer  behavior
+@tries 2
+@graphic none
+@video none
+@begin
+One of the things a program does is to make sure that the student's responses are reinforced at every step in the learning process.  The student's responses are reinforced ______ after they occur. 
+@end
+@answer  immediately
+@tries 2
+@graphic none
+@video none
+@begin
+In the classroom and in most other traditional teaching situations, reinforcers are presented infrequently and usually after (short/long) ______ delays. 
+@end
+@answer  long
+@tries 2
+@graphic none
+@video none
+@begin
+Letter grades on report cards and honor rolls occur (long after/immediately after) ______ study behavior. 
+@end
+@answer  long after
+@tries 2
+@graphic none
+@video none
+@begin
+In the classroom, the student makes infrequent observable responses.  In a program, the student makes _____ent observable responses. 
+@end
+@answer  frequent
+@tries 2
+@graphic none
+@video none
+@begin
+If a student makes infrequent observable responses, his responses can be reinforced only _____ntly. 
+@end
+@answer  infrequently
+@tries 2
+@graphic none
+@video none
+@begin
+If a student responds frequently but incorrectly, his correct responses can be reinforced only _____y. 
+@end
+@answer  infrequently
+@tries 2
+@graphic none
+@video none
+@begin
+If students' responses in a program are reinforced only ______, the students are unlikely to continue the program. 
+@end
+@answer  infrequently
+@tries 2
+@graphic none
+@video none
+@begin
+Programs of the type you are going through now are designed to produce a low error rate so that the responses you emit can be reinforced ______. 
+@end
+@answer  frequently
+@tries 2
+@graphic none
+@video none
+@begin
+The error rate this program tries to achieve is less than 10% for all the students who go through this program.  The _____ percent error rate was selected on the basis of experience gained from this and other programs. [Type the number] 
+@end
+@answer  10
+@tries 2
+@graphic none
+@video none
+@begin
+If the error rate is (low/high) ______, students report that the program is too difficult. 
+@end
+@answer  high
+@tries 2
+@graphic none
+@video none
+@begin
+You could make the error rate very ______ by excessive use of formal prompts or by not progressing to new material. 
+@end
+@answer  low
+@tries 2
+@graphic none
+@video none
+@begin
+However, students working through programs that contain excessive use of formal prompts sometimes do not have to read the frame.  They can correctly respond by reading only the ______ _____s. 
+@end
+@answer  formal prompts
+@tries 2
+@graphic none
+@video none
+@begin
+You could probably corr____ctly r____spond to this frame by reading only the formal prompts. 
+@end
+@answer  correctly respond
+@tries 2
+@graphic none
+@video none
+@begin
+Since the students make frequent observable responses in a program, the programmer can tell exactly where the students are having _____lty and can revise the program on the basis of student performance. 
+@end
+@answer  difficulty
+@tries 2
+@graphic none
+@video none
+@begin
+One of the important advantages of programmed instruction is that the programmer can revise the program on the basis of the ______ responses made by the students who go through the program. 
+@end
+@answer  observable
+@tries 2
+@graphic none
+@video none
+@begin
+Most instructional methods are difficult to improve because the teacher (does/does not) ______ know exactly where the method is deficient. 
+@end
+@answer  does not
+@tries 2
+@graphic none
+@video none
+@begin
+In most learning situations, all that the instructor knows at the end of the course is that the students either did, or did not, _____n the material. 
+@end
+@answer  learn
+@tries 2
+@graphic none
+@video none
+@begin
+With programmed instruction, the programmer can tell exactly where the students were having difficulty and can _____se the program on the basis of the actual performance of students. 
+@end
+@answer  revise
+@tries 2
+@graphic none
+@video none
+@begin
+One of the advantages of programmed instruction is that the programmer can carefully ______ the program on the basis of student performance. 
+@end
+@answer  revise
+@tries 2
+@graphic none
+@video none
+@begin
+If the terminal behavior of the students is inadequate, the programmer knows that the program needs _____on. 
+@end
+@answer  revision
+@tries 2
+@graphic none
+@video none
+@begin
+The programmer can decide where the program needs revision on the basis of the observable responses made by the students as they go through the ______. 
+@end
+@answer  program
+@tries 2
+@graphic none
+@video none
+@begin
+Depending on the objectives of the program, the programmer may decide that the program needs revision if the error rate is above _____ percent. [Type only the number] 
+@end
+@answer  10
+@tries 2
+@graphic none
+@video none
+@begin
+The error rate figure of _____ _____nt was selected on the basis of experience in programming. [Use the number in your answer] 
+@end
+@answer  10 percent
+@tries 2
+@graphic none
+@video none
+@begin
+The programmer may reword and construct additional frames when revising a program based on inspection of student _____rs. 
+@end
+@answer  errors
+@tries 2
+@graphic none
+@video none
+@begin
+Most programmers find that the first draft of their program (does/does not) ______ progress gradually enough. 
+@end
+@answer  does not
+@tries 2
+@graphic none
+@video none
+@begin
+A revision of a program usually involves adding frames.  But this does not mean that it takes students longer to go through the revised program.  On the contrary, they are quite likely to go through it in (more/less) ______ time. 
+@end
+@answer  less
+@tries 2
+@graphic none
+@video none
+@begin
+If the error rate is above 10%, the progression is probably not _____l enough. 
+@end
+@answer  gradual
+@tries 2
+@graphic none
+@video none
+@begin
+The first drafts of almost all programs require some ______ based on student performance. 
+@end
+@answer  revision
+@tries 2
+@graphic none
+@video none
+@begin
+Because revisions are based on student performance, it is said the (programmer/student) ______ writes the program. 
+@end
+@answer  student
+@tries 2
+@graphic none
+@video none
+@begin
+In the classroom, the student makes infrequent observable responses.  In a program, the student makes ______ observable responses. 
+@end
+@answer  frequent
+@tries 2
+@graphic none
+@video none
+@begin
+Most instructional methods are difficult to improve because the teacher (does/does not) ______ know exactly where the method is deficient. 
+@end
+@answer  does not
+@tries 2
+@graphic none
+@video none
+@begin
+Since the students make frequent observable responses in a program, the programmer can tell exactly where the program needs ______. 
+@end
+@answer  revision
+@tries 2
+@graphic none
+@video none
+@begin
+Programs should try to achieve less than _____ percent error rates. 
+@end
+@answer  10
+@tries 2
+@graphic none
+@video none
+@begin
+Because revisions are based on student performance, it is said the ______ writes the program. 
+@end
+@answer  student
+@tries 2
+@graphic none
+@video none

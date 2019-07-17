@@ -1,0 +1,399 @@
+@begin
+Principles of learning are applied to computer instruction in the educational _____y called computer programmed instruction. 
+@end
+@answer  technology
+@tries 2
+@graphic none
+@video none
+@begin
+Changing initial behavior to the specified terminal behavior is the major concern of the technology of teaching called p_____ i_____. 
+@end
+@answer  programmed instruction
+@tries 2
+@graphic none
+@video none
+@begin
+The programmer first specifies the ______ behavior, then the present or ______ behavior, in order to determine which skills the program must teach.  [ Answer is this form: XXXXX XXXXX ] 
+@end
+@answer  terminal initial
+@tries 2
+@graphic none
+@video none
+@begin
+Programmed instruction may use items of this type: A word is missing from a sentence, and the student is required to supply the missing _____d. 
+@end
+@answer  word
+@tries 2
+@graphic none
+@video none
+@begin
+We can program a textbook on logic.  Part of the job entails writing sentences that have at least one word missing.  The student is asked to write the ______ word. 
+@end
+@answer  missing
+@tries 2
+@graphic none
+@video none
+@begin
+We can create a computer program on physics, grammar, or art.  Regardless of the subject matter, if we create a program consisting of incomplete sentences, we would require the student to t_____ the missing word on the keyboard. 
+@end
+@answer  type
+@tries 2
+@graphic none
+@video none
+@begin
+We can use a tape recorder in programming a spoken language. The student hears a sentence in the language s/he is to learn.  A phrase is missing from the sentence and the student is required to say that _____se. 
+@end
+@answer  phrase
+@tries 2
+@graphic none
+@video none
+@begin
+We can teach "sketching" through programmed instruction.  A young artist is given a picture with some of the lines in the sketch omitted.  The student is supposed to s_____ the omitted lines. 
+@end
+@answer  sketch
+@tries 2
+@graphic none
+@video none
+@begin
+In each of these examples of programming, the student makes some kind of an observable response:  typing, speaking, sketching.  A characteristic of programmed instruction is that the student makes ______ responses. 
+@end
+@answer  observable
+@tries 2
+@graphic none
+@video none
+@begin
+You are responding when you do something.  With programmed materials, you are required to make observable _____es. 
+@end
+@answer  responses
+@tries 2
+@graphic none
+@video none
+@begin
+When you listen to a lecture, you probably respond to what you hear, but such responses can not be observed. Programmed instruction, however, requires the student to make ______ responses. 
+@end
+@answer  observable
+@tries 2
+@graphic none
+@video none
+@begin
+The animal trainer, piano teacher, and art teacher have the advantage of working with responses that can be seen. Programming shares this advantage by requiring the student to make ______ ______. 
+@end
+@answer  observable responses
+@tries 2
+@graphic none
+@video none
+@begin
+When a person reads a textbook, the teacher cannot readily tell what is being learned because the student does not make ______ ______. 
+@end
+@answer  observable responses
+@tries 2
+@graphic none
+@video none
+@begin
+When students listen to a lecture, the teacher cannot tell what is being learned because the students (do/do not) ______ make observable responses. 
+@end
+@answer  do not
+@tries 2
+@graphic none
+@video none
+@begin
+If a teacher cannot observe the progress of learning, he cannot tell a student when his responses are acceptable.  By demanding an observable response, a program permits the programmer to tell the student when his ______ are acceptable. 
+@end
+@answer  responses
+@tries 2
+@graphic none
+@video none
+@begin
+For a student to learn well, it is of the utmost importance to tell him whether a response is acceptable or unacceptable immediately after the ______ is emitted. 
+@end
+@answer  response
+@tries 2
+@graphic none
+@video none
+@begin
+If a student makes a response and is told immediately that the response is acceptable, he is (more/less) ______ likely to emit that same response on future occasions. 
+@end
+@answer  more
+@tries 2
+@graphic none
+@video none
+@begin
+If a student makes a response and is immediately told that the response is unacceptable, he is (more/less) ______ likely to emit that same response on future occasions. 
+@end
+@answer  less
+@tries 2
+@graphic none
+@video none
+@begin
+By immediately telling the student whether or not a response is acceptable, a programmer changes the probability that the ______ will be emitted on future occasions. 
+@end
+@answer  response
+@tries 2
+@graphic none
+@video none
+@begin
+The programmer can change the probability of a response by _____ly telling the student whether or not the response is acceptable. 
+@end
+@answer  immediately
+@tries 2
+@graphic none
+@video none
+@begin
+If the programmer tells a student that a response is acceptable, the _____ty that the response will be emitted on future occasions is increased. 
+@end
+@answer  probability
+@tries 2
+@graphic none
+@video none
+@begin
+Immediately telling the student that a response is acceptable increases the _____y that the response will occur on future occasions.  This is called reinforcing the response. 
+@end
+@answer  probability
+@tries 2
+@graphic none
+@video none
+@begin
+When we tell the student immediately that a response is correct, we reinforce the ______. 
+@end
+@answer  response
+@tries 2
+@graphic none
+@video none
+@begin
+For students, being correct is a reinforcer.  Programmers reinforce acceptable responses by immediately telling the learner that he or she is ______ct. 
+@end
+@answer  correct
+@tries 2
+@graphic none
+@video none
+@begin
+Immediate reinforcement of acceptable responses increases the ______ that they will occur on future occasions. 
+@end
+@answer  probability
+@tries 2
+@graphic none
+@video none
+@begin
+When you type a correct response, this program provides immediate ______ment. 
+@end
+@answer  reinforcement
+@tries 2
+@graphic none
+@video none
+@begin
+To increase the probability of an acceptable response, the programmer reinforces the response _____y after it has occurred. 
+@end
+@answer  immediately
+@tries 2
+@graphic none
+@video none
+@begin
+Immediate reinforcement of acceptable responses _____eases their probability. 
+@end
+@answer  increases
+@tries 2
+@graphic none
+@video none
+@begin
+To increase the probability of an acceptable response, we must reinforce it ______. 
+@end
+@answer  immediately
+@tries 2
+@graphic none
+@video none
+@begin
+If we ______ reinforce a response, we increase the probability that it will occur on future occasions. 
+@end
+@answer  immediately
+@tries 2
+@graphic none
+@video none
+@begin
+Immediate reinforcement of responses increases the _____ that they will occur on future occasions. 
+@end
+@answer  probability
+@tries 2
+@graphic none
+@video none
+@begin
+Since immediate reinforcement increases the probability of responses, the programmer must work with acceptable responses, or he might increase the probability of unacceptable responses.  For the programmer to know that responses are acceptable, he must require that the responses be _____e. 
+@end
+@answer  observable
+@tries 2
+@graphic none
+@video none
+@begin
+When a response is observable, we know it has been emitted. If the student does not emit a response, there are no responses to be observed and immediately _____ed. 
+@end
+@answer  reinforced
+@tries 2
+@graphic none
+@video none
+@begin
+Students emit observable _____ses. 
+@end
+@answer  responses
+@tries 2
+@graphic none
+@video none
+@begin
+To be able to reinforce a response, the student must first ____t an observable response. 
+@end
+@answer  emit
+@tries 2
+@graphic none
+@video none
+@begin
+To be able to reinforce a response, and thereby increase its probability, the programmer must make certain that an observable response is _____ed. 
+@end
+@answer  emitted
+@tries 2
+@graphic none
+@video none
+@begin
+Unobserved responses can be reinforced, but if a response is not ______ it cannot be reinforced. 
+@end
+@answer  emitted
+@tries 2
+@graphic none
+@video none
+@begin
+To increase the probability of a response, the programmer makes sure that it is _____d immediately after it is emitted. 
+@end
+@answer  reinforced
+@tries 2
+@graphic none
+@video none
+@begin
+One of the first things a programmer needs to do in preparing a program is to specify the _____ _____r. 
+@end
+@answer  terminal behavior
+@tries 2
+@graphic none
+@video none
+@begin
+The programmer must also know what the prospective students can do before they begin the program.  He needs to know or to specify the _____ _____r of the students. 
+@end
+@answer  initial behavior
+@tries 2
+@graphic none
+@video none
+@begin
+Certain responses must be added to the initial behavior. These are the responses that the program must teach to get the student to engage in the responses which make up the terminal ______. 
+@end
+@answer  behavior
+@tries 2
+@graphic none
+@video none
+@begin
+At the beginning of a program, the probability that a student will make a given response in a certain situation is low.  At the end of a successful program, the probability that he will make the response is _____h. 
+@end
+@answer  high
+@tries 2
+@graphic none
+@video none
+@begin
+The programmer's task is to change the probability of particular ______ in particular circumstances. 
+@end
+@answer  responses
+@tries 2
+@graphic none
+@video none
+@begin
+To change the ______ of a particular response, the programmer arranges the program so that the response will be reinforced if it is emitted. 
+@end
+@answer  probability
+@tries 2
+@graphic none
+@video none
+@begin
+For a programmer to change the probability of a response, s/he must make sure that the response is ______ when it occurs. 
+@end
+@answer  reinforced
+@tries 2
+@graphic none
+@video none
+@begin
+In most programming situations, the programmer can, by means of the program, ______ a response and increase its ______ by immediately informing the student that the response is acceptable.  [ Answer in this form: XXXXX XXXXX ] 
+@end
+@answer  reinforce probability
+@tries 2
+@graphic none
+@video none
+@begin
+A programmer can reinforce a response by ______ informing the student that the response is correct. 
+@end
+@answer  immediately
+@tries 2
+@graphic none
+@video none
+@begin
+A response can be reinforced in many ways.  In a computer program, a student can be shown the word "Correct."  That is the technique we have been using in this ______. 
+@end
+@answer  program
+@tries 2
+@graphic none
+@video none
+@begin
+Responses can be reinforced in many ways.  The mouse's responses of nibbling at the cupboard door are ______ when he gets through to the cheese. 
+@end
+@answer  reinforced
+@tries 2
+@graphic none
+@video none
+@begin
+You can reinforce a waiter for prompt and courteous service by leaving a large _____. 
+@end
+@answer  tip
+@tries 2
+@graphic none
+@video none
+@begin
+By paying a worker time-and-a-half for overtime, you can increase the ______ that he will put in the extra time. 
+@end
+@answer  probability
+@tries 2
+@graphic none
+@video none
+@begin
+A completed puzzle can be a _____er for the responses involved in putting the puzzle together. 
+@end
+@answer  reinforcer
+@tries 2
+@graphic none
+@video none
+@begin
+A child usually continues pressing a button if a light flashes immediately after he presses.  If the light does not flash, he soon stops pressing.  The _____ flash is a reinforcer. 
+@end
+@answer  light
+@tries 2
+@graphic none
+@video none
+@begin
+If a person does not smile or otherwise thank another person for doing a favor, the other person will be _____ inclined to do more favors in the future. 
+@end
+@answer  less
+@tries 2
+@graphic none
+@video none
+@begin
+Reinforcers are events which increase the ______ that a response will occur on future occasions. 
+@end
+@answer  probability
+@tries 2
+@graphic none
+@video none
+@begin
+The programmer's task is to arrange conditions so that the desired responses will be emitted and ______. 
+@end
+@answer  reinforced
+@tries 2
+@graphic none
+@video none
+@begin
+The programmer's task is to change the ______ of particular responses. 
+@end
+@answer  probability
+@tries 2
+@graphic none
+@video none

@@ -1,0 +1,119 @@
+@begin
+1.   Sidman argues that adequate study of transition states<br/>     requires a knowledge of the behavioral _______y of the<br/>     organism.  Page 301<br/>
+@end
+@answer HISTORY
+@tries 1
+@graphic none
+@video none
+@begin
+2.   A steady state is the only alternative to a baseline of<br/>     transition.  If a transition state is not desired as a<br/>     baseline from which to initiate a second transition, the<br/>     experimenter must take every precaution to ensure that his<br/>     baseline behavior is maintained in the (transition/steady)<br/>     _______ state.  If he ignores this control, he is likely to<br/>     find that his data are not replicable.  Page 302<br/>
+@end
+@answer STEADY
+@tries 1
+@graphic none
+@video none
+@begin
+3.   In programmed instruction successive frames may supply added<br/>     formal prompts such as the answer word appearing elsewhere<br/>     with frames or, perhaps, help letters at the beginning or<br/>     end of blanks.  The objective is to get the student to<br/>     respond to subtle thematic prompting rather than _____l<br/>     prompts because the behavior is more likely to _______lize<br/>     to non-instructional conditions.  Over successive frames<br/>     control shifts from formal prompts to thematic stimuli. <br/>     This is called a _______ state.  Page 303<br/>
+@end
+@answer FORMAL GENERALIZE TRANSITION
+@tries 1
+@graphic none
+@video none
+@begin
+4.   Behavioral transitions instituted by changing a controlling<br/>     variable (during/at the beginning of) _______ a session are<br/>     contaminated by the uncontrolled and usually unobserved<br/>     behavior that has been taking place prior to the session. <br/>     Page 310<br/>
+@end
+@answer AT THE BEGINNING
+@tries 1
+@graphic none
+@video none
+@begin
+5.   The tradition of instituting changes in experimental<br/>     conditions at the beginning of sessions began because  (Page<br/>     310)<br/>     <br/>     a.  of convince to the experimenter<br/>     b.  the behavior of some individuals within groups had not<br/>yet stabilized<br/>     c.  tradition was unquestioned by novice experimenters<br/>     d.  all of the above<br/>     e.  one of the above<br/>
+@end
+@answer D
+@tries 1
+@graphic none
+@video none
+@begin
+6.   So-called "trial and error" learning (is/is not) _______ a<br/>     basic process.  "Try" is a categorization of often largely<br/>     erratic behavior which occurs in a tra____roy state.  <br/>
+@end
+@answer IS NOT
+@tries 1
+@graphic none
+@video none
+@begin
+7.   The variety of behavior called "tries" often results from<br/>     failure to obtain reinforcement and the resulting e_______l<br/>     condition. <br/>
+@end
+@answer EMOTIONAL
+@tries 1
+@graphic none
+@video none
+@begin
+8.   "Error" is also a label given by the observer (not a<br/>     topographical dimension).  The label "error" (is/is not)<br/>     _______ an evaluation because the behavior is inappropriate<br/>     only as defined by the observer.  <br/>
+@end
+@answer IS
+@tries 1
+@graphic none
+@video none
+@begin
+9.   All behavior is det_____ned, there (are/are no) _______ true<br/>     "errors" or "mistakes."   In a deterministic system any<br/>     behavior is the best the organism can do at that moment. <br/>     The notion of "trial and error" learning (explains/glosses<br/>     over) _______ many underlying behavioral processes.<br/>
+@end
+@answer DETERMINED ARE NOT GLOSSES OVER
+@tries 1
+@graphic none
+@video none
+@begin
+10.  Baseline stability is desirable.  If the behavior is<br/>     excessively variable, any changes brought about the major<br/>     experimental operations will be (emphasized/obscured)<br/>     _______. Page 318<br/>
+@end
+@answer OBSCURED
+@tries 1
+@graphic none
+@video none
+@begin
+11.  Stability expedites _____subject replication.  Page 318<br/>
+@end
+@answer INTRASUBJECT
+@tries 1
+@graphic none
+@video none
+@begin
+12.  A baseline such as a FI schedule is a (useful/problematic)<br/>     _______ one to use as a background upon which to show the<br/>     experimental effect of a variable.  Page 321<br/>
+@end
+@answer PROBLEMATIC
+@tries 1
+@graphic none
+@video none
+@begin
+13.  One advantage of the multi-element baseline is that the<br/>     organism can be split into two repertoires with separate<br/>     c______ing variables.  This technique eliminates the<br/>     confusion resulting from _____subject variability.  Page 325<br/>
+@end
+@answer CONTROLLING INTERSUBJECT
+@tries 1
+@graphic none
+@video none
+@begin
+14.  The value of multi-element baselines lies mainly in  Page<br/>     325<br/>     <br/>     a.  saving time<br/>     b.  control over sources of variability<br/>
+@end
+@answer B
+@tries 1
+@graphic none
+@video none
+@begin
+15.  Guttman used the multi-element procedure when evaluating<br/>     rate during extinction.  He introduced lights which were of<br/>     different wave-length lights than the discriminative<br/>     stimulus during conditioning, and revealed the a<br/>     generalization gradient.  Sidman used the same procedure but<br/>     used click rates and avoidance behavior.  Sidman revealed<br/>     similar generalization gradient results.  This shows that<br/>     the multi-element procedure has great ______ity.  Page 329<br/>
+@end
+@answer GENERALITY
+@tries 1
+@graphic none
+@video none
+@begin
+16.  The combination of multi-element baselines with<br/>     multi-element operations    Page 329<br/>     <br/>     a.  would produce a currently untapped wealth of data<br/>     b.  has been exhaustively evaluated<br/>
+@end
+@answer A
+@tries 1
+@graphic none
+@video none
+@begin
+17.  There (are many/are no) _______ feasible applications of<br/>     multi-element baselines and procedures in the area of<br/>     programmed instruction.<br/>
+@end
+@answer ARE MANY
+@tries 1
+@graphic none
+@video none

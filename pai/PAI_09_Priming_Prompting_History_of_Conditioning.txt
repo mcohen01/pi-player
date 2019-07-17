@@ -1,0 +1,224 @@
+@begin
+At the beginning of instruction, the student's tendency to emit terminal behavior will be weak.  Therefore, a good program begins by evoking available behavior with powerful prompts and slowly withdraws them.  This will insure that the student's answer is nearly always ______. 
+@end
+@answer  correct
+@tries 2
+@graphic none
+@video none
+@begin
+Similar to the raising of "training wheels" on a bicycle, supplementary stimulation is progressively w_____wn during successive frames. 
+@end
+@answer  withdrawn
+@tries 2
+@graphic none
+@video none
+@begin
+As different words and contexts occur together with the student's correct response, the "connection" between these various words is strengthened.  We call this process c_____s p_____ing." 
+@end
+@answer  contiguous pairing
+@tries 2
+@graphic none
+@video none
+@begin
+Another subtle and important kind of supplementary stimulation is called PRIMING.  A pump is _____ed by adding water within the chamber to get the movement of fluid started. 
+@end
+@answer  primed
+@tries 2
+@graphic none
+@video none
+@begin
+In programmed instruction, priming is the introduction of words in frames just prior to those frames in which the words are to be emitted as c_____t answers. 
+@end
+@answer  correct
+@tries 2
+@graphic none
+@video none
+@begin
+The introduction of words in frames that will later be used as correct responses is called _____ing. 
+@end
+@answer  priming
+@tries 2
+@graphic none
+@video none
+@begin
+If you had recently seen the name of an old acquaintance just before the opportunity to greet the person with his name, you would be (less/more) ________ likely to say his name. 
+@end
+@answer  more
+@tries 2
+@graphic none
+@video none
+@begin
+A supplementary stimulus employed in a previous frame but not in the current frame is called a _____me. 
+@end
+@answer  prime
+@tries 2
+@graphic none
+@video none
+@begin
+The new concept presented to you just a moment ago was an example of a ______ for the correct response to this blank. 
+@end
+@answer  prime
+@tries 2
+@graphic none
+@video none
+@begin
+A prime and a prompt are two different concepts.  A prime is a stimulus that WAS presented, but is now (present/absent) _______ in the current frame. 
+@end
+@answer  absent
+@tries 2
+@graphic none
+@video none
+@begin
+On the other hand, a prompt is a stimulus that is _____nt in the current frame material. 
+@end
+@answer  present
+@tries 2
+@graphic none
+@video none
+@begin
+The word "prompt" is itself a (prompt/prime) ______ for the answer to this frame, because it is present in this frame. 
+@end
+@answer  prompt
+@tries 2
+@graphic none
+@video none
+@begin
+The words that appeared in the previous frame strengthened your verbal tendencies.  Their effects are quickly fading, but they increased the probability that you can now say that they were a ______ and not a prompt for the answer to this frame. 
+@end
+@answer  prime
+@tries 2
+@graphic none
+@video none
+@begin
+A helper sits with a script in his lap during the rehearsal of a play.  When the helper whispers the actual form of a word, he uses a formal p_____ to evoke the appropriate behavior. 
+@end
+@answer  prompt
+@tries 2
+@graphic none
+@video none
+@begin
+The "f" in the following blank is an example of a f_____ prompt because it is an approximation of the answer itself. 
+@end
+@answer  formal
+@tries 2
+@graphic none
+@video none
+@begin
+A "p" in a blank is a formal textual prompt.  But hearing someone say a word and then saying the word is an example of an _____c prompt. 
+@end
+@answer  echoic
+@tries 2
+@graphic none
+@video none
+@begin
+Both a "p" (as a textual prompt) and hearing the voiced "p" said by someone else are examples of ______ prompts because their physical characteristics are very similar to the response they are to evoke. 
+@end
+@answer  formal
+@tries 2
+@graphic none
+@video none
+@begin
+A prompted response draws its strength from two sources. The first source is the student's h_____y of conditioning. 
+@end
+@answer  history
+@tries 2
+@graphic none
+@video none
+@begin
+A prompted response also draws its strength from the supplementary stimulation contributed by the current p_____t somewhere in the frame. 
+@end
+@answer  prompt
+@tries 2
+@graphic none
+@video none
+@begin
+A stimulus is only a prompt if the student's conditioning history has already established some t_____ncy to say the word. 
+@end
+@answer  tendency
+@tries 2
+@graphic none
+@video none
+@begin
+A writer, in a manner similar to a composer of music, can bring in a familiar theme, which "reminds" or prompts the student of appropriate behavior.  This thematic prompting (or "hint") is yet another s_____tal source of strength, 
+@end
+@answer  supplemental
+@tries 2
+@graphic none
+@video none
+@begin
+In a formal prompting, the "help letters" next to the blanks, or words in the frame that have the same form of the response, function as the prior stimuli which raise the _____y of the correct response. 
+@end
+@answer  probability
+@tries 2
+@graphic none
+@video none
+@begin
+In thematic prompting, words in the frame that have the form of a tact or intraverbal response function as the prior stimuli which raise the probability of the correct response. Such stimuli (do/do not) ______ have the same physical form of the correct response. 
+@end
+@answer  do not
+@tries 2
+@graphic none
+@video none
+@begin
+If a teacher wanted a student to name a color and said "Red, white, and ...," she would be giving an (tact/intraverbal) ______ as a stimulus. 
+@end
+@answer  intraverbal
+@tries 2
+@graphic none
+@video none
+@begin
+Most people in the United States would respond with "blue" to the intraverbal stimulus "Red, white, and ..." because they have experienced extensive c_____ p_____ with respect to the words "red" and "white" and "blue." 
+@end
+@answer  contiguous pairing
+@tries 2
+@graphic none
+@video none
+@begin
+Stimuli are "thematically" related because they have the common property or feature of having occurred t_____r in the past. 
+@end
+@answer  together
+@tries 2
+@graphic none
+@video none
+@begin
+The separate responses "red," "white," and "blue" (are/are not) ______ FORMally related. 
+@end
+@answer  are not
+@tries 2
+@graphic none
+@video none
+@begin
+A person's conditioning history connects words together thematically.  Words are frequently heard or seen together. Later, when one word occurs, the others also tend to occur, due to this c_____ p_____. 
+@end
+@answer  contiguous pairing
+@tries 2
+@graphic none
+@video none
+@begin
+When one word is said to be a "synonym" for another, such a word could be used as a (formal/thematic) ______ prompt. 
+@end
+@answer  thematic
+@tries 2
+@graphic none
+@video none
+@begin
+Supplementary stimulation, such as thematic and formal prompts, raise the likelihood or _____y of a correct response. 
+@end
+@answer  probability
+@tries 2
+@graphic none
+@video none
+@begin
+Supplementary stimulation, such as thematic and formal prompts, raise the likelihood or _____y of a correct response.  [Ignore the above blank]  In the above sentence, the word "likelihood" is a ______ prompt for the word "probability." 
+@end
+@answer  thematic
+@tries 2
+@graphic none
+@video none
+@begin
+Supplementary stimulation, such as thematic and formal prompts, raise the likelihood or _____y of a correct response.  [Ignore the above blank]  In the above sentence, the letter "y" next to the blank is a ______ prompt for the word "probability." 
+@end
+@answer  formal
+@tries 2
+@graphic none
+@video none

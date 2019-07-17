@@ -1,0 +1,273 @@
+@begin
+The two-letter symbol for discriminative stimulus is ______. 
+@end
+@answer  sd
+@tries 2
+@graphic none
+@video none
+@begin
+The symbol for S-delta is ______. 
+@end
+@answer  s^
+@tries 2
+@graphic none
+@video none
+@begin
+When a certain stimulus is the occasion upon which responses are followed by reinforcement, we call the stimulus a _____e _____s. 
+@end
+@answer  discriminative stimulus
+@tries 2
+@graphic none
+@video none
+@begin
+A stimulus which is consistently present when responses are not reinforced is called an S-delta or ______. 
+@end
+@answer  s^
+@tries 2
+@graphic none
+@video none
+@begin
+An event that sets the occasion upon which a response will be reinforced is the ______. 
+@end
+@answer  sd
+@tries 2
+@graphic none
+@video none
+@begin
+A discriminate stimulus sets the _____ for reinforcement of a particular response. 
+@end
+@answer  occasion
+@tries 2
+@graphic none
+@video none
+@begin
+Responses are reinforced in the presence of a(n) _____. 
+@end
+@answer  SD
+@tries 2
+@graphic none
+@video none
+@begin
+Responses are not reinforced in the presence of a(n) _____. 
+@end
+@answer  s^
+@tries 2
+@graphic none
+@video none
+@begin
+When responding is maintained in the presence of an SD, and no responding in the presence of an S^, the student is said to have developed a _____ion. 
+@end
+@answer  discrimination
+@tries 2
+@graphic none
+@video none
+@begin
+Each frame acts as an SD which evokes a response from the student.  If the program is properly designed, correct responses are almost always emitted and immediately ______d. 
+@end
+@answer  reinforced
+@tries 2
+@graphic none
+@video none
+@begin
+Frame-by-frame, key responses of the learner's verbal behavior are emitted and strengthened by immediate ______. Eventually, complex concepts and principles are taught. 
+@end
+@answer  reinforcement
+@tries 2
+@graphic none
+@video none
+@begin
+For correct responses to be reinforced, they must first be emitted.  A frame may contain supplementary stimulation to increase the probability that the student emits the correct ______. 
+@end
+@answer  response
+@tries 2
+@graphic none
+@video none
+@begin
+Something supplemental helps a person think of an answer. Supplementary stimulation is added to increase the probability that the student will ______ the correct response. 
+@end
+@answer  emit
+@tries 2
+@graphic none
+@video none
+@begin
+A student is having trouble with a new vocabulary word.  The teacher provides supplementary stimulation by sounding the first letter of the word to increase the ______ that the student correctly responds. 
+@end
+@answer  probability
+@tries 2
+@graphic none
+@video none
+@begin
+To increase the probability that the student will correctly respond to a particular frame, the frame may contain s_____tary stimulation. 
+@end
+@answer  supplementary
+@tries 2
+@graphic none
+@video none
+@begin
+The "help" or prompt letters next to the blank on this frame increase the probability that you will emit the correct response.  Prompts are a form of s_____y s_____ion. 
+@end
+@answer  supplementary stimulation
+@tries 2
+@graphic none
+@video none
+@begin
+To increase the probability that the student will correctly respond to a particular frame, the frame may contain a form of supplementary stimulation called _____pt letters. 
+@end
+@answer  prompt
+@tries 2
+@graphic none
+@video none
+@begin
+Because prompt letters set the occasion upon which responses are followed by reinforcement, they are called _____'s.  [ Answer in this form: XX's ] 
+@end
+@answer  sd's
+@tries 2
+@graphic none
+@video none
+@begin
+Prompt letters are SD's for the correct response and _____'s for incorrect responses. 
+@end
+@answer  s^'s
+@tries 2
+@graphic none
+@video none
+@begin
+Programmers effectively use _____ letters to increase the probability that students will emit the correct response. 
+@end
+@answer  prompt
+@tries 2
+@graphic none
+@video none
+@begin
+However, one important goal of programmed instruction is to get the student to eventually respond (with/without) ______ supplementary stimulation. 
+@end
+@answer  without
+@tries 2
+@graphic none
+@video none
+@begin
+In good programmed instruction, supplementary stimulation is progressively faded out of successive frames.  The objective is to get the student to respond w_____ supplementary stimulation. 
+@end
+@answer  without
+@tries 2
+@graphic none
+@video none
+@begin
+Frame by frame, the student's verbal behavior is strengthened. Prompting is eventually faded out while correct responses are immediately ______, when the person discovers she is correct. 
+@end
+@answer  reinforced
+@tries 2
+@graphic none
+@video none
+@begin
+To get the student to respond on his or her own, prompt letters are progressively f_____ed out. 
+@end
+@answer  faded
+@tries 2
+@graphic none
+@video none
+@begin
+In the preceding series of frames the prompt letters were initially present in frames to increase the probability that you correctly responded.  This supplementary stimulation was progressively _______ out of the subsequent frames. 
+@end
+@answer  faded
+@tries 2
+@graphic none
+@video none
+@begin
+A programmer can increase the probability that the student responds by gradually f_____ing part of the SD which is displayed on the frame. 
+@end
+@answer  fading
+@tries 2
+@graphic none
+@video none
+@begin
+A programmer can increase the probability that the student responds by gradually _____ing p___rt of the SD which is displayed on the frame. 
+@end
+@answer  fading part
+@tries 2
+@graphic none
+@video none
+@begin
+A programmer can increase the probability that the student responds by gra____lly _____g p____t ____f the SD which is displayed on the frame. 
+@end
+@answer  gradually fading part of
+@tries 2
+@graphic none
+@video none
+@begin
+A programmer can increase the probability that the student responds by g____lly _____g _____t ____f t___e ____D which is displayed on the frame. 
+@end
+@answer  gradually fading part of the sd
+@tries 2
+@graphic none
+@video none
+@begin
+A programmer can increase the probability that the student responds by ______ ______ _____ _____ _____ _____ which is displayed on the frame. 
+@end
+@answer  gradually fading part of the sd
+@tries 2
+@graphic none
+@video none
+@begin
+You have just completed a sequence in which a part of the SD was gradually ______. 
+@end
+@answer  faded
+@tries 2
+@graphic none
+@video none
+@begin
+The student's initial repertoire of behavior is added to by progressively strengthening responses and then ______ the SD's that evoked them. 
+@end
+@answer  fading
+@tries 2
+@graphic none
+@video none
+@begin
+Small parts of complex behavior are strengthened in a step-by-step or frame-by-frame process until the initial behavior matches the ______ behavior. 
+@end
+@answer  terminal
+@tries 2
+@graphic none
+@video none
+@begin
+A frame may contain supplementary stimulation to increase the probability that the student emits the correct ______. 
+@end
+@answer  response
+@tries 2
+@graphic none
+@video none
+@begin
+To increase the probability that the student will correctly respond to a particular frame, the frame may contain a form of supplementary stimulation called ______ letters. 
+@end
+@answer  prompt
+@tries 2
+@graphic none
+@video none
+@begin
+Because prompt letters set the occasion upon which responses are followed by reinforcement, they are called _____'s. 
+@end
+@answer  sd's
+@tries 2
+@graphic none
+@video none
+@begin
+One important goal of programmed instruction is to get the student to respond ______ supplementary stimulation. 
+@end
+@answer  without
+@tries 2
+@graphic none
+@video none
+@begin
+A programmer can increase the probability that the student responds by gradually ______ out part of the SD which is displayed on the frame. 
+@end
+@answer  fading
+@tries 2
+@graphic none
+@video none
+@begin
+In good programmed instruction, supplementary stimulation is progressively ______ out of successive frames. 
+@end
+@answer  faded
+@tries 2
+@graphic none
+@video none

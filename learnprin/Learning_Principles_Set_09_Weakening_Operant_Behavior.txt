@@ -1,0 +1,296 @@
+@begin
+In a previous segment about respondent behavior the concept of extinction was discussed.  When thunder was repeatedly presented without accompanying it with pandemonium resulting from a fire, thunder eventually failed to elicit crying and sweating.  This weakening and eradication of a conditioned reflex is called _______n.
+@end
+@answer extinction
+@tries 2
+@graphic none
+@video none
+@begin
+In respondent or reflexive conditioning "reinforcement" means that an unconditioned stimulus is paired with a neutral stimulus.  But when we are talking about operant behavior, "reinforcement" means the probability of behavior is increased by a consequence.  In (one/both) __________ case(s) behavior is strengthened.
+@end
+@answer both
+@tries 1
+@graphic none
+@video none
+@begin
+To strengthen a behavior we _______ it.
+@end
+@answer reinforce
+@tries 2
+@graphic none
+@video none
+@begin
+To weaken a behavior we no longer _______ it.
+@end
+@answer reinforce
+@tries 2
+@graphic none
+@video none
+@begin
+Operant behavior is strengthened or weakened by what happens (after/before) _______ it.
+@end
+@answer after
+@tries 1
+@graphic none
+@video none
+@begin
+With shaping procedures we differentially reinforce behaviors.  The first approximation is __________d while all other responses are extinguished. 
+@end
+@answer reinforced
+@tries 2
+@graphic none
+@video none
+@begin
+We might say that "differential extinction" is accomplished by (reinforcing/not reinforcing) _________ behaviors that are poor approximations.
+@end
+@answer not reinforcing
+@tries 1
+@graphic none
+@video none
+@begin
+To weep "crocodile tears" is to put on an insincere show of sorrow.  When understanding that a specific case of crying is a good example of "crocodile tears," a diligent parent would not ________ this kind of crying.
+@end
+@answer reinforce
+@tries 2
+@graphic crocodiletears.jpg
+@video none
+@begin
+Crocodile tears will _________sh when we do not reinforce them.
+@end
+@answer extinguish
+@tries 2
+@graphic none
+@video none
+@begin
+A child may learn that Mom doesn't reinforce crocodile tears, however, strangers do.  In this case, a child will learn to cry crocodile tears in the presence of _______.
+@end
+@answer strangers
+@tries 2
+@graphic none
+@video none
+@begin
+Punishment is the observed reduction of behavior when it is followed by the presentation of an aversive event like a swift swat on the seat.  When a young child is on the verge a life-threatening behavior like inserting a paper clip into an electrical socket it is the appropriate moment to use _______t, not extinction.
+@end
+@answer punishment
+@tries 2
+@graphic none
+@video none
+@begin
+You probably sucked your thumb when you were very young.  Sucking has a high probability at birth.  Thumbsucking is a behavior that is reinforcing to engage in (with/without) _______ prior conditioning.
+@end
+@answer without
+@tries 1
+@graphic none
+@video none
+@begin
+Thumb sucking is often a difficult behavior to stop because it is automatically reinforcing to do.  The reinforcer cannot be discontinued.  A parent cannot use (punishment/extinction) _______.
+@end
+@answer extinction
+@tries 11
+@graphic none
+@video none
+@begin
+While they may still do so when they are in bed alone, most children eventually stop sucking their thumbs because everyone in their environment p_________es that behavior.
+@end
+@answer punishes
+@tries 2
+@graphic none
+@video none
+@begin
+Socially inept individuals may tell lewd or "politically incorrect" jokes even though many listeners p________ that behavior.  The individuals may continue to tell inappropriate jokes because they are also intermittently _________ed for that behavior by some people.  [Two words.]
+@end
+@answer punish reinforced
+@tries 2
+@graphic none
+@video none
+@begin
+Members of a family may all agree that a dog begging at the table is more bothersome than cute.  The dog will stop begging at the table when no one _______ this behavior.
+@end
+@answer reinforces
+@tries 2
+@graphic none
+@video none
+@begin
+A dinner guest may violate the family rule against feeding the dog at the table even when informed ahead.  That guest would be (more/less) _______ likely to be invited over again due to the failure to use the _______n procedure.  (two words)
+@end
+@answer less extinction
+@tries 2
+@graphic none
+@video none
+@begin
+Bad behavior is difficult to ________ when not all people follow the rule of not reinforcing it.
+@end
+@answer extinguish
+@tries 2
+@graphic none
+@video none
+@begin
+Effectively placing a behavior on extinction requires that (one significant person/everybody) _______ in the environment impliments the procedure.
+@end
+@answer everybody
+@tries 1
+@graphic none
+@video none
+@begin
+Punishment can be accomplished by either presenting an aversive stimulus after behavior or withdrawing a reinforcing stimulus.  For example, a child can be _______ for hurting a pet by withdrawing the pet.
+@end
+@answer punished
+@tries 2
+@graphic none
+@video none
+@begin
+A teacher may speak sharply to a misbehaving student in class.  But the attention of other students may be ________ the misbehavior.
+@end
+@answer reinforcing
+@tries 2
+@graphic none
+@video none
+@begin
+A teacher's attempt to punish misbehavior may, in fact, be causing the behavior to be _______ by other students.
+@end
+@answer reinforced
+@tries 2
+@graphic none
+@video none
+@begin
+A skillful teacher could figure out an incentive system that induced other children to ignore the misbehavior of a child.  The child's misbehavior would then _______h because it would no longer be reinforced.
+@end
+@answer extinguish
+@tries 2
+@graphic none
+@video none
+@begin
+Both punishment and extinction are ways of correcting inappropriate behavior.  But a social environment that supported only appropriate behavior and not inappropriate behavior would render both punishment and extinction to be _____ecessary.
+@end
+@answer unnecessary
+@tries 1
+@graphic none
+@video none
+@begin
+A punished child is not necessarily less inclined to engage in the behavior if that behavior is still being _______.
+@end
+@answer reinforced
+@tries 2
+@graphic none
+@video none
+@begin
+Aversive control involves using unpleasant or aversive stimuli (i.e.,negative reinforcers) to spur someone into doing something.  When a bully threatens someone, he is using a_______ _______l.  (Two words.)
+@end
+@answer aversive control
+@tries 2
+@graphic none
+@video none
+@begin
+Aversive control can be used in two ways.  One is to prod someone to do something, the other is to get someone to stop doing something.  We say people are "pushy" when they use _______  c_____ a great deal.
+@end
+@answer aversive control
+@tries 2
+@graphic none
+@video none
+@begin
+When you "ask" people to move so you get into a theater seat you are using ________  c________ to motivate them because they cooperate to avoid your asking them again--and with a stronger voice. [Two words.]
+@end
+@answer aversive control
+@tries 2
+@graphic none
+@video none
+@begin
+Employees follow instructions of their supervisors because they risk losing their job if they don't.  Supervisors use _______ _______ to motivate their employees.
+@end
+@answer aversive control
+@tries 2
+@graphic none
+@video none
+@begin
+When students enter a classroom they come under the control of a teacher.  They cooperate to (escape/avoid) _______ going to the principal's office, being suspended, or expelled.
+@end
+@answer avoid
+@tries 1
+@graphic none
+@video none
+@begin
+A teacher stares at students when they are not paying attention to instructions.  The frowning stare terminates when the students begin to pay attention.  This is an example of (escape/avoidance) ________ behavior on the part of the students.
+@end
+@answer escape
+@tries 2
+@graphic none
+@video none
+@begin
+One type of aversive control involves the creation of an unpleasant condition that is used to reinforce behavior by its termination.  This type of control employs _______ reinforcement to strengthen the escape or avoidance behavior.
+@end
+@answer negative
+@tries 2
+@graphic none
+@video none
+@begin
+Occasionally people approach you who are rude and pushy.  When you simply ignore them you are using the procedure that may result in _______n.
+@end
+@answer extinction
+@tries 2
+@graphic none
+@video none
+@begin
+You can speak sharply to a rude individual and possibly suppress his rude talk.  This would be an example of using an ________e stimulus to punish behavior.
+@end
+@answer aversive
+@tries 2
+@graphic none
+@video none
+@begin
+All operant behavior occurs because it is at least intermittently reinforced.  Using aversive control to suppress behavior (ignores/recognizes) _______ the fact that the unwanted behavior is also being reinforced.
+@end
+@answer ignores
+@tries 1
+@graphic none
+@video none
+@begin
+Playful children sometimes quarrel.  A skillful parent could bring out a plate of treats when play has been appropriate for a period of time.  This would be the technique of using positive _________ for appropriate play rather than quarreling.
+@end
+@answer reinforcers
+@answer reinforcement
+@tries 2
+@graphic none
+@video none
+@begin
+The topographies of playing cooperatively and physically fighting are (compatible/incompatible) _________ with each other because they cannot be done simultaneously.
+@end
+@answer incompatible
+@tries 1
+@graphic none
+@video none
+@begin
+A skillful parent or teacher who reinforces appropriate play is less likely to resort to __________ment.
+@end
+@answer punishment
+@tries 2
+@graphic none
+@video none
+@begin
+(a) Rambunctious fighting quickly calls attention to itself, while (b) quiet cooperative play doesn't.  A preoccupied parent is more likely to notice which?  (a or b?) __
+@end
+@answer a
+@tries 1
+@graphic none
+@video none
+@begin
+It is more difficult to employ (reinforcement/punishment) _______ for appropriate behavior because one is more likely to notice inappropriate behavior.
+@end
+@answer reinforcement
+@tries 1
+@graphic none
+@video none
+@begin
+However, a parent or teacher who uses reinforcement is (more/less) ________ likely to develop strong positive relationships with children or students.
+@end
+@answer more
+@tries 1
+@graphic none
+@video none
+@begin
+Forms of aversive control like threats, intimidation, and punishment, are used by nearly everyone and even world nations.  A much better way of controlling people is to reinforce i______ible behavior. 
+@end
+@answer incompatible
+@tries 2
+@graphic none
+@video none
+@begin

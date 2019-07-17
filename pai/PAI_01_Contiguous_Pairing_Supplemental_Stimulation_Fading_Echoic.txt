@@ -1,0 +1,210 @@
+@begin
+The technical phrase "contiguous pairing" means that things come together at the same time.  "Contiguous" [note the spelling of this word carefully, i.e., con tig u ous] is close to meaning "simultaneous."  Hearing a dinner bell and the presence of dinner is an example of c_____s pairing. 
+@end
+@answer  contiguous
+@tries 2
+@graphic none
+@video none
+@begin
+When a teacher points to a microscope and says "this is a microscope" she is con_____sly pairing two stimuli, the object and the verbal response "microscope." 
+@end
+@answer  contiguously
+@tries 2
+@graphic none
+@video none
+@begin
+The teacher might then prompt the student with the direction "Say microscope" as the student looks at the object.  When, in the presence of the microscope, the student's response "microscope" receives teacher approval, a contingency of ______ has been arranged. 
+@end
+@answer  reinforcement
+@tries 2
+@graphic none
+@video none
+@begin
+The student's tendency to say "microscope" is ______ed, and thus strengthened, by the teacher's reaction. 
+@end
+@answer  reinforced
+@tries 2
+@graphic none
+@video none
+@begin
+The teacher has brought together an object, the student's verbal response, and supplied approval.  The teacher has, therefore, arranged all three terms we call a c_____y ___f _____ment. 
+@end
+@answer  contingency of reinforcement
+@tries 2
+@graphic none
+@video none
+@begin
+The object (the microscope) and the answer "microscope" were contiguously p______d. 
+@end
+@answer  paired
+@tries 2
+@graphic none
+@video none
+@begin
+However, the student learned to say "microscope" not simply because the stimulus and the response were contiguously paired, but because the reinforcing c_____nce strengthened the behavior. 
+@end
+@answer  consequence
+@tries 2
+@graphic none
+@video none
+@begin
+The student does not learn because stimuli are contiguously paired.  The student learns due to the reinforcing consequence that follows and strengthens the _____r. 
+@end
+@answer  behavior
+@tries 2
+@graphic none
+@video none
+@begin
+When trying to dial a phone number, a person may try many combinations and contiguously pair many numbers.  However, the person will more likely remember the combination that gets _____ed by successfully placing the call. 
+@end
+@answer  reinforced
+@tries 2
+@graphic none
+@video none
+@begin
+Something "supplemental" helps a person think of an answer. A thing added to raise the probability that a correct response will be given to a correct instance is called a s_____l stimulus. 
+@end
+@answer  supplemental
+@tries 2
+@graphic none
+@video none
+@begin
+A prompt is a hint or cue that raises the probability of a correct response.  Thus, a prompt is a ______l stimulus. 
+@end
+@answer  supplemental
+@tries 2
+@graphic none
+@video none
+@begin
+Prompting is a way of keeping motivation higher because it increases the likelihood the student's answers will be _____ct. 
+@end
+@answer  correct
+@tries 2
+@graphic none
+@video none
+@begin
+However, in good programmed instruction, supplementary stimulation is progressively FADED out of successive frames. The objective is to get the student to respond correctly to a stimulus situation (with/without) _____ added stimuli. 
+@end
+@answer  without
+@tries 2
+@graphic none
+@video none
+@begin
+Eventually, a supplemental p_____pt will be unnecessary. 
+@end
+@answer  prompt
+@tries 2
+@graphic none
+@video none
+@begin
+Supplemental _____s are gradually faded out. 
+@end
+@answer  prompts
+@tries 2
+@graphic none
+@video none
+@begin
+In the preceding frames the "p" and "t" were initially present in frames where you were to give "prompt" as an answer.  This supplementary stimulation was progressively ______ out of the subsequent frames. 
+@end
+@answer  faded
+@tries 2
+@graphic none
+@video none
+@begin
+Teaching initially involves getting the student to respond in the ______ way the teacher (or programmer) responds. This process involves duplication or imitation. 
+@end
+@answer  same
+@tries 2
+@graphic none
+@video none
+@begin
+In a valley or canyon, you can shout and then hear an echo come back to you.  An exact duplication of the vocal behavior of someone else is called e_____oic behavior. 
+@end
+@answer  echoic
+@tries 2
+@graphic none
+@video none
+@begin
+When a parent points to a bird and says "say bird" to a child, and the child says "bird," this is an example of an _____c response. 
+@end
+@answer  echoic
+@tries 2
+@graphic none
+@video none
+@begin
+We are often asked to repeat what someone else has said.  If it is an exact duplication, it is an example of an ______ response. 
+@end
+@answer  echoic
+@tries 2
+@graphic none
+@video none
+@begin
+A good teacher prepares a student to say the same thing by working up to it.  She uses familiar words and examples. She repeats "points" in several different ways.  In doing so, she strengthens the listener's tendency to ______ the same thing. 
+@end
+@answer  say
+@tries 2
+@graphic none
+@video none
+@begin
+A listener can become so strongly prepared to say what the speaker is leading up to say that he s_____ the rest of a sentence or a missing word if the speaker hesitates for a moment. 
+@end
+@answer  says
+@tries 2
+@graphic none
+@video none
+@begin
+As one listens, a subtle kind of sub-vocal "echo" occurs. This private "echoic behavior" can become so strong that the listener _____s the missing words when the speaker pauses. 
+@end
+@answer  says
+@tries 2
+@graphic none
+@video none
+@begin
+Getting the listener to "echo" what the speaker says is very (different from/similar to) ______ getting a student to respond to a blank on the computer screen. 
+@end
+@answer  similar to
+@tries 2
+@graphic none
+@video none
+@begin
+Frame by frame, the student's verbal behavior is strengthened.  Prompting is eventually faded out while the correct behavior is repeatedly evoked and _____d when the person discovers he is correct. 
+@end
+@answer  reinforced
+@tries 2
+@graphic none
+@video none
+@begin
+Verbal instruction may be described as the progressive st_____ing of the student's own echoic behavior. 
+@end
+@answer  strengthening
+@tries 2
+@graphic none
+@video none
+@begin
+A series of frames can progressively strengthen _____c sub-vocal behavior. 
+@end
+@answer  echoic
+@tries 2
+@graphic none
+@video none
+@begin
+Many people actually "hear" themselves saying the words as they read them.  When we "read" words we respond at a private level.  In other words we respond sub-_____lly. [ Answer in this form: XXX-XXXXX ] 
+@end
+@answer  sub-vocally
+@tries 2
+@graphic none
+@video none
+@begin
+We respond weakly to words that are not well-conditioned stimuli, but we respond _____gly to words with which we are "familiar." 
+@end
+@answer  strongly
+@tries 2
+@graphic none
+@video none
+@begin
+One important goal in programmed instruction is to strengthen the student's echoic behavior because this sets the stage for responding correctly when echoic or textual stimuli (are present/are not present) ______. 
+@end
+@answer  are not present
+@tries 2
+@graphic none
+@video none

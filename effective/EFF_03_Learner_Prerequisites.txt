@@ -1,0 +1,168 @@
+@begin
+Programs are usually designed for specific subpopulations of students (Hannafin & Peck, 1988).  For example, a program that teaches math skills to high school students may be too difficult for most elementary students.  A program designed for first grade students is too (easy/difficult) _____ for most six grade students. 
+@end
+@answer  easy
+@tries 2
+@graphic none
+@video none
+@begin
+Designers construct programs for specific subpopulations of students.  Programs designed for high school students usually require (more/less) ______ skills than programs designed for elementary students. 
+@end
+@answer  more
+@tries 2
+@graphic none
+@video none
+@begin
+Most first grade students (have/do not have) ______ the necessary skills that are needed to work through a program that was designed for high school students. 
+@end
+@answer  do not have
+@tries 2
+@graphic none
+@video none
+@begin
+Programs are designed for s_____fic subpopulations of students.  Designers must take into account the skills and abilities of students (before/after) ______ they work through their programs. 
+@end
+@answer  specific before
+@tries 2
+@graphic none
+@video none
+@begin
+Besides specifying in the instructional objectives what students will be able to do (before/after) ______ working through their programs, designers also specify the necessary skills that students need (before/after) ______ working through their programs. 
+@end
+@answer  after before
+@tries 2
+@graphic none
+@video none
+@begin
+For students to properly experience instructional programs, they must have the necessary _____lls before working through the programs. 
+@end
+@answer  skills
+@tries 2
+@graphic none
+@video none
+@begin
+Before students can successfully work through math programs that teach multiplication and division, they usually must be able to add and s_____ct. 
+@end
+@answer  subtract
+@tries 2
+@graphic none
+@video none
+@begin
+PREREQUISITES are the necessary skills that students need beforehand in order to properly experience an instructional program.  For most programs, the ability to read is a p_____ite. 
+@end
+@answer  prerequisite
+@tries 2
+@graphic none
+@video none
+@begin
+Instructional objectives describe what students are able to do after working through a program.  PREREQUISITES identify what students are able to do ______ working through a program. 
+@end
+@answer  before
+@tries 2
+@graphic none
+@video none
+@begin
+A necessary prerequisite for writing music is the ability to read music.  Knowing how to use an oven is a _____te for baking a cake. 
+@end
+@answer  prerequisite
+@tries 2
+@graphic none
+@video none
+@begin
+Knowing effective characteristics of instructional programs is a p_____e for selecting or constructing effective programs. 
+@end
+@answer  prerequisite
+@tries 2
+@graphic none
+@video none
+@begin
+Before working through programs, students should possess the necessary prerequisite _____ls (Hannafin & Peck, 1988). 
+@end
+@answer  skills
+@tries 2
+@graphic none
+@video none
+@begin
+Programs are designed for specific subpopulations of students who must possess the necessary p_____e s____ls to properly work through the programs. 
+@end
+@answer  prerequisite skills
+@tries 2
+@graphic none
+@video none
+@begin
+Before constructing their programs, effective instructional designers specify instructional _____ves as well as _____te skills. 
+@end
+@answer  objectives prerequisite
+@tries 2
+@graphic none
+@video none
+@begin
+Specifying the instructional objectives and the necessary prerequisite skills is one of the (first/last) ______ steps in the instructional d_____n process. 
+@end
+@answer  first design
+@tries 2
+@graphic none
+@video none
+@begin
+Prerequisites are statements that describe what students should be able to do _____e working through a program. 
+@end
+@answer  before
+@tries 2
+@graphic none
+@video none
+@begin
+HOW PREREQUISITES ARE STATED  Like instructional objectives, clearly stated prerequisites specify observable behaviors.  They state what students are able to _____. 
+@end
+@answer  do
+@tries 2
+@graphic none
+@video none
+@begin
+Prerequisites are stated like instructional objectives. They specify observable _____rs. 
+@end
+@answer  behaviors
+@tries 2
+@graphic none
+@video none
+@begin
+Which of the following best describe prerequisite behaviors?  a.  Students working through this program must be proficient in math. b.  This program is made for learners who understand literature. c.  This program is made for students who can read at the sixth grade level. d.  Students must be insightful to experience this program.  [Type only the letter of the correct response.] 
+@end
+@answer  c
+@tries 2
+@graphic none
+@video none
+@begin
+Effective programs "build" on already established behaviors. Prerequisites are the necessary established _____s to be built upon. 
+@end
+@answer  behaviors
+@tries 2
+@graphic none
+@video none
+@begin
+Students must "walk before they can run."  Students must be able to do the necessary _____e behaviors before they are able to do what the instructional _____s specify. 
+@end
+@answer  prerequisite objectives
+@tries 2
+@graphic none
+@video none
+@begin
+Educators are more able to identify if their students are ready to work through a program if the p_____e skills are stated in terms of observable _____s. 
+@end
+@answer  prerequisite behaviors
+@tries 2
+@graphic none
+@video none
+@begin
+So they can identify if their students are ready to experience a program, educators (should/should not) ______ select those programs that clearly specify necessary _____e behaviors. 
+@end
+@answer  should prerequisite
+@tries 2
+@graphic none
+@video none
+@begin
+Programs are usually more effective if they were designed after specifying the instructional _____s and _____e behaviors. 
+@end
+@answer  objectives prerequisite
+@tries 2
+@graphic none
+@video none

@@ -1,0 +1,231 @@
+@begin
+Supplementary stimulation, such as thematic and formal prompts, raise the likelihood or _____y of a correct response.  [Ignore the above blank]  In the above sentence, the word "likelihood" is a ______ prompt for the word "probability." 
+@end
+@answer  thematic
+@tries 2
+@graphic none
+@video none
+@begin
+Supplementary stimulation, such as thematic and formal prompts, raise the likelihood or _____y of a correct response.  [Ignore the above blank]  In the above sentence, the letter "y" next to the blank is a ______ prompt for the word "probability." 
+@end
+@answer  formal
+@tries 2
+@graphic none
+@video none
+@begin
+The withdrawing of supplementary stimulation is called f_____ing. 
+@end
+@answer  fading
+@tries 2
+@graphic none
+@video none
+@begin
+Fading away supplementary stimulation too rapidly will increase a student's _____r rate in a program. 
+@end
+@answer  error
+@tries 2
+@graphic none
+@video none
+@begin
+The objective of instruction is to get the student to respond with minimal cues, to respond appropriately (with/without) ______ help. 
+@end
+@answer  without
+@tries 2
+@graphic none
+@video none
+@begin
+To vanish supplementary stimulation is to _____e it out completely. 
+@end
+@answer  fade
+@tries 2
+@graphic none
+@video none
+@begin
+You have been introduced to a number of fundamental instructional concepts within this program.  The actual authoring or formation of the program's individual instructional _____es was a complex task. 
+@end
+@answer  frames
+@tries 2
+@graphic none
+@video none
+@begin
+Each of the concepts you have learned will help you to create the kind of sequential reinforcement contingencies called _____ed instruction. 
+@end
+@answer  programmed
+@tries 2
+@graphic none
+@video none
+@begin
+Good programming controls many variables simultaneously. The programmer must understand concepts and employ conditioning principles when creating a ______. 
+@end
+@answer  program
+@tries 2
+@graphic none
+@video none
+@begin
+Most complex tasks you wish to do efficiently require planning ahead.  If you were going to paint something, it would probably be (frugal/wasteful) ______ to begin by opening the can of paint first. 
+@end
+@answer  wasteful
+@tries 2
+@graphic none
+@video none
+@begin
+You would save time and energy if you decided what your product should look like (before/after) ______ you got finished. 
+@end
+@answer  before
+@tries 2
+@graphic none
+@video none
+@begin
+Planning, however, delays the physical work that achieves visible signs of progress.  Many people skip the early steps of planning because they are not aware of important variables to be considered and because they have not experienced the reinforcement that comes from careful _____ing. 
+@end
+@answer  planning
+@tries 2
+@graphic none
+@video none
+@begin
+Years ago, programmed instruction was a much discussed concept in education.  Many "would be" programmers hastily constructed programs (after careful planning/without careful planning) ______. 
+@end
+@answer  without careful planning
+@tries 2
+@graphic none
+@video none
+@begin
+Although enthusiastic about improving education, these "would be" programmers also didn't know the important conditioning principles that must be incorporated into the process of creating _____s. 
+@end
+@answer  programs
+@tries 2
+@graphic none
+@video none
+@begin
+In taking a driving trip, it is more efficient to select the route before you begin the trip.  In creating a program, it is more efficient to identify the terminal objectives ______ beginning to create the program. 
+@end
+@answer  before
+@tries 2
+@graphic none
+@video none
+@begin
+The set of behaviors a student can do at the end of a program are called the terminal behaviors.  Terminal objectives identify ______ behaviors. 
+@end
+@answer  terminal
+@tries 2
+@graphic none
+@video none
+@begin
+The set of a behaviors a student can do at the end of a program are identified beforehand by the terminal _____ves. 
+@end
+@answer  objectives
+@tries 2
+@graphic none
+@video none
+@begin
+When the terminal objectives are identified (first/last) _____, they can be used to determine the character of the program as it is being constructed. 
+@end
+@answer  first
+@tries 2
+@graphic none
+@video none
+@begin
+You don't teach something to someone he or she already knows.  The terminal objectives in your program are, therefore, going to be currently (weak/strong) _______ behaviors in your student's repertoire, if they exist at all. 
+@end
+@answer  weak
+@tries 2
+@graphic none
+@video none
+@begin
+You will have to begin where the student is, in other words, with behavior already having a ______ probability of occurrence. 
+@end
+@answer  high
+@tries 2
+@graphic none
+@video none
+@begin
+But to build the strength of weak or currently nonexistent terminal skills, you will need to build a "bridge" of intermediate contingencies or frames.  The nature of these frames will be heavily influenced by the ______ objectives you identified beforehand. 
+@end
+@answer  terminal
+@tries 2
+@graphic none
+@video none
+@begin
+Terminal objectives are more helpful when they refer to behavior that is objectively measurable.  For example, one objective of the present program is to get you to construct good instructional frames.  But the adjective "good" isn't helpful until "good" is itself defined with dimensions that can be m_____d. 
+@end
+@answer  measured
+@tries 2
+@graphic none
+@video none
+@begin
+Terminal objectives should include the specification of behavior which has objective and _____able dimensions. 
+@end
+@answer  measurable
+@tries 2
+@graphic none
+@video none
+@begin
+A terminal or behavioral objective is most useful in creating an instructional program when it includes all three terms in what we call a contingency of _____t. 
+@end
+@answer  reinforcement
+@tries 2
+@graphic none
+@video none
+@begin
+A "contingency" includes the SETTING, the BEHAVIOR, and the REINFORCEMENT that is contingent upon the _____r. 
+@end
+@answer  behavior
+@tries 2
+@graphic none
+@video none
+@begin
+If a person correctly solves a problem, she receives a high grade.  The setting is the type of problem, the behavior is correctly solving the problem, and the reinforcer is the high ______. 
+@end
+@answer  grade
+@tries 2
+@graphic none
+@video none
+@begin
+Terminal objectives may specify skills necessary for correct problem-solving behavior.  The program would teach all those behaviors necessary for solving _____s. 
+@end
+@answer  problems
+@tries 2
+@graphic none
+@video none
+@begin
+After learning the skills necessary to solve many different and complex problems, the student may use her skills to solve many new and more complex _____s. 
+@end
+@answer  problems
+@tries 2
+@graphic none
+@video none
+@begin
+In responding to a frame of material, the appropriate answer is the behavior, the frame itself is the setting, and passing on to the next frame when correct is the _____nt that is contingent the behavior. 
+@end
+@answer  reinforcement
+@tries 2
+@graphic none
+@video none
+@begin
+(1)  the conditions that are to evoke the behavior (i.e., the "occasion") (2)  the behavior (precisely stated in overt behavioral dimensions) (3)  the dimensions of the behavior necessary for reinforcement (the criterion)  The three factors above are components of a good t_____l _____ve for an instructional program. 
+@end
+@answer  terminal objective
+@tries 2
+@graphic none
+@video none
+@begin
+A good terminal or behavioral objective is really the specification of a c_____y ____f r_____t. 
+@end
+@answer  contingency of reinforcement
+@tries 2
+@graphic none
+@video none
+@begin
+The first step in creating a program is identifying what the student can ______ after working through the program. 
+@end
+@answer  do
+@tries 2
+@graphic none
+@video none
+@begin
+The programmer specifies what the student can do after working through the program in the t_____l _____s. 
+@end
+@answer  terminal objectives
+@tries 2
+@graphic none
+@video none

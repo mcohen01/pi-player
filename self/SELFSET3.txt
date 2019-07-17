@@ -1,0 +1,112 @@
+@begin
+This is Frame 58 of 115 in the entire series of five sets. <br/><br/> A parent is usually held "responsible" for his or her child. The culture may "hold the parent responsible" by<br/>(reinforcing/punishing) _______ the parent when the child misbehaves.<br/>
+@end
+@answer PUNISHING
+@tries 1
+@graphic none
+@video none
+@begin
+59.  A person "keeps himself in check" by not behaving in ways that might be punished.  He acts (irresponsibly/responsibly) _______ by "keeping himself in check."<br/>
+@end
+@answer RESPONSIBLY
+@tries 1
+@graphic none
+@video none
+@begin
+60.  When one behaves in a "responsible" manner one avoids potentially aversive social circumstances, thereby successfully avoiding social p_______ent.<br/>
+@end
+@answer PUNISHMENT
+@tries 2
+@graphic none
+@video none
+@begin
+61.  "Holding another person responsible" involves the use of a_______ve control.<br/>
+@end
+@answer AVERSIVE
+@tries 2
+@graphic none
+@video none
+@begin
+62.  A person may enjoy himself late into the night and then perform inefficiently the next day.  Staying up too late at night steals energy form the next day.  In this case, a person may behave i_____nsibly even when the consequences are natural rather than socially contrived.<br/>
+@end
+@answer IRRESPONSIBLY
+@tries 2
+@graphic none
+@video none
+@begin
+63.  People resist being held _______ble just as they resist all use of a_______ve control.  <br/>
+@end
+@answer RESPONSIBLE AVERSIVE
+@tries 2
+@graphic none
+@video none
+@begin
+64.  As we have seen, how one "feels" is a by_______ct of the kind of contingencies to which one is exposed.<br/>
+@end
+@answer BYPRODUCT
+@tries 2
+@graphic none
+@video none
+@begin
+65.  The "responsible self" is felt when a person feels the byproducts of _______ve control.<br/>
+@end
+@answer AVERSIVE
+@tries 2
+@graphic none
+@video none
+@begin
+66.  A person may report that he feels good or bad.  And, as we have seen, how one feels is a byproduct of cont_______ies.  A person feels _______d when they are positive and _______d when they are aversive.<br/>
+@end
+@answer CONTINGENCIES GOOD BAD
+@tries 2
+@graphic none
+@video none
+@begin
+67.  A person "loses faith in himself" when his behavior is unsuccessful; a counselor may restore faith by pointing out overlooked successes.  A counselor may strengthen a person's c_______ce in himself by amplifying the effect of c_______nces that simplify the behavior required.<br/>
+@end
+@answer CONFIDENCE CONSEQUENCES
+@tries 2
+@graphic none
+@video none
+@begin
+68.  Throughout life we change physiologically.  The demands made by contingencies also change.  Behavior required by contingencies may become too complex as we age.  But the "confident self" can be restored when the contingencies are s______fied.<br/>
+@end
+@answer SIMPLIFIED
+@tries 2
+@graphic none
+@video none
+@begin
+69.  The "confident self" is the (operant/respondent) _______ byproduct of successful behavior.  This self can be strengthened by sharpening the contingent relationship between _______ and reinforcing consequences.<br/>
+@end
+@answer RESPONDENT BEHAVIOR
+@tries 2
+@graphic none
+@video none
+@begin
+70.  When effective operant behavior grows weak through non-________t a tennis player may lose confidence.<br/>
+@end
+@answer NON-REINFORCEMENT
+@tries 2
+@graphic none
+@video none
+@begin
+71.  The tennis player (does/does not) _______ play poorly because he has<br/>lost confidence, he plays poorly because his behavior has not been _______.  <br/>
+@end
+@answer DOES NOT REINFORCED
+@tries 2
+@graphic none
+@video none
+@begin
+72.  A feeling of confidence is a _______t of good playing, it (is/is not) _______ the cause of good playing.  <br/>
+@end
+@answer BYPRODUCT IS NOT
+@tries 2
+@graphic none
+@video none
+@begin
+73.  The confident self is a respondent byproduct of successful behavior, it is NOT the _______ of the behavior. [You have nearly reached the end of this set of frames.]<br/>
+@end
+@answer CAUSE
+@tries 2
+@graphic none
+@video none

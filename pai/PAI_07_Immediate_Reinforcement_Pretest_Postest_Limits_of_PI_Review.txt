@@ -1,0 +1,301 @@
+@begin
+True strengthening of an intraverbal "connection" or the capacity of an environmental stimulus to evoke a tact arises from the programmer's deliberate combination of three factors; the words the student reads, the word(s) the student supplies, and the immediate ______ provided by the automated program. 
+@end
+@answer  reinforcement
+@tries 2
+@graphic none
+@video none
+@begin
+"Program evaluation" encompasses the frame-by-frame analysis of student errors.  It also includes an examination of what the student can actually ______ at the end of the program. 
+@end
+@answer  do
+@tries 2
+@graphic none
+@video none
+@begin
+Terminal evaluation of student performance is determined by the terminal _____es specified by the programmer as she begins. 
+@end
+@answer  objectives
+@tries 2
+@graphic none
+@video none
+@begin
+The goal of many instructional programs may be simply to strengthen certain ways of talking or writing, in other words, to strengthen various ______ connections. 
+@end
+@answer  intraverbal
+@tries 2
+@graphic none
+@video none
+@begin
+Or the goal of a program may be to _____ct environmental stimuli with new "words." 
+@end
+@answer  tact
+@tries 2
+@graphic none
+@video none
+@begin
+A history, geography, or anatomy program may simply shape a verbal repertoire.  But the terminal objectives of some programs may include getting the student to _____ something practical. 
+@end
+@answer  do
+@tries 2
+@graphic none
+@video none
+@begin
+A program may get the student to interact in skillful ways with a "medium," such as construction materials, hardware, or even other words.  In such cases, terminal evaluation will include placing a student in a realistic setting and watching what he or she ______. 
+@end
+@answer  does
+@tries 2
+@graphic none
+@video none
+@begin
+Getting a student to "say the right things" does not automatically mean he or she will ______ the "right things" when encountering practical circumstances. 
+@end
+@answer  do
+@tries 2
+@graphic none
+@video none
+@begin
+Teaching a student to carefully describe what he would do is probably a step in the right direction, however.  Teaching a rule may predispose the student to f_____w the rule when the time comes. 
+@end
+@answer  follow
+@tries 2
+@graphic none
+@video none
+@begin
+To get a more accurate measure of the effect of a program, "pre" examination of the terminal behavior is helpful.  The result of this "pre-test" can then be compared with the results of another observation (before/after) ______ the program is completed. 
+@end
+@answer  after
+@tries 2
+@graphic none
+@video none
+@begin
+First administer a pretest, then a posttest of the terminal skills a program is designed to teach is a good method of program evaluation, even though it may give only a partial indication of what a student would actually do in o_____r situations. 
+@end
+@answer  other
+@tries 2
+@graphic none
+@video none
+@begin
+A pretest can give a measure of initial behavior.  A posttest can give a measure of ______ behavior. 
+@end
+@answer  terminal
+@tries 2
+@graphic none
+@video none
+@begin
+However, when a student is filling in blanks, she may not be exhibiting the practical behavior the programmer eventually wants to produce.  A pretest or posttest that uses answers to questions may be a (substantial/superficial) ______ evaluation of the practical behavior the programmer wants in "real" situations. 
+@end
+@answer  superficial
+@tries 2
+@graphic none
+@video none
+@begin
+Early research with various methods of programmed instruction used fill-in-the-blank posttests as the measure of success.  This research can be (commended/criticized) ______ because correctly filling in blanks may not indicate what a person will actually do in a practical situation. 
+@end
+@answer  criticized
+@tries 2
+@graphic none
+@video none
+@begin
+The limits of automated instruction are unknown.  It is often said that there are many skills that cannot be taught with a teaching machine, such as social interaction, for example.  But many of these content areas await (unimaginative/creative) ______ programmers. 
+@end
+@answer  creative
+@tries 2
+@graphic none
+@video none
+@begin
+Many components of social interaction, for example, can be taught separately.  A so-called "real life" situation might come near the end of instruction.  Instruction in the "real" situation might be more rapid if a person could be first taught to ______ what he or she would do. 
+@end
+@answer  say
+@tries 2
+@graphic none
+@video none
+@begin
+The potential of automated instruction has never really been tested.  The limits of automated instruction are _____wn. 
+@end
+@answer  unknown
+@tries 2
+@graphic none
+@video none
+@begin
+The final frames of this program will summarize the steps you would take if you were to construct an automated instructional program.  What follows is a brief ______ of these instructional design steps. 
+@end
+@answer  review
+@tries 2
+@graphic none
+@video none
+@begin
+An instructional programmer has to know where he is going before a list of concepts and rules can be formulated.  The very first step is to define the _____l _____es of the program. 
+@end
+@answer  terminal objectives
+@tries 2
+@graphic none
+@video none
+@begin
+The terminal objectives will describe the terminal behaviors the program is to teach and the c_____ns under with the terminal behavior will occur. 
+@end
+@answer  conditions
+@tries 2
+@graphic none
+@video none
+@begin
+The programmer must make sure the students that the program is designed for have the necessary _____l behavior to begin the program. 
+@end
+@answer  initial
+@tries 2
+@graphic none
+@video none
+@begin
+A programmer may specify all the necessary rules and concepts the program is to teach without and later with the use of stimulus _____t materials. 
+@end
+@answer  support
+@tries 2
+@graphic none
+@video none
+@begin
+The rules should be put in a developmental ______. 
+@end
+@answer  order
+@tries 2
+@graphic none
+@video none
+@begin
+A matrix for use in comparing items vertically and horizontally is useful for determining concept interrelations.  But first, the terminal and subordinate objectives must be broken down into separate r_____ which will then determine the nature of examples. 
+@end
+@answer  rules
+@tries 2
+@graphic none
+@video none
+@begin
+A rule may contain a number of important words and each of these words must be separately strengthened as it is c_____sly paired with other words. 
+@end
+@answer  contiguously
+@tries 2
+@graphic none
+@video none
+@begin
+All of the rules and subordinate concepts are placed on the vertical and horizontal axes of the rule ______. 
+@end
+@answer  matrix
+@tries 2
+@graphic none
+@video none
+@begin
+The function of the rule matrix is to determine which concepts and rules are r_____ed to each other. 
+@end
+@answer  related
+@tries 2
+@graphic none
+@video none
+@begin
+The relation of rules and concepts disclosed by the rule matrix will strongly influence the _____r in which the programmer presents them within the program. 
+@end
+@answer  order
+@tries 2
+@graphic none
+@video none
+@begin
+The initial order that the rules are placed in within the rule matrix may be _____ged after the interrelations are inspected by the programmer. 
+@end
+@answer  changed
+@tries 2
+@graphic none
+@video none
+@begin
+After rules and concepts are ordered, the programmer will note how distant new rules and concepts are from previously introduced rules and concepts.  If the distance is great, re-strengthening (will not be/will be) ______ necessary. 
+@end
+@answer  will be
+@tries 2
+@graphic none
+@video none
+@begin
+Rules need many examples for adequate generalization and discrimination.  Inspection of the rules, and how they relate and differ, will help the programmer to generate many ______s. 
+@end
+@answer  examples
+@tries 2
+@graphic none
+@video none
+@begin
+An analysis of the rules will suggest where the programmer should place ______ frames that reintroduce initial concepts. 
+@end
+@answer  review
+@tries 2
+@graphic none
+@video none
+@begin
+Program "unity" has to do with how rules and concepts "associate" with each other.  This "association" is deliberately arranged by including frames which contiguously ______ seemingly different concepts and rules with each other. 
+@end
+@answer  pair
+@tries 2
+@graphic none
+@video none
+@begin
+A student arrives to begin a program with both low and high probability words in his or her "entering" repertoire. While the program may begin by requiring high probability words to fill blanks, the answers to most frames later in the program will be relatively ______ probability concepts or words. 
+@end
+@answer  low
+@tries 2
+@graphic none
+@video none
+@begin
+A program strengthens mostly intraverbals and some tacts.  A low probability response is supplemented with both primes and _____s in successive frames. 
+@end
+@answer  prompts
+@tries 2
+@graphic none
+@video none
+@begin
+Since a visual illustration within a frame can raise the probability of a correct answer, it is correctly classified as a form of supplementary stimulation called a ______. 
+@end
+@answer  prompt
+@tries 2
+@graphic none
+@video none
+@begin
+Being frequently correct will supply adequate "motivation" for most students.  Graphic illustrations are unnecessary and waste time if they do not directly contribute to the ______th of a correct answer. 
+@end
+@answer  strength
+@tries 2
+@graphic none
+@video none
+@begin
+The composition of specific wording within frames comes (early/late) ______ in program development. 
+@end
+@answer  late
+@tries 2
+@graphic none
+@video none
+@begin
+Each frame will be constructed to bring about the contiguous _____g of more firmly established responses with weaker responses. 
+@end
+@answer  pairing
+@tries 2
+@graphic none
+@video none
+@begin
+Long frames often attempt to condition too many responses at once.  While the programmer, on occasion, may deliberately construct frames with many words which combine to prompt the correct answer, most frames should be relatively ______. 
+@end
+@answer  short
+@tries 2
+@graphic none
+@video none
+@begin
+A frame that presents a great deal of material with little or no opportunity for the student to respond is called a _____e frame. 
+@end
+@answer  lecture
+@tries 2
+@graphic none
+@video none
+@begin
+A "good" program makes use of strong verbal tendencies a student has already acquired elsewhere.  Such a program uses many words and phrases with which the student is already f_____. 
+@end
+@answer  familiar
+@tries 2
+@graphic none
+@video none
+@begin
+A program is not ready for dissemination until it has been field tested.  Field testing and review of student errors will point to places that need to be _____d. 
+@end
+@answer  revised
+@tries 2
+@graphic none
+@video none

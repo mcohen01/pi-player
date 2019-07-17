@@ -1,0 +1,161 @@
+@begin
+1.   Tracking down sources of _______ is thus a primary technique<br/>     for establishing generality.<br/>
+@end
+@answer VARIABILITY
+@tries 1
+@graphic none
+@video none
+@begin
+2.   Every time we discover and achieve _______ over a factor<br/>     that contributes to variability, we increase the likelihood<br/>     that our data will be reproducible with new subjects and in<br/>     different situations.<br/>
+@end
+@answer CONTROL
+@tries 1
+@graphic none
+@video none
+@begin
+3.   Variables held quantitatively constant (exert/may not exert)<br/>     _______ a constant and predictable effect throughout any<br/>     experiment.<br/>
+@end
+@answer MAY NOT EXERT
+@tries 1
+@graphic none
+@video none
+@begin
+4.   Variables (are/are not) _______ canceled statistically.<br/>
+@end
+@answer ARE NOT
+@tries 1
+@graphic none
+@video none
+@begin
+5.   The rationale for statistical immobilization of unwanted<br/>     variables is based on the assumed (predetermined/random)<br/>     _______ nature of such variables . . . <br/>
+@end
+@answer RANDOM
+@tries 1
+@graphic none
+@video none
+@begin
+6.   . . . In a (large/small) _______ group of subjects, the<br/>     "assumed random" reasoning goes, the uncontrolled factors<br/>     will change the behavior of some subjects in one direction<br/>     and will affect the remaining subjects in the<br/>     (opposite/same) _______ way . . .<br/>
+@end
+@answer LARGE OPPOSITE
+@tries 1
+@graphic none
+@video none
+@begin
+7.   . . . When the data are then averaged over all the subjects,<br/>     the effects of the uncontrolled variables are presumed to<br/>     add algebraically to z___o . . .<br/>
+@end
+@answer ZERO
+@tries 1
+@graphic none
+@video none
+@begin
+8.   . . . The composite data are then regarded as though they<br/>     were (unrepresentative/representative) _______ of one ideal<br/>     subject who had (obviously/never) _______ been exposed to<br/>     the uncontrolled variables at all.<br/>
+@end
+@answer REPRESENTATIVE NEVER
+@tries 1
+@graphic none
+@video none
+@begin
+9.   . . .  The assumption of randomness with respect to<br/>     uncontrolled variables is (correct/unlikely) _______.<br/>
+@end
+@answer UNLIKELY
+@tries 1
+@graphic none
+@video none
+@begin
+10.  . . . If we assume determinism, we (can/cannot) _______<br/>     assume randomness exists.<br/>
+@end
+@answer CANNOT
+@tries 1
+@graphic none
+@video none
+@begin
+11.  The effect of a given variable is (usually/seldom) ______<br/>     independent of the organism's behavior.<br/>
+@end
+@answer SELDOM
+@tries 1
+@graphic none
+@video none
+@begin
+12.  Behavior seldom bears a (linear/nonlinear) _______ relation<br/>     to its controlling variables.  Under such conditions the<br/>     assumption of randomness with respect to uncontrolled<br/>     variables is (untenable/appropriate) _______.<br/>
+@end
+@answer LINEAR UNTENABLE
+@tries 1
+@graphic none
+@video none
+@begin
+13.  Controlling variables interact reciprocally not only with<br/>     behavior but also among t_____ves.<br/>
+@end
+@answer THEMSELVES
+@tries 1
+@graphic none
+@video none
+@begin
+14.  The effect of a given variable upon behavior depends upon<br/>     the qualitative and quantitative properties of other<br/>     variables that are simultaneously (present/absent) _______.<br/>
+@end
+@answer PRESENT
+@tries 1
+@graphic none
+@video none
+@begin
+15.  If we assume that specific variables acted randomly in a<br/>     group of subjects, it is (likely/unlikely) _______ that<br/>     groups of such variables would combine in such a way as to<br/>     produce random effects.<br/>
+@end
+@answer UNLIKELY
+@tries 1
+@graphic none
+@video none
+@begin
+16.  (T or F) ___  A behavioral measure can be freed of the<br/>     effects of uncontrolled variables by taking an average over<br/>     a group of subjects.<br/>
+@end
+@answer F
+@tries 1
+@graphic none
+@video none
+@begin
+17.  An average will be composed of individual measures which<br/>     reflect (random/nonrandom) _______ differential effects of<br/>     all the uncontrolled factors in the experimental situation. <br/>     The uncontrolled variability, thought (controlled<br/>     for/submerged from view) _______, remains present in the<br/>     data.<br/>
+@end
+@answer NONRANDOM SUBMERGED FROM VIEW
+@tries 1
+@graphic none
+@video none
+@begin
+18.  Grouping (exposes/hides) _______ variability.<br/>
+@end
+@answer HIDES
+@tries 1
+@graphic none
+@video none
+@begin
+19.  The fundamental corrective technique (for the problem<br/>     submerged by grouping) is to secure direct experimental<br/>     _______ over as many as possible of the factors that are<br/>     relevant.<br/>
+@end
+@answer CONTROL
+@tries 1
+@graphic none
+@video none
+@begin
+20.  Averaging of data is done in lieu of demonstrating _______<br/>     of relevant variables.<br/>
+@end
+@answer CONTROL
+@tries 1
+@graphic none
+@video none
+@begin
+21.  Large experimental effects (cannot/can) _____ occur with<br/>     respect to a few subjects when there is no "statistical<br/>     significance."<br/>
+@end
+@answer CAN
+@tries 1
+@graphic none
+@video none
+@begin
+22.  Behavior (is/is not) _______ a function of fluctuations in<br/>     the maintaining contingencies.<br/>
+@end
+@answer IS
+@tries 1
+@graphic none
+@video none
+@begin
+23.  Local fluctuations in the contingencies that maintain<br/>     behavior may occur as a function of (parallel/reciprocal)<br/>     _______ interaction between behavior and its controlling<br/>     environment.<br/>
+@end
+@answer RECIPROCAL
+@tries 1
+@graphic none
+@video none

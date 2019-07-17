@@ -1,0 +1,136 @@
+@begin
+You learned to discriminate between things in your world very soon. When you were a baby you learned how to say "ma" in the presence of mom's face and "da" in the presence of dad's.  We say you could d__________e between them.
+@end
+@answer discriminate
+@tries 2
+@graphic none
+@video none
+@begin
+After many episodes of differential reinforcement by your parents you acquired a high _________bility of saying "ma" or "da" to the right person.
+@end
+@answer probability
+@tries 2
+@graphic none
+@video none
+@begin
+Earlier in this program we saw that shaping involves changing the criterion for the delivery of reinforcement.  Saying "apple" gets r_______ but saying "abble" doesn't.
+@end
+@answer reinforced
+@answer reinforcement
+@tries 2
+@graphic none
+@video none
+@begin
+You were most likely shaped to say "apple" correctly before you knew what it referred to.  Later, when shown an apple, your behavior of saying "apple" was _______d by your parent.
+@end
+@answer reinforced
+@tries 2
+@graphic none
+@video none
+@begin
+Differential reinforcement was applied.  When shown an orange and you labeled it "apple" your response (was/was not) _______ reinforced.
+@end
+@answer was not
+@tries 2
+@graphic none
+@video none
+@begin
+The procedure called _______l  _________ is used to shape new behavior and also to teach a person new discriminations.
+@end
+@answer differential reinforcement
+@tries 2
+@graphic none
+@video none
+@begin
+A "discriminative stimulus" is the occasion upon which behavior, if it occurs, will be reinforced.  Being shown an apple with the question "What is this?" in an example of a _______  _______s.
+@end
+@answer discriminative stimulus
+@tries 2
+@graphic none
+@video none
+@begin
+The technical term for an occasion (or stimulus) in the presence of which a certain kind of behavior will NOT be reinforced is called an "S-delta."  When being shown an orange with the question "What is this?", saying "Apple." (would/would not) _______ be reinforced.  Technically speaking, an orange would be an _______ for saying "apple."
+@end
+@answer would not S-delta
+@tries 2
+@graphic none
+@video none
+@begin
+A discrimination is a (high/low) _________ probability of behavior in the presence of a target stimulus and a _____ probability of that behavior in the absence of the target stimulus.
+@end
+@answer high low
+@tries 2
+@graphic none
+@video none
+@begin
+We learn to respond differently in different situations.  At a ball game we behave one way and in a library a different way.  We say that we have learned to dis_________t between the two situations.
+@end
+@answer discriminate
+@tries 2
+@graphic none
+@video none
+@begin
+You were likely to have been PUNISHED by being pinched when you laughed out loud during a solemn ceremony.  You inadequately d________ed between situations.
+@end
+@answer discriminated
+@answer differentiated
+@tries 2
+@graphic none
+@video none
+@begin
+Response differentiation happens when some behaviors are reinforced but others are not.  Response differentiation (for example between ball game behavior and library behavior) is achieved by r_______ the behavior that is appropriate to the occasion.
+@end
+@answer reinforcing
+@tries 2
+@graphic none
+@video none
+@begin
+Using good grammar in the presence of one's parent is usually required by the parent.  Bad grammar can be ignored.  However, your parent saying "wrong" or "incorrect" after bad grammar is the use of p________ to weaken the behavior.
+@end
+@answer punishment
+@tries 2
+@graphic none
+@video none
+@begin
+Discriminations between things out in the world like colors, people, objects, etc., are taught easily because the teacher/parent simultaneously sees the stimulus and can verify its presence.  When no injury is visable, can a parent verify the truth of the statement "My leg hurts."?  (yes or no?) ______
+@end
+@answer no
+@tries 2
+@graphic none
+@video none
+@begin
+When a child says "I have a headache."  A parent (can/cannot) _______ confirm its truth because the parent cannot see or feel it.
+@end
+@answer cannot
+@tries 2
+@graphic none
+@video none
+@begin
+Discriminating between events in the world inside our skins--in other words feelings, intentions, purposes, and so on, is (easy/difficult) _________ to teach.  Parents or teachers (can/cannot) _______ use differential reinforcement with precision because they cannot directly experience our inner world.
+@end
+@answer difficult cannot
+@tries 2
+@graphic none
+@video none
+@begin
+Asking someone how they feel is less likely to get an accurate answer because the feeling (can/cannot) _______ be directly observed and confirmed by another person.
+@end
+@answer cannot
+@tries 2
+@graphic none
+@video none
+@begin
+You are likely to take more successful action based upon (a) how people say they feel, (b) what you see people doing.  (a or b?) _____
+@end
+@answer b
+@tries 2
+@graphic none
+@video none
+@begin
+Due to the inability of others to apply their differential reinforcement precisely during discrimination training, the expression of one's feeling is (a) a reliable, or (b) an unreliable indicator of what one may do.  (A or B?  _______)
+@end
+@answer b
+@answer B
+@tries 2
+@graphic none
+@video none

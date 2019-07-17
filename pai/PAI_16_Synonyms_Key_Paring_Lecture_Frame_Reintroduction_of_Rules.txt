@@ -1,0 +1,308 @@
+@begin
+Preparing an automated program involves many factors.  Trying to think of everything at once will result in confusion and disorganization.  It is best to evaluate the contribution of each variable sep_____ly before composing frames. 
+@end
+@answer  separately
+@tries 2
+@graphic none
+@video none
+@begin
+Well-constructed frames will build the tendency to give specific words, but the student may often give synonyms. Technically, there are no two words that "mean the same thing."  Even synonyms have slightly d______t meanings. 
+@end
+@answer  different
+@tries 2
+@graphic none
+@video none
+@begin
+To "author" is to compose or create combinations of words.  To "author" a book means to w_____e it. 
+@end
+@answer  write
+@tries 2
+@graphic none
+@video none
+@begin
+Instructional programs authored for computer application are almost always constructed on paper first.  Later they are entered into the computer using what is called an au_____ing software program. 
+@end
+@answer  authoring
+@tries 2
+@graphic none
+@video none
+@begin
+Authoring programs vary in their flexibility.  The product of the authoring program you are currently experiencing strictly limits the answers it will accept as "correct."  In other words, the programmer must specify what, if any, sy_____ms will also be called "correct." 
+@end
+@answer  synonyms
+@tries 2
+@graphic none
+@video none
+@begin
+To use such a program and keep the student responding correctly, the programmer must (decrease/increase) _______ the number of probable student answers. 
+@end
+@answer  decrease
+@tries 2
+@graphic none
+@video none
+@begin
+Decreasing the number of probable answers has been done in the present program by formally prompting the appropriate word with the beginning or ending l_____s of the word. 
+@end
+@answer  letters
+@tries 2
+@graphic none
+@video none
+@begin
+Many so-called automated programs for the computer are little more than "electronic page turners."  They simply present entire screens full of words with no _____ks in the sentences for the learner to respond to. 
+@end
+@answer  blanks
+@tries 2
+@graphic none
+@video none
+@begin
+Other so-called automated programs present information in "exciting" ways, but do not require the learner to carefully study the information and overtly _____nd in a meaningful way. 
+@end
+@answer  respond
+@tries 2
+@graphic none
+@video none
+@begin
+These programs are not in any real sense "interactive."  While bringing words together in new ways (contiguously pairing new word combinations) they do not require a(n) (active/passive) ______ response from the learner and probably produce only minor strengthening. 
+@end
+@answer  active
+@tries 2
+@graphic none
+@video none
+@begin
+What might be called the "key pairing" is the focus of each frame.  This is the intraverbal connection the frame is constructed to _____then or reinforce. 
+@end
+@answer  strengthen
+@tries 2
+@graphic none
+@video none
+@begin
+All other words of the frame should be built around the pairing of key words.  They should contribute and raise the probability that the learner will correctly respond to the _____ pairing. 
+@end
+@answer  key
+@tries 2
+@graphic none
+@video none
+@begin
+As a rule, adequate strengthening of all other words and phrases within a frame should already be fairly well established behavior in the reader; he or she should already be "familiar" with most of the words.  Ordinarily, (few/many) ______ "key pairings" should be attempted in each frame. 
+@end
+@answer  few
+@tries 2
+@graphic none
+@video none
+@begin
+The "piling up" of many words and phrases can be employed as a kind of cumulative and massive prompt in a frame, but this is probably inefficient use of frame space.  If it takes a strong PROMPT to evoke a response, the response was (weak/strong) ______ in the first place. 
+@end
+@answer  weak
+@tries 2
+@graphic none
+@video none
+@begin
+Rather than use long frames, it would be better to separately strengthen intraverbal connections with a series of _____t frames that focus upon key pairings. 
+@end
+@answer  short
+@tries 2
+@graphic none
+@video none
+@begin
+Prompting evokes a response by introducing previously conditioned stimuli.  However, prompting (does/does not) ______ produce true strengthening of a response. 
+@end
+@answer  does not
+@tries 2
+@graphic none
+@video none
+@begin
+A student may be able to respond correctly to a large frame with many prompts.  But when the opportunity to engage in the "key pairing" is subsequently presented in a brief frame, she may respond incorrectly when the _____s are withdrawn. 
+@end
+@answer  prompts
+@tries 2
+@graphic none
+@video none
+@begin
+A "lecture" frame may contain a great deal of new information (i.e., new intraverbal connections).  It is a poor programming technique because it does not give an opportunity for the student to ______d and earn reinforcement. 
+@end
+@answer  respond
+@tries 2
+@graphic none
+@video none
+@begin
+To produce true strengthening of the student's tendency to "say the same thing," the student must actively respond and the response should be r_____d by the immediate consequence (i.e., discovery of being correct). 
+@end
+@answer  reinforced
+@tries 2
+@graphic none
+@video none
+@begin
+An "electronic page turning" program presents much material but does not require overt responding to the material.  It presents what is called "lecture" f_____es. 
+@end
+@answer  frames
+@tries 2
+@graphic none
+@video none
+@begin
+A frame that presents new (and possibly unnecessary) material without the opportunity for the student to actively respond is often called a _____re frame. 
+@end
+@answer  lecture
+@tries 2
+@graphic none
+@video none
+@begin
+A program is far from being complete when the author has finished the first edition of the frame series.  It should be rev_____wed by another expert in the field. 
+@end
+@answer  reviewed
+@tries 2
+@graphic none
+@video none
+@begin
+While concepts and rules may be well ordered, gaps in the knowledge of the (student/programmer) _______ will sometimes result in weak or inaccurate frames. 
+@end
+@answer  programmer
+@tries 2
+@graphic none
+@video none
+@begin
+The next step after completing the first complete "rough draft" of frames is to have another _____rt in the subject matter field edit for technical accuracy. 
+@end
+@answer  expert
+@tries 2
+@graphic none
+@video none
+@begin
+Experts don't know everything, however.  An additional expert may agree that the frames are technically accurate and well ordered, yet students may make many ______ while working through the program. 
+@end
+@answer  errors
+@tries 2
+@graphic none
+@video none
+@begin
+A concept or rule may be "introduced" to the satisfaction of the author and expert editor, but these individuals already understand the material.  The uninitiated student may need many more _____s of each concept or rule. 
+@end
+@answer  examples
+@tries 2
+@graphic none
+@video none
+@begin
+A flaw typical in the first draft of a frame series is that it probably won't have enough ______. 
+@end
+@answer  examples
+@tries 2
+@graphic none
+@video none
+@begin
+Another typical problem with a program's first draft is the extent to which it reintroduces previously learned concepts and rules.  First drafts usually (do/do not) ______ reintroduce concepts enough. 
+@end
+@answer  do not
+@tries 2
+@graphic none
+@video none
+@begin
+New rules and concepts are often built upon old ones.  When teaching new concepts, programmers sometimes forget to reintroduce _____d concepts. 
+@end
+@answer  old
+@tries 2
+@graphic none
+@video none
+@begin
+Earlier frames may have been adequate for the initial learning of a rule or concept, yet when the program later asks for the answer again, students make errors.  Student errors may not be a result of poor frames, but because old rules and concepts are not re_____d during the program. 
+@end
+@answer  reintroduced
+@tries 2
+@graphic none
+@video none
+@begin
+Review frames lengthen a program considerably and may prove tiresome for more advanced students.  But is probably better to have too ______ review frames than too few. 
+@end
+@answer  many
+@tries 2
+@graphic none
+@video none
+@begin
+Programmers can reintroduce old concepts within r_____ frames. 
+@end
+@answer  review
+@tries 2
+@graphic none
+@video none
+@begin
+After an expert has edited for technical accuracy, and review frames have been added, the next step in program development is the examination of it out in the field.  This is called the field t_____t. 
+@end
+@answer  test
+@tries 2
+@graphic none
+@video none
+@begin
+During the field test, the entire frame series is administered to perhaps a half dozen students.  Ideally, these students (should/should not) ______ be representative of the population for which the program was prepared. 
+@end
+@answer  should
+@tries 2
+@graphic none
+@video none
+@begin
+The author/programmer then analyzes student performance to see how high the rate of _____s is for each frame. 
+@end
+@answer  errors
+@tries 2
+@graphic none
+@video none
+@begin
+As we have seen, the origin of errors can be complex.  There are many reasons for incorrect answers.  For example, the answer to a frame may not be appropriate because it (is/is not) ______ part of a key-pairing. 
+@end
+@answer  is not
+@tries 2
+@graphic none
+@video none
+@begin
+The words "contiguously paired" have been contiguously paired throughout this program within many contexts and examples. They have hopefully become a part of your intraverbal repertoire, and are appropriate _____rs to frames. 
+@end
+@answer  answers
+@tries 2
+@graphic none
+@video none
+@begin
+An error may occur because the student didn't carefully read the complete frame before answering.  This reason for errors is promoted if the blank for the answer comes (early/late) ______ in the frame. 
+@end
+@answer  early
+@tries 2
+@graphic none
+@video none
+@begin
+PRIMING and a PROMPTING are ways of artificially strengthening a response.  A p_____ is stimulation presented in an earlier frame. 
+@end
+@answer  prime
+@tries 2
+@graphic none
+@video none
+@begin
+A p_____ is disguised or fractional form of the answer within the same frame. 
+@end
+@answer  prompt
+@tries 2
+@graphic none
+@video none
+@begin
+Both primes and prompts, which raise the probability of a correct response, are forms of s_____ry stimulation. 
+@end
+@answer  supplementary
+@tries 2
+@graphic none
+@video none
+@begin
+Both primes and prompts are used to reduce the rate of _____s to frames.  The " 
+@end
+@answer  errors
+@tries 2
+@graphic none
+@video none
+@begin
+The "f" and the "ts" in this frame exemplify f_____ _____ts. 
+@end
+@answer  formal prompts
+@tries 2
+@graphic none
+@video none
+@begin
+When a correct answer can be evoked only if there is a strong prompt within the frame itself, the intraverbal connection or "key-pairing" has been (adequately/inadequately) _______ conditioned. 
+@end
+@answer  inadequately
+@tries 2
+@graphic none
+@video none

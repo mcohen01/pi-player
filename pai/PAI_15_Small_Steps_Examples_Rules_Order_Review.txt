@@ -1,0 +1,203 @@
+@begin
+In constructing long frames, the programmer is trying to strengthen t_____ m_____y responses at once. 
+@end
+@answer  too many
+@tries 2
+@graphic none
+@video none
+@begin
+Each important intraverbal connection should be conditioned separately.  To make sure an intraverbal relationship is strengthened, the student must _____tly (rather than covertly) respond with a key word. 
+@end
+@answer  overtly
+@tries 2
+@graphic none
+@video none
+@begin
+Just contiguously pairing words together on the screen while the student passively reads is not enough.  The student must actively respond to such stimulation and be correct, for (weakening/strengthening) _______ to take place to any significant degree. 
+@end
+@answer  strengthening
+@tries 2
+@graphic none
+@video none
+@begin
+The student is held responsible for (be expected to learn) only those word relationships to which he or she has _____ively responded. 
+@end
+@answer  actively
+@tries 2
+@graphic none
+@video none
+@begin
+The progressive building up of an intraverbal repertoire is best done in small steps with no extraneous words.  It is better to construct many _____t frames than a few long ones. 
+@end
+@answer  short
+@tries 2
+@graphic none
+@video none
+@begin
+Programs should gradually progress from one frame to the next in _____l steps. 
+@end
+@answer  small
+@tries 2
+@graphic none
+@video none
+@begin
+Multiple examples within a frame, (regardless of whether the rule is presented first or last) are multiple prompts.  The successive frames early in a program should contain (many/few) ______ examples to raise the probability of a correct response to the maximum. 
+@end
+@answer  many
+@tries 2
+@graphic none
+@video none
+@begin
+Because examples raise the probability of responses, they are called _____pts. 
+@end
+@answer  prompts
+@tries 2
+@graphic none
+@video none
+@begin
+The amount of prompting changes, however, in a good frame sequence.  Review of many familiar illustrations or cases strengthens the tendency to give a correct rule.  But the number of _____s, as forms of primes and prompts, should slowly decrease from frame to frame. 
+@end
+@answer  examples
+@tries 2
+@graphic none
+@video none
+@begin
+A student cannot be expected to give a rule she has never said or seen before.  New rules are probably best introduced in frames that present the rule (before/after) ______ the examples. 
+@end
+@answer  before
+@tries 2
+@graphic none
+@video none
+@begin
+Multiple examples in frames are helpful.  They increase the tendency to g_____ize the application of rules to novel situations. 
+@end
+@answer  generalize
+@tries 2
+@graphic none
+@video none
+@begin
+Multiple examples increase the probability of _____t responses. 
+@end
+@answer  correct
+@tries 2
+@graphic none
+@video none
+@begin
+Constructing many examples takes time and is hard work for a programmer.  For this reason, new programs which have not been tested out with students tend to have too (few/many) ______ examples. 
+@end
+@answer  few
+@tries 2
+@graphic none
+@video none
+@begin
+Induction, the formulation of a rule by inspecting examples first, is a slow process.  A student's initial statements of a rule may be faulty, ill-stated, or fragmented.  This (slows down/speeds up) ______ learning by allowing errors. 
+@end
+@answer  slows down
+@tries 2
+@graphic none
+@video none
+@begin
+It is, therefore, often better to provide a student the rule than to have him "discover" it himself.  New rules should generally be introduced (late/early) ______ in a frame. 
+@end
+@answer  early
+@tries 2
+@graphic none
+@video none
+@begin
+The "Rule first" rule is generally a good idea.  A few frames with the rule-then-example format might appear first, followed by a few frames with _____s that occur before the rule. 
+@end
+@answer  examples
+@tries 2
+@graphic none
+@video none
+@begin
+It is best to get the student to accurately state the ______ before presenting frames without it. 
+@end
+@answer  rule
+@tries 2
+@graphic none
+@video none
+@begin
+Constructing frames bears some similarity to constructing prose paragraphs.  The "topic sentence" usually occurs _____st, followed by supporting sentences. 
+@end
+@answer  first
+@tries 2
+@graphic none
+@video none
+@begin
+The supporting sentences often exemplify the topic sentence assertion.  The beginning assertion is a ______ and the supporting sentences are usually examples. 
+@end
+@answer  rule
+@tries 2
+@graphic none
+@video none
+@begin
+A rule-sentence can occur anywhere in a paragraph but is usually either the first or the last sentence, when the paragraph is well-constructed.  An "inductive" paragraph piles one example upon another and then gives the rule at the _____d. 
+@end
+@answer  end
+@tries 2
+@graphic none
+@video none
+@begin
+Both inductive paragraphs and inductive frames are constructed to _____then the student's tendency to correctly state a rule which summarizes at the end. 
+@end
+@answer  strengthen
+@tries 2
+@graphic none
+@video none
+@begin
+A student can be expected to acquire only those rules she has given as _____es to previous frames. 
+@end
+@answer  responses
+@tries 2
+@graphic none
+@video none
+@begin
+Frames are usually short because the programmer's objective is to separately condition each i_____l connection. 
+@end
+@answer  intraverbal
+@tries 2
+@graphic none
+@video none
+@begin
+However, a frame may contain several sentences when they are not presenting entirely new concepts or rules, but instead r_____w material the student has already seen and responded to. 
+@end
+@answer  review
+@tries 2
+@graphic none
+@video none
+@begin
+A programmer uses an outline he has derived from a rule matrix.  This outline is the sequential _____r of concepts and rules for the program. 
+@end
+@answer  order
+@tries 2
+@graphic none
+@video none
+@begin
+When actual frames are to be constructed, it is helpful to specify the _____er of material within frames in advance of actually constructing them. 
+@end
+@answer  order
+@tries 2
+@graphic none
+@video none
+@begin
+An outline of rule-example and example-rule sequences should be constructed (before/after) _______ the actual composition of sentences within each frame. 
+@end
+@answer  before
+@tries 2
+@graphic none
+@video none
+@begin
+A solid building is constructed from a good blueprint.  A builder does not start out just nailing one board to the next; he schedules and orders his construction activity (beforehand/afterwards) ______. 
+@end
+@answer  beforehand
+@tries 2
+@graphic none
+@video none
+@begin
+A programmer is disorganized when he begins to compose frames without composing the frames from a blueprint.  The blueprint or order of rules and examples should be determined by matrix inspection _____e frames are composed. 
+@end
+@answer  before
+@tries 2
+@graphic none
+@video none

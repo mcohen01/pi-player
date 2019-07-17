@@ -1,0 +1,287 @@
+@begin
+You know about many techniques of programing.  To program, you must learn to _____ the techniques. 
+@end
+@answer  use
+@tries 2
+@graphic none
+@video none
+@begin
+You can learn to use the programing techniques by writing short _____s and trying them out on students. 
+@end
+@answer  programs
+@tries 2
+@graphic none
+@video none
+@begin
+After the students have taught you to write a short program (i.e., you have revised a program on the basis of student responses), you can probably write slightly _____er programs. 
+@end
+@answer  longer
+@tries 2
+@graphic none
+@video none
+@begin
+You progress gradually from short to _____g programs. 
+@end
+@answer  long
+@tries 2
+@graphic none
+@video none
+@begin
+You can also progress _____ly from short sections to longer sections in one long program. 
+@end
+@answer  gradually
+@tries 2
+@graphic none
+@video none
+@begin
+To begin a program, you specify the behavior you wish to teach by specifying the initial and the ______ behavior. 
+@end
+@answer  terminal
+@tries 2
+@graphic none
+@video none
+@begin
+The first items in a program lead the student from his initial behavior toward the ______ ______. 
+@end
+@answer  terminal behavior
+@tries 2
+@graphic none
+@video none
+@begin
+Items are designed to lead the students, by a controlled sequence of small steps called a _____l _____n, toward the desired terminal behavior. 
+@end
+@answer  gradual progression
+@tries 2
+@graphic none
+@video none
+@begin
+A program controls the educational process by getting the student to make frequent ______ responses and by reinforcing the responses under appropriate conditions. 
+@end
+@answer  observable
+@tries 2
+@graphic none
+@video none
+@begin
+Responses are reinforced in the presence of SD's and not reinforced in the presence of _____'s. 
+@end
+@answer  s^'s
+@tries 2
+@graphic none
+@video none
+@begin
+An SD sets the occasion for the immediate _____t of a response. 
+@end
+@answer  reinforcement
+@tries 2
+@graphic none
+@video none
+@begin
+The student must emit the desired response to receive a _____r. 
+@end
+@answer  reinforcer
+@tries 2
+@graphic none
+@video none
+@begin
+If the presentation device allows the student to receive a reinforcer without making the correct response, the program has failed to ______ the presentation of material and should not be called a teaching machine. 
+@end
+@answer  control
+@tries 2
+@graphic none
+@video none
+@begin
+All techniques and devices used in programing are techniques and devices designed to ______ the educational process. 
+@end
+@answer  control
+@tries 2
+@graphic none
+@video none
+@begin
+The programmer changes behavior by increasing the probability of certain responses in the presence of certain SD's through _____ate _____t of the observable responses in the presence of those SD's. 
+@end
+@answer  immediate reinforcement
+@tries 2
+@graphic none
+@video none
+@begin
+The programmer uses prompts to increase the probability that a response will be emitted so that its probability can be increased through _____e reinforcement. 
+@end
+@answer  immediate
+@tries 2
+@graphic none
+@video none
+@begin
+Prompts influence the probability that a particular response will occur.  They are complex SD's established as part of the student's initial behavior or as part of what has already been taught in the ______. 
+@end
+@answer  program
+@tries 2
+@graphic none
+@video none
+@begin
+Observable responses are used so that the student's observing behavior can be controlled and so that their _____y can be increased by immediate reinforcement. 
+@end
+@answer  probability
+@tries 2
+@graphic none
+@video none
+@begin
+Observable responses are used to control observing behavior, to make immediate reinforcement possible, and to enable the programer to ______ the program on the basis of student performance. 
+@end
+@answer  revise
+@tries 2
+@graphic none
+@video none
+@begin
+Programs are revised to reduce errors, to better achieve the terminal behavior, and to reduce the amount of ______ it takes the student to complete the program. 
+@end
+@answer  time
+@tries 2
+@graphic none
+@video none
+@begin
+A student can be taught to discriminate between two tones by introducing an artificial SD and then _____ing the artificial SD so that the student must respond to the difference between the tones. 
+@end
+@answer  fading
+@tries 2
+@graphic none
+@video none
+@begin
+It is difficult to make sure that the student reads (short/long) ______ items carefully. 
+@end
+@answer  long
+@tries 2
+@graphic none
+@video none
+@begin
+The programer often finds it necessary to partially introduce a concept (i.e., introduce it only in some of its applications) and then to teach one or two other _____ts. 
+@end
+@answer  concepts
+@tries 2
+@graphic none
+@video none
+@begin
+If a concept is partially introduced and then other concepts are presented, the programer can, with the aid of new concepts, extend the use of the original concept.  Thus, the programer extends the concept and ensures that the student continues to _____ it. 
+@end
+@answer  use
+@tries 2
+@graphic none
+@video none
+@begin
+Concepts are often partially introduced and then later extended through the use of new material.  The student progresses _____y in her attainment of the total concept (i.e., the use of the concept in all its applications). 
+@end
+@answer  gradually
+@tries 2
+@graphic none
+@video none
+@begin
+One reason for requiring emission of student responses is that it enables the programmer to _____e the program. 
+@end
+@answer  revise
+@tries 2
+@graphic none
+@video none
+@begin
+A programer can introduce a concept and then review and expand it while introducing new and related _____s. 
+@end
+@answer  concepts
+@tries 2
+@graphic none
+@video none
+@begin
+A programmer reviews by use and expansion through new applications and examples.  Review is not accomplished by repetition of old items but by expansion through new applications and _____es. 
+@end
+@answer  examples
+@tries 2
+@graphic none
+@video none
+@begin
+In an effort to reduce error rate, a programmer may revise the program by simply including more prompts.  But when the prompts are no longer available at the end of the program the student may not engage in the ______ behavior. 
+@end
+@answer  terminal
+@tries 2
+@graphic none
+@video none
+@begin
+The introduction and fading of formal _____s is a major point at which programing is still an art. 
+@end
+@answer  prompts
+@tries 2
+@graphic none
+@video none
+@begin
+Another point at which programing is still something of an art is the ordering and interrelating of the basic concepts to be taught in the _____. 
+@end
+@answer  program
+@tries 2
+@graphic none
+@video none
+@begin
+The art in programing lies in applying to the writing of programs the techniques designed to ______ the educational process. 
+@end
+@answer  control
+@tries 2
+@graphic none
+@video none
+@begin
+The art is in the application of the techniques of control. You can learn the art by writing short programs or short sections of programs, testing them on a few students, and _____ing the programs on the basis of student performance. 
+@end
+@answer  revising
+@tries 2
+@graphic none
+@video none
+@begin
+The techniques of programming are designed to ______ the educational process. 
+@end
+@answer  control
+@tries 2
+@graphic none
+@video none
+@begin
+If you write a program, you assume a position of authority and responsibility.  Your task is to change the _____r of your students. 
+@end
+@answer  behavior
+@tries 2
+@graphic none
+@video none
+@begin
+The programmer's task is to change behavior in a systematic, step by step, controlled manner.  To do this, he must control the _____es the students make to each frame. 
+@end
+@answer  responses
+@tries 2
+@graphic none
+@video none
+@begin
+The programer must make sure that the students emit acceptable or c_____t responses to each item. 
+@end
+@answer  correct
+@tries 2
+@graphic none
+@video none
+@begin
+If the student does not make whatever response, or range of responses, the programmer selects as acceptable, it is the fault of the _____r and the program, not of the student. 
+@end
+@answer  programmer
+@tries 2
+@graphic none
+@video none
+@begin
+If the student makes an error, it is the task of the programmer to discover why.  In theory, it would be possible to construct a program in which none of the students for whom the program was designed would make any _____rs. 
+@end
+@answer  errors
+@tries 2
+@graphic none
+@video none
+@begin
+In practice, it is neither necessary nor economically feasible to construct a program in which the students will make no _____s. 
+@end
+@answer  errors
+@tries 2
+@graphic none
+@video none
+@begin
+When the student makes an unacceptable response, it is a fault of the program.  The programmer must then decide whether to accept the defect or to _____e the program to eliminate the defect. 
+@end
+@answer  revise
+@tries 2
+@graphic none
+@video none

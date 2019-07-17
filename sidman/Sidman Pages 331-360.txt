@@ -1,0 +1,140 @@
+@begin
+1.   If we are interested in studying the effects of some<br/>     operation upon each baseline element in a multi-element<br/>     baseline, we must be certain that there are no important<br/>     i_____ns among the controlling variables.  Page 334<br/>
+@end
+@answer INTERACTIONS
+@tries 1
+@graphic none
+@video none
+@begin
+2.   One way of checking for interactions among the elements is<br/>     to run c____ol experiments in which each component appears <br/>     (in combination/separately) _______.  A comparison can then<br/>     be made between a given element when programmed by itself<br/>     and when programmed as a component of a multiple procedure. <br/>     Page 335<br/>
+@end
+@answer CONTROL SEPARATELY
+@tries 1
+@graphic none
+@video none
+@begin
+3.   If manipulations such as reordering of conditions or<br/>     interposing new conditions reveal sources of multiple<br/>     causation, we will have provided the means for eliminating<br/>     interactions.  This is perhaps one of the chief advantages<br/>     of functional manipulation over a st_____cal analysis of<br/>     interaction effects.  Page 337<br/>
+@end
+@answer STATISTICAL
+@tries 1
+@graphic none
+@video none
+@begin
+4.   Statistical techniques--for example, analysis of<br/>     variance--can at best indicate that interactions are p_____t<br/>     in a given set of data.  Functional manipulation not only<br/>     provides this information in greater detail but also<br/>     accomplishes the more advanced objectives of experimental<br/>     _______ over and systematic understanding of the interaction<br/>     in question.  Page 337<br/>
+@end
+@answer PRESENT CONTROL
+@tries 1
+@graphic none
+@video none
+@begin
+5.   If behavior under experimental observation is controlled<br/>     simultaneously by two or more variables, no amount of<br/>     (variable/statistical) _______ manipulation can immobilize<br/>     any of the confounded factors.  Page 339<br/>
+@end
+@answer STATISTICAL
+@tries 1
+@graphic none
+@video none
+@begin
+6.   Statistical control of multiple causation is a device for<br/>     manipulating the v____l behavior of the experimenter; it has<br/>     no effect upon the behavior of the experimental subject. <br/>     Page 338<br/>
+@end
+@answer VERBAL
+@tries 1
+@graphic none
+@video none
+@begin
+7.   Experimental _______ refers to our ability to manipulate<br/>     behavior.  Page 342<br/>
+@end
+@answer CONTROL
+@tries 1
+@graphic none
+@video none
+@begin
+8.   A control e_______t, however, refers to behavior which<br/>     verifies the validity of a rule describing a functional<br/>     relation.  Page 342<br/>
+@end
+@answer EXPERIMENT
+@tries 1
+@graphic none
+@video none
+@begin
+9.   Sidman argues that stan_____ion of experimental techniques<br/>     would strengthen behavioral science.  Page 344<br/>
+@end
+@answer STANDARDIZATION
+@tries 1
+@graphic none
+@video none
+@begin
+10.  It might be argued, however, that non-standardization<br/>     represents a kind of ________ replication.  <br/>
+@end
+@answer SYSTEMATIC
+@tries 1
+@graphic none
+@video none
+@begin
+11.  To standardize a technique solely upon the basis of a high<br/>     degree of experimental control may automatically<br/>     (permit/prevent) _______ the observation of important<br/>     behavioral phenomena.  Page 346<br/>
+@end
+@answer PREVENT
+@tries 1
+@graphic none
+@video none
+@begin
+12.  If one wishes to investigate phenomena associated with weak<br/>     behavioral control, there is no choice but to (depart<br/>     from/employ) _______ standard practice.  Page 347<br/>
+@end
+@answer DEPART FROM
+@tries 1
+@graphic none
+@video none
+@begin
+13.  Identification of the precise conditions under which events<br/>     will function as _______ has been one of the main<br/>     preoccupations of experimental psychologists during the past<br/>     fifty years.  Page 348<br/>
+@end
+@answer REINFORCERS
+@tries 1
+@graphic none
+@video none
+@begin
+14.  The if-then connection between a response and a reinforcer<br/>     may not exist, simply the temporal sequencing.  Such<br/>     reinforcement is termed a______s and may be a considerable<br/>     problem in interpreting experimental data.  Page 349<br/>
+@end
+@answer ADVENTITIOUS
+@tries 1
+@graphic none
+@video none
+@begin
+15.  Suppose a person selected an icon to see a video<br/>     presentation as an option in a frame.  But the first several<br/>     times she did this she happened to then answer the frame<br/>     incorrectly.  Subsequently, she avoided selecting video<br/>     presentations.  We might say that the suppression of video<br/>     use was a form of ________s punishment.  <br/>
+@end
+@answer ADVENTITIOUS
+@tries 1
+@graphic none
+@video none
+@begin
+16.  The chances of an irreversible effect are (less/greater)<br/>     _______ when the baseline behavior is governed by factors<br/>     not under deliberate experimental control. Page 355<br/>
+@end
+@answer GREATER
+@tries 1
+@graphic none
+@video none
+@begin
+17.  The study of complex behavior will be more profitable in the<br/>     long run if we first gain systematic understanding of, and<br/>     technical competence in dealing with, (simpler/more complex)<br/>     ________ phenomena.  Page 355<br/>
+@end
+@answer SIMPLER
+@tries 1
+@graphic none
+@video none
+@begin
+18.  A basic rule of behavior:  Tendency to respond eventually<br/>     corresponds to the probability of _______.  If your organism<br/>     doesn't respond the way you want, it is due to the<br/>     probability of _______.  Page 356<br/>
+@end
+@answer REINFORCEMENT REINFORCEMENT
+@tries 1
+@graphic none
+@video none
+@begin
+19.  The changeover-delay is a technique in which the opportunity<br/>     for _______ is delayed for a fixed period when the organism<br/>     shifts from one schedule-correlated manipulandum to another.<br/><br/>     This prevents the a_______l r______t of the switching<br/>     behavior.  Page 359<br/>
+@end
+@answer REINFORCEMENT ACCIDENTAL REINFORCEMENT
+@tries 1
+@graphic none
+@video none
+@begin
+20.  Responses of different topography (can/cannot) ______ become<br/>     involved in a superstitious chain.  Page 360<br/>
+@end
+@answer CAN
+@tries 1
+@graphic none
+@video none

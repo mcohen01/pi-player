@@ -1,0 +1,182 @@
+@begin
+When you were young you were taught to label pictures of cats with the response "cat."  But first, you learned to say "cat" when someone used the differential reinforcement of successive approximations.  As you will recall, this is  the procedure called s_____ing.
+@end
+@answer shaping
+@tries 2
+@graphic none
+@video none
+@begin
+Your response of saying "cat" was then brought under the control of a picture of very likely a "Tabby" cat.  Your saying "cat" while you looked at the picture was r_________ed by your parent with the comment "good!"
+@end
+@answer reinforced
+@tries 2
+@graphic catpicture.jpg
+@video none
+@begin
+You were taught to discriminate between pictures of dogs and cats when saying "cat" was _________ in the presence of the cat picture and not ________ when you were looking a picture of a dog.
+@end
+@answer reinforced reinforced
+@tries 2
+@graphic germanshepard.jpg
+@video none
+@begin
+You soon consistently discriminated between the picture of a "Tabby" house cat and the picture of the German Shepard dog when the same pictures were used.  But later, when you were shown a very different kind of cat (like a lion), you were (more/less) ________ likely to say "cat." 
+@end
+@answer less
+@tries 1
+@graphic none
+@video none
+@begin
+You could discriminate between a dog and a cat when the pictures used to teach you remained the same each time.  But not all cats look alike.  They are big and small, come in different colors and patterns, have long and short hair, and so on.  By reinforcing your response "cat" to a variety of shapes and colors you were then taught to (generalize across/discriminate between) __________ a variety of cats.  
+@end
+@answer generalize across
+@tries 1
+@graphic differentcats.jpg
+@video none
+@begin
+Your ability to "extend" the use of the "cat" label to a variety of different cats is defined as (generalization/discrimination) _______.  
+@end
+@answer generalization
+@tries 2
+@graphic none
+@video none
+@begin
+Generalization does not happen automatically, it is learned.  Both _________n between stimuli and generalization across different stimuli are taught using differential reinforcement.
+@end
+@answer discrimination
+@tries 2
+@graphic none
+@video none
+@begin
+Generalization is the (same as/opposite of) _______  discrimination.
+@end
+@answer opposite of
+@tries 1
+@graphic none
+@video none
+@begin
+You recall that respondent behavior is elicited or "caused" by stimuli that precede it and "force" it to happen.  Operant behavior is "caused" or strengthened by what has typically happened after it.  Tears in your eyes when peeling an onion is ________t behavior.  Reaching up to catch a ball is _______t behavior. 
+@end
+@answer respondent operant
+@tries 2
+@graphic none
+@video none
+@begin
+The previous examples of respondent and operant behavior have not been used earlier in this program yet you successfully labeled them.  You extended the concepts of respondent and operant behavior to different examples.   When you correctly classified those new examples you demonstrated the process called _______n.
+@end
+@answer generalization
+@tries 2
+@graphic none
+@video none
+@begin
+A bad experience with one dog may lead to the fear of all dogs.  This an example of _________ion of respondent behavior.
+@end
+@answer generalization
+@tries 2
+@graphic none
+@video none
+@begin
+The tendency to respond to other people with politeness even though such behavior was reinforced only by your parents would be an example of the ________ion of operant behavior.
+@end
+@answer generalization
+@tries 2
+@graphic none
+@video none
+@begin
+Your parents reinforced the behavior of helping them, no doubt.  You tended not to help other people when you had no history of reinforcement with them.  The tendency to help your parents only and not to help strangers is an example of _______ation.
+@end
+@answer discrimination
+@tries 2
+@graphic none
+@video none
+@begin
+Being generous and helpful is a cultural value that is not often taught well.  Our culture is strengthened when all people tend to be generous and helpful.  Our objective should be get generosity and helpfulness to _______ize not simply to parents but to all people.
+@end
+@answer generalize
+@tries 2
+@graphic none
+@video none
+@begin
+You check your mailbox regularly when there is regularly mail there.  You are most likely to do so when mail is there (a) regularly, or (b) intermittently).  (a or b?) ______.
+@end
+@answer a
+@tries 1
+@graphic emailicon.jpg
+@video none
+@begin
+However, you tend to keep checking your mailbox even when mail is only there (regularly/intermittently) _______.
+@end
+@answer intermittently
+@tries 1
+@graphic none
+@video none
+@begin
+We say reinforcement occurs i________ly when it doesn't follow each operant behavior.
+@end
+@answer intermittently
+@tries 2
+@graphic none
+@video none
+@begin
+The longer you wait before checking your mail, the (higher/lower) _____ the probability mail with be there.
+@end
+@answer higher
+@tries 1
+@graphic none
+@video none
+@begin
+You learned to (check constantly/wait for a while) _______ because the _________y of mail being there would be greater.
+@end
+@answer wait for a while probability
+@tries 2
+@graphic none
+@video none
+@begin
+Operant behavior extinguishes quickly when it has been reinforced every time.  Suppose you flick a fire-stick to light a candle and the fire-stick lights every time.  Suppose a malfunction happens and it no longer ignites a flame.  You would (eventually/almost immediately) ________ stop trying to use it.
+@end
+@answer almost immediately
+@tries 1
+@graphic firestick.jpg
+@video none
+@begin
+Suppose a fire-stick works only intermittently because it running out of fuel.  You would be (more/less) ________ likely to keep trying to use it than if it normally worked every time.
+@end
+@answer more
+@tries 1
+@graphic none
+@video none
+@begin
+People who fish don't catch them every time they go fishing.  Young children will quickly stop fishing when they (frequently/rarely) ______ catch a fish.
+@end
+@answer rarely
+@tries 1
+@graphic none
+@video none
+@begin
+Children can be taught to love to fish in a series of stages.  First the tank or pond can be stocked with many hungry fish.  Eash time children  lower their bait into the tank they catch a fish.  In this case, the child's fishing behavior is being (intermittently/continuously) _______ reinforced.
+@end
+@answer continuously 
+@tries 1
+@graphic childfishing.jpg
+@video none
+@begin
+Subsequently, you secretly feed the fish a little before "fishing time." Not every time the children toss baited lines into the tank do they catch a fish.  However, they catch fish often enough to prevent extinction and keep the probability of fishing high.  Now their fishing behavior is being reinforced (continuously/intermittently) _______.
+@end
+@answer intermittently
+@tries 1
+@graphic none
+@video none
+@begin
+Eventually a child will fish for very long periods before catching one because the frequency of reinforcement has progressively (increased/reduced) ________.  
+@end
+@answer reduced
+@tries 1
+@graphic none
+@video none
+@begin
+People are not born with tenacity and perseverance as their inherent nature.  That behavior is taught by skillful parents and teachers when they arrange episodes of instruction that progressively make reinforcement more (frequent/intermittent) _______, yet often enough to maintain behavior.
+@end
+@answer intermittent
+@tries 1
+@graphic none
+@video none

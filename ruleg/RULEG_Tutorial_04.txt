@@ -1,0 +1,210 @@
+@begin
+A series of frames may start by introducing a new RU to a student.  The initial frame may present a RU followed by two EGs with stimulus support using the ______ frame type. 
+@end
+@answer  ru + eg + eg*
+@tries 2
+@graphic none
+@video none
+@begin
+The RU + EG + EG* frame type is excellent for _____cing a new RU. 
+@end
+@answer  introducing
+@tries 2
+@graphic none
+@video none
+@begin
+In subsequent frames, stimulus support can be gradually withdrawn by presenting the RU followed by only a single EG with stimulus support.  Such a frame is known as the ______ frame type. 
+@end
+@answer  ru + eg*
+@tries 2
+@graphic none
+@video none
+@begin
+If the RU contains technical terms or new vocabulary, the student may need to copy the technical terms.  The frame type that presents the same RU twice and forces the student to copy one or more technical terms is the ______ frame type. 
+@end
+@answer  ru + ru*
+@tries 2
+@graphic none
+@video none
+@begin
+Although novice programmers usually include many of them, RU + RU* copy frames should be used sparingly.  Copy frames contain maximum stimulus support, and the goal of programming is to get the student to respond (with/without) ______ stimulus support. 
+@end
+@answer  without
+@tries 2
+@graphic none
+@video none
+@begin
+After the student has acquired the RU at some strength, the programmer can use induction frames.  The induction frame that contains much stimulus support by presenting an EG and the RU itself is the ______ frame type. 
+@end
+@answer  eg + ru*
+@tries 2
+@graphic none
+@video none
+@begin
+The induction or analogy frame that causes the student to induce the RU from the first EG and apply it to a second EG is called the ______ frame type. 
+@end
+@answer  eg + eg*
+@tries 2
+@graphic none
+@video none
+@begin
+Because students can induce an incorrect RU from an induction frame, induction frames should be used (before/after) ______ the student has acquired the RU at some strength. 
+@end
+@answer  after
+@tries 2
+@graphic none
+@video none
+@begin
+After the student has learned two different RUs, the program may require the student to discriminate between them.  Here, the ______ frame type can be used. 
+@end
+@answer  ru1 + ru2*
+@tries 2
+@graphic none
+@video none
+@begin
+The student can also be required to discriminate between two EGs of two different RUs.  Here, the program would include the ______ frame type. 
+@end
+@answer  eg1 + eg2
+@tries 2
+@graphic none
+@video none
+@begin
+Near the end of a series of frames, terminal frames will require the student to respond in the presence of minimal or no cues.  Such frames are called (instructional/test) ______ frames. 
+@end
+@answer  test
+@tries 2
+@graphic none
+@video none
+@begin
+Test frames contain little, if any, stimulus support.  They avoid thematic prompting and contain (some/no) ______ formal prompting. 
+@end
+@answer  no
+@tries 2
+@graphic none
+@video none
+@begin
+Terminal or criterion test frames that contain no stimulus support test for _____l or criterion behavior. 
+@end
+@answer  terminal
+@tries 2
+@graphic none
+@video none
+@begin
+Terminal test frames are usually created when the programmer specifies the terminal behavior that the student is to be able to do as a result of working through the program.  This usually occurs (before/after) ______ the programmer creates the actual program. 
+@end
+@answer  before
+@tries 2
+@graphic none
+@video none
+@begin
+Terminal test frames that contain no stimulus support, and test for terminal behavior, are identified by a (single/double) ______ asterisk. 
+@end
+@answer  double
+@tries 2
+@graphic none
+@video none
+@begin
+Terminal test frames contain _____ stimulus support. 
+@end
+@answer  no
+@tries 2
+@graphic none
+@video none
+@begin
+A terminal test frame that calls for a statement of a specific RU is called a RU** frame type.  The double asterisk immediately after the RU signifies _____ stimulus support. 
+@end
+@answer  no
+@tries 2
+@graphic none
+@video none
+@begin
+Anything an organism does is called ______.  [Ignore the above blank]  The above terminal test frame presents a RU with little or no stimulus support.  It is called the ______ frame type. 
+@end
+@answer  ru**
+@tries 2
+@graphic none
+@video none
+@begin
+______ is the application of knowledge for practical ends.  [Ignore the above blank]  The above test frame presents a RU with the key word missing.  It is called the ______ frame type. 
+@end
+@answer  ru**
+@tries 2
+@graphic none
+@video none
+@begin
+The terminal test frame that requires the student to respond to a specific RU with no stimulus support is called the ______ frame type. 
+@end
+@answer  ru**
+@tries 2
+@graphic none
+@video none
+@begin
+The terminal test frame that requires the student to respond to a specific EG with no stimulus support is called the ______ frame type. 
+@end
+@answer  eg**
+@tries 2
+@graphic none
+@video none
+@begin
+To correctly respond to a terminal EG** frame, the student must have command of the _____ that the EG exemplifies. 
+@end
+@answer  ru
+@tries 2
+@graphic none
+@video none
+@begin
+The application of programming skills to create instructional programs is a form of ______.  [Ignore the above blank]  If the student has command of the RU "Technology is the application of knowledge for practical ends," the student could make the correct response "technology" to the above ______ frame type. 
+@end
+@answer  eg**
+@tries 2
+@graphic none
+@video none
+@begin
+Terminal RU** and EG** test frames require criterion behavior to be performed in the presence of minimal or ______ stimulus support. 
+@end
+@answer  no
+@tries 2
+@graphic none
+@video none
+@begin
+The double asterisks in the symbols RU** and EG** signify n_____ s_____s s_____t. 
+@end
+@answer  no stimulus support
+@tries 2
+@graphic none
+@video none
+@begin
+Although terminal test frames should contain no stimulus support, they will unavoidably contain some thematic prompting.  This is true because the words in test frames have been contiguously p_____d with terminal responses. 
+@end
+@answer  paired
+@tries 2
+@graphic none
+@video none
+@begin
+Look ______ you leap.  [Ignore the above blank]  The words in the above RU** frame have been contiguously paired with the frame's terminal response ______. 
+@end
+@answer  before
+@tries 2
+@graphic none
+@video none
+@begin
+After a series of instructional, induction, and discrimination frames, terminal test frames require students to respond with minimal or no ______ ______. 
+@end
+@answer  stimulus support
+@tries 2
+@graphic none
+@video none
+@begin
+One objective of programming is for students to respond without stimulus support to RU** and ______ frames. 
+@end
+@answer  eg**
+@tries 2
+@graphic none
+@video none
+@begin
+Most RU** and EG** frames are created when the programmer specifies the _____l behavior the program is to achieve. 
+@end
+@answer  terminal
+@tries 2
+@graphic none
+@video none

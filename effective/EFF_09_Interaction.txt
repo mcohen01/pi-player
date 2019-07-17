@@ -1,0 +1,371 @@
+@begin
+EFFECTIVE INSTRUCTIONAL PROGRAMS MAXIMIZE INTERACTION  How much a student learns greatly depends on how he INTERACTS with the material to be learned.  All things being equal, students learn more when INTERACTION is more (active/passive) ______. 
+@end
+@answer  active
+@tries 2
+@graphic none
+@video none
+@begin
+To enhance learning, teachers can try to (maximize/minimize) ______ interaction in many ways.  For example, instead of simply showing a video to a passive audience, a teacher can stop the video at key places, and have the students answer q_____ions. 
+@end
+@answer  maximize questions
+@tries 2
+@graphic none
+@video none
+@begin
+Because they require students to respond frequently, effective instructional programs m_____ize interaction (Hannafin & Peck, 1988). 
+@end
+@answer  maximize
+@tries 2
+@graphic none
+@video none
+@begin
+Although a student may be looking at a computer screen, we cannot be sure she is interacting with the material unless we notice her making an (unobservable/observable) ______ response. 
+@end
+@answer  observable
+@tries 2
+@graphic none
+@video none
+@begin
+A student passively watching a biology video may be thinking about something else.  We cannot be sure the student is in_____ting with the material until he or she makes an observable _____se. 
+@end
+@answer  interacting response
+@tries 2
+@graphic none
+@video none
+@begin
+We cannot be sure the student is _____ting until he or she does something we can clearly observe.  Interaction occurs when the learner makes ob_____able responses. 
+@end
+@answer  interacting observable
+@tries 2
+@graphic none
+@video none
+@begin
+INTERACTIVE PROGRAMS REQUIRE FREQUENT AND OBSERVABLE RESPONSES  How many observable responses a learner makes is referred to as the FREQUENCY of responses.  A program that requires the learner to make FREQUENT observable responses is called i_____ve. 
+@end
+@answer  interactive
+@tries 2
+@graphic none
+@video none
+@begin
+The more the learner makes _____able responses, the more fr_____nt the interaction. 
+@end
+@answer  observable frequent
+@tries 2
+@graphic none
+@video none
+@begin
+To maximize interaction, programs should require f_____nt responses from the learner (Hannifin & Peck, 1988). 
+@end
+@answer  frequent
+@tries 2
+@graphic none
+@video none
+@begin
+However, programs are not effective simply by requiring the learner to frequently respond--the responses must be MEANINGFUL.   For example, a program may present the steps used to solve a complex mathematical equation by requiring the learner to press any key after each step is presented on the screen.  Here, the learner frequently interacts by simply pressing any _____y on the keyboard to turn "electronic pages." 
+@end
+@answer  key
+@tries 2
+@graphic none
+@video none
+@begin
+A program that teaches where to place commas in sentences requires the student to press the space bar to activate a little monkey.  The monkey runs across the screen and places the comma in the sentence for the student.  Wouldn't it be more effective to require the (monkey/student) ______ to place the comma? 
+@end
+@answer  student
+@tries 2
+@graphic none
+@video none
+@begin
+A spelling program requires the student to select correctly spelled words from a list by clicking on the words.  To enable the student to correctly spell words on his own, wouldn't it be better to require the student to (select/construct) ______ the words? 
+@end
+@answer  construct
+@tries 2
+@graphic none
+@video none
+@begin
+Programs that require frequent interaction are not always effective.  Besides being frequent, responses must be MEANINGFUL.  But what is a m_____ful response? 
+@end
+@answer  meaningful
+@tries 2
+@graphic none
+@video none
+@begin
+MEANINGFUL RESPONSES ARE RELATED TO THE INSTRUCTIONAL OBJECTIVES  The effectiveness of a program is measured by the extent to which students can accomplish the program's instructional objectives.  Therefore, _____ful responses are RELATED to the program's instructional _____s. 
+@end
+@answer  meaningful objectives
+@tries 2
+@graphic none
+@video none
+@begin
+If the objective is for learners to be able so select correct responses, the learner should interact by selecting. If the objective is for learners to be able to construct correct responses, the learner should interact by _____ting. 
+@end
+@answer  constructing
+@tries 2
+@graphic none
+@video none
+@begin
+The objective of a program is for the learner to be able to correctly spell new vocabulary words.  Throughout the program, the learner should frequently interact by (clicking on/constructing) ______ correctly spelled words. 
+@end
+@answer  constructing
+@tries 2
+@graphic none
+@video none
+@begin
+If the objective is for students to be able to use new vocabulary words in sentences, and the program DOES NOT require the students to interact in this way, the responses (are/are not) ______ related to the objectives and (are/are not) ______ meaningful. 
+@end
+@answer  are not are not
+@tries 2
+@graphic none
+@video none
+@begin
+When the nature of the response is RELATED to the nature of the objectives, the responses are said to be m_____l. 
+@end
+@answer  meaningful
+@tries 2
+@graphic none
+@video none
+@begin
+Programs should require meaningful responses from students that are r_____ted to the specific program objectives (Hannafin & Peck, 1988). 
+@end
+@answer  related
+@tries 2
+@graphic none
+@video none
+@begin
+Programs that present material and only require the student to press a key to continue are sometimes called "electronic page turners."  Such programs (have/do not have) ______ meaningful interaction. 
+@end
+@answer  do not have
+@tries 2
+@graphic none
+@video none
+@begin
+Effective programs maximize interaction.  However, responses should be observable, fr_____nt and m_____l. 
+@end
+@answer  frequent meaningful
+@tries 2
+@graphic none
+@video none
+@begin
+CONSTRUCTED RESPONSES MAXIMIZE INTERACTION  Some responses require more learning to emit than others. It is (easier/harder) ______ to select or recognize the correct response than to construct or recall the correct response. 
+@end
+@answer  easier
+@tries 2
+@graphic none
+@video none
+@begin
+When a student clicks on the correct response he (selects/constructs) ______ the response.  When the student types the word on the keyboard she (selects/constructs) ______ the response. 
+@end
+@answer  selects constructs
+@tries 2
+@graphic none
+@video none
+@begin
+After working through a program that only requires the learner to SELECT responses by clicking on them, the learner may only be able to (select/construct) ______ responses. 
+@end
+@answer  select
+@tries 2
+@graphic none
+@video none
+@begin
+After working through a program that requires the learner to CONSTRUCT responses, like the program you are working through right now, the learner may be able to select and ______ responses. 
+@end
+@answer  construct
+@tries 2
+@graphic none
+@video none
+@begin
+When a student selects the correct response from among alternatives, we (can/cannot) ______ be sure that the student can select or construct the response without the alternatives. 
+@end
+@answer  cannot
+@tries 2
+@graphic none
+@video none
+@begin
+Constructed responses maximize interaction.  More learning and interaction is required when responses have to be _____ed. 
+@end
+@answer  constructed
+@tries 2
+@graphic none
+@video none
+@begin
+C______ted responses _____ize interaction. 
+@end
+@answer  constructed maximize
+@tries 2
+@graphic none
+@video none
+@begin
+INTERACTION IS MAXIMIZED USING THE CRITICAL RESPONSE RULE  A principle of effective instruction states that it is CRITICAL that the learner makes a meaningful _____e to the information presented on the screen. 
+@end
+@answer  response
+@tries 2
+@graphic none
+@video none
+@begin
+It is cr_____cal that the learner makes a meaningful response. 
+@end
+@answer  critical
+@tries 2
+@graphic none
+@video none
+@begin
+A learner should be held responsible ONLY for that portion of the presented material which he has responded correctly. This is called the _____cal Response Rule. 
+@end
+@answer  critical
+@tries 2
+@graphic none
+@video none
+@begin
+According to the Critical Response Rule, students can only be held responsible for learning what they have correctly r_____ed to. 
+@end
+@answer  responded
+@tries 2
+@graphic none
+@video none
+@begin
+A student simply presses any key to read through an "electronic page turner."  According to the Critical Response Rule, the teacher (can/cannot) ______ hold the student responsible for learning any of the material because the student (does/does not) ______ make meaningful responses. 
+@end
+@answer  cannot does not
+@tries 2
+@graphic none
+@video none
+@begin
+A program may present much information and ask students only a few questions.  According to the Critical Response Rule, the student is responsible for learning  a.  all the material presented. b.  only the material he had to make meaningful responses to.  [Type only the letter a or b.] 
+@end
+@answer  b
+@tries 2
+@graphic none
+@video none
+@begin
+Students can only be held r_____sible for learning what they have responded to according to the Critical ______ Rule. 
+@end
+@answer  responsible response
+@tries 2
+@graphic none
+@video none
+@begin
+When a student is required to learn information that she has NOT responded to in the past, the Critical Response Rule is (upheld/violated) ______. 
+@end
+@answer  violated
+@tries 2
+@graphic none
+@video none
+@begin
+Interaction is _____zed when the learner must make observable responses to critical information.  The learner is only held responsible for learning the information he has correctly responded to according to the _____l _____e Rule. 
+@end
+@answer  maximized critical response
+@tries 2
+@graphic none
+@video none
+@begin
+The Critical Response Rule maximizes _____tion. 
+@end
+@answer  interaction
+@tries 2
+@graphic none
+@video none
+@begin
+Unlike passively listening to lectures, effective programs require learners to make _____nt and observable responses. 
+@end
+@answer  frequent
+@tries 2
+@graphic none
+@video none
+@begin
+Meaningful responses are r_____ted to the program's instructional _____es. 
+@end
+@answer  related objectives
+@tries 2
+@graphic none
+@video none
+@begin
+Interaction is maximized when the learner has to _____ct responses. 
+@end
+@answer  construct
+@tries 2
+@graphic none
+@video none
+@begin
+When a teacher holds the learner responsible only for the material the learner has correctly _____ed to, the teacher is adhering to the ______ _____e Rule. 
+@end
+@answer  responded critical response
+@tries 2
+@graphic none
+@video none
+@begin
+An effective program is more interactive than a traditional classroom lecture because the program requires students to emit more _____nt and _____ul responses. 
+@end
+@answer  frequent meaningful
+@tries 2
+@graphic none
+@video none
+@begin
+INTERACTION BETWEEN A STUDENT AND A PROGRAM SHOULD RESEMBLE THE INTERACTION BETWEEN A STUDENT AND A PRIVATE TUTOR  Because a program can require learners to make frequent, observable, and meaningful responses, at a pace which the learner determines, effective programs are said to be like _____te _____rs. 
+@end
+@answer  private tutors
+@tries 2
+@graphic none
+@video none
+@begin
+Programs should "approximate a conversation between a TUTOR and a student in a one-to-one session" (Hannafin & Peck, 1988).  The conversation between a private tutor and a student _____zes interaction. 
+@end
+@answer  maximizes
+@tries 2
+@graphic none
+@video none
+@begin
+Effective programs maximize interaction because they contain many of the characteristics of a private _____r. 
+@end
+@answer  tutor
+@tries 2
+@graphic none
+@video none
+@begin
+Like a private tutor, an effective program requires students to respond f_____ly. 
+@end
+@answer  frequently
+@tries 2
+@graphic none
+@video none
+@begin
+We can only be sure a student is interacting when he or she makes a response we can see or observe.  Interaction requires _____le responses. 
+@end
+@answer  observable
+@tries 2
+@graphic none
+@video none
+@begin
+Meaningful responses relate to the program's instructional _____s. 
+@end
+@answer  objectives
+@tries 2
+@graphic none
+@video none
+@begin
+Interaction is maximized when the learner has to _____t responses. 
+@end
+@answer  construct
+@tries 2
+@graphic none
+@video none
+@begin
+Students can only be held _____ble for learning what they have responded to according to the ______ ______ Rule. 
+@end
+@answer  responsible critical response
+@tries 2
+@graphic none
+@video none
+@begin
+Effective instructional programs _____ze interaction. 
+@end
+@answer  maximize
+@tries 2
+@graphic none
+@video none
+@begin
+Effective instructional programs resemble private _____s. 
+@end
+@answer  tutors
+@tries 2
+@graphic none
+@video none

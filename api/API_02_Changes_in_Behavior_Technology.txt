@@ -1,0 +1,210 @@
+@begin
+Programmed instruction is an educational technology that produces controlled changes in ______. 
+@end
+@answer  behavior
+@tries 2
+@graphic none
+@video none
+@begin
+The techniques that control changes in behavior are the bases of ______ instruction. 
+@end
+@answer  programmed
+@tries 2
+@graphic none
+@video none
+@begin
+The essential feature of programmed instruction is that it produces carefully _____led changes in behavior. 
+@end
+@answer  controlled
+@tries 2
+@graphic none
+@video none
+@begin
+All the techniques used in programming that have been taught in this program are techniques designed to control the educational process.  This program is an example of programmed ______. 
+@end
+@answer  instruction
+@tries 2
+@graphic none
+@video none
+@begin
+Programmed instruction is a means of _____ing the educational process. 
+@end
+@answer  controlling
+@tries 2
+@graphic none
+@video none
+@begin
+Formal and thematic prompts, SDs and S^s, fading, immediate reinforcement, observable responses, control of observing behavior, and gradual progression are techniques designed to ______ the educational process. 
+@end
+@answer  control
+@tries 2
+@graphic none
+@video none
+@begin
+One can evaluate programs, teaching machines, textbooks, lectures, training procedures, etc., on the basis of the extent to which they ______ the training process. 
+@end
+@answer  control
+@tries 2
+@graphic none
+@video none
+@begin
+When listening to a lecture, students may look around, daydream, or even sleep.  The technique of lecturing (does/does not) ______ adequately control what students do. 
+@end
+@answer  does not
+@tries 2
+@graphic none
+@video none
+@begin
+Reinforcement is a technique that controls the educational process because it changes the ______ that a particular response will occur in the presence of a particular SD or S^. 
+@end
+@answer  probability
+@tries 2
+@graphic none
+@video none
+@begin
+Presenting an SD established in a discrimination training procedure is a technique of ______ that is used in programming because it increases the probability that a particular response will occur at that particular time. 
+@end
+@answer  control
+@tries 2
+@graphic none
+@video none
+@begin
+Thematic and formal prompts are particular types of complex SD's that increase the probability that a particular ______ will occur. 
+@end
+@answer  response
+@tries 2
+@graphic none
+@video none
+@begin
+The essence of programmed instruction is ______ of the educational process. 
+@end
+@answer  control
+@tries 2
+@graphic none
+@video none
+@begin
+Many students lack basic skills because some educators have lost ______ of the educational process. 
+@end
+@answer  control
+@tries 2
+@graphic none
+@video none
+@begin
+Students (can/cannot) ______ begin to think for themselves, solve complex problems, or engage in critical thinking if they lack basic skills. 
+@end
+@answer  cannot
+@tries 2
+@graphic none
+@video none
+@begin
+The essence of control lies in the relations among particular stimuli, particular _____es, and particular reinforcers. 
+@end
+@answer  responses
+@tries 2
+@graphic none
+@video none
+@begin
+Reinforcement increases the probability that a given response will occur on future occasions when the same discriminative _____s is presented. 
+@end
+@answer  stimulus
+@tries 2
+@graphic none
+@video none
+@begin
+The stimuli, or the part of the stimuli present when a response is reinforced, can become the ______ for that response if the presence of those stimuli is correlated with reinforcement of that response. 
+@end
+@answer  SD
+@tries 2
+@graphic none
+@video none
+@begin
+The stimuli become SD's only if the observing behavior is controlled by reinforcing the responses when those SD's are present, and by _____ ______ing the responses when they are not present. 
+@end
+@answer  not reinforcing
+@tries 2
+@graphic none
+@video none
+@begin
+A programmer produces ______ changes in behavior through programmed instruction. 
+@end
+@answer  controlled
+@tries 2
+@graphic none
+@video none
+@begin
+The basis of the control lies in the relation of the stimuli presented to the observable responses the student makes and to what happens when the student _____ds. 
+@end
+@answer  responds
+@tries 2
+@graphic none
+@video none
+@begin
+Since programmed instruction produces controlled changes in behavior, and since the student participates by making observable responses, the programmer can _____se the program in places where the control is inadequate. 
+@end
+@answer  revise
+@tries 2
+@graphic none
+@video none
+@begin
+The SD's or S^'s presented in the frame, and the response repertoire the student brings to the frame, control the ______ of the occurrence of a given response on a given frame. 
+@end
+@answer  probability
+@tries 2
+@graphic none
+@video none
+@begin
+The specification of the initial behavior of the student in a form which is of the most practical importance to the programmer may be achieved by stating the likelihood that the student will respond appropriately to the first few ______ of the program. 
+@end
+@answer  frames
+@tries 2
+@graphic none
+@video none
+@begin
+If the specification of the student's initial behavior is (inadequate/adequate) ______, you run the risk of writing a program in which the student may not be able to respond correctly to the first frames. 
+@end
+@answer  inadequate
+@tries 2
+@graphic none
+@video none
+@begin
+Students should always have the ______ behavior that enables them correctly respond to the first few frames of a program. 
+@end
+@answer  initial
+@tries 2
+@graphic none
+@video none
+@begin
+This program on programming would have been written very differently for behavioral psychologists because they have different _____l _____r than students who are not psychologists. 
+@end
+@answer  initial behavior
+@tries 2
+@graphic none
+@video none
+@begin
+A program designed as a "refresher course" would progress (more/less) ______ rapidly than a program designed to teach new behaviors. 
+@end
+@answer  more
+@tries 2
+@graphic none
+@video none
+@begin
+As a program progresses, the programmer relies more on what has been taught previously in the program to control the _____y of particular responses and less upon the initial response repertoire of the students. 
+@end
+@answer  probability
+@tries 2
+@graphic none
+@video none
+@begin
+Programmed instruction is a technology designed to ______ the educational process. 
+@end
+@answer  control
+@tries 2
+@graphic none
+@video none
+@begin
+Programmed instruction controls the educational process.  If the desired changes in behavior are not produced, the program can be _____ed. 
+@end
+@answer  revised
+@tries 2
+@graphic none
+@video none

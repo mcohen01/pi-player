@@ -1,0 +1,308 @@
+@begin
+1.   One use of the term "behavioral process" refers to the<br/>     interaction of _______s.<br/>
+@end
+@answer VARIABLES
+@tries 1
+@graphic none
+@video none
+@begin
+2.   Variability, whether within or between species, results from<br/>     ig_____ce on the part of the investigator.<br/>
+@end
+@answer IGNORANCE
+@tries 1
+@graphic none
+@video none
+@begin
+3.   Failure to replicate a finding, within or among species, is<br/>     a result of incomplete understanding of the _______ing<br/>     variables.<br/>
+@end
+@answer CONTROLLING
+@tries 1
+@graphic none
+@video none
+@begin
+4.   A "behavioral process" may refer to the f_______al relation<br/>     that occurs when we systematically vary at least one<br/>     controlling variable.<br/>
+@end
+@answer FUNCTIONAL
+@tries 1
+@graphic none
+@video none
+@begin
+5.   An investigator should refrain from checking sp____es<br/>     g______ity until he has first checked the generality of the<br/>     process under varied conditions with the original species.<br/>
+@end
+@answer SPECIES GENERALITY
+@tries 1
+@graphic none
+@video none
+@begin
+6.   The degree of _______ity achieved will be determined in<br/>     large part by the prec__ion of our experimental techniques.<br/>
+@end
+@answer GENERALITY PRECISION
+@tries 1
+@graphic none
+@video none
+@begin
+7.   The soundest empirical test of the reliability of data is<br/>     provided by r_______.<br/>
+@end
+@answer REPLICATION
+@tries 1
+@graphic none
+@video none
+@begin
+8.   _______ replication may be accomplished either by performing<br/>     the experiment again with new subjects or by making repeated<br/>     observations on the same subjects under each of several<br/>     experimental conditions.<br/>
+@end
+@answer DIRECT
+@tries 1
+@graphic none
+@video none
+@begin
+9.   We call replication with NEW subjects<br/>     (intragroup/intergroup) _______ replication.<br/>
+@end
+@answer INTERGROUP
+@tries 1
+@graphic none
+@video none
+@begin
+10.  We call replication with NEW subjects<br/>     (intrasubject/intersubject) _______ replication.<br/>
+@end
+@answer INTERSUBJECT
+@tries 1
+@graphic none
+@video none
+@begin
+11.  When the ORIGINAL subjects are retained, we use the term<br/>     (intragroup/intergroup) _______ replication.<br/>
+@end
+@answer INTRAGROUP
+@tries 1
+@graphic none
+@video none
+@begin
+12.  However, when the ORIGINAL subjects are retained, we use the<br/>     term (intersubject/intrasubject) _______ replication.<br/>
+@end
+@answer INTRASUBJECT
+@tries 1
+@graphic none
+@video none
+@begin
+13.  In psychological experiments that employ large populations<br/>     and group-data techniques, repetition is (frequently<br/>     done/rare) _______<br/>
+@end
+@answer RARE
+@tries 1
+@graphic none
+@video none
+@begin
+14.  Replication of (group/individual) _______ data may permit a<br/>     direct assessment of both reliability and generality of a<br/>     phenomenon.<br/>
+@end
+@answer INDIVIDUAL
+@tries 1
+@graphic none
+@video none
+@begin
+15.  _______subject replication is (reasonably/unreasonably)<br/>     _______ demanded "because the original single subject may have<br/>     been a freak."<br/>
+@end
+@answer INTERSUBJECT UNREASONABLY
+@tries 1
+@graphic none
+@video none
+@begin
+16.  The purpose of _______subject replication is to determine<br/>     whether uncontrolled and/or unknown variables might be<br/>     powerful enough to prevent successful repetition.<br/>
+@end
+@answer INTERSUBJECT
+@tries 1
+@graphic none
+@video none
+@begin
+17.  Assuming no falsification of data or technique, failure to<br/>     replicate leads scientists to:<br/>     <br/>     a.  search for uncontrolled variables<br/>     b.  reject the research results<br/>
+@end
+@answer A
+@tries 1
+@graphic none
+@video none
+@begin
+18.  The per_____ty and char____ter of the experimenter will be<br/>     taken into consideration by a scientist's colleagues and<br/>     peers when they evaluate his or her data.<br/>
+@end
+@answer PERSONALITY CHARACTER
+@tries 1
+@graphic none
+@video none
+@begin
+19.  If an individual reveals in his personal relationships that<br/>     he will dishonestly represent his motives and actions, his<br/>     or her professional audience is likely to g______ze from<br/>     this behavior pattern to his scientific activity.<br/>
+@end
+@answer GENERALIZE
+@tries 1
+@graphic none
+@video none
+@begin
+20.  Individuals whose behavior is predominantly under the<br/>     control of (things/people) _______ are likely to be more<br/>     honest scientists.<br/>
+@end
+@answer THINGS
+@tries 1
+@graphic none
+@video none
+@begin
+21.  Inter_____ replication provides an indicator of reliability<br/>     insofar as it demonstrates that changes in central tendency<br/>     for a group can be repeated.<br/>
+@end
+@answer INTERGROUP
+@tries 1
+@graphic none
+@video none
+@begin
+22.  Intergroup (answers/does not answer) _______ the question of<br/>     how many individuals the data actually represent.<br/>
+@end
+@answer DOES NOT ANSWER
+@tries 1
+@graphic none
+@video none
+@begin
+23.  With inter_______ replication each additional experiment<br/>     ___creases the representativeness of the findings.<br/>
+@end
+@answer INTERSUBJECT INCREASES
+@tries 1
+@graphic none
+@video none
+@begin
+24.  Which establishes greater generality?<br/>     <br/>     a.  replication with two subjects<br/>     b.  replication with two groups whose data have been<br/>combined<br/>
+@end
+@answer A
+@tries 1
+@graphic none
+@video none
+@begin
+25.  With group-statistical experiments, inter_______ replication<br/>     seldom occurs.<br/>
+@end
+@answer INTERSUBJECT
+@tries 1
+@graphic none
+@video none
+@begin
+26.  Individual subject experiment automatically contain<br/>     inter_____ replication when they include more than one<br/>     individual.<br/>
+@end
+@answer INTERSUBJECT
+@tries 1
+@graphic none
+@video none
+@begin
+27.  How many replications are necessary for representativeness<br/>     is a (qualitative/quantitative) _______ question.<br/>
+@end
+@answer QUALITATIVE
+@tries 1
+@graphic none
+@video none
+@begin
+28.  Sidman reported that intersubject replication beyond the<br/>     number of four individuals was (often/rarely) _______ done<br/>     in his laboratory, when all four had shown the behavioral<br/>     effect.<br/>
+@end
+@answer RARELY
+@tries 1
+@graphic none
+@video none
+@begin
+29.  The "halo" effect a researcher acquires after contributing<br/>     well-controlled and verifiable results to the field is<br/>     (unjustified/justified) _______.  In other words, new<br/>     research results by that researcher, (possibly in a different <br/>     research area) are probably (not/more) ________ trustworthy than<br/>     those of an unknown researcher.<br/>
+@end
+@answer JUSTIFIED MORE
+@tries 1
+@graphic none
+@video none
+@begin
+30.  To (low/high) _______ a judgment of one's own experimental<br/>     adequacy, in the face of contrary evidence, will cost too<br/>     much time, energy, and money in unnecessary demonstrations<br/>     of one's competence.<br/>
+@end
+@answer LOW
+@tries 1
+@graphic none
+@video none
+@begin
+31.  Comparisons between data must be made among phenomena that<br/>     display a greater or lesser degree of variability. <br/>     Statistical judgement will be involved.  All of the<br/>     statistical processes employed (have/have not) _______ been<br/>     written into textbooks.<br/>
+@end
+@answer HAVE NOT
+@tries 1
+@graphic none
+@video none
+@begin
+32.  Suppose that several individuals reveal the same effect but<br/>     their ongoing rates of behavior are substantially different.<br/><br/>     The consistency of the individual effects in light of the<br/>     individual differences in rate serves to (extend/question)<br/>     _______ their reliability and generality.<br/>
+@end
+@answer EXTEND
+@tries 1
+@graphic none
+@video none
+@begin
+33.  Every demonstration that a behavioral phenomenon is<br/>     independent of variables (that one has reason to suspect<br/>     would be important factors) serves to (reduce/extend)<br/>     _______ the generality and reliability of that phenomenon. <br/>     The significance that will be assigned to such a<br/>     demonstration (is/is not) _______ basically a statistical<br/>     matter.<br/>
+@end
+@answer EXTEND IS NOT
+@tries 1
+@graphic none
+@video none
+@begin
+34.  With statistical designs, each value of the _______ variable<br/>     is generally administered (more than/only) _______ once, and<br/>     the difference between the treatments is evaluated against a<br/>     theory which assesses the likelihood of such a difference<br/>     occurring by _______e.  <br/>
+@end
+@answer INDEPENDENT ONLY CHANCE
+@tries 1
+@graphic none
+@video none
+@begin
+35.  In a series of manipulations within a single subject the<br/>     possible role of chance diminishes rapidly with each<br/>     successful _______n.<br/>
+@end
+@answer REPLICATION
+@tries 1
+@graphic none
+@video none
+@begin
+36.  Most scientists make judgments about what constitute<br/>     "adequate" replications (statistically/intuititively)<br/>     _______.<br/>
+@end
+@answer INTUITITIVELY
+@tries 1
+@graphic none
+@video none
+@begin
+37.  With respect to intrasubject replication, it is<br/>     (difficult/easy) _______ to exercise experimental control<br/>     over independent variables.  This ______ceases the<br/>     confidence in the reality of an observed experimental<br/>     effect.<br/>
+@end
+@answer EASY INCREASES
+@tries 1
+@graphic none
+@video none
+@begin
+38.  Intrasubject replication has the virtue of eliminating<br/>     intersubject _______y as a factor in the evaluation of an<br/>     experimental finding.<br/>
+@end
+@answer VARIABILITY
+@tries 1
+@graphic none
+@video none
+@begin
+39.  Group statistical procedures generally operate against a<br/>     baseline of _____subject variability.<br/>
+@end
+@answer INTERSUBJECT
+@tries 1
+@graphic none
+@video none
+@begin
+40.  In a design in which data from individuals are combined, the<br/>     difference between two treatments may be less than the<br/>     _____subject variability.  In this case, the difference<br/>     (would/would not) _______ be called "significant."<br/>
+@end
+@answer INTERSUBJECT WOULD NOT
+@tries 1
+@graphic none
+@video none
+@begin
+41.  ____subject replication is free from the problem of<br/>     _____subject variability.<br/>
+@end
+@answer INTRASUBJECT INTERSUBJECT
+@tries 1
+@graphic none
+@video none
+@begin
+42.  Intrasubject replication is possible only when the<br/>     behavioral _______e from which changes are measured has<br/>     attained a steady, recoverable state, or when the _______e<br/>     is changing in some known, orderly fashion.<br/>
+@end
+@answer BASELINE BASELINE
+@tries 1
+@graphic none
+@video none
+@begin
+43.  Multiple replications of a precisely controlled procedure<br/>     can be done using a stable baseline as a background for<br/>     comparison.  The consistency of effects leaves no doubt that<br/>     the effect of the procedure is genuine.  The simplicity of<br/>     such a demonstration made possible by the stability of the<br/>     baseline is a feature of ____subject replication that is in<br/>     the best tradition of scientific methodology.<br/>
+@end
+@answer INTRASUBJECT
+@tries 1
+@graphic none
+@video none
+@begin
+44.  No statistical demonstration using averaged data can produce<br/>     data having the consistency produced by an _____subject<br/>     design because the averaged data unavoidably include<br/>     _____subject differences.<br/>
+@end
+@answer INTRASUBJECT INTERSUBJECT
+@tries 1
+@graphic none
+@video none

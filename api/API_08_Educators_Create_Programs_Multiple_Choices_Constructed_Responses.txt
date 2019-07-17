@@ -1,0 +1,231 @@
+@begin
+A computer is called a teaching ______ when it presents programmed instruction. 
+@end
+@answer  machine
+@tries 2
+@graphic none
+@video none
+@begin
+Teaching machines, like computers that present programmed instruction, let learners progress at their own _____s. 
+@end
+@answer  rates
+@tries 2
+@graphic none
+@video none
+@begin
+In which of the following is the teacher in the most control of the instructional situation?  a. lecture presentation b. group discussion c. programmed instruction 
+@end
+@answer  c
+@tries 2
+@graphic none
+@video none
+@begin
+Although many subjects have been programmed, the range of subjects yet to be programmed is very broad.  Since programming has had its primary development within the academic setting, most of the programs deal with _____ subjects. 
+@end
+@answer  academic
+@tries 2
+@graphic none
+@video none
+@begin
+Although many subjects have been programmed, few of them may match the specific goals of a educator's curriculum.  For this reason, individual e_____rs can create programs for their specific courses. 
+@end
+@answer  educators
+@tries 2
+@graphic none
+@video none
+@begin
+Many subjects have been programmed, but, in most programs, the actual responses taught are usually relatively restricted.  In this program, your responses have almost always been the filling in of _____s on the screen. 
+@end
+@answer  blanks
+@tries 2
+@graphic none
+@video none
+@begin
+If we were to ask you to prepare a ten-minute talk on programmed instruction, you could probably do it.  But we have not taught you to do so.  We would be capitalizing on what you could do before you came to the program, i.e., upon your ______ behavioral repertoire. 
+@end
+@answer  initial
+@tries 2
+@graphic none
+@video none
+@begin
+Students can write essays and talk about material they have learned in programs like this one, but the programs only teach the students to fill in _____s. 
+@end
+@answer  blanks
+@tries 2
+@graphic none
+@video none
+@begin
+In many cases, we can rely upon the initial behavioral repertoire to enable students to engage in behaviors not taught in a particular ______. 
+@end
+@answer  program
+@tries 2
+@graphic none
+@video none
+@begin
+Although most of the people going through this program could prepare a ten-minute talk about programmed instruction, few could actually write a self-instructional ______. 
+@end
+@answer  program
+@tries 2
+@graphic none
+@video none
+@begin
+Having gone this far through this program, you now know a lot about programming, but if we wanted you to write programs, we would have to teach you to write _____s. 
+@end
+@answer  programs
+@tries 2
+@graphic none
+@video none
+@begin
+If we wanted to be sure you could prepare a ten-minute talk about programmed instruction, we would have to teach you to prepare a ten-minute ______. 
+@end
+@answer  talk
+@tries 2
+@graphic none
+@video none
+@begin
+We can only be sure a student can do the things (i.e., make the responses) that the program teaches.  In a constructed response program such as this one, we can only be sure that you can fill in ______ appropriately. 
+@end
+@answer  blanks
+@tries 2
+@graphic none
+@video none
+@begin
+You can do much more than merely fill in blanks.  We have capitalized upon skills that you brought to the program, i.e., upon your initial ______. 
+@end
+@answer  behavior
+@tries 2
+@graphic none
+@video none
+@begin
+In a multiple choice program, the programmer can be sure that students can  a. select from alternatives. b. construct responses. 
+@end
+@answer  a
+@tries 2
+@graphic none
+@video none
+@begin
+We could change this program into a multiple choice program by giving you several alternatives to _____ct from. 
+@end
+@answer  select
+@tries 2
+@graphic none
+@video none
+@begin
+The alternatives in a multiple choice frame must all, in some sense, be reasonable so the student studies every  a. shoe. b. dolphin. c. alternative. 
+@end
+@answer  c
+@tries 2
+@graphic none
+@video none
+@begin
+In the preceding frame, students can select the correct alternative (only by/without) ______ studying the other alternatives. 
+@end
+@answer  without
+@tries 2
+@graphic none
+@video none
+@begin
+In a multiple choice program, the programmer often selects the alternatives so that they are all, in some sense, reasonable.  The programmer does so to control the attention or ______ ______ of the student. 
+@end
+@answer  observing behavior
+@tries 2
+@graphic none
+@video none
+@begin
+Each alternative in a multiple choice item must be, to some extent, prompted within the program and within the frame in order to ______ the observing behavior of the student. 
+@end
+@answer  control
+@tries 2
+@graphic none
+@video none
+@begin
+In a multiple choice item, each alternative must be _____ed to some extent. 
+@end
+@answer  prompted
+@tries 2
+@graphic none
+@video none
+@begin
+However, prompting of incorrect responses is likely to confuse the student and certainly makes it (easy/more difficult) ______ for the programmer to program. 
+@end
+@answer  more difficult
+@tries 2
+@graphic none
+@video none
+@begin
+Prompting incorrect alternatives, so the student studies them, slightly raises the ______ that the student may select that incorrect alternative in the future. 
+@end
+@answer  probability
+@tries 2
+@graphic none
+@video none
+@begin
+In a constructed response program, the programmer tries to _____t and reinforce only correct responses. 
+@end
+@answer  prompt
+@tries 2
+@graphic none
+@video none
+@begin
+In handling material that can be programmed by the use of either multiple choice responses or constructed responses, we recommend using ______ responses. 
+@end
+@answer  constructed
+@tries 2
+@graphic none
+@video none
+@begin
+However multiple-choice frames are appropriate in some circumstances.  For example, a discrimination training programs can use them to teach students to discriminate among similar sounds, colors, and the like.  The responses consist of "accepting" SD's and "rejecting" _____'s. 
+@end
+@answer  S^'s
+@tries 2
+@graphic none
+@video none
+@begin
+A programmer designs programs to control the learning of subject matters, and she uses _____g _____s to control the presentation of programs. 
+@end
+@answer  teaching machines
+@tries 2
+@graphic none
+@video none
+@begin
+Individual e_____rs can create programs for their specific courses. 
+@end
+@answer  educators
+@tries 2
+@graphic none
+@video none
+@begin
+We can only be sure a student can do the things that the ______ teaches. 
+@end
+@answer  program
+@tries 2
+@graphic none
+@video none
+@begin
+The alternatives in a multiple choice frame must all, in some sense, be reasonable so the student studies every alternative.  The programmer does so to control the ______ ______ of the student. 
+@end
+@answer  observing behavior
+@tries 2
+@graphic none
+@video none
+@begin
+Each alternative in a multiple choice item must be prompted within the program and within the frame in order to ______ the observing behavior of the student. 
+@end
+@answer  control
+@tries 2
+@graphic none
+@video none
+@begin
+Prompting incorrect alternatives slightly raises the probability that the student may select ______ alternatives in the future. 
+@end
+@answer  incorrect
+@tries 2
+@graphic none
+@video none
+@begin
+In handling material that can be programmed by the use of either multiple-choice responses or constructed responses, we recommend using ______ responses. 
+@end
+@answer  constructed
+@tries 2
+@graphic none
+@video none

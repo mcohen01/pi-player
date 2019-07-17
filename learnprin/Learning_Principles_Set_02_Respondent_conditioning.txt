@@ -1,0 +1,242 @@
+@begin
+Many cause and effect relationships are clear. Someone you like walks into the room and you immediately feel good.  The sight of the person is a stimulus and your good feeling is your _______se to that stimulus.
+@end
+@answer response
+@tries 2
+@graphic friendenteringroom.gif
+@video none
+@begin
+When a stimulus "forces" or "elicits" your response, technically speaking, we call your response as "respondent."  When Pavlov presented food powder to his dogs they salivated (i.e., their behaviors were "respondents").  Feeling good at the sight of a very special friend is another example of a _______.
+@end
+@answer respondent
+@tries 2
+@graphic fooddogsalivating.jpg
+@video none
+@begin
+We call the behavior in a reflex "respondent" behavior because it is caused by stimuli that (follow/precede) _______ it.
+@end
+@answer precede
+@tries 1
+@graphic respondentdefinition.jpg
+@video none
+@begin
+(1) an eliciting stimulus and (2) its respondent are, together, called a reflex.  A _______x like withdrawing ones hand from a painful stimulus is present at birth.
+@end
+@answer reflex
+@tries 1
+@graphic handwithdrawalreflex.jpg
+@video none
+@begin
+Technically speaking, the relationship called a reflex is composed of first a _______ and then a response (or respondent).
+@end
+@answer stimulus
+@tries 2
+@graphic none
+@video none
+@begin
+R_______s are often called "involuntary" because they are forced to occur and aren't considered "willful" actions.  
+@end
+@answer reflexes
+@answer respondents
+@tries 1
+@graphic none
+@video none
+@begin
+Reflexes like the peristaltic action of our intestines, the knee reflex, and the beating of our hearts are examples of _______.  They occur "unintentially," in other words they are automatic.
+@end
+@answer reflexes
+@answer respondents
+@tries 1
+@graphic preflex.gif
+@video none
+@begin
+Our bodies conserve heat when we get "goose bumps" and loose heat by sweating.  The term "internal economy" refers to the biological  functions of one's body.  Most reflexes are related to the welfare of our i_______ e_________, for example, breathing, the heart beating, sweating, or withdrawing from destructive stimuli.
+@end
+@answer internal economy
+@tries 2
+@graphic none
+@video none
+@begin
+When we are hungry, the aroma of pizza fresh out of the oven will make us salivate and feel good.  The person who presents a piece to us will (never/also) _______ elicit some of the same feelings.
+@end
+@answer also
+@tries 1
+@graphic pizzahand.jpg
+@video none
+@begin
+New reflexes are acquired via the process called "conditioning."  The process is often called "classical" conditioning, however, we will refer to it as "respondent conditioning."  When a novel stimulus (like a bell) occurs at the same time as a pleasant stimulus (like food), that novel stimulus will also come to elicit a similar physiological reaction.  This process is called respondent _______.
+@end
+@answer conditioning
+@tries 1
+@graphic respondentconditioning.jpg
+@video none
+@begin
+A "contingency" is two events occuring together in time--essentially simultaneously.  The fierce snarling, growling, and snapping of a dog together with a painful bite would be an example of a _______y, and that combination of stimuli would result in a CONDITIONED reflex.
+@end
+@answer contingency
+@tries 2
+@graphic dogsnarl.jpg
+@video none
+@begin
+The process of natural selection developed reflexes because they promoted the survival of an organism.  (True or false?) _______
+@end
+@answer true
+@tries 1
+@graphic none
+@video none
+@begin
+Respondent conditioning involves the pairing or simultaneous occurrence of a new stimulus with one that already elicits a respondent.  (True or False) _______
+@end
+@answer true
+@tries 1
+@graphic none
+@video none
+@begin
+An animal may growl and bite.   A growl, by itself, will also come to elicit an elevated heart rate and withdrawal of one's hand in the future--through the process called classical or respondent _______,
+@end
+@answer conditioning
+@tries 1
+@graphic none
+@video none
+@begin
+Advertisers pair attractive people, babies, and pleasant scenes with their products.  They are using _______t conditioning to get you to respond to their products in the same way you do to attractive people, babies, and pleasant scenes.
+@end
+@answer respondent
+@tries 2
+@graphic coke.jpg
+@video none
+@begin
+Feeling happy or sad in response to hearing certain kinds of music are emotional responses established by respondent conditioning.  (True or false) _______
+@end
+@answer true
+@tries 1
+@graphic none
+@video none
+@begin
+Being bitten by an animal automatically elicits an elevated heart rate and withdrawal from the animal.  These are UNconditioned _______.
+@end
+@answer reflexes
+@answer responses
+@answer respondents
+@tries 1
+@graphic none
+@video none
+@begin
+Dust in the eye elicits tears that wash it away.  We call dust the _______ and tears the _______e and both compose what we call a reflex. [Type two words with a space between them like this: xxxx yyyy]
+@end
+@answer stimulus response
+@tries 2
+@graphic none
+@video none
+@begin
+A sudden movement near the eye elicits blinking.  Blinking is the _______e to the movement.
+@end
+@answer response
+@tries 2
+@graphic none
+@video none
+@begin
+Gagging when pushing your toothbrush too far back into your throat is an example of a _______x.
+@end
+@answer reflex
+@tries 2
+@graphic none
+@video none
+@begin
+A minor unexpected noise behind you will elicit a slightly elevated heart rate.  However, a sudden very loud noise will elicit a (minor/major) _______ change in your heart rate.
+@end
+@answer major
+@tries 1
+@graphic none
+@video none
+@begin
+A very funny joke will elicit a big laugh.  A characteristic of reflexive behavior is that there is (a/no) _______ relationship between the intensity of the stimulus and the magnitude of the response.
+@end
+@answer a
+@tries 1
+@graphic biglaugh.jpg
+@video none
+@begin
+Hearing an old song or seeing an old toy may elicit the feeling called "nostalgia" if it was associated with fun times during one's childhood.  The feeling of nostalgia is a(n) (unconditioned/conditioned) _______ reflex.
+@end
+@answer conditioned
+@tries 1
+@graphic bigwheel.jpg
+@video none
+@begin
+If experiences were intense, the magnitude of the feeling of nostalgia would be (insignificant/significant)  _______, perhaps bringing tears to one's eyes.
+@end
+@answer significant
+@tries 1
+@graphic teddybear.jpg
+@video none
+@begin
+You may be listening to a conversation that is just comical enough to make you chuckle--but only after a moment or two.  The intensity of the comical episode and delay or LATENCY of your laughter (is/is not) _______ related.
+@end
+@answer is
+@tries 1
+@graphic none
+@video none
+@begin
+There is an important relationship between a stimulus and a response in what is called a reflex.  The more intense the stimulus the (longer/shorter) _______ the delay of the response.
+@end
+@answer shorter
+@tries 1
+@graphic none
+@video none
+@begin
+Other factors affect the conditioning of reflexes such as your feelings.  Current distractions in the environment and the condition of your body interfere with the process we call respondent _______.
+@end
+@answer conditioning
+@tries 1
+@graphic none
+@video none
+@begin
+Respondent conditioning may miscarry, for example in the development of STEREOTYPED responses.  Strong behavior with respect to the sight of someone we dislike may be elicited by other people with the same features, wearing the same type of clothes, etc.  Such reactions would be called s_______ped responses. 
+@end
+@answer stereotyped
+@tries 2
+@graphic oldstereotype.jpg
+@video none
+@begin
+Bad experiences with a police officer, a stern or abusive teacher, or a sibling, may lead to _______typed responding to people with similar features.  We call them nonfunctional because we then respond (appropriately/inappropriately) _______ to others.  [Type two words with a space between them like this: xxxxx yyyyy]
+@end
+@answer stereotyped inappropriately
+@tries 1
+@graphic policemanfriend.jpg
+@video none
+@begin
+Stereotyped responses arise from (functional/nonfunctional) ________ pairings.
+@end
+@answer nonfunctional
+@tries 1
+@graphic none
+@video none
+@begin
+A young child experienced a very close lightening strike and loud thunder.  The lightening ignited straw in a garage attic nearby. Pandemonium ensued together with the arrival of firetrucks with loud sirens and excited people.  The child panicked.  In the future, whenever thunder occurred the child was found in his bed underneath the covers crying and sweating profusely.  His crying and sweating were (conditioned/unconditioned)_______ responses to thunder.
+@end
+@answer conditioned
+@tries 2
+@graphic none
+@video none
+@begin
+Conditioned reflexes can be weakened or irradicated by the reverse of respondent _______g.  This is called respondent EXTINCTION.
+@end
+@answer conditioning
+@tries 1
+@graphic none
+@video none
+@begin
+Conditioned crying and sweating can be reduced or eliminated by first presenting very distant thunder without any accompanying pandamonium.  Then, over time we may present progressively louder thunder WITHOUT any accompanying negative stimulation.  Eventually, the crying and sweating will subside.  This is the process called respondent e_______n.
+@end
+@answer extinction
+@tries 2
+@graphic none
+@video none
+@begin
+Respondent behavior has to do with our happiness and well-being, especially the internal economy of our bodies and how we feel each moment of the day.  But a much larger proportion of our daily activity is not elicited or "forced" to occur, it is strengthened by its consequences.  In the next set of frames we will examine this second kind of learned behavior called operant behavior.  Operant behavior is (elicited by stimuli/strengthened by its consequences _______).  In other words, it makes something happen.
+@end
+@answer strengthened by its consequences
+@tries 1
+@graphic armpoint.gif
+@video none

@@ -1,0 +1,371 @@
+@begin
+1.   BEGINNING OF CHAPTER 1.  A(n) _______ is a guess about what<br/>     an experiment will reveal.  It is a mistake to be more<br/>     interested in the accuracy of one's (TT) _______ than the<br/>     truthfulness or utility of the functional relations that may<br/>     be revealed.<br/>
+@end
+@answer HYPOTHESIS HYPOTHESIS
+@tries 1
+@graphic none
+@video none
+@begin
+2.   When a prediction of results (an hypothesis) is stated and<br/>     research is accomplished to test the truth of the prediction<br/>     the researcher is (less/more) _______ likely to note<br/>     unexpected results and pursue the reasons for these results.<br/>
+@end
+@answer LESS
+@tries 1
+@graphic none
+@video none
+@begin
+3.   The importance of data (is/is not) _______ affected by the<br/>     sophistication of the hypotheses that may have generated the<br/>     experiments.<br/>
+@end
+@answer IS NOT
+@tries 1
+@graphic none
+@video none
+@begin
+4.   A behavioral researcher should:<br/>     <br/>     a.  follow the lead of sophisticated theoreticians and<br/>design experiments whose data may be of interest in reference to<br/>the theory in question<br/>     <br/>     b.  perform experiments that he believes will yield data of<br/>general interest, irrespective of whether current theories have<br/>been designed to handle them.<br/>
+@end
+@answer B
+@tries 1
+@graphic none
+@video none
+@begin
+5.   Good _______ are notoriously fickle.  They change their<br/>     allegiance from t_______ to t_______, and even maintain<br/>     their importance in the presence of no _______ at all.<br/>
+@end
+@answer DATA THEORY THEORY THEORY
+@tries 1
+@graphic none
+@video none
+@begin
+6.   "Theory" can be of at least two kinds.  Which of the two is<br/>     most problematic?<br/>     <br/>     a.  references to events or processes which do not occur at<br/>the level of direct objective inspection<br/>     <br/>     b.  statements which summarize and integrate processes and<br/>relationships observed by direct objective inspection<br/>
+@end
+@answer A
+@tries 1
+@graphic none
+@video none
+@begin
+7.   A  _______ might be defined as a person whose indulgence of<br/>     his _______y is also the means by which he earns his living.<br/>
+@end
+@answer SCIENTIST CURIOSITY
+@tries 1
+@graphic none
+@video none
+@begin
+8.   Any experiment worth its salt will raise more _______ns than<br/>     it so____es.<br/>
+@end
+@answer QUESTIONS SOLVES
+@tries 1
+@graphic none
+@video none
+@begin
+9.   Which is the preferable orientation for a scientist?<br/>     <br/>     a.  I would like to demonstrate that . . . <br/>     b.  I wonder what will happen if . . . <br/>
+@end
+@answer B
+@tries 1
+@graphic none
+@video none
+@begin
+10.  A scientist hostile to an hypothesis is surprised only if it<br/>     (does/does not) _______ receive support from the data.<br/>
+@end
+@answer DOES NOT
+@tries 1
+@graphic none
+@video none
+@begin
+11.  Results can be "negative" with respect to which of the<br/>     following?<br/>     <br/>     a.  I would like to demonstrate that . . . <br/>     b.  I wonder what will happen if . . . <br/>
+@end
+@answer A
+@tries 1
+@graphic none
+@video none
+@begin
+12.  Theoreticians have a _______l investment in their own<br/>     guesswork and can easily ov____k data which have relevance<br/>     beyond their theories.<br/>
+@end
+@answer PERSONAL OVERLOOK
+@tries 1
+@graphic none
+@video none
+@begin
+13.  Those who have no h_______s (plural) or hold them lightly are<br/>     (more/less) _______ likely to be alert to the a_______l<br/>     discovery of a new phenomenon.<br/>
+@end
+@answer HYPOTHESES MORE ACCIDENTAL
+@tries 1
+@graphic none
+@video none
+@begin
+14.  Walter Cannon coined the word _______y to refer to<br/>     accidental discoveries.<br/>
+@end
+@answer SERENDIPITY
+@tries 1
+@graphic none
+@video none
+@begin
+15.  Brady's research with monkeys who could and could not avoid<br/>     shocks found that those who (could/could not) ________ avoid them were the<br/>     ones who got _______s.  This experiment was an example of<br/>     scientific s_______y.<br/>
+@end
+@answer COULD ULCERS SERENDIPITY
+@tries 1
+@graphic none
+@video none
+@begin
+16.  (Behavioral) theory defined as summarizing and integrating<br/>     statements which refer to objective phenomena is most<br/>     appropriate<br/>     <br/>     a.  when restricted to a limited coverage of a small amount<br/>of relatively simple data<br/>     <br/>     b.  when it is broad statements discussing phenomena in<br/>diverse areas<br/>
+@end
+@answer A
+@tries 1
+@graphic none
+@video none
+@begin
+17.  _______ive theorizing involves formulating theories first,<br/>     then testing them by means of experiments which confirm or<br/>     refute them.<br/>
+@end
+@answer DEDUCTIVE
+@tries 1
+@graphic none
+@video none
+@begin
+18.  _______ive theorizing involves doing experiments first, then<br/>     making general statements about results.<br/>
+@end
+@answer INDUCTIVE
+@tries 1
+@graphic none
+@video none
+@begin
+19.  Murray Sidman is a(n) (deductive\inductive) _______ive<br/>     theorist.<br/>
+@end
+@answer INDUCTIVE
+@tries 1
+@graphic none
+@video none
+@begin
+20.  Whenever we are forced to use groups of subjects or large<br/>     behavior samples from an individual subject in order to<br/>     smooth the data, we are demonstrating a lack of _______l<br/>     c_______ over our subject matter.<br/>
+@end
+@answer EXPERIMENTAL CONTROL
+@tries 1
+@graphic none
+@video none
+@begin
+21.  Techniques and hardware that permit greater _______ over<br/>     behavior are among the most important contributions we can<br/>     make in a science of behavior.<br/>
+@end
+@answer CONTROL
+@tries 1
+@graphic none
+@video none
+@begin
+22.  The development of behavioral _______ techniques is,<br/>     strangely, seldom cited as one of the prime goals of<br/>     psychological research.<br/>
+@end
+@answer CONTROL
+@tries 1
+@graphic none
+@video none
+@begin
+23.  Behavioral control _______ are not secondary to theoretical<br/>     development or data collection, they are primary to both<br/>     theory and data.<br/>
+@end
+@answer TECHNIQUES
+@tries 1
+@graphic none
+@video none
+@begin
+24.  Different _______ of experimental _______ over the various<br/>     subject matters provide the defining characteristics between<br/>     the various areas of science.<br/>
+@end
+@answer TECHNIQUES CONTROL
+@tries 1
+@graphic none
+@video none
+@begin
+25.  Behavioral control techniques are properly characterized not<br/>     in terms of the apparatus employed but rather in terms of<br/>     the _______ that are manipulated and the behavioral _______<br/>     that follow upon such manipulation.<br/>
+@end
+@answer VARIABLES CONSEQUENCES
+@tries 1
+@graphic none
+@video none
+@begin
+26.  The adequacy of a technique should be assessed in terms of<br/>     the precision and reliability of the _______ it achieves.<br/>
+@end
+@answer CONTROL
+@tries 1
+@graphic none
+@video none
+@begin
+27.  A _______ed schedule is one in which passage from one<br/>     component to the next is contingent upon behavior. <br/>     Discriminated stimuli which accompany this change rapidly<br/>     become _______  _______rs.<br/>
+@end
+@answer CHAINED CONDITIONED REINFORCERS
+@tries 1
+@graphic none
+@video none
+@begin
+28.  The technique of chaining allowed Ferster and Skinner to<br/>     show that the magnitude of the conditioned reinforcement<br/>     effect was related to t_______  _______nt.<br/>
+@end
+@answer TERMINAL REINFORCEMENT
+@tries 1
+@graphic none
+@video none
+@begin
+29.  A "way" of demonstrating control over behavior is a<br/>     _______e.<br/>
+@end
+@answer TECHNIQUE
+@tries 1
+@graphic none
+@video none
+@begin
+30.  In addition to their importance in the demonstration of<br/>     behavioral _______s, or in the generation and maintenance of<br/>     particular types of _______, control techniques are also<br/>     valuable in the production of behavioral _______es for use<br/>     in studying related phenomena.<br/>
+@end
+@answer PRINCIPLES BEHAVIOR BASELINES
+@tries 1
+@graphic none
+@video none
+@begin
+31.  In order to isolate temporal relations between a drug, for<br/>     example, and behavior, adequate control should produce a<br/>     _______ baseline.<br/>
+@end
+@answer STEADY
+@tries 1
+@graphic none
+@video none
+@begin
+32.  A dimension of behavior (usually rate) should be able to<br/>     i_______ or _______ over a wide range when the effects of a<br/>     previously untested variable are analyzed.<br/>
+@end
+@answer INCREASE DECREASE
+@tries 1
+@graphic none
+@video none
+@begin
+33.  When practical application is at issue, _______ of behavior<br/>     must be shown.<br/>
+@end
+@answer CONTROL
+@tries 1
+@graphic none
+@video none
+@begin
+34.  The importance and utility of a new way of controlling<br/>     behavior is determined by the kind of _______ it produces.<br/>
+@end
+@answer DATA
+@tries 1
+@graphic none
+@video none
+@begin
+35.  Our frustrations will d__ with us, but the published _______<br/>     of our experiments will remain.<br/>
+@end
+@answer DIE DATA
+@tries 1
+@graphic none
+@video none
+@begin
+36.  Most of us are el_______ors of other's work; a few of us are<br/>     creators; only a handful are _____h.<br/>
+@end
+@answer ELABORATORS BOTH
+@tries 1
+@graphic none
+@video none
+@begin
+37.  Many researchers fail to appreciate the importance of<br/>     <br/>     a. brilliantly creative experiments<br/>     b. unelaborated discoveries<br/>
+@end
+@answer B
+@tries 1
+@graphic none
+@video none
+@begin
+38.  Behavior has both temporal and spacial properties.  In other<br/>     words, _______e is as important as _______hy.<br/>
+@end
+@answer RATE TOPOGRAPHY
+@tries 1
+@graphic none
+@video none
+@begin
+39.  Problematic and important behavior in the world at large is<br/>     often not analyzed in the _______ because we are not yet<br/>     able to r______ce relevant variables.<br/>
+@end
+@answer LABORATORY REPRODUCE
+@tries 1
+@graphic none
+@video none
+@begin
+40.  Students of behavior are often not receptive to the<br/>     emergence of new behavioral phenomena and techniques because<br/>     the social/professional environment does not provide<br/>     appropriate professional _______ds.<br/>
+@end
+@answer REWARDS
+@tries 1
+@graphic none
+@video none
+@begin
+41.  N___ processes (that emerge from experimental data) possess<br/>     an advantage over anecdotal or casual observation.  They<br/>     are immediately available for _______al manipulation.<br/>
+@end
+@answer NEW EXPERIMENTAL
+@tries 1
+@graphic none
+@video none
+@begin
+42.  Relevant controlling variables are more obvious under<br/>     (laboratory/natural) _______ conditions.<br/>
+@end
+@answer LABORATORY
+@tries 1
+@graphic none
+@video none
+@begin
+43.  Many people cannot see the relation of laboratory research<br/>     to the world at large because they do not understand basic<br/>     behavioral processes and they have not had sufficient<br/>     instruction to be able to _______.<br/>
+@end
+@answer GENERALIZE
+@tries 1
+@graphic none
+@video none
+@begin
+44.  From the point of view of the "basic" scientist, the<br/>     immediate applicability of a process or technique discovered<br/>     in the laboratory to the world at large (has everything to<br/>     do with/does not determine) _______ the importance of the<br/>     phenomenon.<br/>
+@end
+@answer DOES NOT DETERMINE
+@tries 1
+@graphic none
+@video none
+@begin
+45.  Knowledge for its own sake (is/is not) _______ a legitimate<br/>     pursuit [but you probably won't get grant support for doing<br/>     it!].<br/>
+@end
+@answer IS
+@tries 1
+@graphic none
+@video none
+@begin
+46.  It is a _______ to assume that we must somehow contrive<br/>     experimental analogues of the behavior we observe in our<br/>     fellows.<br/>
+@end
+@answer MISTAKE
+@tries 1
+@graphic none
+@video none
+@begin
+47.  It is the task of an experimental science to recognize<br/>     _______ in behavioral processes across both types of<br/>     organisms and situations.<br/>
+@end
+@answer SIMILARITIES
+@tries 1
+@graphic none
+@video none
+@begin
+48.  A _______ study may not include the whole story, but it may<br/>     have made a start toward the identification of critical<br/>     factors operating in the world at large.<br/>
+@end
+@answer LABORATORY
+@tries 1
+@graphic none
+@video none
+@begin
+49.  Extrapolation from highly controlled experimental situations<br/>     may be _______t because the case to which extrapolation is<br/>     made will in many cases be poorly d_______d.<br/>
+@end
+@answer DIFFICULT DEFINED
+@tries 1
+@graphic none
+@video none
+@begin
+50.  Experimentation under highly controlled conditions may bring<br/>     the investigator under the _______ of variables present in<br/>     non-experimental situations.<br/>
+@end
+@answer CONTROL
+@tries 1
+@graphic none
+@video none
+@begin
+51.  Behavioral experiments (should/need not) _______ be<br/>     analogies of the world at large.<br/>
+@end
+@answer NEED NOT
+@tries 1
+@graphic none
+@video none
+@begin
+52.  A _______ is another name for a frequently occurring<br/>     behavior.<br/>
+@end
+@answer HABIT
+@tries 1
+@graphic none
+@video none
+@begin
+53.  END OF FIRST READING ASSIGNMENT, PAGES 1-30.  In the "social<br/>     sciences," scientists (do/do not) _______ change their<br/>     conceptions and experimental techniques based upon the<br/>     technique of intensive investigation.<br/>
+@end
+@answer DO NOT
+@tries 1
+@graphic none
+@video none

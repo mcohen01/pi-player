@@ -1,0 +1,343 @@
+@begin
+MOTIVATE means to drive forward, urge on, incite, impel, and stimulate to action.  Students who are interested in learning and actively participate in the educational process are said to be _____ed. 
+@end
+@answer  motivated
+@tries 2
+@graphic none
+@video none
+@begin
+There is little point in incorporating technology and educational software in schools if students are not _____ed to learn. 
+@end
+@answer  motivated
+@tries 2
+@graphic none
+@video none
+@begin
+Students need to be _____d to learn. 
+@end
+@answer  motivated
+@tries 2
+@graphic none
+@video none
+@begin
+An inherent feature or characteristic of a person is called a TRAIT of CHARACTER.  Traditionally, educators have explained why some students study and others do not by pointing to certain character traits.  Motivation was said to be a character _____t. 
+@end
+@answer  trait
+@tries 2
+@graphic none
+@video none
+@begin
+An inherent feature or characteristic of a person is called a character ______. 
+@end
+@answer  trait
+@tries 2
+@graphic none
+@video none
+@begin
+A student who eagerly learns, wants to participate, and works for long periods of time was said to possess the character trait called _____n. 
+@end
+@answer  motivation
+@tries 2
+@graphic none
+@video none
+@begin
+Traits refer to  a. conditions outside a person. b. something inside a person. 
+@end
+@answer  b
+@tries 2
+@graphic none
+@video none
+@begin
+Because a trait is something the student brings to the instructional experience, nothing about a _____t tells developers how to create conditions in effective programs. 
+@end
+@answer  trait
+@tries 2
+@graphic none
+@video none
+@begin
+Explaining why students do things by assigning traits to them does (much/very little) ______ to improve the instructional process. 
+@end
+@answer  very little
+@tries 2
+@graphic none
+@video none
+@begin
+However, traits are assigned based on observable BEHAVIORS. A m_____ted student frequently asks questions and works for long periods of time.  Asking questions and working are not traits but observable b_____rs. 
+@end
+@answer  motivated behaviors
+@tries 2
+@graphic none
+@video none
+@begin
+Students do not possess traits but rather the observable _____s which are said to express the traits. 
+@end
+@answer  behaviors
+@tries 2
+@graphic none
+@video none
+@begin
+Mary quietly sits at her seat and stares at her worksheet. Lisa steadily works through her worksheet. (Mary/Lisa) ______ is said to be more motivated. 
+@end
+@answer  lisa
+@tries 2
+@graphic none
+@video none
+@begin
+A student who lacks motivation is not lacking a trait, but rather the observable _____s which are said to express the _____t. 
+@end
+@answer  behaviors trait
+@tries 2
+@graphic none
+@video none
+@begin
+Effective programs have conditions in them that can cause students to be _____ed. 
+@end
+@answer  motivated
+@tries 2
+@graphic none
+@video none
+@begin
+Effective programs cause students to observably _____ve in motivating ways. 
+@end
+@answer  behave
+@tries 2
+@graphic none
+@video none
+@begin
+Developers create effective programs by focusing on the _____s which are said to show studious traits. 
+@end
+@answer  behaviors
+@tries 2
+@graphic none
+@video none
+@begin
+ HIGH RATES OF SUCCESS (REINFORCEMENT)  Programs can motivate learners by ensuring success (Hannafin & Peck, 1988).  Students become motivated if they are _____ful. 
+@end
+@answer  successful
+@tries 2
+@graphic none
+@video none
+@begin
+A learner is successful or not depending on the consequences of his or her actions.  For students, being (correct/incorrect) ______ is a successful consequence. 
+@end
+@answer  correct
+@tries 2
+@graphic none
+@video none
+@begin
+Programs that enable students to be _____ct very often are motivating. 
+@end
+@answer  correct
+@tries 2
+@graphic none
+@video none
+@begin
+A REINFORCER is a motivating consequence; it (raises/lowers) ______ the probability that the student will respond again and continue working.  Being _____ct is a reinforcer. 
+@end
+@answer  raises correct
+@tries 2
+@graphic none
+@video none
+@begin
+Being correct is a re_____cer. 
+@end
+@answer  reinforcer
+@tries 2
+@graphic none
+@video none
+@begin
+The process of making a correct response and receiving a reinforcing consequence is called REINFORCEMENT.  Motivating programs provide for (high/low) ______ rates of reinforcement. 
+@end
+@answer  high
+@tries 2
+@graphic none
+@video none
+@begin
+High rates of reinforcement mean (low/high) ______ error rates. 
+@end
+@answer  low
+@tries 2
+@graphic none
+@video none
+@begin
+Another way of saying that motivating programs provide high rates of success is to say that motivating programs provide _____h rates of r_____ment. 
+@end
+@answer  high reinforcement
+@tries 2
+@graphic none
+@video none
+@begin
+MOTIVATING PROGRAMS ENABLE LEARNERS TO PROGRESS STEP-BY-STEP  In order for learners to be correct often, they move step-by-step from simple to _____x topics (Hannafin & Peck, 1988). 
+@end
+@answer  complex
+@tries 2
+@graphic none
+@video none
+@begin
+Learners move from simple to complex topics one instructional _____p at a time. 
+@end
+@answer  step
+@tries 2
+@graphic none
+@video none
+@begin
+Each frame in this program is a small instructional _____p. 
+@end
+@answer  step
+@tries 2
+@graphic none
+@video none
+@begin
+When evaluating or designing a program, educators should make sure that the size of the instructional _____s that students take are appropriate (Hannafin & Peck, 1988). 
+@end
+@answer  steps
+@tries 2
+@graphic none
+@video none
+@begin
+The size of the instructional ______ is usually appropriate if the student has to carefully study the information and actively respond to it in order to receive _____ment. 
+@end
+@answer  step reinforcement
+@tries 2
+@graphic none
+@video none
+@begin
+Although students learn at different rates, effective programs ensure a ______ rate of success for both fast and s_____w learners (Hannafin & Peck, 1988). 
+@end
+@answer  high slow
+@tries 2
+@graphic none
+@video none
+@begin
+Some students may find a lecture boring, whereas other students can't keep up.  Effective programs provide for high rates of reinforcement for both _____st and _____w learners. 
+@end
+@answer  fast slow
+@tries 2
+@graphic none
+@video none
+@begin
+EFFECTIVE PROGRAMS MAINTAIN LEARNER INTEREST  INTEREST means a feeling of having one's attention, concern, or curiosity particularly engaged by something.  Students are usually very interested in _____ting programs. 
+@end
+@answer  motivating
+@tries 2
+@graphic none
+@video none
+@begin
+Generally, students will remain interested if they are challenged to perform and are successful.  If this program has been properly designed, each frame will challenge you to respond, and you will be _____ct very often.  Hopefully, this program will maintain your _____st. 
+@end
+@answer  correct interest
+@tries 2
+@graphic none
+@video none
+@begin
+Effective programs maintain the learner's _____st (Hannafin & Peck, 1988). 
+@end
+@answer  interest
+@tries 2
+@graphic none
+@video none
+@begin
+Programs that (do/do not) ______ create and maintain learner interest may fail instructionally and decrease enthusiasm for subsequent programs (Hannafin & Peck, 1988). 
+@end
+@answer  do not
+@tries 2
+@graphic none
+@video none
+@begin
+Motivation was traditionally said to be a character ______. 
+@end
+@answer  trait
+@tries 2
+@graphic none
+@video none
+@begin
+A trait is something ____side a person. 
+@end
+@answer  inside
+@tries 2
+@graphic none
+@video none
+@begin
+Traits (tell/do not tell) ______ designers how to create effective programs. 
+@end
+@answer  do not tell
+@tries 2
+@graphic none
+@video none
+@begin
+Traits are assigned based on observable _____s. 
+@end
+@answer  behaviors
+@tries 2
+@graphic none
+@video none
+@begin
+Motivating programs generate the _____s which are said to express motivation. 
+@end
+@answer  behaviors
+@tries 2
+@graphic none
+@video none
+@begin
+Programs motivate learners by ensuring _____ rates of success. 
+@end
+@answer  high
+@tries 2
+@graphic none
+@video none
+@begin
+A successful or reinforcing consequence, such as being correct, is called a _____cer. 
+@end
+@answer  reinforcer
+@tries 2
+@graphic none
+@video none
+@begin
+The process of having to actively respond and receiving a reinforcer is called _____ment. 
+@end
+@answer  reinforcement
+@tries 2
+@graphic none
+@video none
+@begin
+Being correct is a _____cing consequence. 
+@end
+@answer  reinforcing
+@tries 2
+@graphic none
+@video none
+@begin
+Motivating programs provide for high rates of _____nt. 
+@end
+@answer  reinforcement
+@tries 2
+@graphic none
+@video none
+@begin
+Programs should move from simple to complex topics in small _____s. 
+@end
+@answer  steps
+@tries 2
+@graphic none
+@video none
+@begin
+Motivating programs maintain student _____st. 
+@end
+@answer  interest
+@tries 2
+@graphic none
+@video none
+@begin
+Students who are motivated by programs are (more/less) ______ likely to work through other programs. 
+@end
+@answer  more
+@tries 2
+@graphic none
+@video none
+@begin
+Programs that keep students actively working through them and provide for high rates of reinforcement are said to be m_____g programs. 
+@end
+@answer  motivating
+@tries 2
+@graphic none
+@video none

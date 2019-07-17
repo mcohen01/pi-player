@@ -1,0 +1,294 @@
+@begin
+A frame may contain supplementary stimulation to increase the probability that the student emits the correct ______. 
+@end
+@answer  response
+@tries 2
+@graphic none
+@video none
+@begin
+To increase the probability that the student will correctly respond, a frame may contain a form of supplementary stimulation called ______ letters. 
+@end
+@answer  prompt
+@tries 2
+@graphic none
+@video none
+@begin
+Because prompt letters set the occasion upon which responses are followed by reinforcement, they are called _____'s. 
+@end
+@answer  sd's
+@tries 2
+@graphic none
+@video none
+@begin
+In good programmed instruction, supplementary stimulation is progressively ______ out of successive frames. 
+@end
+@answer  faded
+@tries 2
+@graphic none
+@video none
+@begin
+There are two different kinds of prompts: formal and thematic.  A formal prompt is an SD that has a form designed to increase the probability of a particular ______. 
+@end
+@answer  response
+@tries 2
+@graphic none
+@video none
+@begin
+By the form of the SD we mean something about the way it is spelled, or the way it is pronounced, or its size, color, or shape.  We call some SD's formal prompts because of something about the ______ of these stimuli. 
+@end
+@answer  form
+@tries 2
+@graphic none
+@video none
+@begin
+A teacher is helping a student to learn a new vocabulary word.  When the teacher whispers the actual form of the word, he uses a formal p_____ to evoke the appropriate response. 
+@end
+@answer  prompt
+@tries 2
+@graphic none
+@video none
+@begin
+The f in the following blank is an example of a f_____ prompt because it has the same form of the correct response. 
+@end
+@answer  formal
+@tries 2
+@graphic none
+@video none
+@begin
+An example of a FORMAL prompt in this frame is the capitalizing of the word ______. 
+@end
+@answer  formal
+@tries 2
+@graphic none
+@video none
+@begin
+"Help" letters next to a blank are examples of formal prompts because their physical characteristics are very similar to the _____se they are to evoke. 
+@end
+@answer  response
+@tries 2
+@graphic none
+@video none
+@begin
+If the form of the stimulus is selected to increase the probability of the response, we call the prompt a ______ prompt. 
+@end
+@answer  formal
+@tries 2
+@graphic none
+@video none
+@begin
+In verbal programs, formal prompts are almost always present.  The grammatical structure of the sentence serves as a ______ ______ telling the student, in effect, whether a noun, verb, or other part of speech is required. 
+@end
+@answer  formal prompt
+@tries 2
+@graphic none
+@video none
+@begin
+There's a man out back; he is dressed in black and is carrying a _____.  What word would you fill in?  [ Here's a thematic prompt to help you: the man likes potatoes. ] 
+@end
+@answer  sack
+@tries 2
+@graphic none
+@video none
+@begin
+There's a man out back; he is dressed in black and is carrying a _____.  [Ignore the above blank]  Many people would answer "sack" to the above frame because the words "back" and "black" contain physical characteristics of the response "sack."  The "ack" in "back" and "black" serve as ______ _____s for the response "sack." 
+@end
+@answer  formal prompts
+@tries 2
+@graphic none
+@video none
+@begin
+A formal prompt is an SD whose _____m or physical characteristic is designed to increase the probability of a particular response. 
+@end
+@answer  form
+@tries 2
+@graphic none
+@video none
+@begin
+A thematic prompt is an SD that has a theme designed to _____ the probability of a particular response. 
+@end
+@answer  increase
+@tries 2
+@graphic none
+@video none
+@begin
+Thematic prompts are so named because they are prompts that rely on the topic or theme of the frame in which they are imbedded to increase the ______ of a particular response. 
+@end
+@answer  probability
+@tries 2
+@graphic none
+@video none
+@begin
+A teacher wanted a student in the United States to name a color and said "Red, white, and ..."  The student would probably respond by saying the color ______. 
+@end
+@answer  blue
+@tries 2
+@graphic none
+@video none
+@begin
+The separate responses red, white, and blue are  a. formally related. b. thematically related. 
+@end
+@answer  b
+@tries 2
+@graphic none
+@video none
+@begin
+The words "Red, white, and..." are (thematic/formal) ______ prompts for the response blue. 
+@end
+@answer  thematic
+@tries 2
+@graphic none
+@video none
+@begin
+A programmer may use a synonym to increase the probability that the student will respond with a word that is _____lly related to the synonym. 
+@end
+@answer  thematically
+@tries 2
+@graphic none
+@video none
+@begin
+Because they express similar themes as the words they intend to evoke, synonyms can be used as ______ ______s. 
+@end
+@answer  thematic prompts
+@tries 2
+@graphic none
+@video none
+@begin
+"Wouldn't the picture look better in a wooden border or ______."  [Ignore the above blank]  Because the word "border" in the above item is a synonym for the word "frame," it serves as a ______ prompt. 
+@end
+@answer  thematic
+@tries 2
+@graphic none
+@video none
+@begin
+"Wouldn't the picture look better in a wooden border or ______."  [Ignore the above blank]  The word "wooden" probably also serves as a thematic prompt for the response "frame" because the two words have frequently occurred (together/apart) ______ in the student's history. 
+@end
+@answer  together
+@tries 2
+@graphic none
+@video none
+@begin
+Mary had a little l_____b.  [Ignore the above blank]  The letters next to above blank serve as ______ prompts. 
+@end
+@answer  formal
+@tries 2
+@graphic none
+@video none
+@begin
+Mary had a little l_____b.  [Ignore the above blank]  The words "Mary had a" in above frame serve as ______ prompts, because they do not have the same form as the response. 
+@end
+@answer  thematic
+@tries 2
+@graphic none
+@video none
+@begin
+Typing from his dictaphone, a secretary is more likely to type "the book was red" than "the book was read" if the letter is about color photography.  This is an example of the influence of _____ prompting. 
+@end
+@answer  thematic
+@tries 2
+@graphic none
+@video none
+@begin
+In working a crossword puzzle, the letters you write in the horizontal spaces serve as ______ prompts for your answers in the vertical spaces. 
+@end
+@answer  formal
+@tries 2
+@graphic none
+@video none
+@begin
+If the form of the stimulus is selected to increase the probability of the response, we call the prompt a ______ prompt. 
+@end
+@answer  formal
+@tries 2
+@graphic none
+@video none
+@begin
+SD's, such as formal and thematic prompts, set the occasion for ______t of responses. 
+@end
+@answer  reinforcement
+@tries 2
+@graphic none
+@video none
+@begin
+One technique used in programming requires the programmer to gradually ______ out part of the original SD. 
+@end
+@answer  fade
+@tries 2
+@graphic none
+@video none
+@begin
+In the early stages of a program, the program provides prompts to increase the ______ that a response will occur. 
+@end
+@answer  probability
+@tries 2
+@graphic none
+@video none
+@begin
+As a program progresses, fewer prompts are available to the student, but the probability of the response has been ______ by immediate reinforcement in the presence of appropriate SD's. 
+@end
+@answer  increased
+@tries 2
+@graphic none
+@video none
+@begin
+Gradually removing the number of available prompts is called ______ those prompts. 
+@end
+@answer  fading
+@tries 2
+@graphic none
+@video none
+@begin
+At the beginning of a program, we use prompts to get responses to occur.  At the end of a program, we do not use prompts because we want the student to respond ______ prompting. 
+@end
+@answer  without
+@tries 2
+@graphic none
+@video none
+@begin
+Prompts are SD's that are designed to ______ the probability of particular responses. 
+@end
+@answer  increase
+@tries 2
+@graphic none
+@video none
+@begin
+A ______ prompt is an SD that has a form designed to increase the probability of a particular response. 
+@end
+@answer  formal
+@tries 2
+@graphic none
+@video none
+@begin
+"Help" letters next to a blank are examples of ______ _____s because their physical characteristics are very similar to the response they are to evoke. 
+@end
+@answer  formal prompts
+@tries 2
+@graphic none
+@video none
+@begin
+The grammatical structure of the sentence serves as a ______ ______ telling the student, in effect, whether a noun, verb, or other part of speech is required. 
+@end
+@answer  formal prompt
+@tries 2
+@graphic none
+@video none
+@begin
+A ______ prompt is an SD that has a theme designed to increase the probability of a particular response. 
+@end
+@answer  thematic
+@tries 2
+@graphic none
+@video none
+@begin
+The probability of a response is affected by its history of reinforcement, the ______ context of the frame, and the formal properties of the SD's and S^'s. 
+@end
+@answer  thematic
+@tries 2
+@graphic none
+@video none
+@begin
+A programmer can use many of the responses that make up a student's initial behavior as thematic and formal prompts for responses that will eventually make up the student's ______ behavior. 
+@end
+@answer  terminal
+@tries 2
+@graphic none
+@video none

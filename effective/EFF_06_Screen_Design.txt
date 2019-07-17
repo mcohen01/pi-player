@@ -1,0 +1,343 @@
+@begin
+A program presents information to the learner mainly through a computer screen.  This program teaches about effective ch_____tics of SCREEN DESIGN. 
+@end
+@answer  characteristics
+@tries 2
+@graphic none
+@video none
+@begin
+The words your are reading right now appear on a computer _____n. 
+@end
+@answer  screen
+@tries 2
+@graphic none
+@video none
+@begin
+LARGE AMOUNTS OF TEXT SHOULD BE INCLUDED IN SUPPLEMENTAL DOCUMENTS  As compared to simply reading a book, instructional programs are designed to (decrease/increase) ______ interaction between the student and the instructional material. 
+@end
+@answer  increase
+@tries 2
+@graphic none
+@video none
+@begin
+Programs that contain large amounts of text for students to read are sometimes called "electronic page turners."  Here, students read computer screens filled with words just like pages in a _____k. 
+@end
+@answer  book
+@tries 2
+@graphic none
+@video none
+@begin
+Programs that contain screens filled with large amounts of text, and usually require students to press any key to advance, are called "electronic _____e turners." 
+@end
+@answer  page
+@tries 2
+@graphic none
+@video none
+@begin
+Large amounts of text should be included in SUPPLEMENTAL DOCUMENTS.  For example, a program that is designed to teach about photosynthesis may include some background information about a famous chemist, or suggestions for possible in-class experiments.  Such information should be included in ______ documents. 
+@end
+@answer  supplemental
+@tries 2
+@graphic none
+@video none
+@begin
+A program that teaches how to write an experimental paper asks the learner to read a few example papers beforehand. The example papers should be presented (on the screen/in a supplemental document) ______. 
+@end
+@answer  in a supplemental document
+@tries 2
+@graphic none
+@video none
+@begin
+A computer manual and accompanying workbook are called supplemental _____ts. 
+@end
+@answer  documents
+@tries 2
+@graphic none
+@video none
+@begin
+A screen should not be filled with text (Hannafin & Peck, 1988; Merrill, 1988).  Text-intensive materials should be included in ______l d_____ts. 
+@end
+@answer  supplemental documents
+@tries 2
+@graphic none
+@video none
+@begin
+Programs that included large amounts of text on the screen, instead of placing them in supplemental documents, are sometimes called "e_____ic p_____e t_____rs."  [Do not include the quotes in your answer.] 
+@end
+@answer  electronic page turners
+@tries 2
+@graphic none
+@video none
+@begin
+(Books/Programs) ______ are designed to be read. (Books/Programs) ______ are designed to be interactive. Large amounts of text that require much reading should be included in _____l documents. 
+@end
+@answer  books programs supplemental
+@tries 2
+@graphic none
+@video none
+@begin
+EMPHASIZE IMPORTANT TERMS  Text can be presented in different cases for EMPHASIS.  To EMPHASIZE a particular word, (uppercase/lowercase) ______ can be used. 
+@end
+@answer  uppercase
+@tries 2
+@graphic none
+@video none
+@begin
+If you answer incorrectly two times to a single frame in this program, the correct answer is displayed in _____case letters.  This technique is used to e_____ize the correct answer. 
+@end
+@answer  uppercase emphasize
+@tries 2
+@graphic none
+@video none
+@begin
+However, programs should not present all letters in uppercase.  A variety of text styles can be used to indicate different kinds of _____sis (Merrill, 1988). 
+@end
+@answer  emphasis
+@tries 2
+@graphic none
+@video none
+@begin
+Different case sizes can be used to _____ze different words or concepts. 
+@end
+@answer  emphasize
+@tries 2
+@graphic none
+@video none
+@begin
+Besides uppercase letters, boxes, highlights, and colors can be used to _____ze important information (Hannafin & Peck, 1988).  For example, a program that teaches about temperature could present the word "cold" in the color blue, and the word "hot" in the color ______d. 
+@end
+@answer  emphasize red
+@tries 2
+@graphic none
+@video none
+@begin
+AVOID SCROLLING WINDOWS OF TEXT  Programs can contain "windows" in which large amounts of text can be scrolled up an d_____n.  For example, an electronic encyclopedia program could contain additional information about a topic in a _____lling window. 
+@end
+@answer  down scrolling
+@tries 2
+@graphic none
+@video none
+@begin
+Programs that contain large amounts of information, like electronic encyclopedias and dictionaries, can use w_____ws of scrolling text. 
+@end
+@answer  windows
+@tries 2
+@graphic none
+@video none
+@begin
+Scrolling windows that contain large amounts of text (are/are not) ______ appropriate for information-retrieval programs, like electronic encyclopedias.  However, scrolling windows that contain large amounts of text (are/are not) ______ appropriate for instructional programs. 
+@end
+@answer  are are not
+@tries 2
+@graphic none
+@video none
+@begin
+Large amounts of scrolling text should not be presented on the screen but included in ______l documents. 
+@end
+@answer  supplemental
+@tries 2
+@graphic none
+@video none
+@begin
+Instructional programs (should/should not) ______ include "windows" of scrolling text (Hannafin & Peck, 1988; Merrill, 1988). 
+@end
+@answer  should not
+@tries 2
+@graphic none
+@video none
+@begin
+It is CRITICAL that the learner makes a meaningful response to the information presented on the screen.  Simply pressing a key to advance in an electronic page turning program, or clicking on an arrow in a scrolling window (is/is not) ______ a meaningful response. 
+@end
+@answer  is not
+@tries 2
+@graphic none
+@video none
+@begin
+It is CRITICAL that the student makes a meaningful response. Typing a correct response to properly designed programmed material (is/is not) ______ an example of a meaningful response. 
+@end
+@answer  is
+@tries 2
+@graphic none
+@video none
+@begin
+ The CRITICAL RESPONSE RULE states that a student is held responsible ONLY for that portion of the material that he or she had to study in order to make a correct _____se. 
+@end
+@answer  response
+@tries 2
+@graphic none
+@video none
+@begin
+A student should be held responsible ONLY for that portion of the material which he or she has responded correctly. This is called the _____cal Response Rule. 
+@end
+@answer  critical
+@tries 2
+@graphic none
+@video none
+@begin
+According to the Critical _____se Rule, this frame can only ask you to respond to material that you are currently reading or have correctly _____ded to in the past. 
+@end
+@answer  response responded
+@tries 2
+@graphic none
+@video none
+@begin
+A program may present much information and ask students only a few questions.  According to the Critical Response Rule, the student is responsible for learning  a.  all the material presented. b.  only the material he or she had to study to make correct responses. 
+@end
+@answer  b
+@tries 2
+@graphic none
+@video none
+@begin
+An astronomy program requires students to respond to questions about the POSITIONS of planets.  According to the Critical Response Rule, students (can/cannot) ______ be held responsible for learning the POSITIONS of the planets, but they (can/cannot) ______ be held responsible for learning the COLORS of the planets because they only responded to questions about the positions of the planets. 
+@end
+@answer  can cannot
+@tries 2
+@graphic none
+@video none
+@begin
+Another way of stating the _____l Response Rule is that students only learn what they actively and correctly _____nd to. 
+@end
+@answer  critical respond
+@tries 2
+@graphic none
+@video none
+@begin
+The Critical Response Rule is violated when a student is required to answer questions about information that he (has/has not) ______ responded to in the past. 
+@end
+@answer  has not
+@tries 2
+@graphic none
+@video none
+@begin
+The first name of the author of this program is _____.  [This question violates the Critical Response Rule.  You will not be penalized for guessing.] 
+@end
+@answer  kale
+@tries 2
+@graphic none
+@video none
+@begin
+The author's first name was presented at the beginning of this program, but you (were/were not) ______ required to study and respond to it. 
+@end
+@answer  were not
+@tries 2
+@graphic none
+@video none
+@begin
+According to the Critical Response Rule, students (can/cannot) ______ be held responsible for learning what is presented in scrolling windows of text because they do not have to make a correct _____se to the material. 
+@end
+@answer  cannot response
+@tries 2
+@graphic none
+@video none
+@begin
+The opposite of the Critical Response Rule is the Everything Rule.  The E_____thing Rule states that the learner is held responsible for ALL material presented WHETHER OR NOT he or she utilized the material in making a correct ______e. 
+@end
+@answer  everything response
+@tries 2
+@graphic none
+@video none
+@begin
+When an instructor assigns many pages of text and says "Learn it all!" he or she is following the (Critical Response\Everything) ______ Rule. 
+@end
+@answer  everything
+@tries 2
+@graphic none
+@video none
+@begin
+An electronic page turning program follows the ______ Rule. 
+@end
+@answer  everything
+@tries 2
+@graphic none
+@video none
+@begin
+"Everything" programs require students to make judgements as to what is important to learn and take long periods of _____e to complete. 
+@end
+@answer  time
+@tries 2
+@graphic none
+@video none
+@begin
+Because they make few meaningful responses to the instructional material, students can become confused about what to study in _____thing programs. 
+@end
+@answer  everything
+@tries 2
+@graphic none
+@video none
+@begin
+The program you are working through right now was designed to be a(n) (Everything\Critical Response) ______ program. 
+@end
+@answer  critical response
+@tries 2
+@graphic none
+@video none
+@begin
+According to the ______ ______ Rule, material included on the screen that the student does not have to study in order to make a correct response (should\should not) ______ be included. 
+@end
+@answer  Critical Response should not
+@tries 2
+@graphic none
+@video none
+@begin
+Even if material on the screen is relevant to learning the program's objectives, students may not study it unless required to actively _____d to it. 
+@end
+@answer  respond
+@tries 2
+@graphic none
+@video none
+@begin
+And now a little review...  Text-intensive materials, such as stories or extraneous information presented in scrolling windows, should be included in _____l documents. 
+@end
+@answer  supplemental
+@tries 2
+@graphic none
+@video none
+@begin
+Uppercase letters, boxes, highlights, and colors can be used to _____e important information. 
+@end
+@answer  emphasize
+@tries 2
+@graphic none
+@video none
+@begin
+The student is responsible for learning only the material he or she had to study to make a correct response according to the _______ ______ Rule. 
+@end
+@answer  critical response
+@tries 2
+@graphic none
+@video none
+@begin
+(Critical Response/Everything) ______ programs present much material but require few meaningful responses. 
+@end
+@answer  everything
+@tries 2
+@graphic none
+@video none
+@begin
+Clicking a button or tapping a key to continue (is/is not) ______ a meaningful response. 
+@end
+@answer  is not
+@tries 2
+@graphic none
+@video none
+@begin
+Instructional programs should be designed according to the ______ ______ Rule 
+@end
+@answer  critical response
+@tries 2
+@graphic none
+@video none
+@begin
+Screen material that does not contribute to learning the defined objectives should be (included/eliminated) ______. 
+@end
+@answer  eliminated
+@tries 2
+@graphic none
+@video none
+@begin
+A program may be filled with important information, but if students are not required to actively _____d to it they may not study the material. 
+@end
+@answer  respond
+@tries 2
+@graphic none
+@video none

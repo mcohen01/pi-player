@@ -1,0 +1,231 @@
+@begin
+1.   As we identify more precisely the conditions under which a<br/>     phenomenon will occur, we automatically increase its<br/>     g_______.<br/>
+@end
+@answer GENERALITY
+@tries 1
+@graphic none
+@video none
+@begin
+2.   Reversibility can be evaluated in other ways than by ______<br/>     replication.  As one case--instead of replicating a function<br/>     with the same subject, additional subjects may be exposed to<br/>     the ______e values of the experimental variable, but in a<br/>     _______t order.<br/>
+@end
+@answer DIRECT SAME DIFFERENT
+@tries 1
+@graphic none
+@video none
+@begin
+3.   When the sequencing of baseline or experimental conditions<br/>     produces different experimental effects depending upon the<br/>     sequence, we call such effects--  _______ effects.<br/>
+@end
+@answer ORDER
+@tries 1
+@graphic none
+@video none
+@begin
+4.   Steady state performances tend to be (elastic/inelastic)<br/>     _______.<br/>
+@end
+@answer INELASTIC
+@tries 1
+@graphic none
+@video none
+@begin
+5.   When effects are considered for all subjects combined,<br/>     counterbalancing (eliminates/does not eliminate) _______<br/>     sequence effects (for example, in an ABAB design).<br/>
+@end
+@answer DOES NOT
+@tries 1
+@graphic none
+@video none
+@begin
+6.   Unless the ______subject variability has been reduced to<br/>     negligible proportions, there will inevitably be<br/>     (small/large) _______ individual differences in the effects<br/>     of an A to B sequence and a B to A sequence.  Not only may<br/>     the effect of going from A to B differ from the effect of<br/>     going from B to A , but this difference itself (is not/is)<br/>     _______ likely to vary both in direction and in magnitude<br/>     from one subject to another.<br/>
+@end
+@answer LARGE IS
+@tries 1
+@graphic none
+@video none
+@begin
+7.   One (can/cannot) _______ assume that between-subject<br/>     differences are effectively averaged out by enlarging the<br/>     number of subjects in A to B and B to A groups in a<br/>     counterbalanced design.<br/>
+@end
+@answer CANNOT
+@tries 1
+@graphic none
+@video none
+@begin
+8.   According to Sidman, there (some/no) _______ experimental<br/>     designs that can nullify true irreversibility.<br/>
+@end
+@answer NO
+@tries 1
+@graphic none
+@video none
+@begin
+9.   (T or F) ___  Statistical control can adequately compensate<br/>     for irreversibility.<br/>
+@end
+@answer F
+@tries 1
+@graphic none
+@video none
+@begin
+10.  The functional relation between an independent variable and<br/>     an irreversible change in behavior can be established by the<br/>     ______le baseline design.  This design has this distinct<br/>     advantage over the traditional reversal design.<br/>
+@end
+@answer MULTIPLE
+@tries 1
+@graphic none
+@video none
+@begin
+11.  The degree of variability to be tolerated in the definition<br/>     of a steady state will be determined by the consistency of<br/>     the _______l relations so obtained and by the degree of<br/>     experimental _______l that can be achieved.  Statistical<br/>     theory is of (significant/no) _______ help in these matters.<br/>
+@end
+@answer FUNCTIONAL CONTROL NO
+@tries 1
+@graphic none
+@video none
+@begin
+12.  There is a difference between summarizing a set of data with<br/>     descriptive statistics and evaluating the characteristics of<br/>     the data.  Sidman argues that statistical<br/>     (description/evaluation) _______ should be replaced with the<br/>     demonstration of _______ over the datum.<br/>
+@end
+@answer EVALUATION CONTROL
+@tries 1
+@graphic none
+@video none
+@begin
+13.  Statistical evaluation is done when adequate _______ over<br/>     the datum cannot be accomplished.<br/>
+@end
+@answer CONTROL
+@tries 1
+@graphic none
+@video none
+@begin
+14.  Variability is (accepted/rejected) _______ in the use of<br/>     inferential statistics which attempt to compensate for it<br/>     through the use of mathematical manipulations.<br/>
+@end
+@answer ACCEPTED
+@tries 1
+@graphic none
+@video none
+@begin
+15.  Behavioral data are often variable because the independent<br/>     _______s of which it is a function are not adequately<br/>     _______ed by experimenter.<br/>
+@end
+@answer VARIABLES CONTROLLED
+@tries 1
+@graphic none
+@video none
+@begin
+16.  Behavior may be changing at the level of basic dimensions<br/>     like topography, intensity, duration, or frequency, but this<br/>     (is clearly shown/may be submerged from view) _________ when<br/>     complex dimensions (like scores, for example) are used as<br/>     the dependent variable.<br/>
+@end
+@answer MAY BE SUBMERGED FROM VIEW
+@tries 1
+@graphic none
+@video none
+@begin
+17.  Summary statistics like means, medians, modes, ranges,<br/>     standard deviations, etc., (highlight/mask) _______ what is<br/>     going on at the level of the _______l data points or<br/>     subjects.<br/>
+@end
+@answer MASK INDIVIDUAL
+@tries 1
+@graphic none
+@video none
+@begin
+18.  The most important category of variables responsible for<br/>     behavior was not emphasized until the experimental analysis<br/>     of behavior arose.  These variables are not things which<br/>     push or pull behavior, they are _______ces.<br/>
+@end
+@answer CONSEQUENCES
+@tries 1
+@graphic none
+@video none
+@begin
+19.  The selecting effect of consequences was not discovered<br/>     until late in the development of a science of behavior<br/>     because the effect is so (obvious/subtle) _______, so much<br/>     so that most people (understand/still miss) _______ it.<br/>
+@end
+@answer SUBTLE STILL MISS
+@tries 1
+@graphic none
+@video none
+@begin
+20.  The experimental analysis of behavior emphasized the<br/>     importance of consequences in the control of behavior.  But<br/>     it could not have developed as it did without also<br/>     emphasizing the most important aspect of behavior, which is<br/>     its _______y (observed as frequency).<br/>
+@end
+@answer PROBABILITY
+@tries 1
+@graphic none
+@video none
+@begin
+21.  Once _______ was isolated as the fundamental dependent<br/>     variable, and _______ were isolated as the fundamental<br/>     independent variables, orderly and consistent _______<br/>     relations were demonstrated in the laboratory and in applied<br/>     situations.<br/>
+@end
+@answer PROBABILITY CONSEQUENCES
+@tries 1
+@graphic none
+@video none
+@begin
+22.  Due to troublesome variability, statistical analyses were<br/>     (necessary/unnecessary) _______ before we (or at least a few<br/>     of us) concentrated upon important basic dimensions of<br/>     behavior and the key controlling _______ variables. <br/>
+@end
+@answer NECESSARY INDEPENDENT
+@tries 1
+@graphic none
+@video none
+@begin
+23.  _______al analysis seemed because the dimensions of the<br/>     dependent variables that were used were so complex or vague<br/>     that the data produced were highly _______le.  <br/>
+@end
+@answer STATISTICAL VARIABLE
+@tries 1
+@graphic none
+@video none
+@begin
+24.  The kind of orderliness demonstrated by changes in rate<br/>     brought about by changes in contingencies of reinforcement<br/>     made the use of _______al analyses ______essary.<br/>
+@end
+@answer STATISTICAL UNNECESSARY
+@tries 1
+@graphic none
+@video none
+@begin
+25.  The experimental analysis of behavior made statistical<br/>     analysis less useful because variability could now be dealt<br/>     with through the demonstration of e_______al control rather<br/>     than _______lly controlling variability through mathematical<br/>     operations.<br/>
+@end
+@answer EXPERIMENTAL STATISTICALLY
+@tries 1
+@graphic none
+@video none
+@begin
+26.  Psychology could not advance toward the development of<br/>     effective technologies of behavior change until satisfactory<br/>     i_________ and ________ variables were discovered and<br/>     emphasized.<br/>
+@end
+@answer INDEPENDENT DEPENDENT
+@tries 1
+@graphic none
+@video none
+@begin
+27.  Even today, most of the social sciences including education<br/>     use (basic/complex) _______ dimensions as _______nt<br/>     variables.<br/>
+@end
+@answer COMPLEX DEPENDENT
+@tries 1
+@graphic none
+@video none
+@begin
+28.  Due to inadequate training and a predominant ph_____ of<br/>     human behavior which insists that behavior originates _____<br/>     the individual, researchers continue to specify variables<br/>     which must be subjected to a _______ analysis if any kind of<br/>     sense is to be made of them.<br/>
+@end
+@answer PHILOSOPHY INSIDE STATISTICAL
+@tries 1
+@graphic none
+@video none
+@begin
+29.  _______al analyses are used because researchers unknowingly<br/>     subscribe to the prevalent philosophy of human behavior.  To<br/>     them behavior begins _____side the person and it is<br/>     ______sically variable.  <br/>
+@end
+@answer STATISTICAL INSIDE INTRINSICALLY
+@tries 1
+@graphic none
+@video none
+@begin
+30.  The assumptions that the individual is an autonomous<br/>     originating agent and of intrinsic variability together<br/>     require that statistical summarization and evaluation is<br/>     ______ary because the inherent individual variability can be<br/>     canceled only through m______al operations.<br/>
+@end
+@answer NECESSARY MATHEMATICAL
+@tries 1
+@graphic none
+@video none
+@begin
+31.  An experimenter may set a stability criterion ahead of a<br/>     study, but discover that this criterion cannot be achieved<br/>     over a period of time.  He or she may then alter the<br/>     criterion.  This practice is<br/>     <br/>     a.  dangerous<br/>     b.  reasonable<br/>
+@end
+@answer DANGEROUS
+@tries 1
+@graphic none
+@video none
+@begin
+32.  An experimenter may wait for behavior to stabilize in a<br/>     particular condition.  He or she continue the condition<br/>     until no further trend is indicated after stabilization. <br/>     But the data may be variable.  It is difficult to determine<br/>     the beginning of a trend when the number of sessions in a<br/>     condition is small and the variability is great.  Changing<br/>     into a new experimental condition just after a data point<br/>     which goes in the opposite direction of a trend is a<br/>     <br/>     a. reasonable practice<br/>     b. punishable practice<br/>     c. risky<br/>
+@end
+@answer C
+@tries 1
+@graphic none
+@video none
+@begin
+33.  (T or F) The demonstration that a variable is effective does<br/>     not require the attainment of a stringently defined stable<br/>     state as long as the demonstrated change is large enough to<br/>     override the baseline "noise."<br/>
+@end
+@answer T
+@tries 1
+@graphic none
+@video none

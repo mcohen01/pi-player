@@ -1,0 +1,294 @@
+@begin
+Educational material is often divided into LESSONS.  A LESSON is a section, unit, or session of study.  The program you are working through right now is a unit of study called a ______n. 
+@end
+@answer  lesson
+@tries 2
+@graphic none
+@video none
+@begin
+This program is a l______n on effective lesson design. 
+@end
+@answer  lesson
+@tries 2
+@graphic none
+@video none
+@begin
+This program teaches about those characteristics and features of ef_____tive l_____ns. 
+@end
+@answer  effective lessons
+@tries 2
+@graphic none
+@video none
+@begin
+EFFECTIVE LESSONS STATE THE OBJECTIVES IN ADVANCE  A student working through a lesson is better prepared to concentrate on important topics if the _____tives are stated at the (beginning/end) ______ of the lesson. 
+@end
+@answer  objectives beginning
+@tries 2
+@graphic none
+@video none
+@begin
+So learners know what to concentrate on, effective lessons describe the instructional objectives and goals of a program (at the end/in advance) ______ (Hannum & Briggs, 1982; Lillie, Hannum, & Stuck, 1989). 
+@end
+@answer  in advance
+@tries 2
+@graphic none
+@video none
+@begin
+EFFECTIVE LESSONS ALLOW LEARNERS TO PROGRESS AT THEIR OWN PACE  When lecturing to an entire class, the teacher forces learners to progress at nearly the same pace.  This pace may be too (slow/fast) ______ for the high-ability students and too (slow/fast) ______ for the low-ability students. 
+@end
+@answer  slow fast
+@tries 2
+@graphic none
+@video none
+@begin
+Students learn and progress at different rates.  Effective lessons enable learners to progress at (the same pace/their own pace) ______. 
+@end
+@answer  their own pace
+@tries 2
+@graphic none
+@video none
+@begin
+Lessons should provide for SELF-PACED instruction (Lillie, Hannum, & Stuck, 1989).  The program you are working through right now will not continue until you are ready.  You can progress at your own p_____. 
+@end
+@answer  pace
+@tries 2
+@graphic none
+@video none
+@begin
+Effective lessons state the _____es in advance and allow learners to progress at their own ______. 
+@end
+@answer  objectives pace
+@tries 2
+@graphic none
+@video none
+@begin
+EFFECTIVE LESSONS EVOKE STUDENT RESPONSES  During whole-class instruction, it is very (easy/difficult) ______ to ask EACH student to RESPOND to questions about the content. 
+@end
+@answer  difficult
+@tries 2
+@graphic none
+@video none
+@begin
+During a typical lecture or discussion, some students respond to questions, but many do not overtly respond at all.  While working through an effective program, each student may respond every thirty (seconds/minutes) ______. 
+@end
+@answer  seconds
+@tries 2
+@graphic none
+@video none
+@begin
+Programs have an advantage over whole-class instruction in that students can progress at their own ______ and each can be required to _____d to questions about the content. 
+@end
+@answer  pace respond
+@tries 2
+@graphic none
+@video none
+@begin
+Effective lessons present material and evoke student _____ses (Hannum & Briggs, 1982). 
+@end
+@answer  responses
+@tries 2
+@graphic none
+@video none
+@begin
+Effective lessons introduce _____ves in advance, provide for self-pacing, and evoke student _____s that are related to the program's content. 
+@end
+@answer  objectives responses
+@tries 2
+@graphic none
+@video none
+@begin
+EFFECTIVE LESSONS PROVIDE IMMEDIATE FEEDBACK AFTER RESPONDING  The program you are working through right now presents information, requires that you respond to it, and provides IMMEDIATE FEEDBACK by telling you if your response is _____ct or incorrect. 
+@end
+@answer  correct
+@tries 2
+@graphic none
+@video none
+@begin
+During typical whole-class instruction, the teacher (can/cannot) ______ evoke a response from every student and provide immediate feedback. 
+@end
+@answer  cannot
+@tries 2
+@graphic none
+@video none
+@begin
+Like a private tutor, an effective lesson gives a bit of information, requires the learner to respond to it, and provides immediate f_____k. 
+@end
+@answer  feedback
+@tries 2
+@graphic none
+@video none
+@begin
+Correct responses are strengthened and are (more/less) ______ likely to occur in the future if the program provides immediate _____k. 
+@end
+@answer  more feedback
+@tries 2
+@graphic none
+@video none
+@begin
+Feedback can be elaborate and explanatory, or simple and direct.  Being told that you are _____ct after you correctly respond to frames in this program is a form of immediate ______. 
+@end
+@answer  correct feedback
+@tries 2
+@graphic none
+@video none
+@begin
+After students respond, lessons should provide i_____ate ______k (Hannum & Briggs, 1982). 
+@end
+@answer  immediate feedback
+@tries 2
+@graphic none
+@video none
+@begin
+Effective programs start by describing the ______ves of the lesson. 
+@end
+@answer  objectives
+@tries 2
+@graphic none
+@video none
+@begin
+Effective lessons enable learners to progress at th____r o____n p____ce. 
+@end
+@answer  their own pace
+@tries 2
+@graphic none
+@video none
+@begin
+Effective lessons evoke _____es related to the content and provide immediate ______. 
+@end
+@answer  responses feedback
+@tries 2
+@graphic none
+@video none
+@begin
+EFFECTIVE LESSONS REQUIRE MASTERY OF MATERIAL BEFORE PROGRESSING  As the learner progresses through a lesson at her own pace, she should understand the material (before/after) ______ she is allowed to continue. 
+@end
+@answer  before
+@tries 2
+@graphic none
+@video none
+@begin
+A program cannot evaluate if the learner has understood the material unless it evokes a _____e from the learner. 
+@end
+@answer  response
+@tries 2
+@graphic none
+@video none
+@begin
+Before moving on to new content in a lecture, the teacher (always/rarely) ______ evokes responses from every student. 
+@end
+@answer  rarely
+@tries 2
+@graphic none
+@video none
+@begin
+During a lecture, a teacher may say "Does everyone understand?" and some students may nod or answer "yes."  The responses that the teacher evokes (do/do not) ______ show that the students have understood the content. 
+@end
+@answer  do not
+@tries 2
+@graphic none
+@video none
+@begin
+Like a private tutor, an effective lesson evokes responses to see if the learner has mastered or u_____stood the material b_____re moving to the next step. 
+@end
+@answer  understood before
+@tries 2
+@graphic none
+@video none
+@begin
+Effective lessons require students to demonstrate mastery of the material (before/after) ______ moving to the next step (Lillie, Hannum, & Stuck, 1989). 
+@end
+@answer  before
+@tries 2
+@graphic none
+@video none
+@begin
+A program may first teach about the properties of combustible chemicals and require that students understand them _____e moving on to how these chemicals react in combustion engines. 
+@end
+@answer  before
+@tries 2
+@graphic none
+@video none
+@begin
+EFFECTIVE LESSONS RESEMBLE PRIVATE TUTORS  Effective lessons present a bit of information, evoke responses, provide feedback, and require students to show that they understand the material before moving on to new information.  These are characteristics of a (lecturer/private tutor) ______. 
+@end
+@answer  private tutor
+@tries 2
+@graphic none
+@video none
+@begin
+Because they present material, evoke responses, and provide feedback, effective lessons resemble pr_____te t_____rs. 
+@end
+@answer  private tutors
+@tries 2
+@graphic none
+@video none
+@begin
+EFFECTIVE LESSONS PROVIDE REVIEWS  A private tutor usually ends his lesson by REVIEWING what he has taught. Effective lessons clarify topics and summarize key points by providing a review near the (beginning/end) ______ of the lesson. 
+@end
+@answer  end
+@tries 2
+@graphic none
+@video none
+@begin
+Effective lessons provide review items to ensure learning (Lillie, Hannum, & Stuck, 1989).  Review items will be presented near the _____d of this program. 
+@end
+@answer  end
+@tries 2
+@graphic none
+@video none
+@begin
+Effective lessons (begin/end) ______ by providing the learner with the program's instructional objectives and (begin/end) ______ by providing review items. 
+@end
+@answer  begin end
+@tries 2
+@graphic none
+@video none
+@begin
+Just like a private tutor, an effective program begins by informing the learner what is expected of him in the instructional _____s, and ends by presenting _____w items to ensure learning. 
+@end
+@answer  objectives review
+@tries 2
+@graphic none
+@video none
+@begin
+And now for a little review...  Effective lessons enable students to progress at their own ______. 
+@end
+@answer  pace
+@tries 2
+@graphic none
+@video none
+@begin
+Effective lessons present material and evoke _____s that are related to the material. 
+@end
+@answer  responses
+@tries 2
+@graphic none
+@video none
+@begin
+To strengthen correct responses, effective lessons provide immediate ______ to learner responses. 
+@end
+@answer  feedback
+@tries 2
+@graphic none
+@video none
+@begin
+Effective lessons require students to show that they understand or master each step b_____ moving on to the next. 
+@end
+@answer  before
+@tries 2
+@graphic none
+@video none
+@begin
+Effective lessons end by summarizing key points with _____w items. 
+@end
+@answer  review
+@tries 2
+@graphic none
+@video none
+@begin
+Although programs can never replace educators, they can take over some of the routine instruction and "free" teachers to interact with students in more humanistic ways. Effective lessons resemble p_____te _____rs. 
+@end
+@answer  private tutors
+@tries 2
+@graphic none
+@video none

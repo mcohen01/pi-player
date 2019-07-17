@@ -1,0 +1,175 @@
+@begin
+A programmer can teach new concepts by much the same technique used to teach discriminations.  She can begin with a concept the student already has and by a ______ ______ of small steps the programmer can "shape" it into a new concept. 
+@end
+@answer  gradual progression
+@tries 2
+@graphic none
+@video none
+@begin
+The concept of reinforcement is often taught by starting with the concept of reward.  A detailed specification of the student's initial behavior would include all the things the student would have to say and do to demonstrate that he knows the concept of ______. 
+@end
+@answer  reward
+@tries 2
+@graphic none
+@video none
+@begin
+The concept of reward would be the ______ behavior that the programmer assumes when she begins to teach the concept of reinforcement. 
+@end
+@answer  initial
+@tries 2
+@graphic none
+@video none
+@begin
+For the purposes of programming, we define a concept in terms of the ______ of the student. 
+@end
+@answer  behavior
+@tries 2
+@graphic none
+@video none
+@begin
+If a student does not "understand" or "grasp" a particular concept, we define the concept in terms of behavior and then change his ______ until he demonstrates that he knows the concept. 
+@end
+@answer  behavior
+@tries 2
+@graphic none
+@video none
+@begin
+If a child has the concept of "blue," she can identify the blue objects we show to her, she can use the word appropriately, and so on.  A ______ definition of the concept helps to change the child's behavior so that people will say "She knows what 'blue' is." 
+@end
+@answer  behavioral
+@tries 2
+@graphic none
+@video none
+@begin
+For purposes of programming, we say a student "knows" something if he can make appropriate ______ to it or concerning it. 
+@end
+@answer  responses
+@tries 2
+@graphic none
+@video none
+@begin
+A teacher infers that a student "understands" or "knows" something by the observable behavior he displays (talk, demonstration, test scores, etc.).  The object of programmed instruction is to develop the ______ that is said to show that the student understands something. 
+@end
+@answer  behavior
+@tries 2
+@graphic none
+@video none
+@begin
+Earlier, you responded to the presentation of "help letters" as formal prompts.  But if you cannot provide two or three examples of formal prompts on your own, we know that you (do/do not) ______ have the concept of a formal prompt. 
+@end
+@answer  do not
+@tries 2
+@graphic none
+@video none
+@begin
+The student must be taught to identify examples of the concept and to use the concept.  It (is/is not) ______ sufficient to teach only the definition. 
+@end
+@answer  is not
+@tries 2
+@graphic none
+@video none
+@begin
+The program used a fading sequence to teach you the definitions of thematic and formal prompts.  You need to know how to use the prompts, not how to recite the _____s. 
+@end
+@answer  definitions
+@tries 2
+@graphic none
+@video none
+@begin
+Programmed instruction can very easily teach rote definitions of concepts.  However, knowing the definition of a concept does not mean that you can use the ______. 
+@end
+@answer  concept
+@tries 2
+@graphic none
+@video none
+@begin
+Merely knowing the definition of something is quite often of little use to the student.  He must know how to _____ the concept or object defined. 
+@end
+@answer  use
+@tries 2
+@graphic none
+@video none
+@begin
+In many instances where definitions need to be taught, it is easier and better to teach the use of the object or concept before teaching the _____. 
+@end
+@answer  definition
+@tries 2
+@graphic none
+@video none
+@begin
+In teaching you about reinforcement, the program controlled conditions so that you used the word as the verb, to reinforce, when referring to an action; as the noun, reinforcement, when referring to a process; and as the noun, ______, when referring to a stimulus. 
+@end
+@answer  reinforcer
+@tries 2
+@graphic none
+@video none
+@begin
+A useful technique in programming requires the student to use a response in different grammatical contexts.  The use of a response in different grammatical forms teaches the student to use the response in different ways in different c_____ts. 
+@end
+@answer  contexts
+@tries 2
+@graphic none
+@video none
+@begin
+Teaching a concept such as reinforcement which requires the use of the word in its several grammatical forms helps the student learn to ______ the concept, and also helps the programmer to avoid meaningless repetition. 
+@end
+@answer  use
+@tries 2
+@graphic none
+@video none
+@begin
+A useful programming technique requires the student to use key responses in their several _____al forms. 
+@end
+@answer  grammatical
+@tries 2
+@graphic none
+@video none
+@begin
+If a student does not "understand" a particular concept, we define the concept in terms of behavior and then change his ______ until he demonstrates that he knows the concept. 
+@end
+@answer  behavior
+@tries 2
+@graphic none
+@video none
+@begin
+For purposes of programming, we say a student "knows" something if he can make appropriate ______ to it or concerning it. 
+@end
+@answer  responses
+@tries 2
+@graphic none
+@video none
+@begin
+We infer "understanding" by what a student does.  One goal of programmed instruction is to develop or change what a student ______. 
+@end
+@answer  does
+@tries 2
+@graphic none
+@video none
+@begin
+Many programs in the past failed because they taught simple concept definitions.  The student must be taught to identify examples of the concept and to _____ the concept. 
+@end
+@answer  use
+@tries 2
+@graphic none
+@video none
+@begin
+A useful technique in programming requires the student to use a response in different ______ contexts. 
+@end
+@answer  grammatical
+@tries 2
+@graphic none
+@video none
+@begin
+The use of a response in different grammatical forms teaches the student to ______ the response in different ways in different contexts. 
+@end
+@answer  use
+@tries 2
+@graphic none
+@video none
+@begin
+A useful programming technique requires the student to use key responses in their several _______ forms. 
+@end
+@answer  grammatical
+@tries 2
+@graphic none
+@video none

@@ -1,0 +1,273 @@
+@begin
+In preparing to write a program, the programmer must specify what he wants the student to be able to _____ at the end of the program. 
+@end
+@answer  do
+@tries 2
+@graphic none
+@video none
+@begin
+The programmer must consider what the students for whom he is designing the program can already _____. 
+@end
+@answer  do
+@tries 2
+@graphic none
+@video none
+@begin
+The first item of a program should begin leading the student toward the desired terminal ______. 
+@end
+@answer  behavior
+@tries 2
+@graphic none
+@video none
+@begin
+As you write frames, you need to be able to "edit" them in order to tell whether or not the students are likely to make correct _____s to the frames. 
+@end
+@answer  responses
+@tries 2
+@graphic none
+@video none
+@begin
+You could just write frames more or less blindly and see if the students responded adequately, but this (would/would not) ______ be an efficient way to proceed. 
+@end
+@answer  would not
+@tries 2
+@graphic none
+@video none
+@begin
+In their first efforts, some programmers have written a short series of sentences and then gone back through them erasing one word per sentence.  This technique (does/does not) ______ require the student to make observable responses. 
+@end
+@answer  does
+@tries 2
+@graphic none
+@video none
+@begin
+The word-erasing technique, however, may or may not control the ______ behavior of the student. 
+@end
+@answer  observing
+@tries 2
+@graphic none
+@video none
+@begin
+A potential frame could be:  The operator must first turn the knob with his right hand.  To require an observable response, the programmer could leave out any word in the ______. 
+@end
+@answer  frame
+@tries 2
+@graphic none
+@video none
+@begin
+A completed frame could be:  The operator must first turn _____ knob with his right hand.  [Ignore the above blank]  The frame requires an observable response but does not necessarily control the student's ______ behavior. 
+@end
+@answer  observing
+@tries 2
+@graphic none
+@video none
+@begin
+A completed frame could be:  The operator must first turn _____ knob with his right hand.  [Ignore the above blank]  The student could look for the blank in the above frame, read the word on either side of it, and respond correctly _____t observing the rest of the frame. 
+@end
+@answer  without
+@tries 2
+@graphic none
+@video none
+@begin
+The operator must first turn _____ knob with his right hand.  [Ignore the above blank]  The above frame (would/would not) ______ be a good frame. 
+@end
+@answer  would not
+@tries 2
+@graphic none
+@video none
+@begin
+The program should be constructed so the student emits the key responses that are a part of the terminal behavior.  In the frame...  The operator must first turn the knob with his right hand.  ...the word "the" (is/is not) ______ a key response. 
+@end
+@answer  is not
+@tries 2
+@graphic none
+@video none
+@begin
+In the frame...  The operator must first turn the knob with his right hand.  ...a key response is the word "first."  The frame could be revised as...  To do the job, the operator must follow a series of steps. Turning the knob with his right hand is the very ______ step he must follow. 
+@end
+@answer  first
+@tries 2
+@graphic none
+@video none
+@begin
+To do the job, the operator must follow a series of steps. Turning the knob with his right hand is the very ______ step he must follow.  [Ignore the above blank]  The student may not have to observe the first sentence in the above frame to correctly respond.  The frame could be revised as...  The very ______ thing the operator must do is to turn the knob with his right hand. 
+@end
+@answer  first
+@tries 2
+@graphic none
+@video none
+@begin
+The very ______ thing the operator must do is to turn the knob with his right hand.  [Ignore the above blank]  However, in the above revised frame, the student may answer correctly without reading the complete frame because the blank occurs at the (beginning/end) ______ of the frame. 
+@end
+@answer  beginning
+@tries 2
+@graphic none
+@video none
+@begin
+Turning the knob with his right hand is the very ______ thing the operator must do.  [Ignore the above blank]  The frame above has been revised to include the blank near the end of the frame so the student is more likely to observe the entire frame.  This technique is used to ______ the observing behavior of the student. 
+@end
+@answer  control
+@tries 2
+@graphic none
+@video none
+@begin
+Turning the knob with his right hand is the very ______ thing the operator must do.  [Ignore the above blank]  If you tested out the above frame with many students, and some responded with the words "next" and "last" you could add a formal prompt to the blank, such as...  Turning the knob with his right hand is the very f_____ thing the operator must do. 
+@end
+@answer  first
+@tries 2
+@graphic none
+@video none
+@begin
+The frame could also be revised as...  Turning the knob with his right hand is the very __ __ __ __ __ thing the operator must do.  [Ignore the above blanks]  The above five-letter blank is an example of a ______ ______. 
+@end
+@answer  formal prompt
+@tries 2
+@graphic none
+@video none
+@begin
+If all you want the students to do is fill in blanks, the formal prompt would be sufficient.  But you probably want more than that in the terminal behavior.  You probably want your students to learn to _____ the concepts they've learned. 
+@end
+@answer  use
+@tries 2
+@graphic none
+@video none
+@begin
+If, when they have finished the program, you want students to have learned more than simply to fill in blanks, each frame must require that they think about the responses before they fill in the ______. 
+@end
+@answer  blank
+@tries 2
+@graphic none
+@video none
+@begin
+Later in the program, you would fade the formal prompts, and have the student respond in various grammatical contexts, to make sure the student can _____ the concepts they have learned. 
+@end
+@answer  use
+@tries 2
+@graphic none
+@video none
+@begin
+Since most of the prompts have been faded away by the end of the program, we know that the students are utilizing material they have learned in the program when they fill in the _____s. 
+@end
+@answer  blanks
+@tries 2
+@graphic none
+@video none
+@begin
+Formal prompts usually rely on what the student could do before starting the program.  Thematic prompts, however, rely more on what the student has learned in the ______. 
+@end
+@answer  program
+@tries 2
+@graphic none
+@video none
+@begin
+To BEGIN the operation, the very _____ thing the operator must do is turn the knob with his right hand.  [Ignore the above blank]   "Begin" is capitalized to call attention to the ______ relationship between "begin" and the desired response. 
+@end
+@answer  thematic
+@tries 2
+@graphic none
+@video none
+@begin
+If we begin the frame with the phrase:  To BEGIN the operation, the very...  It is unlikely that the student will respond with the word "next."  "Last" is a more likely response than "next," but is still (more/less) ______ probable than "first." 
+@end
+@answer  less
+@tries 2
+@graphic none
+@video none
+@begin
+If we revise the frame as:  To finally cause the machine to explode, the very...  We increase the probability of obtaining the word (first/last) ______ as a response. 
+@end
+@answer  last
+@tries 2
+@graphic none
+@video none
+@begin
+If we revise the frame as:  To start the machine, the very...  We increase the ______ of obtaining "first." 
+@end
+@answer  probability
+@tries 2
+@graphic none
+@video none
+@begin
+The operator must first turn the knob with his right hand.  If the programmer wishes to teach the student that it is not a dial which the operator turns, the word ______ from the above frame would be required as the response. 
+@end
+@answer  knob
+@tries 2
+@graphic none
+@video none
+@begin
+If the programmer wishes to teach the student that it is not the left hand the operator uses, the word ______ should be required. 
+@end
+@answer  right
+@tries 2
+@graphic none
+@video none
+@begin
+The frame could be written as...  The operator must first turn the switch with her left hand, but she must turn the knob with her ______ hand. 
+@end
+@answer  right
+@tries 2
+@graphic none
+@video none
+@begin
+The operator must first turn the switch with her left hand, but she must turn the knob with her ______ hand.  [Ignore the above blank]  In the above frame, we prompted "right" by opposing it to "left" through the use of the word _____. 
+@end
+@answer  but
+@tries 2
+@graphic none
+@video none
+@begin
+If, on a trial run, we discovered that some students responded with "left," we might try revising the item to read...  The operator must first turn the switch with her left hand, and then turn the knob with her OTHER HAND.  In doing so, she uses her ______ to turn the knob. 
+@end
+@answer  right
+@tries 2
+@graphic none
+@video none
+@begin
+If some students still responded with the word "left," the frame could be revised as:  The operator first turns the switch with her left hand. Then, she uses her other hand to turn the knob.  The RIGHT way to turn the knob is not to use her left hand, but to use her ______ hand. 
+@end
+@answer  right
+@tries 2
+@graphic none
+@video none
+@begin
+There is _____ to programming than merely erasing words from sentences. 
+@end
+@answer  more
+@tries 2
+@graphic none
+@video none
+@begin
+There is _____ to programming than merely erasing words from sentences.  [Ignore the above blank]  What word is a contrasting thematic prompt for the response "more" in the above item? ______ 
+@end
+@answer  merely
+@tries 2
+@graphic none
+@video none
+@begin
+Frames should be constructed, not merely by erasing words from a sentence, but by giving careful consideration to the _____es one wishes to teach. 
+@end
+@answer  responses
+@tries 2
+@graphic none
+@video none
+@begin
+Individual frames are constructed to produce particular responses.  They are also constructed to lead the student to make the desired responses in the presence of all the _____'s that the programmer desires. 
+@end
+@answer  SD's
+@tries 2
+@graphic none
+@video none
+@begin
+Concepts are taught and expanded by requiring the desired responses in different frames covering a (narrow/wide) ______ range of examples and contexts. 
+@end
+@answer  wide
+@tries 2
+@graphic none
+@video none
+@begin
+A frame is written to produce a response.  The thematic context of the frame is selected to provide the conditions under which the ______ should occur. 
+@end
+@answer  response
+@tries 2
+@graphic none
+@video none

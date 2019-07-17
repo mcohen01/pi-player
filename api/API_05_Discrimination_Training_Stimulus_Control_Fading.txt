@@ -1,0 +1,231 @@
+@begin
+Besides prompt letters, the blanks in a frame are considered formal prompts because they indicate the shape, length, or _____m of the response. 
+@end
+@answer  form
+@tries 2
+@graphic none
+@video none
+@begin
+One function of the blanks in a program is to evoke responses that receive reinforcement.  Such reinforcement is needed to strengthen initial behavior until is matches ______ behavior. 
+@end
+@answer  terminal
+@tries 2
+@graphic none
+@video none
+@begin
+A second use of the blanks in a program is to make sure that the student reads the frame carefully.  Here, we say that the blanks control the student's _____g ______. 
+@end
+@answer  observing behavior
+@tries 2
+@graphic none
+@video none
+@begin
+Observable responses are required to increase the probability of the responses through reinforcement and control the ______ ______ of the student. 
+@end
+@answer  observing behavior
+@tries 2
+@graphic none
+@video none
+@begin
+Reinforcing responses in the presence of an SD, and not reinforcing responses in the presence of an S^, teaches the student to respond to the _____ but not to the _____.  This is called discrimination training.  [Type only the letter of the correct answer]  a.  SD,S^ b.  S^,SD 
+@end
+@answer  a
+@tries 2
+@graphic none
+@video none
+@begin
+To train a student to discriminate between two language sounds, e.g., the English "a" and the Spanish "a," we use _____ion training. 
+@end
+@answer  discrimination
+@tries 2
+@graphic none
+@video none
+@begin
+Discrimination training involves reinforcing a response in the presence of one stimulus and _____t _____ing that response in the presence of another stimulus. 
+@end
+@answer  not reinforcing
+@tries 2
+@graphic none
+@video none
+@begin
+To teach a student the difference between two (or more) types of fiber, colors, sounds, and many other such related things, a programmer can use ______ ______. 
+@end
+@answer  discrimination training
+@tries 2
+@graphic none
+@video none
+@begin
+To teach students to judge lengths of rod, diameters of pegs, gauges of wires, etc., you can also use ______ ______ 
+@end
+@answer  discrimination training
+@tries 2
+@graphic none
+@video none
+@begin
+Let's say a programmer wanted to teach a student to discriminate between fine shades of grey. The first step of the program could be:  The grey paper you see is shade 7.  Whenever you see this shade of grey, type the number ____.  (You are to respond to the frame so that we know whether or not your observing behavior is being controlled.) 
+@end
+@answer  7
+@tries 2
+@graphic none
+@video none
+@begin
+The second step of the program could be:  The grey paper you now see is not shade 7.  This shade (is/is not) ______ shade 7.  (The shade of grey presented would be very different from the shade presented in the previous frame.) 
+@end
+@answer  is not
+@tries 2
+@graphic none
+@video none
+@begin
+Step (3) could be:  This shade of grey is number _____.  (We would present 7 again.) 
+@end
+@answer  7
+@tries 2
+@graphic none
+@video none
+@begin
+Step (4):  This shade (is 7/is not 7) ______.  (We would present a shade very different from 7.) 
+@end
+@answer  is not 7
+@tries 2
+@graphic none
+@video none
+@begin
+Step (5):  This shade (is/is not) ______ 7.  (We would present a shade a little closer to the shade of 7.) 
+@end
+@answer  is not
+@tries 2
+@graphic none
+@video none
+@begin
+Step (6):  This shade is _____.  (Here we would present 7.) 
+@end
+@answer  7
+@tries 2
+@graphic none
+@video none
+@begin
+Step (7):  This shade (is/is not) ______ 7.  (Here we would probably present a shade a little closer to 7.) 
+@end
+@answer  is not
+@tries 2
+@graphic none
+@video none
+@begin
+On successive steps of the program, we would present shade 7 in about half of the items, and shades of grey that gradually were brought closer and ______ to the shade of 7 in the remaining half of the items. 
+@end
+@answer  closer
+@tries 2
+@graphic none
+@video none
+@begin
+In a gradual progression, we would bring the shades of grey closer and closer to the shade 7.  By starting with shades very different from shade 7, we start with a discrimination the student can already make and proceed by a ______ progression of shades to the discrimination we hope to teach. 
+@end
+@answer  gradual
+@tries 2
+@graphic none
+@video none
+@begin
+If you wanted to teach a student to discriminate between two complex concepts, you could present very extreme examples of each.  Gradually, you would present examples and non-examples that are less and less extreme until the student can make a fine ______ between the two. 
+@end
+@answer  discrimination
+@tries 2
+@graphic none
+@video none
+@begin
+A student learns to discriminate between things by being ______ for correctly responding to SD's and S^'s. 
+@end
+@answer  reinforced
+@tries 2
+@graphic none
+@video none
+@begin
+In the sequence that taught shades of grey, the color of shade 7 was an SD for the response "7."  This shade set the _____n for the response "7" which would be reinforced. 
+@end
+@answer  occasion
+@tries 2
+@graphic none
+@video none
+@begin
+In the sequence that taught shades of grey, any other shade than 7 was an (SD/S^) ______ for the response "7." 
+@end
+@answer  s^
+@tries 2
+@graphic none
+@video none
+@begin
+A programmer may want to teach a student to discriminate between the fanciful, abstract art of the 1920's called surrealism, and the geometric art of the 20th century called cubism.  Initially, the programmer would show examples of surrealistic and cubistic paintings that were very (similar/different) ______. 
+@end
+@answer  different
+@tries 2
+@graphic none
+@video none
+@begin
+In the presence of very surrealistic stimuli, the student would be ______d for saying "surrealism." 
+@end
+@answer  reinforced
+@tries 2
+@graphic none
+@video none
+@begin
+In the presence of very cubistic stimuli, the student would be reinforced for saying "cubism."  Gradually, surrealistic and cubistic stimuli would begin to exert control over the student's ______s. 
+@end
+@answer  responses
+@tries 2
+@graphic none
+@video none
+@begin
+The stimuli in the paintings (curves, shapes, colors, etc.) come to exert control because of the student has been ______ for correct responding. 
+@end
+@answer  reinforced
+@tries 2
+@graphic none
+@video none
+@begin
+The stimuli in the paintings (curves, shapes, colors, etc.) start to exert control and the student begins to discriminate between them.  The stimuli are now called ______ stimuli or SD's. 
+@end
+@answer  discriminative
+@tries 2
+@graphic none
+@video none
+@begin
+The SD's (curves, shapes, colors, etc.) of the surrealistic paintings set the occasion for ______ of surrealistic responses. 
+@end
+@answer  reinforcement
+@tries 2
+@graphic none
+@video none
+@begin
+Progressively, more similar paintings would be presented. The distinct surrealistic and cubistic SD's would be withdrawn in the process called ______. 
+@end
+@answer  fading
+@tries 2
+@graphic none
+@video none
+@begin
+Gradually, the subtle SD's of the respective paintings exert control over the student's responses.  Here, the student can make a fine ______ between the two types of art. 
+@end
+@answer  discrimination
+@tries 2
+@graphic none
+@video none
+@begin
+Like the person learning to discriminate art, a wine taster learns to make fine discriminations by being ______ for correctly identifying different brands of wine. 
+@end
+@answer  reinforced
+@tries 2
+@graphic none
+@video none
+@begin
+Reinforcing responses in the presence of an SD, and not reinforcing responses in the presence of an S^, teaches the student to respond to the SD but not to the S^.  This process is called ______ ______. 
+@end
+@answer  discrimination training
+@tries 2
+@graphic none
+@video none
+@begin
+Discrimination training involves reinforcing a response in the presence of one stimulus and _____ ______ that response in the presence of another stimulus. 
+@end
+@answer  not reinforcing
+@tries 2
+@graphic none
+@video none
