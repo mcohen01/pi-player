@@ -122,6 +122,11 @@ EOT;
             header("HTTP/1.1 500 Internal Server Error");
             exit();
         }
+
+        function last_modified($frameDirectory, $file) {
+	        return filemtime($frameDirectory . $file);
+        }
+
         function readLines($frameDirectory, $file) {
             $lines = array();
             if (file_exists($frameDirectory.$file)) {
@@ -154,6 +159,7 @@ EOT;
         foreach ($tuts as $tutorial) {
             $rval[$index] = array();
             $rval[$index]['tutorial'] = $tutorial;
+	        $rval[$index]['last_modified'] = last_modified($frameDirectory, $tutorial);
             $lines = readLines($frameDirectory, $tutorial);
             $frames = array();
             foreach ($lines as $line) {
@@ -260,7 +266,7 @@ EOT;
 			<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 			<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/nvd3/1.8.5/nv.d3.css"/>
 
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.4/lodash.min.js"></script>
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.4/lodash.min.js"></script>
 			<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.17/d3.min.js"></script>
 			<script src="https://cdnjs.cloudflare.com/ajax/libs/nvd3/1.8.5/nv.d3.js"></script>
       <script>
@@ -288,15 +294,21 @@ EOT;
           }
 
 
-          function parseResponses(responses) {
-            var rval = [];
-            responses.forEach(function(line) {
-              var r = response(line);
-              if (rval.length) {
-                rval[rval.length - 1].nextR = r;
-              }
-              rval.push(r);
-            });
+          function parseResponses(responses, tutorialLastModifiedDate) {
+                var rval = [];
+                responses.forEach(function(line) {
+                    var r = response(line);
+                    try {
+                        if (Object.keys(r).length && r.date > tutorialLastModifiedDate) {
+                            if (rval.length) {
+                                rval[rval.length - 1].nextR = r;
+                            }
+                            rval.push(r);
+                        }
+                    } catch(e) {
+                        console.log(r);
+                    }
+                });
             return rval
           }
 
@@ -355,9 +367,9 @@ EOT;
                   fetched = false;
                   var tutorials = data.map(function (tut) {
                     return {
-                      name: tut.tutorial,
-                      frames: tut.frames,
-                      responses: parseResponses(tut.responses)
+                        name: tut.tutorial,
+                        frames: tut.frames,
+                        responses: parseResponses(tut.responses, new Date(parseInt(tut.last_modified + '000')))
                     }
                   });
                   var links = '';
