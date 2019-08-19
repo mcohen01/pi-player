@@ -76,9 +76,9 @@ EOT;
 	$tutorial = $_REQUEST['frameSelection'];
 	$percentStartOver = isset($_REQUEST['PercentStartOver']) ? $_REQUEST['PercentStartOver'] : $percentStartOver;
 	$scriptname = basename(__FILE__, '');
-    if ($completionLink == "") {
+      if ($completionLink == "") {
         $completionLink = "http://www.scienceofbehavior.com/".$scriptname;
-    }
+      }
 	session_start();
 
     function readtutorialLine(&$frames, $line, &$frame) {
@@ -122,11 +122,6 @@ EOT;
             header("HTTP/1.1 500 Internal Server Error");
             exit();
         }
-
-        function last_modified($frameDirectory, $file) {
-	        return filemtime($frameDirectory . $file);
-        }
-
         function readLines($frameDirectory, $file) {
             $lines = array();
             if (file_exists($frameDirectory.$file)) {
@@ -159,7 +154,6 @@ EOT;
         foreach ($tuts as $tutorial) {
             $rval[$index] = array();
             $rval[$index]['tutorial'] = $tutorial;
-	        $rval[$index]['last_modified'] = last_modified($frameDirectory, $tutorial);
             $lines = readLines($frameDirectory, $tutorial);
             $frames = array();
             foreach ($lines as $line) {
@@ -266,7 +260,7 @@ EOT;
 			<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 			<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/nvd3/1.8.5/nv.d3.css"/>
 
-            <script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.4/lodash.min.js"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.4/lodash.min.js"></script>
 			<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.17/d3.min.js"></script>
 			<script src="https://cdnjs.cloudflare.com/ajax/libs/nvd3/1.8.5/nv.d3.js"></script>
       <script>
@@ -294,21 +288,15 @@ EOT;
           }
 
 
-          function parseResponses(responses, tutorialLastModifiedDate) {
-                var rval = [];
-                responses.forEach(function(line) {
-                    var r = response(line);
-                    try {
-                        if (Object.keys(r).length && r.date > tutorialLastModifiedDate) {
-                            if (rval.length) {
-                                rval[rval.length - 1].nextR = r;
-                            }
-                            rval.push(r);
-                        }
-                    } catch(e) {
-                        console.log(r);
-                    }
-                });
+          function parseResponses(responses) {
+            var rval = [];
+            responses.forEach(function(line) {
+              var r = response(line);
+              if (rval.length) {
+                rval[rval.length - 1].nextR = r;
+              }
+              rval.push(r);
+            });
             return rval
           }
 
@@ -367,9 +355,9 @@ EOT;
                   fetched = false;
                   var tutorials = data.map(function (tut) {
                     return {
-                        name: tut.tutorial,
-                        frames: tut.frames,
-                        responses: parseResponses(tut.responses, new Date(parseInt(tut.last_modified + '000')))
+                      name: tut.tutorial,
+                      frames: tut.frames,
+                      responses: parseResponses(tut.responses)
                     }
                   });
                   var links = '';
@@ -435,8 +423,6 @@ EOT;
               scaledTimes.push({x: k, y: times.frames[k] * scaled[parseInt(k)-1]});
               thinkTimes.push({x: k, y: times.frames[k]});
             });
-
-
 
             graph(tutorial, '#stats-svg', [{
               key: 'Frame Scores',
@@ -573,15 +559,6 @@ EOT;
                           spacer + '<br/>&nbsp;<br/></b>'
                 }
               });
-
-                sizes = points.map(x => x.values.length);
-                if (! sizes.every(x => x === sizes[0])) {
-                    var max = Math.min.apply(null, sizes);
-                    points = points.map(x => {
-                        x.values = x.values.slice(0, max - 1);
-                        return x;
-                    });
-                }
 
               $(selector).each(function () { $(this)[0].setAttribute('viewBox', '0 0 860 400') });
               d3.select(selector).datum(points).style({ 'width': 768, 'height': 480 }).call(chart);
@@ -825,10 +802,9 @@ EOT;
 			border: 1px solid #aaaaaa;
 		}
 	</style>
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/json2/20140204/json2.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-color/2.1.2/jquery.color.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/ua-parser-js@0/dist/ua-parser.min.js"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/vue"></script>
+
 	<script>
 		var scriptname = '<?php echo $scriptname; ?>';
 		var student = '<?php echo $student; ?>';
@@ -866,329 +842,68 @@ EOT;
 			return xmlhttp;
         }
 
-		function saveAnswer(correctAnswer, userAnswer, isCorrect) {
-			var feed = isCorrect ? 'CORRECT' : 'INCORRECT';
-			var xmlhttp = xhr();
-            xmlhttp.open("GET", scriptname + '?userAnswer=' + userAnswer + '&student=' + student + '&tutorial=' + tutorial + '&currentTry=' +
-							currentTry + '&currentFrame=' + eval(currentFrame + 1) + '&correctAnswer=' + correctAnswer + '&feedback=' +
-							feed + '&percent=' + getScore() + '&numberOfQuestions=' + tutorialFrames.length + '&numberOfAttempts=' + eval(currentFrame + 1) + '&answeredCorrectly=' + numberCorrect, true);
-			xmlhttp.send(null);
-		}
-
-		function saveFinalScore() {
-            var parser = new UAParser();
-            parser.setUA(window.navigator.userAgent);
-            var result = parser.getResult();
-			var parameters = scriptname + '?student=' + student + '&tutorial=' + tutorial + '&finalScore=' + getScore();
-            parameters += '&numberOfQuestions=' + tutorialFrames.length + '&numberOfAttempts=' + currentFrame + '&answeredCorrectly=';
-            parameters += numberCorrect + '&browser=' + result.browser.name + '&device=' + result.device.type + '&os=' + result.os.name;
-			var xmlhttp = xhr();
-            xmlhttp.open("GET", parameters, true);
-			xmlhttp.send(null);
-		}
-
-		function init() {
+        function init() {
             var xmlhttp = xhr();
-			xmlhttp.open("GET", scriptname + '?' + postParams, true);
-			xmlhttp.onreadystatechange = function() {
-				if (xmlhttp.readyState === 4) {
-					tutorialFrames = JSON.parse(xmlhttp.responseText);
-					repaint('hidden', 'hidden', 'visible', 'userAnswer', '', true);
-                    initTimers();
-				}
-			}
-			xmlhttp.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
-			xmlhttp.send(null);
-		}
-
-		function video(src, autoplay) {
-		  var mode = autoplay ? 'autoplay' : '';
-		  return '<video controls ' + mode + '>' +
-					'<source src="' + src + '" type="video/mp4">' +
-					  'Your browser does not support the video tag.' +
-				  '</video>';
-		}
-
-        function audio(src) {
-            var type = src.endsWith('av') ? 'wav' : 'mpeg';
-            return '<audio controls="controls" preload="auto" autoplay>' +
-                        '<source src="' + src + '" type="audio/' + type + '" />' +
-                   '</audio>';
-        }
-
-		function evaluation_response(is_correct, show_correct) {
-			if (is_correct) {
-				return '<br>Your answer <font color="blue">' + document.frm.userAnswer.value + '</font> is <font color="green">CORRECT</font>. <br>Press Enter or Click to Continue.';
-			} else if (show_correct) {
-				return '<br>Your answer was <font color="blue">' + document.frm.userAnswer.value + '</font>.<br>The correct answer is <font color="green">' + tutorialFrames[currentFrame]['answer'][0] + '</font>';
-			} else {
-				return '<br>Not yet. Your answer was <font color="blue">' + document.frm.userAnswer.value + '</font>. Please try again.';
-			}
-		}
-
-		function submitFeedback() {
-			$.post(scriptname + '?specialfeedback=1', JSON.stringify({
-				 feedback: document.getElementById('feedbackTextarea').value,
-				 student: student,
-				 tutorial: tutorial,
-				 frame: currentFrame + 1
-			 }), function(success) {
-				document.getElementById('feedbackTextarea').value = '';
-				document.getElementById('feedbackForm').style.display = 'none';
-				document.getElementById('userAnswer').style.visibility = 'visible';
-				document.getElementById('userAnswerField').focus();
-			});
-
-		};
-
-        function parseFrameText(evalutation_text) {
-            var frameText = tutorialFrames[currentFrame]['frame'];
-            var matchText = tutorialFrames[currentFrame]['frame'].match(/\{\{\{.*\}\}\}/);
-            frameText = matchText ? frameText.replace(matchText[0], '') : frameText;
-            if (matchText && currentTry === 1 && evalutation_text === '') {
-                document.getElementById('userAnswer').style.visibility = 'hidden';
-                document.getElementById('feedbackForm').style.display = 'inline';
-                document.getElementById('feedbackTextarea').focus();
-                document.getElementById('feedbackText').innerHTML = matchText[0].replace(/\{\{\{/g, '').replace(/\}\}\}/g, '');
-            }
-            return frameText;
-        }
-
-		function repaint(e, c, u, field, evalutation_text, autoplay) {
-            document.getElementById('evaluation').style.visibility = e;
-			document.getElementById('continueButton').style.visibility = c;
-			document.getElementById('userAnswer').style.visibility = u;
-			document.getElementById('evaluation').innerHTML = evalutation_text;
-			document.getElementById('frameNumber').innerHTML = 'Frame #: ' + eval(currentFrame + 1) + ' of ' + tutorialFrames.length;
-			document.getElementById('tryNumber').innerHTML = 'Try #: ' + currentTry;
-			document.getElementById('percentCorrect').innerHTML = 'Correct %: ' + getScore();
-            document.getElementById('frame').innerHTML = parseFrameText(evalutation_text);
-
-            if (trim(tutorialFrames[currentFrame]['graphic'].toUpperCase()) === 'none'.toUpperCase()) {
-				document.getElementById('graphic').innerHTML = '';
-			} else {
-				document.getElementById('graphic').innerHTML = '<center><img src="' + tutorialFrames[currentFrame]['graphic'] + '"/></center>';
-			}
-            if ('video' in tutorialFrames[currentFrame]) {
-                if (trim(tutorialFrames[currentFrame]['video'].toUpperCase()) === 'NONE') {
-                    document.getElementById('video').innerHTML = '';
-                } else {
-                    document.getElementById('video').innerHTML = video(trim(tutorialFrames[currentFrame]['video']), autoplay);
+            xmlhttp.open("GET", scriptname + '?' + postParams, true);
+            xmlhttp.onreadystatechange = function() {
+                if (xmlhttp.readyState === 4) {
+                    var app = new Vue({
+                        el: '#app',
+                        data: {
+                            tutorialFrames: JSON.parse(xmlhttp.responseText),
+                            currentFrame: JSON.parse(xmlhttp.responseText)[0]['frame'],
+                            currentFrameIndex: 0
+                        }
+                    })
                 }
             }
-            if ('audio' in tutorialFrames[currentFrame]) {
-                if (trim(tutorialFrames[currentFrame]['audio'].toUpperCase()) === 'NONE') {
-                    document.getElementById('video').innerHTML = '';
-                } else {
-                    document.getElementById('video').innerHTML = audio(trim(tutorialFrames[currentFrame]['audio']));
-                }
-            }
-			document.getElementById(field + 'Field').focus();
-		}
-
-		function evaluateResponse(response, isTimerInvoked) {
-			var answers = tutorialFrames[currentFrame]['answer'];
-			var isCorrect = false;
-			for (var i = 0; i < answers.length; i++) {
-				if (answers[i].toUpperCase() === trim(response.toUpperCase())) {
-					isCorrect = true;
-					saveAnswer(answers[i].toUpperCase(), response.toUpperCase(), true);
-					break;
-				}
-			}
-			if (! isCorrect) {
-				saveAnswer(answers[0].toUpperCase(), response.toUpperCase(), false);
-			}
-			if (isCorrect) {
-				//repaint('visible', 'visible', 'hidden', 'continueButton', evaluation_response(true));
-				numberCorrect++;
-                clearTimeout(timeRemainingTimeoutFunction);
-				doContinue(true);
-			}
-			<?php if (! $isTest) { ?>
-  			else {
-  				if (currentTry < tutorialFrames[currentFrame]['tries'] && ! isTimerInvoked) {
-  					currentTry++;
-  					repaint('visible', 'hidden', 'visible', 'userAnswer', evaluation_response(false));
-  				} else {
-  					document.frm.userAnswer.disabled = true;
-                    repaint('visible', 'visible', 'hidden', 'continueButton', evaluation_response(false, true));
-                    resetTimersAndBackground(false);
-                    clearTimeout(correctAnswerTimeoutFunction);
-                    correctAnswerTimeoutFunction = correctAnswerTimer();
-  				}
-  			}
-			document.frm.userAnswer.value = '';
-			<?php } else echo 'document.frm.userAnswer.value = ""; doContinue();'; ?>
-
-		}
-
-		function animateBackground(millis, startColor, endColor) {
-            $('body').css('background-color', startColor);
-            $('body').animate({
-                'background-color': endColor
-            }, millis, null, function() {
-                $('body').css('background-color', endColor);
-            });
+            xmlhttp.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+            xmlhttp.send(null);
         }
-
-		function resetTimersAndBackground(isCorrect) {
-            clearTimeout(userResponseTimeoutFunction);
-            clearTimeout(timeRemainingTimeoutFunction);
-            $('body').stop();
-            $('body').finish();
-            $('body').css('background-color', '#C4D9E1');
-            if (isCorrect) {
-                animateBackground(1300, '#3dab52', '#C4D9E1');
-            }
-        }
-
-        function initTimers() {
-            timeRemaining = <?php echo $userResponseTimeLimit; ?>;
-            document.getElementById('timeRemaining').innerHTML = 'Time Remaining: ' + timeRemaining + ' seconds';
-            userResponseTimeoutFunction = startUserResponseTimer();
-            timeRemainingTimeoutFunction = countdownTimeRemaining();
-        }
-
-        function countdownTimeRemaining() {
-            var fadeBackgroundToRedWhenRemainingSeconds = <?php echo $fadeBackgroundToRedWhenRemainingSeconds; ?>;
-            if (timeRemaining > 0) {
-                clearTimeout(timeRemainingTimeoutFunction);
-                timeRemainingTimeoutFunction = setTimeout(function() {
-                    timeRemaining = timeRemaining - 1;
-                    if (timeRemaining === fadeBackgroundToRedWhenRemainingSeconds) {
-                        var millis = fadeBackgroundToRedWhenRemainingSeconds * 1000 + 2000;
-                        animateBackground(millis, '#C4D9E1', '#e10a28');
-                    }
-                    if (document.getElementById('finish').innerHTML === '' && ! document.frm.userAnswer.disabled) {
-                        document.getElementById('timeRemaining').innerHTML = 'Time Remaining: ' + timeRemaining + ' seconds';
-                    }
-                    countdownTimeRemaining();
-                }, 1000);
-            }
-        }
-
-        function timeRemainingToContinue(time) {
-            if (time) {
-                timeRemaining = time;
-            }
-            clearTimeout(timeRemainingTimeoutFunction);
-            timeRemainingTimeoutFunction = setTimeout(function() {
-                timeRemaining = timeRemaining - 1;
-                if (document.getElementById('finish').innerHTML === '') {
-                    document.getElementById('timeRemaining').innerHTML = 'Time Remaining: ' + timeRemaining + ' seconds';
-                }
-                timeRemainingToContinue();
-            }, 1000);
-        }
-
-        function correctAnswerTimer() {
-            if (correctAnswerTimeLimit === 0 || userResponseTimeLimit === 0) {
-                return;
-            }
-
-            timeRemainingToContinue(<?php echo $correctAnswerTimeLimit; ?>);
-
-            return setTimeout(function() {
-                // only advance the user if the special feedback form is not shown
-                if (document.getElementById('feedbackForm').style.display !== 'inline') {
-                    doContinue();
-                }
-            }, correctAnswerTimeLimit * 1000);
-        }
-
-		function startUserResponseTimer() {
-            if (userResponseTimeLimit === 0) {
-                return;
-            }
-            var frameTimeout = setTimeout(function() {
-                // only advance the user if the special feedback form is not shown
-                if (document.getElementById('feedbackForm').style.display !== 'inline') {
-                    //console.log('user answer timeout! ' + new Date());
-                    evaluateResponse(document.frm.userAnswer.value, true);
-                }
-            }, userResponseTimeLimit * 1000);
-
-            return frameTimeout;
-        }
-
-		function doContinue(isCorrect) {
-			currentFrame++;
-            clearTimeout(correctAnswerTimeoutFunction);
-            resetTimersAndBackground(isCorrect);
-
-			if (currentFrame === tutorialFrames.length || (currentFrame > 4 && getScore() < percentStartOver)) {
-				saveFinalScore();
-				var conclusion = '<br><p align="center"><b>You have reached the end of this program.</b></p><div align="center">';
-				conclusion += '<table border="2" width="66%"><tr><td width="80%">Number of frames</td><td width="20%">' + tutorialFrames.length + '</td></tr>';
-				conclusion +=  '<tr><td width="80%">Number of frames you attempted</td><td width="20%">' + currentFrame + '</td></tr><tr>';
-				conclusion += '<td width="80%">Number of attempted frames you answered correctly</td><td width="20%">' + numberCorrect;
-				conclusion += '</td></tr><tr><td width="80%">Percent correct score of attempted frames</td><td width="20%">' + getScore();
-				conclusion += '%</td></tr></table></center></div><br><center><strong><a href="' + completionLink + '">' + completionLinkMessage + '</a></strong></center><br>';
-				if (currentFrame !== tutorialFrames.length) conclusion = '<p align="center">Your score fell below ' + percentStartOver + '%. Hit refresh in your browser to start over.</p>';
-				for(var i = 0; i < 8; ++i) {
-					document.getElementById(['frame', 'graphic', 'percentCorrect', 'frameNumber', 'tryNumber', 'userAnswer', 'evaluation', 'continueButton'][i]).innerHTML = '';
-				}
-                document.getElementById('timeRemaining').innerHTML = '';
-				document.getElementById('finish').innerHTML = conclusion;
-				return;
-			} else {
-                initTimers();
-            }
-			currentTry = 1;
-			document.frm.userAnswer.value = '';
-			document.frm.userAnswer.disabled = false;
-			repaint('hidden', 'hidden', 'visible', 'userAnswer', '', true);
-		}
-
-		function getScore() {
-			return ! isNaN(numberCorrect/currentFrame) && isFinite(numberCorrect/currentFrame) ? Math.round((numberCorrect/currentFrame) * 100) : '';
-		}
-
-		function trim(s) {
-			while (s.substring(0,1) === ' ') s = s.substring(1,s.length);
-			while (s.substring(s.length-1,s.length) === ' ') s = s.substring(0,s.length-1);
-			return s;
-		}
 
 	</script>
 </head>
 <body onLoad="init()" style="font-weight:bold; padding:20px;">
-<span id="frameNumber"></span><br>
-<span id="tryNumber"></span><br>
-<span id="percentCorrect"></span><p>
-<span id="timeRemaining">Time Remaining: <?php echo $userResponseTimeLimit; ?> seconds</span><p>
-<span id="frame"></span><p>
-<div id="graphic"></div><p>
-<center><span id="video"></span></center><p>
-<span id="feedbackForm" style="display: none;">
-	<span id="feedbackText" style="color:rgb(208, 61, 122);"></span><br/><br/>
-	<textarea id="feedbackTextarea" name="feedbackSubmission" style="width: 400px; height:200px;"></textarea>
-	<br/>
-	<button id="feedbackButton" onclick="submitFeedback()" class="btn btn-primary">Save</button>
-</span>
-<form method="post" name="frm" onSubmit="return false;">
-	<div id="finish"></div>
 
-	<span id="userAnswer" style="visibility:hidden;">
-		Type your answer here:
-		<input id="userAnswerField"
-			   name="userAnswer"
-			   onKeyPress="if (event.keyCode === 13 && trim(this.form.userAnswer.value) !== '') evaluateResponse(this.form.userAnswer.value)"
-			   size="30"
-			   autocomplete="off">
-	</span>
-	<center><span id="evaluation"></span></center>
-	<span id="continueButton" style="visibility:hidden;">
-		<center>
-			<button style="margin-top: 10px;" class="btn btn-primary"
-					name="continueButton"
-				    id="continueButtonField"
-				    type="button"
-				    onKeyPress="if (event.keyCode === 13) doContinue()"
-				    onMouseDown="doContinue()">Continue</button>
-		</center>
-	</span>
-</form>
+<div id="app">
+    <span id="frameNumber"></span><br>
+    <span id="tryNumber"></span><br>
+    <span id="percentCorrect"></span><p>
+    <span id="timeRemaining">Time Remaining: <?php echo $userResponseTimeLimit; ?> seconds</span><p>
+    <span id="frame">
+        {{ currentFrame }}
+    </span><p>
+    <div id="graphic"></div><p>
+    <center><span id="video"></span></center><p>
+    <span id="feedbackForm" style="display: none;">
+        <span id="feedbackText" style="color:rgb(208, 61, 122);"></span><br/><br/>
+        <textarea id="feedbackTextarea" name="feedbackSubmission" style="width: 400px; height:200px;"></textarea>
+        <br/>
+        <button id="feedbackButton" class="btn btn-primary">Save</button>
+    </span>
+    <form method="post" name="frm">
+        <div id="finish"></div>
+
+        <span id="userAnswer" style="visibility:hidden;">
+            Type your answer here:
+            <input id="userAnswerField"
+                   name="userAnswer"
+                   onKeyPress="if (event.keyCode === 13 && trim(this.form.userAnswer.value) !== '') evaluateResponse(this.form.userAnswer.value)"
+                   size="30"
+                   autocomplete="off">
+        </span>
+        <center><span id="evaluation"></span></center>
+        <span id="continueButton" style="visibility:hidden;">
+            <center>
+                <button style="margin-top: 10px;" class="btn btn-primary"
+                        name="continueButton"
+                        id="continueButtonField"
+                        type="button"
+                        onKeyPress="if (event.keyCode === 13) doContinue()"
+                        onMouseDown="doContinue()">Continue</button>
+            </center>
+        </span>
+    </form>
+</div>
 </body>
 </html>
