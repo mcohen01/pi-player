@@ -354,12 +354,13 @@ EOT;
 
 
           var fetched = false;
+            var scriptname = '<?php echo $scriptname; ?>';
           $('#Student').keyup(function() {
             if ($(this).val().match(/^__/) && $(this).val().length == 9 && !fetched) {
               fetched = true;
               $('#loading-gif').show();
               $.ajax({
-                url: 'learnprin.php?adminStats=' + $(this).val(),
+                url: scriptname + '?adminStats=' + $(this).val(),
                 success: function (data) {
                   $('#loading-gif').hide();
                   $('#stats').show();
@@ -397,9 +398,9 @@ EOT;
             var scores = _.mapValues(tutorial.responses.map(frameScore).reduce(frameTotals, {}), frameScores);
             var ks = Object.keys(scores);
             var _scores = ks.map(k => scores[k]);
-            var avg = _scores.reduce( (acc, x) => acc + x) / ks.length;
+            var avg = _scores.reduce( (acc, x) => acc + x, 0) / ks.length;
             var mean = avg.toFixed(2) * 100;
-            var sd = Math.sqrt(_scores.map(x => (x - avg) * (x - avg)).reduce( (acc, x) => acc + x) / _scores.length);
+            var sd = Math.sqrt(_scores.map(x => (x - avg) * (x - avg)).reduce( (acc, x) => acc + x, 0) / _scores.length);
             var name = tutorial.name.replace('.txt', '').replace(/_/g, ' ');
             var times = frameThinkTime(tutorial);
 
@@ -524,7 +525,7 @@ EOT;
             return {
               frames: _.mapValues(times, xs => xs.reduce( (acc, x) => acc + x, 0) / xs.length),
               students: students,
-              avgTutorialTime: total = Math.round(total.reduce( (acc, x) => acc + x) / total.length)
+              avgTutorialTime: total = Math.round(total.reduce( (acc, x) => acc + x, 0) / total.length)
             }
           }
 
