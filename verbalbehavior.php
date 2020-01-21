@@ -3,7 +3,7 @@
 //////////////// Editable options ////////////////
 
 	// this is the banner headline displayed on the Menu page
-	$tutorialTitle = 'LEARNING PRINCIPLES';
+	$tutorialTitle = 'Skinner VERBAL BEHAVIOR self-quiz';
 
 	$backgroundColor = '#C4D9E1';
 	$cssLink = '//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.2/css/bootstrap.css';
@@ -12,12 +12,15 @@
 $menuIntroText = <<<EOT
 
 <p>
-<center><img src="/learnprin/learningprinciples.gif" alt="learningprinciples" style="width:290px;height:155px"></center></>
+<center>
+    <img src="/verbalbehavior/verbalbehavior.gif" 
+         alt="verbalbehavior" 
+         style="width:290px; ">
+</center>
 <p>
-	This set of tutorials is about the basic principles of learning and how they relate to your success in life.  Tutorials build upon each other and you should work through them in serial order; don't skip any.  Each "set" is a series of screen presentations to which you respond by typing a word or two.  This will require you to think a little each time because the program insists that you understand each point. You cannot go backwards when working through a given set of frames.  Read everything carefully as the program will constantly test your memory. A momentary green flash signals that you have responded correctly and have advanced forward.  Sometimes you may need to try again.  Finish each successive tutorial before you take a break.  Remember the name you used to sign in and continue to use it when you advance to the next set in the menu.  Now, click on a set number below and experience automated instruction.
+	Each chapter of B. F. Skinner's VERBAL BEHAVIOR should be studied carefully prior to attempting these review quizzes.  The "correct" answers are the EXACT words Skinner wrote in his sentences.  Quizzes must be accomplished TO COMPLETION in serial order, you can't skip any.  Each quiz is a series of screen presentations to which you respond by typing a word (or two with a space between them).  A momentary green flash signals that you have responded correctly and have advanced forward. You cannot go backwards when working through a given set of content--if you accidentally try, you will automatically restart the quiz.  You will have 60 seconds to answer each item (a countdown timer is present in the upper left-hand corner of the screen).  If you wait too long to answer, during the final remaining seconds of viewing each quiz item the background will fade into red terminating with the automatic advance forward--calling your failure to answer an "error."  Finish each successive tutorial before you take a break--you should not be interrupted by phone calls or text messages, etc., because the countdown timer requires close concentration.   Remember the name you use to sign in with no extra characters or spaces.  This computer program remembers the EXACT characters you use and connects you with each subsequent quiz only when you use EXACTLY that name again.  Now, click on a quiz number below and find out how closely you have acquired Skinner's analysis of verbal behavior. 
 
 <p>
-By applying your new knowledge, you can take big steps to enjoying life more!
 </p>
 
 EOT;
@@ -26,7 +29,7 @@ EOT;
 	// e.g. 'tutorials/aba/oneToTen/', which would look 3 folders under the current, or
 	// e.g. '../../tutorials/aba/' which would look two directories above the current and then under /tutorials/aba/
 	// **** MUST START WITH ./ AND MUST END WITH /
-	$frameDirectory = './learnprin/';
+	$frameDirectory = './verbalbehavior/';
 
 
 	// regex used to match frame files that will be shown in the menu
@@ -34,22 +37,22 @@ EOT;
 
 	// directory where output files will be written, same rules as for the $frameDirectory, i.e. above or below the current dir
 	// **** MUST START WITH ./ AND MUST END WITH /
-	$outfileDirectory = './learnprin/';
+	$outfileDirectory = './verbalbehavior/';
 
 	// suffix appended to the name of the tutorial which will be used to generate the file for final scores
 	$finalScoresFileSuffix = '_FINAL_SCORE.out';
 
 	// students are forced to start over if their score drops below this number after the 5th frame
-	$percentStartOver = 50;
+	$percentStartOver = 10;
 
 	// how long does the student have to respond to each frame before the program moves forward?
     // set this to 0 for no limit
-    $userResponseTimeLimit = 10;
-    $correctAnswerTimeLimit = 10;
-    $fadeBackgroundToRedWhenRemainingSeconds = 5;
+    $userResponseTimeLimit = 60;
+    $correctAnswerTimeLimit = 30;
+    $fadeBackgroundToRedWhenRemainingSeconds = 10;
 
-	$outOfSequenceMessage = "It\'s strongly recommended that you work through these tutorials in order. ";
-	$outOfSequenceMessage = $outOfSequenceMessage."Please work through the following tutorials first:";
+	$outOfSequenceMessage = "It\'s required that you work through these quizzes in sequential order. ";
+	$outOfSequenceMessage = $outOfSequenceMessage."Please work through the following quizzess first:";
 
 
 	// change this to true to only give one try and not show the correct answer
@@ -834,7 +837,6 @@ EOT;
 		var scriptname = '<?php echo $scriptname; ?>';
 		var student = '<?php echo $student; ?>';
 		var tutorial = '<?php echo $tutorial; ?>';
-		var frameDirectory = '<?php echo $frameDirectory; ?>';
         var completionLink = '<?php echo $completionLink; ?>';
         var completionLinkMessage = '<?php echo $completionLinkMessage; ?>';
 		var percentStartOver = <?php echo $percentStartOver; ?>;
@@ -896,9 +898,7 @@ EOT;
 				if (xmlhttp.readyState === 4) {
 					tutorialFrames = JSON.parse(xmlhttp.responseText);
 					repaint('hidden', 'hidden', 'visible', 'userAnswer', '', true);
-                    if (document.getElementById('frame').style.display !== 'none') {
-                        initTimers();
-                    }
+                    initTimers();
 				}
 			}
 			xmlhttp.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
@@ -939,11 +939,8 @@ EOT;
 			 }), function(success) {
 				document.getElementById('feedbackTextarea').value = '';
 				document.getElementById('feedbackForm').style.display = 'none';
-                document.getElementById('frame').style.display = 'inline';
-                document.getElementById('graphic').style.display = 'inline';
 				document.getElementById('userAnswer').style.visibility = 'visible';
 				document.getElementById('userAnswerField').focus();
-				initTimers();
 			});
 
 		};
@@ -954,8 +951,6 @@ EOT;
             frameText = matchText ? frameText.replace(matchText[0], '') : frameText;
             if (matchText && currentTry === 1 && evalutation_text === '') {
                 document.getElementById('userAnswer').style.visibility = 'hidden';
-                document.getElementById('frame').style.display = 'none';
-                document.getElementById('graphic').style.display = 'none';
                 document.getElementById('feedbackForm').style.display = 'inline';
                 document.getElementById('feedbackTextarea').focus();
                 document.getElementById('feedbackText').innerHTML = matchText[0].replace(/\{\{\{/g, '').replace(/\}\}\}/g, '');
@@ -976,7 +971,7 @@ EOT;
             if (trim(tutorialFrames[currentFrame]['graphic'].toUpperCase()) === 'none'.toUpperCase()) {
 				document.getElementById('graphic').innerHTML = '';
 			} else {
-				document.getElementById('graphic').innerHTML = '<center><img src="' + frameDirectory + '/' + tutorialFrames[currentFrame]['graphic'] + '"/></center>';
+				document.getElementById('graphic').innerHTML = '<center><img src="' + tutorialFrames[currentFrame]['graphic'] + '"/></center>';
 			}
             if ('video' in tutorialFrames[currentFrame]) {
                 if (trim(tutorialFrames[currentFrame]['video'].toUpperCase()) === 'NONE') {

@@ -11,15 +11,13 @@
 	// this is the Introductory text displayed on the Menu page. HTML tags can be included
 $menuIntroText = <<<EOT
 
+<p>
 
-<p>
-	This brief tutorial exposes you to how truly interactive instruction can take place.  Most of the tutorials at this Website employ this method of instruction.  You are interacting with a program that resides on a server elsewhere in the internet.  The program responds to you when you supply a missing word and tap the ENTER key. 
-<p>
-At Step 1 below give your name (or an alias, if you wish).
-<p>
-Then, at Step 2 put a dot with your cursor beside the selection "Sample Tutorial."
-<p>
-Then, at Step 3 tap the "Begin Tutorial" button and you will go to the first of several screen presentations called "frames."
+	This is a brief demonstration of how our interactive tutorials work.  Tutorials are usually organized in a series called "sets" of frames that are to be worked through in serial order.  None can be skipped because they build upon each other.  Each "set" is a series of screen presentations to which you respond by typing a word or two.  This will require you to think a little each time because the program insists that you demonstrate your understanding at each frame. You cannot go backwards when working through a given set of frames, you must depend upon your growing memory.  
+</p>
+<p>	
+	
+	Read everything carefully in each frame, do NOT go immediately to the blank because information presented in one frame will be referred to later.  A momentary green flash signals that you have responded correctly and have advanced forward.  Sometimes you may need to try again.  You will not have time to text anyone, answer the phone, or pet the dog because a countdown timer gives you only 60 seconds to answer a frame.  Remember the name you used to sign in.  It must be exactly the same each time.  Now, click on a set number below and experience automated instruction.
 
 </p>
 
@@ -43,21 +41,27 @@ EOT;
 	$finalScoresFileSuffix = '_FINAL_SCORE.out';
 
 	// students are forced to start over if their score drops below this number after the 5th frame
-	$percentStartOver = 10;
+	$percentStartOver = 50;
 
-	$outOfSequenceMessage = "It\'s strongly recommended that you work through these tutorials in order. ";
+	// how long does the student have to respond to each frame before the program moves forward?
+    // set this to 0 for no limit
+    $userResponseTimeLimit = 60;
+    $correctAnswerTimeLimit = 30;
+    $fadeBackgroundToRedWhenRemainingSeconds = 10;
+
+	$outOfSequenceMessage = "It\'s required that you work through these tutorials in sequential order. ";
 	$outOfSequenceMessage = $outOfSequenceMessage."Please work through the following tutorials first:";
 
 
 	// change this to true to only give one try and not show the correct answer
 	$isTest = false;
 
-  // when students complete a tutorial, the screen shows a link to click
+	// when students complete a tutorial, the screen shows a link to click
   // you can configure here the URL to link them back to and the link text message
   // optionally, leave the completionLink below empty to link them back to the tutorial main menu
   // if you provide your own link, make sure to include 'http' like so, http://www.google.com for example
   $completionLink = "";
-	$completionLinkMessage = "Click here to go back to the Main Menu";
+  $completionLinkMessage = "Click here to go back to the Main Menu";
 
 ///////////////////////////////////////////////////////////////////////////////  END Editable options
 
@@ -73,9 +77,9 @@ EOT;
 	$tutorial = $_REQUEST['frameSelection'];
 	$percentStartOver = isset($_REQUEST['PercentStartOver']) ? $_REQUEST['PercentStartOver'] : $percentStartOver;
 	$scriptname = basename(__FILE__, '');
-  if ($completionLink == "") {
-    $completionLink = "http://www.scienceofbehavior.com/".$scriptname;
-  }
+    if ($completionLink == "") {
+        $completionLink = "http://www.scienceofbehavior.com/".$scriptname;
+    }
 	session_start();
 
     function readtutorialLine(&$frames, $line, &$frame) {
@@ -98,6 +102,11 @@ EOT;
             array_push($frames, $frame);
             $endOfFrame = 1;
         }
+	    if (strpos(trim($line), '@audio') === 0) {
+		    $frame['audio'] = str_replace("'", "&rsquo;", trim(substr(trim($line), 6)));
+		    array_push($frames, $frame);
+		    $endOfFrame = 1;
+	    }
         if ($isFrame === 1) {
             if (strlen(trim($line)) && trim($line) != '@begin') {
                 $frame['frame'] = $frame['frame'].str_replace("'", "&rsquo;", trim($line)).'<br>';
@@ -114,6 +123,11 @@ EOT;
             header("HTTP/1.1 500 Internal Server Error");
             exit();
         }
+
+        function last_modified($frameDirectory, $file) {
+	        return filemtime($frameDirectory . $file);
+        }
+
         function readLines($frameDirectory, $file) {
             $lines = array();
             if (file_exists($frameDirectory.$file)) {
@@ -146,6 +160,7 @@ EOT;
         foreach ($tuts as $tutorial) {
             $rval[$index] = array();
             $rval[$index]['tutorial'] = $tutorial;
+	        $rval[$index]['last_modified'] = last_modified($frameDirectory, $tutorial);
             $lines = readLines($frameDirectory, $tutorial);
             $frames = array();
             foreach ($lines as $line) {
@@ -235,7 +250,7 @@ EOT;
 		$decoded = str_replace('.txt', '', str_replace(' ', '_', urldecode($_REQUEST['tutorial'])));
 		$finalScoreFile = $outfileDirectory.$decoded.$finalScoresFileSuffix;
 		$f = fopen($finalScoreFile, 'a');
-		$stringData = $_REQUEST['student'].','.$_REQUEST['tutorial'].','.$_REQUEST['finalScore'].','.$_REQUEST['numberOfQuestions'].','.$_REQUEST['numberOfAttempts'].','.$_REQUEST['answeredCorrectly'].','.date("D M j G:i:s Y");
+		$stringData = $_REQUEST['student'].','.$_REQUEST['tutorial'].','.$_REQUEST['finalScore'].','.$_REQUEST['numberOfQuestions'].','.$_REQUEST['numberOfAttempts'].','.$_REQUEST['answeredCorrectly'].','.date("D M j G:i:s Y").','.$_REQUEST['browser'].','.$_REQUEST['device'].','.$_REQUEST['os'];
 		fwrite($f, $stringData."\n");
 		fclose($f);
 		exit();
@@ -252,7 +267,7 @@ EOT;
 			<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 			<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/nvd3/1.8.5/nv.d3.css"/>
 
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.4/lodash.min.js"></script>
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.4/lodash.min.js"></script>
 			<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.17/d3.min.js"></script>
 			<script src="https://cdnjs.cloudflare.com/ajax/libs/nvd3/1.8.5/nv.d3.js"></script>
       <script>
@@ -280,15 +295,21 @@ EOT;
           }
 
 
-          function parseResponses(responses) {
-            var rval = [];
-            responses.forEach(function(line) {
-              var r = response(line);
-              if (rval.length) {
-                rval[rval.length - 1].nextR = r;
-              }
-              rval.push(r);
-            });
+          function parseResponses(responses, tutorialLastModifiedDate) {
+                var rval = [];
+                responses.forEach(function(line) {
+                    var r = response(line);
+                    try {
+                        if (Object.keys(r).length && r.date > tutorialLastModifiedDate) {
+                            if (rval.length) {
+                                rval[rval.length - 1].nextR = r;
+                            }
+                            rval.push(r);
+                        }
+                    } catch(e) {
+                        console.log(r);
+                    }
+                });
             return rval
           }
 
@@ -334,11 +355,11 @@ EOT;
 
 
           var fetched = false;
+            var scriptname = '<?php echo $scriptname; ?>';
           $('#Student').keyup(function() {
             if ($(this).val().match(/^__/) && $(this).val().length == 9 && !fetched) {
               fetched = true;
               $('#loading-gif').show();
-              var scriptname = '<?php echo $scriptname; ?>';
               $.ajax({
                 url: scriptname + '?adminStats=' + $(this).val(),
                 success: function (data) {
@@ -348,9 +369,9 @@ EOT;
                   fetched = false;
                   var tutorials = data.map(function (tut) {
                     return {
-                      name: tut.tutorial,
-                      frames: tut.frames,
-                      responses: parseResponses(tut.responses)
+                        name: tut.tutorial,
+                        frames: tut.frames,
+                        responses: parseResponses(tut.responses, new Date(parseInt(tut.last_modified + '000')))
                     }
                   });
                   var links = '';
@@ -378,9 +399,9 @@ EOT;
             var scores = _.mapValues(tutorial.responses.map(frameScore).reduce(frameTotals, {}), frameScores);
             var ks = Object.keys(scores);
             var _scores = ks.map(k => scores[k]);
-            var avg = _scores.reduce( (acc, x) => acc + x) / ks.length;
+            var avg = _scores.reduce( (acc, x) => acc + x, 0) / ks.length;
             var mean = avg.toFixed(2) * 100;
-            var sd = Math.sqrt(_scores.map(x => (x - avg) * (x - avg)).reduce( (acc, x) => acc + x) / _scores.length);
+            var sd = Math.sqrt(_scores.map(x => (x - avg) * (x - avg)).reduce( (acc, x) => acc + x, 0) / _scores.length);
             var name = tutorial.name.replace('.txt', '').replace(/_/g, ' ');
             var times = frameThinkTime(tutorial);
 
@@ -416,6 +437,8 @@ EOT;
               scaledTimes.push({x: k, y: times.frames[k] * scaled[parseInt(k)-1]});
               thinkTimes.push({x: k, y: times.frames[k]});
             });
+
+
 
             graph(tutorial, '#stats-svg', [{
               key: 'Frame Scores',
@@ -503,7 +526,7 @@ EOT;
             return {
               frames: _.mapValues(times, xs => xs.reduce( (acc, x) => acc + x, 0) / xs.length),
               students: students,
-              avgTutorialTime: total = Math.round(total.reduce( (acc, x) => acc + x) / total.length)
+              avgTutorialTime: total = Math.round(total.reduce( (acc, x) => acc + x, 0) / total.length)
             }
           }
 
@@ -552,6 +575,15 @@ EOT;
                           spacer + '<br/>&nbsp;<br/></b>'
                 }
               });
+
+                sizes = points.map(x => x.values.length);
+                if (! sizes.every(x => x === sizes[0])) {
+                    var max = Math.min.apply(null, sizes);
+                    points = points.map(x => {
+                        x.values = x.values.slice(0, max - 1);
+                        return x;
+                    });
+                }
 
               $(selector).each(function () { $(this)[0].setAttribute('viewBox', '0 0 860 400') });
               d3.select(selector).datum(points).style({ 'width': 768, 'height': 480 }).call(chart);
@@ -632,7 +664,6 @@ EOT;
 						var tutorial = $('input[name=frameSelection]:checked').val();
 						if (validateForm(frm)) {
 							$.get(scriptname + '?checkProgress=1&name=' + name + '&tutorial=' + tutorial, function(data) {
-								console.log(data);
 								if (data.length) {
 									var msg = '<?php echo $outOfSequenceMessage; ?>';
 									msg += '<br/><br/>';
@@ -724,9 +755,14 @@ EOT;
     if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         if (isset($_GET['specialfeedback'])) {
             $entityBody = file_get_contents('php://input');
+            // add the timestamp to the feedback json
+            $t = date('m/d/Y h:i:s a', time());
+            $feedback = json_decode($entityBody, TRUE);
+            $t = date('m/d/Y h:i:s a', time());
+            $feedback[] = ['timestamp' => $t];
             $feedbackFile = $outfileDirectory.'feedback.out';
             $f = fopen($feedbackFile, 'a');
-            fwrite($f, $entityBody."\n");
+            fwrite($f, json_encode($feedback)."\n");
             fclose($f);
             exit();
         } else {
@@ -749,27 +785,32 @@ EOT;
 		    fclose($h);
 		    exit();
 		} else {
-			if (strcmp($_SESSION['key'], $_REQUEST['key']) != 0) exit();
-			$_SESSION['key'] = null;
+		    try {
+			    if (strcmp($_SESSION['key'], $_REQUEST['key']) != 0) exit();
+			    $_SESSION['key'] = null;
 
-			$frames = array();
-			$decoded = str_replace(' ', '_', urldecode($tutorial));
-			$f = fopen($frameDirectory.$decoded, 'r');
-			while (!feof($f)) {
-				$line = fgets($f);
-				$frame = readtutorialLine($frames, $line, $frame);
-			}
-			fclose($f);
+			    $frames = array();
+			    $decoded = str_replace(' ', '_', urldecode($tutorial));
+			    $f = fopen($frameDirectory . $decoded, 'r');
+			    while (!feof($f)) {
+				    $line = fgets($f);
+				    $frame = readtutorialLine($frames, $line, $frame);
+			    }
+			    fclose($f);
 
-			echo json_encode($frames);
-			exit();
+			    echo json_encode($frames);
+			    exit();
+		    } catch (exception $e) {
+			    # echo $e;
+			    exit();
+            }
 		}
 	}
 ?>
 <html>
 <head>
 	<title></title>
-  <meta name="viewport" content="width=device-width" />
+    <meta name="viewport" content="width=device-width" />
 	<link rel="stylesheet" href="<?php echo $cssLink; ?>">
 
 	<style>
@@ -792,14 +833,15 @@ EOT;
 		}
 	</style>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/json2/20140204/json2.min.js"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-color/2.1.2/jquery.color.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-color/2.1.2/jquery.color.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/ua-parser-js@0/dist/ua-parser.min.js"></script>
 	<script>
 		var scriptname = '<?php echo $scriptname; ?>';
 		var student = '<?php echo $student; ?>';
 		var tutorial = '<?php echo $tutorial; ?>';
-    var completionLink = '<?php echo $completionLink; ?>';
-    var completionLinkMessage = '<?php echo $completionLinkMessage; ?>';
+        var completionLink = '<?php echo $completionLink; ?>';
+        var completionLinkMessage = '<?php echo $completionLinkMessage; ?>';
 		var percentStartOver = <?php echo $percentStartOver; ?>;
 		var postParams = '<?php echo 'key='.$_SESSION['key'].'&frameSelection='.$tutorial; ?>';
 
@@ -807,6 +849,12 @@ EOT;
 		var currentFrame = 0;
 		var numberCorrect = 0;
 		var currentTry = 1;
+		var userResponseTimeoutFunction;
+        var correctAnswerTimeoutFunction;
+        var timeRemainingTimeoutFunction;
+        var timeRemaining = <?php echo $userResponseTimeLimit; ?>;
+        var userResponseTimeLimit = <?php echo $userResponseTimeLimit; ?>;
+        var correctAnswerTimeLimit = <?php echo $correctAnswerTimeLimit; ?>;
 
         function xhr() {
             var xmlhttp = null;
@@ -835,7 +883,12 @@ EOT;
 		}
 
 		function saveFinalScore() {
-			var parameters = scriptname + '?student=' + student + '&tutorial=' + tutorial + '&finalScore=' + getScore() + '&numberOfQuestions=' + tutorialFrames.length + '&numberOfAttempts=' + currentFrame + '&answeredCorrectly=' + numberCorrect;
+            var parser = new UAParser();
+            parser.setUA(window.navigator.userAgent);
+            var result = parser.getResult();
+			var parameters = scriptname + '?student=' + student + '&tutorial=' + tutorial + '&finalScore=' + getScore();
+            parameters += '&numberOfQuestions=' + tutorialFrames.length + '&numberOfAttempts=' + currentFrame + '&answeredCorrectly=';
+            parameters += numberCorrect + '&browser=' + result.browser.name + '&device=' + result.device.type + '&os=' + result.os.name;
 			var xmlhttp = xhr();
             xmlhttp.open("GET", parameters, true);
 			xmlhttp.send(null);
@@ -845,9 +898,10 @@ EOT;
             var xmlhttp = xhr();
 			xmlhttp.open("GET", scriptname + '?' + postParams, true);
 			xmlhttp.onreadystatechange = function() {
-				if (xmlhttp.readyState == 4) {
+				if (xmlhttp.readyState === 4) {
 					tutorialFrames = JSON.parse(xmlhttp.responseText);
 					repaint('hidden', 'hidden', 'visible', 'userAnswer', '', true);
+                    initTimers();
 				}
 			}
 			xmlhttp.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
@@ -861,6 +915,13 @@ EOT;
 					  'Your browser does not support the video tag.' +
 				  '</video>';
 		}
+
+        function audio(src) {
+            var type = src.endsWith('av') ? 'wav' : 'mpeg';
+            return '<audio controls="controls" preload="auto" autoplay>' +
+                        '<source src="' + src + '" type="audio/' + type + '" />' +
+                   '</audio>';
+        }
 
 		function evaluation_response(is_correct, show_correct) {
 			if (is_correct) {
@@ -891,7 +952,7 @@ EOT;
             var frameText = tutorialFrames[currentFrame]['frame'];
             var matchText = tutorialFrames[currentFrame]['frame'].match(/\{\{\{.*\}\}\}/);
             frameText = matchText ? frameText.replace(matchText[0], '') : frameText;
-            if (matchText && currentTry == 1 && evalutation_text === '') {
+            if (matchText && currentTry === 1 && evalutation_text === '') {
                 document.getElementById('userAnswer').style.visibility = 'hidden';
                 document.getElementById('feedbackForm').style.display = 'inline';
                 document.getElementById('feedbackTextarea').focus();
@@ -901,29 +962,38 @@ EOT;
         }
 
 		function repaint(e, c, u, field, evalutation_text, autoplay) {
-      		document.getElementById('evaluation').style.visibility = e;
+            document.getElementById('evaluation').style.visibility = e;
 			document.getElementById('continueButton').style.visibility = c;
 			document.getElementById('userAnswer').style.visibility = u;
 			document.getElementById('evaluation').innerHTML = evalutation_text;
 			document.getElementById('frameNumber').innerHTML = 'Frame #: ' + eval(currentFrame + 1) + ' of ' + tutorialFrames.length;
 			document.getElementById('tryNumber').innerHTML = 'Try #: ' + currentTry;
 			document.getElementById('percentCorrect').innerHTML = 'Correct %: ' + getScore();
-      		document.getElementById('frame').innerHTML = parseFrameText(evalutation_text);
+            document.getElementById('frame').innerHTML = parseFrameText(evalutation_text);
 
-      		if (trim(tutorialFrames[currentFrame]['graphic'].toUpperCase()) === 'none'.toUpperCase()) {
+            if (trim(tutorialFrames[currentFrame]['graphic'].toUpperCase()) === 'none'.toUpperCase()) {
 				document.getElementById('graphic').innerHTML = '';
 			} else {
 				document.getElementById('graphic').innerHTML = '<center><img src="' + tutorialFrames[currentFrame]['graphic'] + '"/></center>';
 			}
-			if (trim(tutorialFrames[currentFrame]['video'].toUpperCase()) === 'NONE') {
-				document.getElementById('video').innerHTML = '';
-			} else {
-				document.getElementById('video').innerHTML = video(trim(tutorialFrames[currentFrame]['video']), autoplay);
-			}
+            if ('video' in tutorialFrames[currentFrame]) {
+                if (trim(tutorialFrames[currentFrame]['video'].toUpperCase()) === 'NONE') {
+                    document.getElementById('video').innerHTML = '';
+                } else {
+                    document.getElementById('video').innerHTML = video(trim(tutorialFrames[currentFrame]['video']), autoplay);
+                }
+            }
+            if ('audio' in tutorialFrames[currentFrame]) {
+                if (trim(tutorialFrames[currentFrame]['audio'].toUpperCase()) === 'NONE') {
+                    document.getElementById('video').innerHTML = '';
+                } else {
+                    document.getElementById('video').innerHTML = audio(trim(tutorialFrames[currentFrame]['audio']));
+                }
+            }
 			document.getElementById(field + 'Field').focus();
 		}
 
-		function evaluateResponse(response) {
+		function evaluateResponse(response, isTimerInvoked) {
 			var answers = tutorialFrames[currentFrame]['answer'];
 			var isCorrect = false;
 			for (var i = 0; i < answers.length; i++) {
@@ -939,24 +1009,20 @@ EOT;
 			if (isCorrect) {
 				//repaint('visible', 'visible', 'hidden', 'continueButton', evaluation_response(true));
 				numberCorrect++;
-
-				$('body').css('background-color', '#3dab52');
-				$('body').animate({
-				  'background-color': '#C4D9E1'
-				}, 1300, null, function() {
-				  $('body').css('background-color', '#C4D9E1');
-				});
-
-				doContinue();
+                clearTimeout(timeRemainingTimeoutFunction);
+				doContinue(true);
 			}
 			<?php if (! $isTest) { ?>
   			else {
-  				if (currentTry < tutorialFrames[currentFrame]['tries']) {
+  				if (currentTry < tutorialFrames[currentFrame]['tries'] && ! isTimerInvoked) {
   					currentTry++;
   					repaint('visible', 'hidden', 'visible', 'userAnswer', evaluation_response(false));
   				} else {
   					document.frm.userAnswer.disabled = true;
-					repaint('visible', 'visible', 'hidden', 'continueButton', evaluation_response(false, true));
+                    repaint('visible', 'visible', 'hidden', 'continueButton', evaluation_response(false, true));
+                    resetTimersAndBackground(false);
+                    clearTimeout(correctAnswerTimeoutFunction);
+                    correctAnswerTimeoutFunction = correctAnswerTimer();
   				}
   			}
 			document.frm.userAnswer.value = '';
@@ -964,8 +1030,100 @@ EOT;
 
 		}
 
-		function doContinue() {
+		function animateBackground(millis, startColor, endColor) {
+            $('body').css('background-color', startColor);
+            $('body').animate({
+                'background-color': endColor
+            }, millis, null, function() {
+                $('body').css('background-color', endColor);
+            });
+        }
+
+		function resetTimersAndBackground(isCorrect) {
+            clearTimeout(userResponseTimeoutFunction);
+            clearTimeout(timeRemainingTimeoutFunction);
+            $('body').stop();
+            $('body').finish();
+            $('body').css('background-color', '#C4D9E1');
+            if (isCorrect) {
+                animateBackground(1300, '#3dab52', '#C4D9E1');
+            }
+        }
+
+        function initTimers() {
+            timeRemaining = <?php echo $userResponseTimeLimit; ?>;
+            document.getElementById('timeRemaining').innerHTML = 'Time Remaining: ' + timeRemaining + ' seconds';
+            userResponseTimeoutFunction = startUserResponseTimer();
+            timeRemainingTimeoutFunction = countdownTimeRemaining();
+        }
+
+        function countdownTimeRemaining() {
+            var fadeBackgroundToRedWhenRemainingSeconds = <?php echo $fadeBackgroundToRedWhenRemainingSeconds; ?>;
+            if (timeRemaining > 0) {
+                clearTimeout(timeRemainingTimeoutFunction);
+                timeRemainingTimeoutFunction = setTimeout(function() {
+                    timeRemaining = timeRemaining - 1;
+                    if (timeRemaining === fadeBackgroundToRedWhenRemainingSeconds) {
+                        var millis = fadeBackgroundToRedWhenRemainingSeconds * 1000 + 2000;
+                        animateBackground(millis, '#C4D9E1', '#e10a28');
+                    }
+                    if (document.getElementById('finish').innerHTML === '' && ! document.frm.userAnswer.disabled) {
+                        document.getElementById('timeRemaining').innerHTML = 'Time Remaining: ' + timeRemaining + ' seconds';
+                    }
+                    countdownTimeRemaining();
+                }, 1000);
+            }
+        }
+
+        function timeRemainingToContinue(time) {
+            if (time) {
+                timeRemaining = time;
+            }
+            clearTimeout(timeRemainingTimeoutFunction);
+            timeRemainingTimeoutFunction = setTimeout(function() {
+                timeRemaining = timeRemaining - 1;
+                if (document.getElementById('finish').innerHTML === '') {
+                    document.getElementById('timeRemaining').innerHTML = 'Time Remaining: ' + timeRemaining + ' seconds';
+                }
+                timeRemainingToContinue();
+            }, 1000);
+        }
+
+        function correctAnswerTimer() {
+            if (correctAnswerTimeLimit === 0 || userResponseTimeLimit === 0) {
+                return;
+            }
+
+            timeRemainingToContinue(<?php echo $correctAnswerTimeLimit; ?>);
+
+            return setTimeout(function() {
+                // only advance the user if the special feedback form is not shown
+                if (document.getElementById('feedbackForm').style.display !== 'inline') {
+                    doContinue();
+                }
+            }, correctAnswerTimeLimit * 1000);
+        }
+
+		function startUserResponseTimer() {
+            if (userResponseTimeLimit === 0) {
+                return;
+            }
+            var frameTimeout = setTimeout(function() {
+                // only advance the user if the special feedback form is not shown
+                if (document.getElementById('feedbackForm').style.display !== 'inline') {
+                    //console.log('user answer timeout! ' + new Date());
+                    evaluateResponse(document.frm.userAnswer.value, true);
+                }
+            }, userResponseTimeLimit * 1000);
+
+            return frameTimeout;
+        }
+
+		function doContinue(isCorrect) {
 			currentFrame++;
+            clearTimeout(correctAnswerTimeoutFunction);
+            resetTimersAndBackground(isCorrect);
+
 			if (currentFrame === tutorialFrames.length || (currentFrame > 4 && getScore() < percentStartOver)) {
 				saveFinalScore();
 				var conclusion = '<br><p align="center"><b>You have reached the end of this program.</b></p><div align="center">';
@@ -974,13 +1132,16 @@ EOT;
 				conclusion += '<td width="80%">Number of attempted frames you answered correctly</td><td width="20%">' + numberCorrect;
 				conclusion += '</td></tr><tr><td width="80%">Percent correct score of attempted frames</td><td width="20%">' + getScore();
 				conclusion += '%</td></tr></table></center></div><br><center><strong><a href="' + completionLink + '">' + completionLinkMessage + '</a></strong></center><br>';
-				if (currentFrame != tutorialFrames.length) conclusion = '<p align="center">Your score fell below ' + percentStartOver + '%. Hit refresh in your browser to start over.</p>';
+				if (currentFrame !== tutorialFrames.length) conclusion = '<p align="center">Your score fell below ' + percentStartOver + '%. Hit refresh in your browser to start over.</p>';
 				for(var i = 0; i < 8; ++i) {
 					document.getElementById(['frame', 'graphic', 'percentCorrect', 'frameNumber', 'tryNumber', 'userAnswer', 'evaluation', 'continueButton'][i]).innerHTML = '';
 				}
+                document.getElementById('timeRemaining').innerHTML = '';
 				document.getElementById('finish').innerHTML = conclusion;
 				return;
-			}
+			} else {
+                initTimers();
+            }
 			currentTry = 1;
 			document.frm.userAnswer.value = '';
 			document.frm.userAnswer.disabled = false;
@@ -1003,6 +1164,7 @@ EOT;
 <span id="frameNumber"></span><br>
 <span id="tryNumber"></span><br>
 <span id="percentCorrect"></span><p>
+<span id="timeRemaining">Time Remaining: <?php echo $userResponseTimeLimit; ?> seconds</span><p>
 <span id="frame"></span><p>
 <div id="graphic"></div><p>
 <center><span id="video"></span></center><p>
