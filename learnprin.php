@@ -1128,7 +1128,7 @@ EOT;
 
 			if (currentFrame === tutorialFrames.length || (currentFrame > 4 && getScore() < percentStartOver)) {
 				saveFinalScore();
-				var conclusion = '<br><p align="center"><b>You have reached the end of this program.</b></p><div align="center">';
+				var conclusion = '<br><p align="center"><b>You have reached the end of the tutorial, <?php echo str_replace(".txt", "", $tutorial); ?>.</b></p><div align="center">';
 				conclusion += '<table border="2" width="66%"><tr><td width="80%">Number of frames</td><td width="20%">' + tutorialFrames.length + '</td></tr>';
 				conclusion +=  '<tr><td width="80%">Number of frames you attempted</td><td width="20%">' + currentFrame + '</td></tr><tr>';
 				conclusion += '<td width="80%">Number of attempted frames you answered correctly</td><td width="20%">' + numberCorrect;
