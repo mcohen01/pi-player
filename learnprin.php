@@ -117,13 +117,27 @@ EOT;
 
     //// admin stats
     if ($_SERVER['REQUEST_METHOD'] == 'GET' && $_REQUEST['adminStats']) {
+        header('Content-Type: application/json');
+
+        function myErrorHandler($errno, $errstr, $errfile, $errline) {
+            echo json_encode(array(
+                'error' => array(
+                    'line' => $errline,
+                    'version' => phpversion(),
+                    'msg' => $errstr)
+            ));
+            return true;
+        }
+
+        set_error_handler("myErrorHandler");
+
         if ($_REQUEST['adminStats'] != '__frazier') {
             header("HTTP/1.1 500 Internal Server Error");
             exit();
         }
 
         function last_modified($frameDirectory, $file) {
-	        return filemtime($frameDirectory . $file);
+            return filemtime($frameDirectory . $file);
         }
 
         function readLines($frameDirectory, $file) {
@@ -132,7 +146,14 @@ EOT;
                 $f = fopen($frameDirectory . $file, 'r');
                 while (!feof($f)) {
                     $line = fgets($f);
-                    array_push($lines, $line);
+                    if (strpos($file, '01') or
+                        strpos($file, '02') or
+                        strpos($file, '03') or
+                        strpos($file, '04') or
+                        strpos($file, '05') or
+                        strpos($file, '06')) {
+                        array_push($lines, $line);
+                    }
                 }
                 fclose($f);
             }
@@ -152,13 +173,14 @@ EOT;
             return $tutorials;
         }
 
+
         $rval = array();
         $tuts = getTutorials($frameFilePattern, $frameDirectory);
         $index = 0;
         foreach ($tuts as $tutorial) {
             $rval[$index] = array();
             $rval[$index]['tutorial'] = $tutorial;
-	        $rval[$index]['last_modified'] = last_modified($frameDirectory, $tutorial);
+            $rval[$index]['last_modified'] = last_modified($frameDirectory, $tutorial);
             $lines = readLines($frameDirectory, $tutorial);
             $frames = array();
             foreach ($lines as $line) {
@@ -169,7 +191,6 @@ EOT;
             $index += 1;
         }
 
-        header('Content-Type: application/json');
         echo json_encode($rval);
         exit();
     }
