@@ -20,7 +20,7 @@ The event that reinforces your behavior can be the onset of something good.  But
 @graphic none
 @video none
 @begin
-The termination of boiling over strengthens the act of pulling the pot off the turner.  Since a bad thing stops and results in the strengthening of "pot pulling behavior" we call the event a (positive/negative) ________ reinforcer.
+The termination of boiling over strengthens the act of pulling the pot off the burner.  Since a bad thing stops and results in the strengthening of "pot pulling behavior" we call the event a (positive/negative) ________ reinforcer.
 @end
 @answer negative
 @tries 1
@@ -104,7 +104,7 @@ The change in feelings that happens when you take off a shoe that is pinching yo
 @graphic none
 @video none
 @begin
-Your reprimanding a dog for barking is supported by ________ reinforcement, assuming the dog stops barking.
+To stop hearing the neighbor's dog barking you shut the door.  The termination of the barking noise strengthens your tendency to do this in the future.  This is an example of ______ive reinforcement for your door shutting.
 @end
 @answer negative
 @tries 1
@@ -125,7 +125,7 @@ The term "aversive" means something that is annoying or hurtful.  Your wet cold 
 @graphic none
 @video none
 @begin
-A negative reinforcer is a stimulus whose termination or withdrawal increases the p_______ity of the behavior that immediately preceded it.
+A negative reinforcer is a stimulus the termination or withdrawal of increases the prob_______ity of the behavior that immediately preceded it.
 @end
 @answer probability
 @tries 2
@@ -139,14 +139,14 @@ The technical term "aversive" is an adjective that is appropriate when describin
 @graphic none
 @video none
 @begin
-Another word for a negative reinforcer is an _______ stimulus.
+As you just saw, another word for a negative reinforcer is an a_______ stimulus.
 @end
 @answer aversive
 @tries 2
 @graphic none
 @video none
 @begin
-Again, negative reinforcement is the observed strengthening that results from terminating an _____ive stimulus.  The result of shutting a door to stop a cold draft would be an example of (positive/negative) __________ reinforcement.
+Again, negative reinforcement is the observed strengthening that results from terminating an _____ive stimulus.  The result of shutting a door to stop a cold draft would be an example of (positive/negative) __________ reinforcement.  (two words)
 @end
 @answer aversive negative
 @tries 1
@@ -188,9 +188,9 @@ Throughout your daily life you are very often preventing bad things from happeni
 @graphic none
 @video none
 @begin
-Again, reinforcement means strengthening.  Both positive and negative reinforcement refer to the strengthening of behavior by either something good happening or something bad going a______y.
+Again, reinforcement means strengthening.  Both positive and negative reinforcement refer to the strengthening of behavior by either something (good/bad) _______ starting or something bad _____ing.
 @end
-@answer away
+@answer good ending
 @tries 2
 @graphic none
 @video none

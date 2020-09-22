@@ -1,5 +1,5 @@
 @begin
-This program has suggested that the causes of your behavior lie _____side you and not in your mind.  It has suggested that you can most efficiently manage your behavior by manipulating events out in your _______t.  [Two words]
+This program has suggested that the causes of your behavior lie (inside/outside) _____ you and not in your mind.  It has suggested that you can most efficiently manage your behavior by manipulating events out in your _______t.  [Two words]
 @end
 @answer outside environment
 @tries 2
@@ -24,7 +24,7 @@ Your operant behavior changes when the con_______s for it change. The byproducts
 @end
 @answer consequences feel
 @answer contingencies feel
-@tries 2
+@tries 3
 @graphic none
 @video none
 @begin
@@ -56,7 +56,7 @@ If you don't like how you feel, you need to change the consequences for what you
 @graphic none
 @video none
 @begin
-Technically speaking, one is "successful" in life when one's operant behavior is frequently r_______d.
+Technically speaking, one is "successful" in life when one's operant behavior is frequently r_______d (use the technical term).
 @end
 @answer reinforced
 @tries 2
@@ -91,9 +91,9 @@ There are smart phone applications that cue you with preset reminders during the
 @graphic none
 @video none
 @begin
-The true causes of your behavior lie outside you.  When you think of something you want to do you can make a (mental/physical) _______ note and put it in your "pathway" such as a cue on your smart phone.
+Mental events supposedly occur inside your head.  But the true causes of your behavior lie outside you, not inside your head.  When you think of something you want to do you can make a (mental/physical) _______ note and put it in your "pathway" such as a cue on your smart phone.  In doing so you have learned something (irrelevant/important) _______ from this instructional program. (two words)
 @end
-@answer physical
+@answer physical important
 @tries 1
 @graphic none
 @video none
@@ -119,6 +119,7 @@ People who are skillful tend to be happier because they earn many genuine natura
 @answer skillful
 @answer happier
 @answer skilled
+@answer genuine
 @tries 2
 @graphic none
 @video none
@@ -155,7 +156,7 @@ You learned about the gradient of reinforcement.  Your behavior is most powerful
 A very serious situation has developed.  Your world is now facing tremendous challenges.  A major source of these problems is that people work for (remote/immediate) ______ values and ignore (remote/immediate) _______ values because evolution established this tendency. [Two words]
 @end
 @answer immediate remote
-@tries 2
+@tries 1
 @graphic none
 @video none
 @begin
@@ -180,7 +181,7 @@ You have been introduced to the principles of learning.  Now, lets look at the B
 @graphic uncertainfuture.jpg
 @video none
 @begin
-A culture that understands the behavioral principles discussed in this program is in the best position to contrive powerful (immediate/remote) _______ contingencies because they understand that consequences control behavior--not the mind.
+A culture that understands the behavioral principles discussed in this program is in the best position to contrive powerful (immediate/remote) _______ contingencies because it  understands that consequences control behavior--not the mind.
 @end
 @answer immediate
 @tries 1
@@ -197,17 +198,18 @@ Such a special culture can arrange powerful immediate ________.
 @graphic none
 @video none
 @begin
-This special culture is composed of people in education, science, and the media.  Because they tend to be less committed to ideological beliefs, religions, governments, and economic wealth, they are (more/less) ________ likely to work for the remote welfare of the human species.  
+This special culture is composed of people in education, science, and the media.  Because these people tend to be less committed to ideological beliefs, religions, governments, and economic wealth, they are (more/less) ________ likely to work for the remote welfare of the human species.  
 @end
 @answer more
 @tries 1
 @graphic none
 @video none
 @begin
-Changes in human behavior are the keys to our future--that is what this program has been all about.  Those of us who work for a survivable world are the engineers of our future.  We are members of this small culture of behavioral architects working for a brighter future.  The creators of the instructional program you are now completing hope you will become a member of this c________e of people.
+Changes in human behavior are the keys to our future--that is what this series of sets has been all about.  Those of us who work for a survivable world are the engineers of our future.  We are members of this small culture of behavioral architects working for a brighter future.  The creators of the instructional program you are now completing hope you will become a(n) (member/opponent) _______ of this culture of people.
 @end
-@answer culture
-@answer group
-@tries 2
+@answer member
+@tries 1
+
+@tries 1
 @graphic personwithhalo.jpg
 @video none

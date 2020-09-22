@@ -20,7 +20,7 @@ Some scientists speculate that billions of years ago in the presence of lightnin
 @graphic buildingblocksrock.jpg
 @video none
 @begin
-The evolution of organisms began when the first organic matter accidentally du_______ed itself.  
+The evolution of organisms began when the first organic matter accidentally dup_______ed itself.  
 @end
 @answer duplicated
 @tries 2
@@ -34,9 +34,9 @@ The evolution of l_______ is likely to have happened many billions of years ago 
 @graphic comet.jpg
 @video none
 @begin
-It is likely that early building blocks of life like amino acids and organic molecules c_____e to our planet during the comet bombardment that created our oceans billions of years ago.
+It is likely that early building blocks of _____, like amino acids and organic molecules, came to our planet during the comet bombardment that created our oceans billions of years ago.
 @end
-@answer came
+@answer life
 @tries 2
 @graphic none
 @video none
@@ -70,8 +70,9 @@ Some variations promoted further development like moving toward sunlight.  Other
 @graphic none
 @video none
 @begin
-An animal breeder may intentionally select the fluffiest puppy to become breeding stock for a new litter.  However, natural selection has no intential design.  In contrast to the deliberate selection by a breeder, natural selection (has/has no) _______ ultimate purpose other than survival of the species. 
-@answer has no   
+An animal breeder may intentionally select the fluffiest puppy to become breeding stock for a new litter.    This contrasts with natural selection because natural selection (has/has no) ________ ultimate purpose.  It simply selects variations that survive long enough to reproduce themselves.
+@end
+@answer has no
 @tries 1
 @graphic none
 @video none
@@ -83,14 +84,14 @@ Mutations happen and the environment "selects" certain mutations that promote fu
 @graphic none
 @video none
 @begin
-We say the environment "selected" the favorable variations when it supported them.  Those organisms with the variations lived long enough to reproduce the (lethal/procreative) _______ variations.
+We say the environment "selected" the favorable variations when it supported them.  Those organisms with the variations lived long enough to reproduce the (lethal/procreative) _______ variations.  This is how sel______ion occurs.
 @end
-@answer procreative
+@answer procreative selection
 @tries 1
 @graphic none
 @video none
 @begin
-This is the concept of "natural selection."  Nature, without any intention, se_______ts variations that promote procreation.
+This is the concept of "natural selection."  Nature, without any intention, se____cts variations that promote procreation and survival.
 @end
 @answer selects
 @tries 2
@@ -153,14 +154,14 @@ Random variations and then selection by their success in leading to reproduction
 @graphic none
 @video none
 @begin
-The accidental development of variations leading to sense organs allowed an organism to detect whether an object was hard or soft.  This led to the discrimination between objects that were and those that were ______ digestable.
+The accidental development of variations leading to sense organs allowed an organism to detect whether an object was hard or soft.  This led to the discrimination between objects that were and those that were ______t digestable.
 @end
 @answer not
 @tries 1
 @graphic none
 @video none
 @begin
-If all moving things are digestible and they are all the same in size, color, or texture, detection of differences (is/is not) _______ important.  
+If ALL moving things are digestible and they are ALL the same in size, color, or texture, detection of differences (is/is not) _______ important.  
 @end
 @answer is not
 @tries 1
@@ -195,14 +196,14 @@ For a species to survive in a rapidly changing world there would need to be a ge
 @graphic none
 @video none
 @begin
-You will recall that respondent behavior is elicited by prior stimuli.  Suppose a genetic mutation occurred that made it it more likely to eat red objects if they occurred next to green ones (i.e., they were paired together). By the process of green occurring together with red, red now ALSO comes to elicit eating the objects.  As you learned in the previous set of frames, this genetic variation or mutation marked the appearance of _______t conditioning in the behavior patterns of the animal because a novel stimulus also elicits the eating reflex.
+You will recall that respondent behavior is elicited by prior stimuli.  Suppose a genetic mutation occurred that made it it more likely to eat red objects if they occurred next to green ones (i.e., they were PAIRED together). By the process of green occurring together with red, red now ALSO comes to elicit eating the objects.  As you learned in the previous set of frames, this genetic variation or mutation marked the appearance of _______t conditioning in the behavior patterns of the animal because a novel stimulus also elicits the eating reflex.
 @end
 @answer respondent
 @tries 1
 @graphic redgreenfruit.jpg
 @video none
 @begin
-When respondent conditioning evolved, a greater range of stimuli (food) could elicit eating. No longer did organisms immediately perish when their (conditioned/unconditioned) _______ reflexes were their only possessions.  
+The process of conditioning allows an organism to respond similarly to new things (stimuli).  When respondent conditioning evolved, a greater range of stimuli (food) could elicit eating. No longer did organisms immediately perish when their (conditioned/unconditioned) _______ reflexes were their only possessions.  
 @end
 @answer unconditioned
 @tries 1
@@ -270,9 +271,9 @@ We have just described how a new kind of behavioral relationship to the environm
 @graphic none
 @video none
 @begin
-With operant behavior an animal that could learn from the immediate consequences within its lifetime and could (less/more) _______ quickly adapt to a changing environment.
+With operant behavior an animal that could learn from the immediate con_______ces of its behavior within its lifetime and could (less/more) _______ quickly adapt to a changing environment.
 @end
-@answer more
+@answer consequences more
 @tries 1
 @graphic none
 @video none

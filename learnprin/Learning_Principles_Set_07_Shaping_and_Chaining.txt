@@ -13,21 +13,21 @@ No doubt, you sat on the kitchen floor and banged pots and pans together, (and/b
 @graphic potdrummer.jpg
 @video none
 @begin
-Someone in your household, thinking you could be a drummer,  probably gave you a big spoon and a pot and wrapped your _______d around the spoon's handle and helped you to bang the pot.  
+Someone in your household, thinking you could be a drummer, probably gave you a big spoon and a pot and wrapped your _______d around the spoon's handle and REINFORCED your behavior of banging on the pot.  
 @end
 @answer hand
 @tries 2
 @graphic none
 @video none
 @begin
-This person was beginning to shape or mold your behavior in successive APPROXIMATIONS.  Technically speaking, shaping is the differential r_______nt of successive ap___ions of banging a pot with a spoon. [Two words]
+This person was beginning to shape or mold your behavior in successive APPROXIMATIONS.  Technically speaking, shaping is the differential rei_______nt of successive ap___ions of banging a pot with a spoon. [Two words]
 @end
 @answer reinforcement approximations
 @tries 2
 @graphic none
 @video none
 @begin
-You also learned to make visual changes on a piece of paper by scribbling with a pencil or crayon.  Sometimes you continued doing so for quite a while and we would say that the marks you made were automatic ________rs that sustained lots of "drawing."
+You also learned to make visual changes on a piece of paper by scribbling with a pencil or crayon.  Sometimes you continued doing so for quite a while and we would say that the marks you made were automatic rei________rs that sustained lots of "drawing."
 @end
 @answer reinforcers
 @tries 2
@@ -41,17 +41,17 @@ Straight lines and curves are easier to make than circles.  Someone, no doubt, a
 @graphic childcircle.jpg
 @video none
 @begin
-You arrived in this world with some tendency to imitate the behavior of others.  Someone no doubt d________ally r________ed  your imitative responses when the person said "do this" and modeled the behavior for you to imitate.  
+You arrived in this world with some tendency to imitate the behavior of others.  Someone no doubt di________ally r________ed  your imitative responses when the person said "do this" and modeled the behavior for you to imitate.  
 @end
 @answer differentially reinforced
-@tries 2
+@tries 3
 @graphic none
 @video none
 @begin
-The game of "you're getting warmer" is an example of shaping behavior by the use of D________ reinforcement of successive approximations.
+The game of "you're getting warmer" is an example of SHAPING behavior by the use of d________l reinforcement of successive approximations.
 @end
 @answer differential
-@tries 2
+@tries 3
 @graphic none
 @video none
 @begin
@@ -62,21 +62,21 @@ A great deal, if not most, of your behavior as an adult was sha____d by others w
 @graphic none
 @video none
 @begin
-Printing your name is a series of discretely separate behaviors of drawing letters--a "chain" of behaviors.  Having printed one letter sets the stage for printing the next link in the _______.
+Printing your name is a series of discretely separate behaviors of drawing letters--a "chain" of behaviors.  Having printed one letter becomes the STIMULUS that evokes printing the next link in the _______.
 @end
 @answer chain
 @tries 2
 @graphic behavioralchain.jpg
 @video none
 @begin
-When you print your name, each response produces a letter that then becomes the stimulus for printing the next one.  If your name was "Sue," printing an "S" would be the s_______s that would evoke the next behavior of printing a "U."
+When you print your name, each response produces a letter that then becomes the stimulus for printing the next one in the chain of behavior.  If your name was "Sue," printing an "S" would be the s_______s that would evoke the next behavior of printing a "U."
 @end
 @answer stimulus
 @tries 2
 @graphic none
 @video none
 @begin
-Printing an "S," then a "U," then an "E"  would be a series of responses we call a _______ of behavior.
+Printing an "S," then a "U," then an "E"  would be a series of responses we call a _______n of behavior.
 @end
 @answer chain
 @tries 2
@@ -97,10 +97,10 @@ When you butter a piece of toast you first grasp a butter knife, then dab into b
 @graphic none
 @video none
 @begin
-When you teach children to butter toast, you first model one behavior--showing how to grasp a knife and then r_____e that behavior with a sign of approval.
+When you teach children to butter toast, you first model one behavior--showing how to grasp a knife and then strengthen, or technically speaking, r_____e that behavior with a sign of approval.
 @end
 @answer reinforce
-@tries 2
+@tries 3
 @graphic none
 @video none
 @begin
@@ -118,14 +118,14 @@ Tying your shoes, dressing yourself, taking a bath, making a recipe in the kitch
 @graphic none
 @video none
 @begin
-Again, the links in your behavioral chains are themselves reinforcers for previous links.  In the case of buttering toast, finally eating the buttered toast is a(n) (conditioned/unconditioned) ________ reinforcer that supports the entire chain of buttering.
+Food, which needs no pairing to be a reinforcer, is often the final reinforcer in chains of behavior.  The early links in your behavioral chains are themselves reinforcers for previous links and became so through conditioning.  In the case of buttering toast, finally eating the buttered toast is a(n) (conditioned/unconditioned) ________ reinforcer that supports the entire chain of buttering.
 @end
 @answer unconditioned
 @tries 1
 @graphic none
 @video none
 @begin
-A difference between (a) preparing a gourmet recipe and (b) buttering toast, is the length of the behavioral _______.
+A difference between (a) preparing a gourmet recipe and (b) buttering toast, is the LENGTH of the behavioral _______n.
 @end
 @answer chain
 @tries 2
@@ -135,11 +135,11 @@ A difference between (a) preparing a gourmet recipe and (b) buttering toast, is 
 The difference between a "gourmet cook" and a "fast order cook" is the l_______ of the behavioral chains in their repertoires.
 @end
 @answer length
-@tries 2
+@tries 3
 @graphic none
 @video none
 @begin
-Teaching people how to do things involves two important procedures: prompting and fading.  When you model a behavior you are adding supplementary stimulation that increases the likelihood of that behavior so you can then reinforce it with an indication of success.  This is which, prompting or fading? _______
+Teaching people how to do things involves two important procedures: prompting and fading.  When you model a behavior you are adding supplementary stimulation that increases the PROBABILITY of that behavior so you can then reinforce it with an indication of success.  This is which, prompting or fading? _______
 @end
 @answer prompting
 @tries 1
@@ -149,27 +149,27 @@ Teaching people how to do things involves two important procedures: prompting an
 Prompting behavior involves using supplementary stimulation to make the behavior more pr____able.  The author of the program you are now working through added letters around an answer in the preceding sentence.  Adding the help letters in the preceding sentence (is/is not) _______ a form of prompting.  (two words)
 @end
 @answer probable is
-@tries 2
+@tries 3
 @graphic none
 @video none
 @begin
-Young children tend to imitate behavior.  When teaching very young children how to say "ball" we first say "baa" and reinforce successive a___________ns until they say "baa" and "al" as a c_____n of two separate responses.
+Young children tend to imitate behavior.  When teaching very young children how to say "ball" we first say "baa" and reinforce successive ap_______ns until they say "baa" and "al" as a c_____n of two separate responses.
 @end
 @answer approximations chain
 @tries 2
 @graphic none
 @video none
 @begin
-Like an image FADING into the distance, you "fade" away your supplementary prompt by presenting a ball, asking a child what it is, and repeatedly saying "baa" more (quietly/loudly) _______ each time you repeat the procedure.
+Fading is diminishing a stimulus.  Like an image FADING into the distance, you "fade" away your supplementary prompt by presenting a ball, asking a child what it is, and repeatedly saying "baa" more (quietly/loudly) _______ each time you repeat the procedure.
 @end
 @answer quietly
 @tries 1
 @graphic none
 @video none
 @begin
-In many instances, the author of this program progressively reduced the number of the help letters around blanks in the frames.  This is an example of using the procedure called _______.
+In many instances, the author of this program progressively reduced or diminished the number of the help letters around blanks in the frames.  This is an example of using the procedure called _______.
 @end
 @answer fading
-@tries 2
+@tries 3
 @graphic none
 @video none

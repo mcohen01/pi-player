@@ -62,21 +62,21 @@ Crocodile tears will _________sh when we do not reinforce them.
 @graphic none
 @video none
 @begin
-A child may learn that Mom doesn't reinforce crocodile tears, however, strangers do.  In this case, a child will learn to cry crocodile tears in the presence of _______.
+A child may learn that Mom doesn't reinforce crocodile tears, however, strangers do.  In this case, a child will learn to cry crocodile tears in the presence of _______s.
 @end
 @answer strangers
 @tries 2
 @graphic none
 @video none
 @begin
-Punishment is the observed reduction of behavior when it is followed by the presentation of an aversive event like a swift swat on the seat.  When a young child is on the verge a life-threatening behavior like inserting a paper clip into an electrical socket it is the appropriate moment to use _______t, not extinction.
+Punishment is the observed reduction of behavior when it is followed by the presentation of an aversive event like a swift swat on the seat.  When a young child is on the verge of a life-threatening behavior like inserting a paper clip into an electrical socket it is the appropriate moment to use _______t, not extinction.
 @end
 @answer punishment
-@tries 2
+@tries 1
 @graphic none
 @video none
 @begin
-You probably sucked your thumb when you were very young.  Sucking has a high probability at birth.  Thumbsucking is a behavior that is reinforcing to engage in (with/without) _______ prior conditioning.
+You probably sucked your thumb when you were very young.  Sucking has a high probability at birth.  Thumb sucking is a behavior that is reinforcing to engage in (with/without) _______ prior conditioning.
 @end
 @answer without
 @tries 1
@@ -86,7 +86,7 @@ You probably sucked your thumb when you were very young.  Sucking has a high pro
 Thumb sucking is often a difficult behavior to stop because it is automatically reinforcing to do.  The reinforcer cannot be discontinued.  A parent cannot use (punishment/extinction) _______.
 @end
 @answer extinction
-@tries 11
+@tries 1
 @graphic none
 @video none
 @begin
@@ -118,14 +118,14 @@ A dinner guest may violate the family rule against feeding the dog at the table 
 @graphic none
 @video none
 @begin
-Bad behavior is difficult to ________ when not all people follow the rule of not reinforcing it.
+Bad behavior is difficult to weaken by the use of the ________ procedure when not all people follow the rule of not reinforcing it.
 @end
-@answer extinguish
+@answer extinction
 @tries 2
 @graphic none
 @video none
 @begin
-Effectively placing a behavior on extinction requires that (one significant person/everybody) _______ in the environment impliments the procedure.
+Effectively placing a behavior on extinction requires that (one significant person/everybody) _______ in the environment implements the procedure.
 @end
 @answer everybody
 @tries 1
@@ -139,7 +139,7 @@ Punishment can be accomplished by either presenting an aversive stimulus after b
 @graphic none
 @video none
 @begin
-A teacher may speak sharply to a misbehaving student in class.  But the attention of other students may be ________ the misbehavior.
+A teacher may speak sharply to a misbehaving student in class.  But the attention of other students may be ________g the misbehavior.
 @end
 @answer reinforcing
 @tries 2
@@ -212,14 +212,14 @@ When students enter a classroom they come under the control of a teacher.  They 
 A teacher stares at students when they are not paying attention to instructions.  The frowning stare terminates when the students begin to pay attention.  This is an example of (escape/avoidance) ________ behavior on the part of the students.
 @end
 @answer escape
-@tries 2
+@tries 1
 @graphic none
 @video none
 @begin
-One type of aversive control involves the creation of an unpleasant condition that is used to reinforce behavior by its termination.  This type of control employs _______ reinforcement to strengthen the escape or avoidance behavior.
+One type of aversive control involves the creation of an unpleasant condition that is used to reinforce behavior by its termination.  This type of control employs (negative/positive)_______ reinforcement to strengthen the escape or avoidance behavior.
 @end
 @answer negative
-@tries 2
+@tries 1
 @graphic none
 @video none
 @begin
@@ -230,7 +230,7 @@ Occasionally people approach you who are rude and pushy.  When you simply ignore
 @graphic none
 @video none
 @begin
-You can speak sharply to a rude individual and possibly suppress his rude talk.  This would be an example of using an ________e stimulus to punish behavior.
+You can speak sharply to a rude individual and possibly suppress his rude talk.  This would be an example of using an a________e stimulus to punish behavior.
 @end
 @answer aversive
 @tries 2
@@ -262,7 +262,7 @@ The topographies of playing cooperatively and physically fighting are (compatibl
 A skillful parent or teacher who reinforces appropriate play is less likely to resort to __________ment.
 @end
 @answer punishment
-@tries 2
+@tries 1
 @graphic none
 @video none
 @begin
@@ -280,7 +280,7 @@ It is more difficult to employ (reinforcement/punishment) _______ for appropriat
 @graphic none
 @video none
 @begin
-However, a parent or teacher who uses reinforcement is (more/less) ________ likely to develop strong positive relationships with children or students.
+However, a parent or teacher who reinforces INCOMPATIBLE behavior is (more/less) ________ likely to develop strong positive relationships with children or students.  
 @end
 @answer more
 @tries 1

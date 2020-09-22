@@ -1,5 +1,5 @@
 @begin
-When you were young you were taught to label pictures of cats with the response "cat."  But first, you learned to say "cat" when someone used the differential reinforcement of successive approximations.  As you will recall, this is  the procedure called s_____ing.
+When you were young you were taught to label pictures of cats with the response "cat."  But first, you learned to say "cat" when someone used the differential reinforcement of successive approximations.  As you will recall, this is the procedure called sh_____ing.
 @end
 @answer shaping
 @tries 2
@@ -13,7 +13,7 @@ Your response of saying "cat" was then brought under the control of a picture of
 @graphic catpicture.jpg
 @video none
 @begin
-You were taught to discriminate between pictures of dogs and cats when saying "cat" was _________ in the presence of the cat picture and not ________ when you were looking a picture of a dog.
+You were taught to discriminate between pictures of dogs and cats when saying "cat" was _________d in the presence of the cat picture and not ________ when you were looking a picture of a dog. (two words)
 @end
 @answer reinforced reinforced
 @tries 2
@@ -41,10 +41,10 @@ Your ability to "extend" the use of the "cat" label to a variety of different ca
 @graphic none
 @video none
 @begin
-Generalization does not happen automatically, it is learned.  Both _________n between stimuli and generalization across different stimuli are taught using differential reinforcement.
+Generalization does not happen automatically, it is learned.  Both d_________n between stimuli and generalization across different stimuli are taught using differential reinforcement.
 @end
 @answer discrimination
-@tries 2
+@tries 1
 @graphic none
 @video none
 @begin
@@ -58,14 +58,14 @@ Generalization is the (same as/opposite of) _______  discrimination.
 You recall that respondent behavior is elicited or "caused" by stimuli that precede it and "force" it to happen.  Operant behavior is "caused" or strengthened by what has typically happened after it.  Tears in your eyes when peeling an onion is ________t behavior.  Reaching up to catch a ball is _______t behavior. 
 @end
 @answer respondent operant
-@tries 2
+@tries 1
 @graphic none
 @video none
 @begin
-The previous examples of respondent and operant behavior have not been used earlier in this program yet you successfully labeled them.  You extended the concepts of respondent and operant behavior to different examples.   When you correctly classified those new examples you demonstrated the process called _______n.
+The previous examples of respondent and operant behavior have not been used earlier in this program yet you successfully labeled them (we hope).  If you did so, you extended the concepts of respondent and operant behavior to different examples.   When you correctly classified those new examples you demonstrated the process called _______n.
 @end
 @answer generalization
-@tries 2
+@tries 1
 @graphic none
 @video none
 @begin
@@ -86,11 +86,11 @@ The tendency to respond to other people with politeness even though such behavio
 Your parents reinforced the behavior of helping them, no doubt.  You tended not to help other people when you had no history of reinforcement with them.  The tendency to help your parents only and not to help strangers is an example of _______ation.
 @end
 @answer discrimination
-@tries 2
+@tries 1
 @graphic none
 @video none
 @begin
-Being generous and helpful is a cultural value that is not often taught well.  Our culture is strengthened when all people tend to be generous and helpful.  Our objective should be get generosity and helpfulness to _______ize not simply to parents but to all people.
+Being generous and helpful is a cultural value that is not often taught well.  Our culture is strengthened when all people tend to be generous and helpful.  Our objective should be to get generosity and helpfulness to _______ize not simply to parents but to all people.
 @end
 @answer generalize
 @tries 2
@@ -139,7 +139,7 @@ Operant behavior extinguishes quickly when it has been reinforced every time.  S
 @graphic firestick.jpg
 @video none
 @begin
-Suppose a fire-stick works only intermittently because it running out of fuel.  You would be (more/less) ________ likely to keep trying to use it than if it normally worked every time.
+Suppose a fire-stick works sometimes but only intermittently because it is running out of fuel.  You would be (more/less) ________ likely to keep trying to use it than if it normally worked every time.
 @end
 @answer more
 @tries 1
@@ -160,7 +160,7 @@ Children can be taught to love to fish in a series of stages.  First the tank or
 @graphic childfishing.jpg
 @video none
 @begin
-Subsequently, you secretly feed the fish a little before "fishing time." Not every time the children toss baited lines into the tank do they catch a fish.  However, they catch fish often enough to prevent extinction and keep the probability of fishing high.  Now their fishing behavior is being reinforced (continuously/intermittently) _______.
+Subsequently, you secretly feed the fish a little before "fishing time."  So, not every time the children toss baited lines into the tank do they catch a fish.  However, they catch fish often enough to prevent extinction and keep the probability of fishing high.  Now their fishing behavior is being reinforced (continuously/intermittently) _______.
 @end
 @answer intermittently
 @tries 1

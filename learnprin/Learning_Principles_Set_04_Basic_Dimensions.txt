@@ -1,12 +1,12 @@
 @begin
-In the previous instructional segments of this program, you learned that operant behavior is strengthened by its (prior eliciting stimuli/consequences)  _______.
+You will recall that respondent behavior is elicited by stimuli that come before it.  In the previous instructional segments of this program, you learned that operant behavior is strengthened by its (prior eliciting stimuli/consequences)  _______.
 @end
 @answer consequences
 @tries 1
 @graphic none
 @video none
 @begin
-You quite likely have a cellular phone. You tap icons on its screen and open applications.  Your tapping is _______t behavior and not respondent behavior because it is strengthened by its consequences.
+You quite likely have a cellular phone. You tap icons on its screen to open applications.  Your tapping is _______t behavior and not respondent behavior because it is strengthened by its consequences.
 @end
 @answer operant
 @tries 2
@@ -27,7 +27,7 @@ How often you engage in a behavior is an important dimension of it.  The observe
 @graphic probability.jpg
 @video none
 @begin
-Your "rate" of tapping smart phone icons is the frequency of your tapping over a period of time.  From observing your _____e of tapping we infer the probability tapping.
+Your "rate" of tapping smart phone icons is the frequency of your tapping over a period of time.  From observing your _____e of tapping we infer the probability of tapping.
 @end
 @answer rate
 @tries 2
@@ -42,7 +42,7 @@ Some days you tap your cell phone screen more frequently than other days.  We sa
 @graphic rateofemails.jpg
 @video none
 @begin
-The _______y or strength of your operant tapping response is inferred from the observed rate or frequency of it.
+The p_______y or strength of your operant tapping response is inferred from the observed rate or frequency of it.
 @end
 @answer probability
 @tries 2
@@ -65,21 +65,21 @@ You can't actually "see" a probability.  Instead, you infer it from the ______ a
 @graphic none
 @video none
 @begin
-If you just saw an advertisement for your favorite cookie, you might have a high _______ of eating a cookie even when there are no cookies around.
+If you just saw an advertisement for your favorite cookie, you might have a high p________y of eating a cookie even when there are no cookies around.
 @end
 @answer probability
 @tries 2
 @graphic none
 @video none
 @begin
-"White lies" are common; nearly all people misrepresent themselves now and then.  We can overlook this without concern.  But it is a cause for action when individuals frequently distort the truth.  Lying is punished in our culture.  The critical dimension of behavior here is the _______ty of the behavior of lying.  
+"White lies" are common; nearly all people misrepresent themselves now and then.  We can overlook this without concern.  But it is a cause for action when individuals frequently distort the truth.  Lying is punished in our culture.  The critical dimension of behavior here is the p_______ty of the behavior of lying.  
 @end
 @answer probability
 @tries 2
 @graphic none
 @video none
 @begin
-Another basic dimension of operant behavior is TOPOGRAPHY.  Topography is the form of behavior.  Running and jumping each have a different physical form so we say the _______ is different.
+Another basic dimension of operant behavior is TOPOGRAPHY.  Topography is the form of behavior.  Running and jumping each have a different physical form so we say the t_______ is different.
 @end
 @answer topography
 @tries 2
@@ -128,35 +128,35 @@ Two events are "contiguous" when they occur adjacent to each other in time, some
 @graphic none
 @video none
 @begin
-In the past, dinner was announced by a dinner bell.  The bell elicited a little salivation.  Those hearing it began to salivate a little when they heard the bell due to previous respondent conditioning.  This happened because the food and the bell were c______usly paired in the past.
+In the past, dinner was announced by a dinner bell.  The bell ELICITED a little salivation.  Those hearing it began to salivate a little when they heard the bell due to previous respondent conditioning.  This happened because the food and the bell were con______usly paired in the past.
 @end
 @answer contiguously
 @tries 2
 @graphic none
 @video none
 @begin
-Restaurants sometimes hand out devices that blink and vibrate to announce that your table is ready.  Blinking and vibrating can result in both respondent and operant behavior on your part.  This device may _______t salivation in the same manner as a dinner bell.
+Restaurants sometimes hand out devices that blink and vibrate to announce that your table is ready.  Blinking and vibrating can result in both respondent and operant behavior on your part.  This device may e_____t salivation in the same manner as a dinner bell.
 @end
 @answer elicit
 @tries 2
 @graphic restaurantblinker.jpg
 @video none
 @begin
-Being ushered to a table, seeing others eating food, and the aroma of food, were contiguously paired with the blinking light.  The blinking light acquired the ability to elicit a little salivation.  But it simultaneously reinforces the behavior of watching for it to blink.   Watching for the blinking light is supported by its consequences.  We have a high pr_______y of watching the device because blinking reinforces that (operant/respondent) _______ behavior.  (two answers)
+Being ushered to a table, seeing others eating food, and the aroma of food, were conTIGuously paired with the blinking light.  The blinking light acquired the ability to elicit a little salivation.  But blinking also simultaneously reinforces the behavior of watching for it to blink.   Watching for the blinking light is supported by its consequences.  We have a high pr_______y of watching the device because blinking reinforces that behavior.  Watching for the blinking is _______t behavior because this behavior is reinforced by seeing the device blink. (two answers)
 @end
 @answer probability operant
 @tries 2
 @graphic none
 @video none
 @begin
-Operant behavior is strengthened when a reinforcer immediately ([precedes/follows])________s that behavior.
+Unlike respondent behavior, operant behavior is strengthened when a reinforcer immediately (precedes/follows) ________s that behavior.
 @end
 @answer follows
 @tries 2
 @graphic none
 @video none
 @begin
-Putting coins in a beverage vending machine results in the delivery of the beverage.  The behavior is r________ed by getting the beverage.
+Putting coins in a beverage vending machine results in the delivery of the beverage.  The behavior is r________ced by getting the beverage.
 @end
 @answer reinforced
 @tries 2
@@ -170,14 +170,14 @@ When you first learned to tie your shoes, you were taught by someone who demonst
 @graphic shoetie.jpg
 @video none
 @begin
-Reinforcement most powerfully strengthens operant behavior when it occurs i_______ly after the behavior or when the behavior is currently in progress. 
+Reinforcement most powerfully strengthens operant behavior when it occurs im_______ly after the behavior or when the behavior is currently in progress. 
 @end
 @answer immediately
 @tries 2
 @graphic none
 @video none
 @begin
-The probability of behavior is not strengthened when the reinforcer is delayed.  Immediacy is critical.  For example, some people rarely make oatmeal from scratch.  Instead, they stir the contents of a packet into a bowl and microwave it.  Even though microwaved oatmeal isn't the same quality as oatmeal made from scratch the critical variable is the i________y of reinforcement.
+The probability of behavior is not strengthened when the reinforcer is delayed.  Immediacy is critical.  For example, some people rarely make oatmeal from scratch.  Instead, they stir the contents of a packet into a bowl and microwave it.  Even though microwaved oatmeal isn't the same quality as oatmeal made from scratch, the critical variable is the i________cy of reinforcement.
 @end
 @answer immediacy
 @tries 2

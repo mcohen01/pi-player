@@ -1,44 +1,11 @@
 @begin
-This program is interactive.  Each screen presentation will ask you to supply an answer to it.  For example, the picture below shows our _______.  [Scroll down to the bottom of the screen if necessary to see the cursor blinking in the box and type your answer there.  Tap your ENTER key after you enter your answer.]
+{{{Before you begin this tutorial please give the author of these tutorials a little information about you.  Did an instructor assign these tutorials, if not, how and why did you come here to use them?  Type your answer in the box, scroll down, and click on the SAVE box.  This screen will refresh.}}}
+
+This program is interactive.  Each screen presentation will ask you to supply an answer to it.  For example, the picture below shows our _______.  [Scroll down to the bottom of the screen if necessary to see the cursor blinking in the box and type your answer there.]
 @end
 @answer moon
 @tries 2
 @graphic moon.gif
-@video none
-@begin
-This program has a running timer as you work. You will have only 60 seconds to study and answer each frame.  You (will/will not) _______ have time to do anything else like text or talk with someone while working through it.
-@end
-@answer will not
-@tries 1
-@graphic none
-@video none
-@begin
-The reason for the timer is to keep you concentrated on answering frames.  You can't fiddle around and wait to answer a frame. Each frame builds upon your understanding and memory.  Therefore, you do not want to take your attention away from it for even a moment.  All other activities must ____t until you finish the set of frames.  (type all the letters of the word in your answer)
-@end
-@answer wait
-@tries 2
-@graphic none
-@video none
-@begin
-If you fail to supply the answer word(s) required for movement forward within 60 seconds, the program moves automatically to the next frame and (increases/reduces) _______ your percent correct in the upper left corner as if you had incorrectly answered it.
-@end
-@answer reduces
-@tries 1
-@graphic none
-@video none
-@begin
-If you enter an unexpected answer you may be given a second chance.  If not, the desired answer will appear at the bottom for only 10 seconds.  Then, the program will automatically advance to the next frame and (increase/reduce) ______ your percent correct score.
-@end
-@answer reduce
-@tries 1
-@graphic none
-@video none
-@begin
-The running timers are there to keep you concentrated on the program.  You (will not/will) _________ have time to text, take phone calls, have a snack, play with the dog, or go to the restroom without hurting your percent correct score.
-@end
-@answer will not
-@tries 1
-@graphic none
 @video none
 @begin
 (Notice that when you give the desired answer the program gives you a brief green screen flash as you automatically advance to the next frame of content.)  Your ongoing progress through this set of frames is indicated in the upper (right or left?) _______ hand corner. 
@@ -48,21 +15,21 @@ The running timers are there to keep you concentrated on the program.  You (will
 @graphic none
 @video none
 @begin
-You will need to READ CAREFULLY.  Learning happens when you have to struggle a little bit to come up with an answer from memory. This program sometimes gives you help letters next to the blank(s) and often a chance to try again.  Its objective is to get you to recall words within the context of others.   If your first answer isn't quite what is wanted, you may be given a s_____nd chance.  (Type all the letters in your answer).
+This program sometimes gives you help letters in the blank and a chance to try again.  The point is to get you to recall words and you will need to READ CAREFULLY.  Learning happens when you have to struggle a little bit to come up with an answer from memory. If you are given a second chance and then do supply the desired answer your second try contributes to your percent correct score in the upper left-hand corner of your screen.  In other words, the program is "forgiving."  (True or False?  _____)
 @end
-@answer second
-@tries 2
+@answer true
+@tries 1
 @graphic none
 @video none
 @begin
-Every program needs to be revised as it is developed.  The answers you give may be used to REVISE the program.   So, don't be too bothered when your answer is not what the author of this program anticipated and he may need to re____se the program.  [Always type the whole correctly spelled word including the help letters.]
+This program also keeps a record of your answers here at the server.  The answers given will be used to REVISE the program.  Every program needs to be revised as it is developed.  So, don't be too bothered when your answer is not what the author of this program expects and he may need to re____se the program.  [Always type the whole correctly spelled word including the help letters.]
 @end
 @answer revise
 @tries 2
 @graphic none
 @video none
 @begin
-Try to recall the exact wording used by this program and not to use synonyms.  It is unlikely that you can keep a perfect 100 percent score running in the left-hand corner because it may be difficult to recall the ex_____t word the author wants you to type.  Just do your best.
+Try to recall the exact wording used by this program and not to use synonyms.  It is unlikely that you can keep a perfect 100 percent score running in the left hand corner because it may be difficult to recall the e_______t word the author wants you to type.  Just do your best.
 @end
 @answer exact
 @tries 2
@@ -76,63 +43,195 @@ BEWARE! Please refrain from trying to go backwards in the program with your brow
 @graphic none
 @video none
 @begin
-There is a reason why this form of instruction surpasses passively listening or reading.  Each screen or "frame" of material has been deliberately constructed to cause you to carefully reread and study all the words in each frame.  (True or false?) _______
+There is a reason why this form of instruction surpasses the behaviors of passively listening or reading.  Each screen/frame of material has been deliberately constructed to strengthen your developing memory when you struggle a little to supply an answer.  It will cause you to study all the words in each frame carefully.  (True or false?) _______
 @end
 @answer true
 @tries 1
 @graphic none
 @video none
 @begin
-Some frames will have more than one blank in them.  To answer them, simply type each word with only one space between it, then the next answer word.  Which of these two alternatives is correct?  (a) word word word, or (b) word,word,word) (a or b?)
+Some users of this program report a strong tendency for their eyes to go directly to the blank(s) when a new frame appears without reading everything.  DON'T DO THIS because this will lower your score.  Read the entire frame content before you attempt an answer because concepts/words introduced in one frame often become the answers for the next frame.  You should (a or b?) ___  a. Race through the program as fast as you can, or b.  Study the content of each frame carefully.
 @end
-@answer a
+@answer b
 @tries 1
 @graphic none
 @video none
 @begin
-This set of tutorials keeps a record of those you have accomplished.  You must do them in sequence.  Please keep a record for yourself of which tutorials you have accomplished.  If you attempt to skip a tutorial in the sequence, you will be presented with a record of those you have completed and need to select the (next/last) ______ one.
+Now, on with the show.  You may be interested in understanding and changing your own behavior.  "Why am I working through this program?" you ask.  Well, because it is about your behavior and because it will help you unde_______d why you do and don't do things. [Please type all the help letters in your answer]
 @end
-@answer next
-@tries 1
-@graphic none
-@video none
-@begin
-Because green f____hes confirm and strengthen the target performance, learning specialists call the flashes "differential reinforcement."
-@end
-@answer flashes
-@tries 1
-@graphic none
-@video none
-@begin
-Success strengthens learning.  Programmed instruction makes dif_____tial rein___cement frequent by breaking instruction down into small steps.  
-@end
-@answer differential reinforcement
+@answer understand
 @tries 2
 @graphic none
 @video none
 @begin
-Programmed instruction keeps the learner on the threshold of learning--it requires (casual/close) _______ attention.  
+"Is it important that I understand WHY I do things?" You ask. Well, yes, because when you better understand the causes of your behavior you can change the causes and c_______e your behavior for the better.
 @end
-@answer close
+@answer change
+@tries 2
+@graphic none
+@video none
+@begin
+"What if I am already perfect in every way?" you say.   Well, you might be perfect, but other people aren't.  To adjust to them and your feelings about what they do you need to know ___y you feel and act the way you do.
+@end
+@answer why
+@tries 2
+@graphic none
+@video none
+@begin
+This program is about your personal happiness, productivity, and your general "state of mind."  It is about being effective and feeling good about it.  It is also about preparing for the future.  You automatically _______l good when you have a plan and see progress toward objectives.
+@end
+@answer feel
+@tries 2
+@graphic babysmiling.gif
+@video none
+@begin
+This program is also about developing your individuality and novelty.  It is about being more creative, in other words, saying and doing ____w things--things you never did before.  
+@end
+@answer new
+@tries 2
+@graphic none
+@video none
+@begin
+Creative behavior expresses your UNIQUEness.  There is only one person like you.  You can make u_______e contributions to the world and have a lot of satisfaction doing so.
+@end
+@answer unique
+@tries 2
+@graphic none
+@video none
+@begin
+You may have some surprises in store.  Some of them have to do with (truths/myths) _________ you may believe in that are getting in the way of your happiness and success.
+@end
+@answer myths
+@tries 1
+@graphic mythtruth.gif
+@video none
+@begin
+Lets talk about myths for a moment.  (1) The earth "wobbles" back and forth on its axis and this produces our seasons of the year. (2) Applying hydrogen peroxide to a wound helps it heal. (3) Tomatoes are vegetables. (4) Dogs sweat with their tongues. (5) Bats are blind. (6) How you feel causes you to act in certain ways.   Are any of these statements true--yes or no? _______ 
+@end
+@answer no
 @tries 1
 @graphic none
 @video none
 @begin
-The lessons or "sets" of frames you are about to advance to were composed to prepare you for (a) possible interaction with an instructor (b) advancing immediately to elementary application on your own, (c) possibly either or both.
+All of the assertions in the previous frame were classic fictions.  The last one of them is the most significant with respect to this program.  Is it true we have been taught that we are the determiners of our behavior--we are "responsible" for it because we initiate it. (Yes or no?) _______  
 @end
-@answer c
+@answer yes
 @tries 1
 @graphic none
 @video none
-
 @begin
-Consequences of your behavior are a significant part of your ENVIRONMENT.  Indeed, these _______s are responsible for most of what you do and how you feel about it.
+We learned from others at a very early age that how we feel starts in our minds and then our minds generate our behavior.  (Right or wrong?) _______
+@end
+@answer right
+@tries 1
+@graphic none
+@video none
+@begin
+We have been convinced by others that we should not think of ourselves as simply "leaves in the wind."  However, when we breathe in pepper and sneeze, for example, the cause of the sneeze is pepper, which comes from our (environment or mind?) _______.
+@end
+@answer environment
+@tries 1
+@graphic peppershaker.gif
+@video none
+@begin
+Our hearts beat faster following a sudden noise (called the startle reflex), and our pupils constrict when clouds uncover the  bright sun.  These are causes that begin (inside/outside) _______ us.
+@end
+@answer outside
+@tries 1
+@graphic none
+@video none
+@begin
+We have learned to say that we do things because we "feel like it."  We aren't always aware of the real reasons we do things and instead say we just ___ like doing them.
+@end
+@answer feel
+@tries 2
+@graphic none
+@video none
+@begin
+Feelings are important BYPRODUCTS of what we do, no doubt, but they are not everything and even though we have been taught to say that how we ______ causes what we do, there is evidence to the contrary.
+@end
+@answer feel
+@tries 2
+@graphic none
+@video none
+@begin
+It is clear that things out in our environments affect what we do and how we feel.  But, as just argued, our feelings about what is happening are b_______s of what is happening, not causes.
+@end
+@answer byproducts
+@tries 2
+@graphic selfasbyproduct.gif
+@video none
+@begin
+Our _______gs are a kind of barometer of what the environment is doing to us. 
+@end
+@answer feelings
+@tries 2
+@graphic feelingbarometer.gif
+@video none
+@begin
+Someone asks you "How good do you feel at the moment--on a one to ten scale?"  You pause, while responding to the current s_______s of your body or self, and then say "Oh, about a five."  
+@end
+@answer status
+@tries 2
+@graphic environmentstatus.gif
+@video none
+@begin
+We will suggest that the "self" that you feel doesn't reside in the deep dark reaches of your mind, but is rather the current status of your _______y as it responds to the environment.  
+@end
+@answer body
+@tries 2
+@graphic none
+@video none
+@begin
+The self that you feel is a product of forces out in the _______.
+@end
+@answer environment
+@tries 2
+@graphic none
+@video none
+@begin
+This program will explain more fully that you don't _______e how your "self" feels by some act of will, you change how you feel by changing things out in the environment that determine how your "self" feels.
+@end
+@answer change
+@tries 2
+@graphic none
+@video none
+@begin
+But here is a new twist.  Very often the CONSEQUENCES of what you do influence what you do and how you feel.  For example, you find a key that works for a lock and later you use that key again.  We say the key having worked "reinforces" or strengthens your tendency to ____ it again in the future as well as feel satisfied about doing so.
+@end
+@answer use
+@answer do
+@tries 2
+@graphic none
+@video none
+@begin
+Consequences of your behavior are a significant part of your environment.  Indeed, these _______s are responsible for most of what you do and how you feel about it.
 @end
 @answer consequences
 @tries 2
 @graphic consequencesplusminus.gif
 @video none
-
+@begin
+But the effects of consequences on your behavior are seldom (hard/easy) _______ to spot and that is another reason for working through this program.
+@end
+@answer easy
+@tries 1
+@graphic none
+@video none
+@begin
+Our memories are poor.  What happens out in the environment quickly passes into history and is no longer accessible.  We don't r_______r most of the experiences we have had nor the effects they had upon us.  However, we do experience the byproducts we call feelings.
+@end
+@answer remember
+@tries 2
+@graphic none
+@video none
+@begin
+Again, we use feelings and states of mind to explain our behavior but they are not the true causes, they are b_______.
+@end
+@answer byproducts
+@tries 2
+@graphic none
+@video none
 @begin
 When you know the true causes, you can better predict what you will or will not do.  And more importantly, you can engineer your behavior by design by adjusting those causes that are out in your _______.
 @end
@@ -148,7 +247,7 @@ We are going to talk about principles of learning (conditioning) in the next set
 @graphic learningprinciples.gif
 @video none
 @begin
-This program is about focusing our lives--getting more out of life and getting things done.  It is about planning and organizing our env_______t such that we actually do the things we plan to do.
+This program is about focusing our lives--getting more out of life and getting things done.  It is about planning and organizing our e_______t such that we actually do the things we plan to do.
 @end
 @answer environment
 @tries 2
@@ -169,8 +268,7 @@ The first of these principles of behavior is called respondent conditioning and 
 @graphic reflexjaw.gif
 @video none
 @begin
-{{{WAIT! WAIT!  Before you finish this tutorial please give the author of these quizzes a little information about you.  Did an instructor assign these tutorials?  How did you find the URL for these tutorials?  There are multiple ways of getting here and the author wants to learn more about who is using these tutorials and how people arrived at this site.  Thanks so much, ahead.  Type your answer in the box, scroll down, and click on the SAVE box.  This screen will refresh.}}}
-You have almost reached the end of this set.  We recommend that you find a slip of paper and start a checklist for these sets right now and put a check by the first set.  This way you won't redo a set you already did or accidently skip one.  Did you do it?   (yes or no) _______
+You have almost reached the end of this set.  We recommend that  find a slip of paper and start a checklist for these sets right now and put a check by the first set.  This way you won't redo a set you already did or accidently skip one.  Did you do it?   (yes or no) _______
 @end
 @answer yes
 @tries 3

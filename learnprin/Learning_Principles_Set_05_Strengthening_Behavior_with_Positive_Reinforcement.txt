@@ -6,7 +6,7 @@ The probability of your operant behavior is strengthened when something good or 
 @graphic none
 @video none
 @begin
-You babbled and cooed in your crib.  Occasionally you put your lips together and uttered "ma."  Hearing this, your mother rushed over to your crib into your sight, touched you, and said "Here I am!"  "Here is your ma-ma!"   This increased the p_______ that you would say "ma" again.
+You babbled and cooed in your crib.  Occasionally you put your lips together and uttered "ma."  Hearing this, your mother rushed over to your crib into your sight, touched you, and said "Here I am!"  "Here is your ma-ma!"   This increased the pr_______y that you would say "ma" again.
 @end
 @answer probability
 @tries 2
@@ -41,14 +41,14 @@ When your mother reinforced only "ma" and not "poo" you began to utter ___ more 
 @graphic none
 @video none
 @begin
-As we saw earlier, a species of animals that foraged for food but no longer found it eventually extinguished.  Similarly, the response of saying "poo" would eventually become ________d when your mother refrained from supporting or reinforcing it with food.
+As we saw earlier, a species of animals that foraged for food but no longer found it eventually extinguished.  Similarly, the response of saying "poo" would eventually become e________d when your mother refrained from supporting or reinforcing it with food.
 @end
 @answer extinguished
 @tries 2
 @graphic none
 @video none
 @begin
-You strengthen a behavior by immediately __________g it.  Conversely, you ________h  a response by not reinforcing it.
+You strengthen a behavior by immediately r__________g it.  Conversely, you ________h  a response by not reinforcing it.  (two words)
 @end
 @answer reinforcing extinguish
 @tries 1
@@ -62,32 +62,32 @@ Eventually when your mother's face appeared you were more likely to say "ma" tha
 @graphic none
 @video none
 @begin
-When your mother was out of sight she often did not hear you say "ma" and didn't _______ it with food.
+When your mother was out of sight she often did not hear you say "ma" and didn't _______e it with food.
 @end
 @answer reinforce
 @tries 2
 @graphic none
 @video none
 @begin
-Because your "ma" responses were not reinforced in her absence but were reinforced when her face was present, you learned to call your mother "ma" by the shaping process called di_____l r_______.
+Because your "ma" responses were not reinforced in her absence but were reinforced when her face was present, you learned to call your mother "ma" by the shaping process called di_____l r_______t.
 @end
 @answer differential reinforcement
+@tries 3
+@graphic none
+@video none
+@begin
+When your mother's face reliably evoked your "ma" response we call your mother's face a "discriminative stimulus."  "Dis______e stimulus" is a technical term that referes to the control it has acquired--as shown by the fact that you said ___ more frequently.
+@end
+@answer discriminative ma
 @tries 1
 @graphic none
 @video none
 @begin
-When your mother's face reliably evoked your "ma" response we call your mother's face a "discriminative stimulus."  "Discriminative stimulus" is a technical term that referes to the control it has acquired--as shown by the fact that you said ___ more frequently.
+Operant behaviors are evoked with a high probability when they are consistently reinforced in the presence of a given stimulus.  This stimulus is technically called a dis_________ stimulus.
 @end
-@answer ma
-@tries 1
-@graphic none
-@video none
-@begin
-Operant behaviors are evoked with a high probability when they are consistently reinforced in the presence of a given stimulus.  This stimulus is technically called a d_________ stimulus.
-@end
-@answer discriminated
 @answer discriminative
-@tries 2
+@answer discriminated
+@tries 3
 @graphic none
 @video none
 @begin
@@ -101,26 +101,26 @@ Your father quite likely held you when you were learning to talk.  When you said
 You soon learned to discriminate between your mother's face and your father's face as shown by a high probability of saying ___ to your mother and ____ to your father.
 @end
 @answer ma da
-@tries 1
+@tries 3
 @graphic none
 @video none
 @begin
-You learned how to discriminate between things in your world via the process we called _________l _________t.
+You learned how to discriminate between things in your world via the process we called _________l rei_________t.
 @end
 @answer differential reinforcement
-@tries 2
+@tries 3
 @graphic none
 @video none
 @begin
-Technically, we say people _________te between visual stimuli in the environment when they respond in one way to some stimuli and a different way to others.
+Technically, we say people d_________te between visual stimuli in the environment when they respond in one way to some stimuli and a different way to others.
 @end
 @answer discriminate
 @answer differentiate
-@tries 2
+@tries 3
 @graphic none
 @video none
 @begin
-Again, your father's face became a d________ s________s when you began to reliably say "da" in it presence.
+Again, your father's face became a dis________ s________s when you began to reliably say "da" in it presence.
 @end
 @answer discriminated stimulus
 @answer discriminative stimulus
@@ -128,7 +128,7 @@ Again, your father's face became a d________ s________s when you began to reliab
 @graphic none
 @video none
 @begin
-In all the situations just described, the consequences were _______ive reinforcers for the behaviors because they were presented or added as a consequence, not withdrawn.
+In all the situations just described, the consequences were (positive/negative) _______ive reinforcers for the behaviors because they were presented or added as a consequence, not withdrawn.
 @end
 @answer positive
 @tries 1
@@ -149,7 +149,7 @@ We have been describing how operant behavior is strengthened by positive or "des
 @graphic none
 @video none
 @begin
-We will discuss how a strenghening consequence can be something bad stopping, for example a cold draft terminating when you close a window.  Since the strengthening consequence is something (beginning/ending) _________ we technically call this "negative reinforcement" because a "negative stimulus" terminates contingent upon an operant response. 
+We will discuss how a strenghening consequence can be something bad stopping, for example a cold draft terminating when you close a window.  Since the strengthening consequence is something (beginning/ending) _________ we technically call this "negative reinforcement" because a "negative stimulus" terminates contingently upon an operant response. 
 @end
 @answer ending
 @tries 1

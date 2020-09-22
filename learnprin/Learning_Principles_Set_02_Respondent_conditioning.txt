@@ -6,9 +6,9 @@ Many cause and effect relationships are clear. Someone you like walks into the r
 @graphic friendenteringroom.gif
 @video none
 @begin
-When a stimulus "forces" or "elicits" your response, technically speaking, we call your response as "respondent."  When Pavlov presented food powder to his dogs they salivated (i.e., their behaviors were "respondents").  Feeling good at the sight of a very special friend is another example of a _______.
+When a stimulus "forces" or "elicits" your response, technically speaking, we call your response a "respondent."  When Pavlov presented food powder to his dogs they salivated (i.e., their behaviors were "respondents").  Feeling good at the sight of a very special friend is another example of a _______t.  The initiating stimulus comes (after/before) _______ the respondent behavior.  (Two words in your answer.)
 @end
-@answer respondent
+@answer respondent before
 @tries 2
 @graphic fooddogsalivating.jpg
 @video none
@@ -27,14 +27,14 @@ We call the behavior in a reflex "respondent" behavior because it is caused by s
 @graphic handwithdrawalreflex.jpg
 @video none
 @begin
-Technically speaking, the relationship called a reflex is composed of first a _______ and then a response (or respondent).
+Technically speaking, the relationship called a reflex is composed of first a s_______ and then a response (or respondent).
 @end
 @answer stimulus
 @tries 2
 @graphic none
 @video none
 @begin
-R_______s are often called "involuntary" because they are forced to occur and aren't considered "willful" actions.  
+R_______xes are often called "involuntary" because they are forced to occur and aren't considered "willful" actions.  
 @end
 @answer reflexes
 @answer respondents
@@ -42,15 +42,15 @@ R_______s are often called "involuntary" because they are forced to occur and ar
 @graphic none
 @video none
 @begin
-Reflexes like the peristaltic action of our intestines, the knee reflex, and the beating of our hearts are examples of _______.  They occur "unintentially," in other words they are automatic.
+Reflexes like the peristaltic action of our intestines, the knee reflex, and the beating of our hearts are examples of r_______s.  They occur "unintentially," in other words they are automatic.
 @end
 @answer reflexes
 @answer respondents
 @tries 1
-@graphic preflex.gif
+@graphic ppreflex.gif
 @video none
 @begin
-Our bodies conserve heat when we get "goose bumps" and loose heat by sweating.  The term "internal economy" refers to the biological  functions of one's body.  Most reflexes are related to the welfare of our i_______ e_________, for example, breathing, the heart beating, sweating, or withdrawing from destructive stimuli.
+Our bodies conserve heat when we get "goose bumps" and lose heat by sweating.  The term "internal economy" refers to the biological functions of one's body.  Most reflexes are related to the welfare of our i_______ e_________, for example, breathing, the heart beating, sweating, or withdrawing from destructive stimuli.
 @end
 @answer internal economy
 @tries 2
@@ -71,7 +71,7 @@ New reflexes are acquired via the process called "conditioning."  The process is
 @graphic respondentconditioning.jpg
 @video none
 @begin
-A "contingency" is two events occuring together in time--essentially simultaneously.  The fierce snarling, growling, and snapping of a dog together with a painful bite would be an example of a _______y, and that combination of stimuli would result in a CONDITIONED reflex.
+A "contingency" is two events occuring together in time--essentially simultaneously.  The fierce snarling, growling, and snapping of a dog together with a painful bite would be an example of a _______y, and that combination or PAIRING of stimuli would result in a CONDITIONED reflex.
 @end
 @answer contingency
 @tries 2
@@ -99,7 +99,7 @@ An animal may growl and bite.   A growl, by itself, will also come to elicit an 
 @graphic none
 @video none
 @begin
-Advertisers pair attractive people, babies, and pleasant scenes with their products.  They are using _______t conditioning to get you to respond to their products in the same way you do to attractive people, babies, and pleasant scenes.
+Advertisers PAIR attractive people, babies, and pleasant scenes with their products.  They are using _______t conditioning to get you to respond to their products in the same way you do to attractive people, babies, and pleasant scenes.
 @end
 @answer respondent
 @tries 2
@@ -113,7 +113,7 @@ Feeling happy or sad in response to hearing certain kinds of music are emotional
 @graphic none
 @video none
 @begin
-Being bitten by an animal automatically elicits an elevated heart rate and withdrawal from the animal.  These are UNconditioned _______.
+Being bitten by an animal automatically elicits an elevated heart rate and withdrawal from the animal.  These are UNconditioned _______s.
 @end
 @answer reflexes
 @answer responses
@@ -122,7 +122,7 @@ Being bitten by an animal automatically elicits an elevated heart rate and withd
 @graphic none
 @video none
 @begin
-Dust in the eye elicits tears that wash it away.  We call dust the _______ and tears the _______e and both compose what we call a reflex. [Type two words with a space between them like this: xxxx yyyy]
+Dust in the eye elicits tears that wash it away.  We call dust the _______s and tears the _______e and both compose what we call a reflex. [Type two words with a space between them like this: xxxx yyyy]
 @end
 @answer stimulus response
 @tries 2
@@ -157,7 +157,7 @@ A very funny joke will elicit a big laugh.  A characteristic of reflexive behavi
 @graphic biglaugh.jpg
 @video none
 @begin
-Hearing an old song or seeing an old toy may elicit the feeling called "nostalgia" if it was associated with fun times during one's childhood.  The feeling of nostalgia is a(n) (unconditioned/conditioned) _______ reflex.
+Hearing an old song or seeing an old toy may elicit the feeling called "nostalgia" if it was associated with fun times during one's childhood.  Because nostalgia was acquired via pairing, the feeling of nostalgia is a(n) (unconditioned/conditioned) _______ reflex.
 @end
 @answer conditioned
 @tries 1
@@ -185,7 +185,7 @@ There is an important relationship between a stimulus and a response in what is 
 @graphic none
 @video none
 @begin
-Other factors affect the conditioning of reflexes such as your feelings.  Current distractions in the environment and the condition of your body interfere with the process we call respondent _______.
+Other factors affect the conditioning of reflexes such as your feelings.  Current distractions in the environment and the condition of your body interfere with the process we call respondent _______ing.
 @end
 @answer conditioning
 @tries 1
@@ -213,28 +213,28 @@ Stereotyped responses arise from (functional/nonfunctional) ________ pairings.
 @graphic none
 @video none
 @begin
-A young child experienced a very close lightening strike and loud thunder.  The lightening ignited straw in a garage attic nearby. Pandemonium ensued together with the arrival of firetrucks with loud sirens and excited people.  The child panicked.  In the future, whenever thunder occurred the child was found in his bed underneath the covers crying and sweating profusely.  His crying and sweating were (conditioned/unconditioned)_______ responses to thunder.
+A young child experienced a very close lightning strike and loud thunder.  The lightning ignited straw in a garage attic nearby. Pandemonium ensued together with the arrival of firetrucks with loud sirens and excited people.  The child panicked.  In the future, whenever thunder occurred the child was found in his bed underneath the covers crying and sweating profusely.  His crying and sweating were (conditioned/unconditioned)_______ responses to thunder.
 @end
 @answer conditioned
 @tries 2
 @graphic none
 @video none
 @begin
-Conditioned reflexes can be weakened or irradicated by the reverse of respondent _______g.  This is called respondent EXTINCTION.
+Conditioned reflexes can be weakened or irradicated by the reverse of respondent c_______g.  This is called respondent EXTINCTION.
 @end
 @answer conditioning
 @tries 1
 @graphic none
 @video none
 @begin
-Conditioned crying and sweating can be reduced or eliminated by first presenting very distant thunder without any accompanying pandamonium.  Then, over time we may present progressively louder thunder WITHOUT any accompanying negative stimulation.  Eventually, the crying and sweating will subside.  This is the process called respondent e_______n.
+Conditioned crying and sweating can be reduced or eliminated by first presenting very distant thunder without any accompanying pandamonium.  Then, over time we may present progressively louder thunder WITHOUT any accompanying negative stimulation.  Eventually, the crying and sweating will subside.  This is the process called respondent ex_______n.
 @end
 @answer extinction
 @tries 2
 @graphic none
 @video none
 @begin
-Respondent behavior has to do with our happiness and well-being, especially the internal economy of our bodies and how we feel each moment of the day.  But a much larger proportion of our daily activity is not elicited or "forced" to occur, it is strengthened by its consequences.  In the next set of frames we will examine this second kind of learned behavior called operant behavior.  Operant behavior is (elicited by stimuli/strengthened by its consequences _______).  In other words, it makes something happen.
+Respondent behavior has to do with our happiness and well-being, especially the internal economy of our bodies and how we feel each moment of the day.  But a much larger proportion of our daily activity is not elicited or "forced" to occur, it is strengthened by its consequences.  In the next set of frames we will examine this second kind of learned behavior called operant behavior.  Operant behavior is (elicited by stimuli/strengthened by its consequences) _______.  In other words, it makes something happen after it occurs.
 @end
 @answer strengthened by its consequences
 @tries 1
