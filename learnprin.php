@@ -116,20 +116,42 @@ EOT;
     }
 
     //// admin stats
+    function readLines($frameDirectory, $file) {
+      $lines = array();
+      if (file_exists($frameDirectory.$file)) {
+        $f = fopen($frameDirectory . $file, 'r');
+        while (!feof($f)) {
+          $line = fgets($f);
+          array_push($lines, $line);
+        }
+        fclose($f);
+      }
+      return $lines;
+    }
+
+    if ($_SERVER['REQUEST_METHOD'] == 'GET' && $_REQUEST['adminStats'] && $_REQUEST['tutorial'] && $_REQUEST['adminStats'] == '__frazier') {
+      header('Content-Type: application/json');
+      $rval = array();
+      $rval['responses'] = readLines($outfileDirectory, str_replace('.txt', '.out', $_REQUEST['tutorial']));
+      echo json_encode($rval);
+      exit();
+    }
+
     if ($_SERVER['REQUEST_METHOD'] == 'GET' && $_REQUEST['adminStats']) {
         header('Content-Type: application/json');
 
-        function myErrorHandler($errno, $errstr, $errfile, $errline) {
+        /*function myErrorHandler($errno, $errstr, $errfile, $errline) {
             echo json_encode(array(
                 'error' => array(
                     'line' => $errline,
                     'version' => phpversion(),
                     'msg' => $errstr)
             ));
+            echo json_encode('');
             return true;
         }
 
-        set_error_handler("myErrorHandler");
+        set_error_handler("myErrorHandler");*/
 
         if ($_REQUEST['adminStats'] != '__frazier') {
             header("HTTP/1.1 500 Internal Server Error");
@@ -138,26 +160,6 @@ EOT;
 
         function last_modified($frameDirectory, $file) {
             return filemtime($frameDirectory . $file);
-        }
-
-        function readLines($frameDirectory, $file) {
-            $lines = array();
-            if (file_exists($frameDirectory.$file)) {
-                $f = fopen($frameDirectory . $file, 'r');
-                while (!feof($f)) {
-                    $line = fgets($f);
-                    if (strpos($file, '01') or
-                        strpos($file, '02') or
-                        strpos($file, '03') or
-                        strpos($file, '04') or
-                        strpos($file, '05') or
-                        strpos($file, '06')) {
-                        array_push($lines, $line);
-                    }
-                }
-                fclose($f);
-            }
-            return $lines;
         }
 
         function getTutorials($frameFilePattern, $frameDirectory) {
@@ -187,7 +189,7 @@ EOT;
                 $frame = readtutorialLine($frames, $line, $frame);
             }
             $rval[$index]['frames'] = $frames;
-            $rval[$index]['responses'] = readLines($outfileDirectory, str_replace('.txt', '.out', $tutorial));
+            //$rval[$index]['responses'] = readLines($outfileDirectory, str_replace('.txt', '.out', $tutorial));
             $index += 1;
         }
 
@@ -314,23 +316,23 @@ EOT;
           }
 
 
-          function parseResponses(responses, tutorialLastModifiedDate) {
-                var rval = [];
-                responses.forEach(function(line) {
-                    var r = response(line);
-                    try {
-                        if (Object.keys(r).length && r.date > tutorialLastModifiedDate) {
-                            if (rval.length) {
-                                rval[rval.length - 1].nextR = r;
-                            }
-                            rval.push(r);
+        function parseResponses(responses, tutorialLastModifiedDate) {
+            var rval = [];
+            responses.forEach(function (line) {
+                var r = response(line);
+                try {
+                    if (Object.keys(r).length && r.date > tutorialLastModifiedDate) {
+                        if (rval.length) {
+                            rval[rval.length - 1].nextR = r;
                         }
-                    } catch(e) {
-                        console.log(r);
+                        rval.push(r);
                     }
-                });
+                } catch (e) {
+                    console.log(r);
+                }
+            });
             return rval
-          }
+        }
 
 
           function frameScore(r) {
@@ -374,9 +376,11 @@ EOT;
 
 
           var fetched = false;
-            var scriptname = '<?php echo $scriptname; ?>';
+          var scriptname = '<?php echo $scriptname; ?>';
+
           $('#Student').keyup(function() {
-            if ($(this).val().match(/^__/) && $(this).val().length == 9 && !fetched) {
+            var password = $(this).val();
+            if (password.match(/^__/) && password.length === 9 && !fetched) {
               fetched = true;
               $('#loading-gif').show();
               $.ajax({
@@ -386,11 +390,12 @@ EOT;
                   $('#stats').show();
                   $('#stats').next().hide();
                   fetched = false;
-                  var tutorials = data.map(function (tut) {
+                  var tutorials = data.map(function(tut) {
                     return {
                         name: tut.tutorial,
                         frames: tut.frames,
-                        responses: parseResponses(tut.responses, new Date(parseInt(tut.last_modified + '000')))
+                        last_modified: tut.last_modified
+                        //responses: [] parseResponses(tut.responses, new Date(parseInt(tut.last_modified + '000')))
                     }
                   });
                   var links = '';
@@ -401,8 +406,19 @@ EOT;
                   $('#tutorial-listing').html(links);
                   $('#tutorial-listing a').click(function (evt) {
                     var index = $(this).data('index');
+                    $('#loading-gif').show();
                     $('#stat-frame-text').html('');
-                    prepareGraph(tutorials[index]);
+                      $.ajax({
+                          url: scriptname + '?tutorial=' + tutorials[index].name + '&adminStats=' + password,
+                          success: function (d) {
+                            tutorials[index]['responses'] = parseResponses(d.responses, new Date(parseInt(tutorials[index].last_modified + '000')));
+                            prepareGraph(tutorials[index]);
+                            $('#loading-gif').hide();
+                          },
+                          error: function() {
+                              fetched = false;
+                              $('#loading-gif').hide();
+                          }});
                   });
                 },
                 error: function() {
@@ -431,13 +447,33 @@ EOT;
 
             html += '<table><tr><th>Students</th><th>Date</th><th align="right">Time</th></tr>';
 
-            Object.keys(times.students).forEach(k => {
+            var parseTime = function(x) {
               try {
-                var d = new Date(times.students[k].start).toISOString().slice(0, 10);
-                var t = times.students[k].thinkTime || '-';
-              } catch (e) {}
-              html += '<tr><td>' + k + '</td><td>' + d + '</td><td align="right">' + t + '</td></tr>';
-            });
+                return new Date(x)
+              } catch(e) {
+                return ''
+              }
+            }
+
+            var formatDate = function(x) {
+                try {
+                  return x.toISOString().slice(0, 10)
+                } catch(e) {
+                  return ''
+                }
+            }
+
+            Object.keys(times.students).map(k => {
+              return {
+                name: k,
+                date: parseTime(times.students[k].start),
+                time: times.students[k].thinkTime || '-'
+              }
+            }).sort(function(a,b) {
+              return b.date - a.date;
+            }).forEach(function(x) {
+              html += '<tr><td>' + x.name + '</td><td>' + formatDate(x.date) + '</td><td align="right">' + x.time + '</td></tr>';
+            })
 
             html += '</table>';
             for (var i = 0; i < 30; i++) html += '<br/>';
@@ -711,7 +747,6 @@ EOT;
 		<br/>
 		<br>
 
-    <img id="loading-gif" src="loading.gif" style="display:none;" width="60" />
     <div id="stats" style="display:none;">
       <table>
         <tr>
@@ -722,6 +757,7 @@ EOT;
         </tr>
         <tr>
           <td style="vertical-align:top;">
+              <img id="loading-gif" src="loading.gif" style="display:none;" width="60" />
             <svg id="stats-svg" viewBox="0 0 0 0" preserveAspectRatio="xMidYMid meet"></svg>
             <br>
             <div id="tutorial-statistics"></div>
