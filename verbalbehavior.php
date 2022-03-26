@@ -12,13 +12,9 @@
 $menuIntroText = <<<EOT
 
 <p>
-<center>
-    <img src="/verbalbehavior/verbalbehavior.gif" 
-         alt="verbalbehavior" 
-         style="width:290px; ">
-</center>
+<center><img src="/verbalbehavior/verbalbehavior.gif" alt="verbalbehavior" style="width:155px;height:290px"></center></>
 <p>
-	Each chapter of B. F. Skinner's VERBAL BEHAVIOR should be studied carefully prior to attempting these review quizzes.  The "correct" answers are the EXACT words Skinner wrote in his sentences.  Quizzes must be accomplished TO COMPLETION in serial order, you can't skip any.  Each quiz is a series of screen presentations to which you respond by typing a word (or two with a space between them).  A momentary green flash signals that you have responded correctly and have advanced forward. You cannot go backwards when working through a given set of content--if you accidentally try, you will automatically restart the quiz.  You will have 60 seconds to answer each item (a countdown timer is present in the upper left-hand corner of the screen).  If you wait too long to answer, during the final remaining seconds of viewing each quiz item the background will fade into red terminating with the automatic advance forward--calling your failure to answer an "error."  Finish each successive tutorial before you take a break--you should not be interrupted by phone calls or text messages, etc., because the countdown timer requires close concentration.   Remember the name you use to sign in with no extra characters or spaces.  This computer program remembers the EXACT characters you use and connects you with each subsequent quiz only when you use EXACTLY that name again.  Now, click on a quiz number below and find out how closely you have acquired Skinner's analysis of verbal behavior. 
+	Each chapter of B. F. Skinner's VERBAL BEHAVIOR should be studied carefully prior to attempting these review quizzes.  The "correct" answers are the EXACT words Skinner wrote in his sentences.  Quizzes must be accomplished TO COMPLETION in serial order, you can't skip any.  Each quiz is a series of screen presentations to which you respond by typing a word (or two with a space between them).  A momentary green flash signals that you have responded correctly and have advanced forward. You cannot go backwards when working through a given set of content--if you accidentally try, you will automatically restart the quiz.  You will have 90 seconds to answer each item (a countdown timer is present in the upper left-hand corner of the screen).  If you wait too long to answer, during the final remaining seconds of viewing each quiz item the background will fade into red terminating with the automatic advance forward--calling your failure to answer an "error."  Finish each successive tutorial before you take a break--you should not be interrupted by phone calls or text messages, etc., because the countdown timer requires close concentration.   Remember the name you use to sign in with no extra characters or spaces.  This computer program remembers the EXACT characters you use and connects you with each subsequent quiz only when you use EXACTLY that name again, with no extra spaces before or after the name you use.  Now, click on a quiz number below and find out how closely you have acquired Skinner's analysis of verbal behavior.
 
 <p>
 </p>
@@ -47,12 +43,12 @@ EOT;
 
 	// how long does the student have to respond to each frame before the program moves forward?
     // set this to 0 for no limit
-    $userResponseTimeLimit = 60;
+    $userResponseTimeLimit = 90;
     $correctAnswerTimeLimit = 30;
     $fadeBackgroundToRedWhenRemainingSeconds = 10;
 
-	$outOfSequenceMessage = "It\'s required that you work through these quizzes in sequential order. ";
-	$outOfSequenceMessage = $outOfSequenceMessage."Please work through the following quizzess first:";
+	$outOfSequenceMessage = "It\'s required that you work through these tutorials in sequential order. ";
+	$outOfSequenceMessage = $outOfSequenceMessage."Please work through the following tutorials first:";
 
 
 	// change this to true to only give one try and not show the correct answer
@@ -719,7 +715,7 @@ EOT;
 
 		<div>
 		<strong>
-			Step 2 - Select the <?php echo ($isTest ? 'test' : 'tutorial'); ?> by clicking on the button next to it below):<br>
+			Step 2 - Select the <?php echo ($isTest ? 'quiz' : 'tutorial'); ?> by clicking on the button next to it below):<br>
 		</strong><br/>
 		  <?php
 			  $dir_handle = @opendir($frameDirectory);
@@ -898,7 +894,9 @@ EOT;
 				if (xmlhttp.readyState === 4) {
 					tutorialFrames = JSON.parse(xmlhttp.responseText);
 					repaint('hidden', 'hidden', 'visible', 'userAnswer', '', true);
-                    initTimers();
+                    if (document.getElementById('frame').style.display !== 'none') {
+                        initTimers();
+                    }
 				}
 			}
 			xmlhttp.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
@@ -939,8 +937,11 @@ EOT;
 			 }), function(success) {
 				document.getElementById('feedbackTextarea').value = '';
 				document.getElementById('feedbackForm').style.display = 'none';
+                document.getElementById('frame').style.display = 'inline'; // unhide frame text after feedback submitted
+                document.getElementById('graphic').style.display = 'inline'; // unhide frame text after feedback submitted
 				document.getElementById('userAnswer').style.visibility = 'visible';
 				document.getElementById('userAnswerField').focus();
+                initTimers();
 			});
 
 		};
@@ -951,6 +952,8 @@ EOT;
             frameText = matchText ? frameText.replace(matchText[0], '') : frameText;
             if (matchText && currentTry === 1 && evalutation_text === '') {
                 document.getElementById('userAnswer').style.visibility = 'hidden';
+                document.getElementById('frame').style.display = 'none'; // don't show frame if asking for feedback
+                document.getElementById('graphic').style.display = 'none'; // don't show frame if asking for feedback
                 document.getElementById('feedbackForm').style.display = 'inline';
                 document.getElementById('feedbackTextarea').focus();
                 document.getElementById('feedbackText').innerHTML = matchText[0].replace(/\{\{\{/g, '').replace(/\}\}\}/g, '');
@@ -1123,7 +1126,7 @@ EOT;
 
 			if (currentFrame === tutorialFrames.length || (currentFrame > 4 && getScore() < percentStartOver)) {
 				saveFinalScore();
-				var conclusion = '<br><p align="center"><b>You have reached the end of this program.</b></p><div align="center">';
+				var conclusion = '<br><p align="center"><b>You have reached the end of the tutorial, <?php echo str_replace(".txt", "", $tutorial); ?>.</b><br><?php echo uniqid() ?></p><div align="center">';
 				conclusion += '<table border="2" width="66%"><tr><td width="80%">Number of frames</td><td width="20%">' + tutorialFrames.length + '</td></tr>';
 				conclusion +=  '<tr><td width="80%">Number of frames you attempted</td><td width="20%">' + currentFrame + '</td></tr><tr>';
 				conclusion += '<td width="80%">Number of attempted frames you answered correctly</td><td width="20%">' + numberCorrect;

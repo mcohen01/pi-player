@@ -1,41 +1,4 @@
 @begin
-{{{Before you begin this tutorial please give the author of these tutorials a little information about you.  Did an instructor assign these tutorials, if not, how and why did you come here to use them?  Type your answer in the box, scroll down, and click on the SAVE box.  This screen will refresh.}}}
-
-This program is interactive.  Each screen presentation will ask you to supply an answer to it.  For example, the picture below shows our _______.  [Scroll down to the bottom of the screen if necessary to see the cursor blinking in the box and type your answer there.]
-@end
-@answer moon
-@tries 2
-@graphic moon.gif
-@video none
-@begin
-(Notice that when you give the desired answer the program gives you a brief green screen flash as you automatically advance to the next frame of content.)  Your ongoing progress through this set of frames is indicated in the upper (right or left?) _______ hand corner. 
-@end
-@answer left
-@tries 1
-@graphic none
-@video none
-@begin
-This program sometimes gives you help letters in the blank and a chance to try again.  The point is to get you to recall words and you will need to READ CAREFULLY.  Learning happens when you have to struggle a little bit to come up with an answer from memory. If you are given a second chance and then do supply the desired answer your second try contributes to your percent correct score in the upper left-hand corner of your screen.  In other words, the program is "forgiving."  (True or False?  _____)
-@end
-@answer true
-@tries 1
-@graphic none
-@video none
-@begin
-This program also keeps a record of your answers here at the server.  The answers given will be used to REVISE the program.  Every program needs to be revised as it is developed.  So, don't be too bothered when your answer is not what the author of this program expects and he may need to re____se the program.  [Always type the whole correctly spelled word including the help letters.]
-@end
-@answer revise
-@tries 2
-@graphic none
-@video none
-@begin
-Try to recall the exact wording used by this program and not to use synonyms.  It is unlikely that you can keep a perfect 100 percent score running in the left hand corner because it may be difficult to recall the e_______t word the author wants you to type.  Just do your best.
-@end
-@answer exact
-@tries 2
-@graphic none
-@video none
-@begin
 BEWARE! Please refrain from trying to go backwards in the program with your browser button because this will, unfortunately, take you all the way back to  (a)  the beginning of the tutorial, or (b) the preceding frame of content.  [Which?  a or b?  Type only the letter below.]
 @end
 @answer a
