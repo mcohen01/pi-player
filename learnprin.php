@@ -578,6 +578,8 @@ EOT;
               }
             });
 
+        
+
             return {
               frames: _.mapValues(times, xs => xs.reduce( (acc, x) => acc + x, 0) / xs.length),
               students: students,
@@ -1176,6 +1178,7 @@ EOT;
             return frameTimeout;
         }
 
+    var tutorialStartTime = new Date();
 		function doContinue(isCorrect) {
 			currentFrame++;
             clearTimeout(correctAnswerTimeoutFunction);
@@ -1184,11 +1187,19 @@ EOT;
 			if (currentFrame === tutorialFrames.length || (currentFrame > 4 && getScore() < percentStartOver)) {
 				saveFinalScore();
                 var conclusion = '<br><p align="center"><b>' + student + ', you have reached the end of the tutorial, <?php echo str_replace(".txt", "", $tutorial); ?>.</b><br><?php echo uniqid() ?></p><div align="center">';
-				conclusion += '<table border="2" width="66%"><tr><td width="80%">Number of frames</td><td width="20%">' + tutorialFrames.length + '</td></tr>';
-				conclusion +=  '<tr><td width="80%">Number of frames you attempted</td><td width="20%">' + currentFrame + '</td></tr><tr>';
-				conclusion += '<td width="80%">Number of attempted frames you answered correctly</td><td width="20%">' + numberCorrect;
-				conclusion += '</td></tr><tr><td width="80%">Percent correct score of attempted frames</td><td width="20%">' + getScore();
-				conclusion += '%</td></tr></table></center></div><br><center><strong><a href="' + completionLink + '">' + completionLinkMessage + '</a></strong></center><br>';
+				conclusion += '<table border="2" padding="6" width="66%"><tr><td width="60%">Number of frames</td><td width="40%">' + tutorialFrames.length + '</td></tr>';
+				conclusion +=  '<tr><td width="60%">Number of frames you attempted</td><td width="40%">' + currentFrame + '</td></tr><tr>';
+				conclusion += '<td width="60%">Number of attempted frames you answered correctly</td><td width="40%">' + numberCorrect;
+				conclusion += '</td></tr><tr><td width="60%">Percent correct score of attempted frames</td><td width="40%">' + getScore();
+        const date = new Date();
+        const formatter = new Intl.DateTimeFormat('en-US', { 
+          weekday: 'short', day: '2-digit', month: '2-digit', year: 'numeric', hour: '2-digit',minute: '2-digit' 
+        });
+        const completionTime = formatter.format(date);
+        conclusion += '</td></tr><tr><td width="60%">Completion Date</td><td width="40%">' + completionTime;
+        conclusion += '</td></tr><tr><td width="60%">Time to completion</td><td width="40%">' + 
+        Math.round((new Date() - tutorialStartTime) / 60000) + ' minutes';
+				conclusion += '</td></tr></table></center></div><br><center><strong><a href="' + completionLink + '">' + completionLinkMessage + '</a></strong></center><br>';
 				if (currentFrame !== tutorialFrames.length) conclusion = '<p align="center">Your score fell below ' + percentStartOver + '%. Hit refresh in your browser to start over.</p>';
 				for(var i = 0; i < 8; ++i) {
 					document.getElementById(['frame', 'graphic', 'percentCorrect', 'frameNumber', 'tryNumber', 'userAnswer', 'evaluation', 'continueButton'][i]).innerHTML = '';
