@@ -13,7 +13,7 @@ $menuIntroText = <<<EOT
 
 
 <p>
-	READ THIS CAREFULLY.  This set of quizzes should be taken after reading B. F. Skinner's WALDEN TWO novel.  Quizzes are sequential and keyed to the chapters noted in the menu below.  You MUST complete each quiz in sequential order.  Also, you MUST remember to use the very same sign-in name each time you advance to a new quiz.  Your instructor may give you a specific code name to use.  This program will not allow you to skip quizzes.  Each quiz is a series of roughly ten screen presentations. In some screens you may see true-false, yes-no, or multiple choice questions. In many screens, you will respond by supplying one or several words that should appear where the blanks are.  In other words, it is a "fill in the blank" response. Occasionally, help letters appear next to the blanks and these help letters MUST be included in the words you type.  You will be leaving a space between each of several words if they are required. You cannot go backwards when working through a quiz by using your browser's back arrow.  If you do, the quiz will terminate.  A momentary green flash signals that you have responded correctly and will advance forward.  Finish each successive quiz before you take a break.  The quizzes require correct spelling of words and names, so be cautious and check for spelling before tapping the ENTER key. Your accumulated score appears in the upper left-hand corner of your screen during the quiz as well as your progress in the quiz.  The quizzes test the precision of your memory and require the EXACT words that appear in the Walden Two novel.  In other words, synonyms will not be counted as correct.  Stay at your device and continue without breaks because the program also times your progress.  Even though you have studied the assignment carefully, you are likely to get less than 100 percent on many quizzes because it is a demanding task to remember EXACTLY the words used by Skinner in the novel.  Your instructor (if you have one) will, no doubt, understand that few quiz-takers can achieve all perfect scores. (Please note that where you see the term 'tutorial' below, this actually refers to a 'quiz' of the knowledge you acquired after reading the designated chapters.) 
+	READ THIS CAREFULLY.  This set of quizzes should be taken after reading B. F. Skinner's WALDEN TWO novel.  Quizzes are sequential and keyed to the chapters noted in the menu.  You MUST complete each quiz in sequential order.  Also, you MUST remember to use the very same sign-in name each time you advance to a new quiz.  Your instructor may give you a specific code name to use.  This program will not allow you to skip quizzes.  Each quiz is a series of roughly ten screen presentations to which you will respond my supplying one or several words that should appear where the blanks are.  In other words, it is a "fill in the blank" quiz. Occasionally, help letters appear next to the blanks and these help letters MUST be included in the words you type.  You will be leaving a space between each of several words if they are required. You cannot go backwards when working through a quiz by using your browser's back arrow.  If you do, the quiz will terminate.  A momentary green flash signals that you have responded correctly and will advance forward.  Finish each successive tutorial before you take a break.  The quizzes require correct spelling of words and names, so be cautious and check for spelling before tapping the ENTER key. Your accumulated score appears in the upper left hand corner of your screen during the quiz as well as your progress in the quiz.  The quizzes test the precision of your memory and require the EXACT words that appear in the Walden Two novel.  In other words, synonyms will not be counted as correct.  Stay at your device and continue without breaks because the program also times your progress.  Even though you have studied the assignment carefully, you are likely to get less than 100 percent on many quizzes because it is a demanding task to remember EXACTLY the words used by Skinner in the novel.  Your instructor (if you have one) will, no doubt, understand that few quiz-takers can rarely get perfect scores.
 
 </p>
 
@@ -69,14 +69,14 @@ EOT;
 
 //////////////// Do not edit below this line unless you know what you're doing ////////////
 
-	$student = $_REQUEST['Student'];
-	$tutorial = $_REQUEST['frameSelection'];
-	$percentStartOver = isset($_REQUEST['PercentStartOver']) ? $_REQUEST['PercentStartOver'] : $percentStartOver;
-	$scriptname = basename(__FILE__, '');
+  $student = $_REQUEST['Student'];
+  $tutorial = $_REQUEST['frameSelection'];
+  $percentStartOver = isset($_REQUEST['PercentStartOver']) ? $_REQUEST['PercentStartOver'] : $percentStartOver;
+  $scriptname = basename(__FILE__, '');
     if ($completionLink == "") {
         $completionLink = "http://www.scienceofbehavior.com/".$scriptname;
     }
-	session_start();
+  session_start();
 
     function readtutorialLine(&$frames, $line, &$frame) {
         global $isFrame;
@@ -98,11 +98,11 @@ EOT;
             array_push($frames, $frame);
             $endOfFrame = 1;
         }
-	    if (strpos(trim($line), '@audio') === 0) {
-		    $frame['audio'] = str_replace("'", "&rsquo;", trim(substr(trim($line), 6)));
-		    array_push($frames, $frame);
-		    $endOfFrame = 1;
-	    }
+      if (strpos(trim($line), '@audio') === 0) {
+        $frame['audio'] = str_replace("'", "&rsquo;", trim(substr(trim($line), 6)));
+        array_push($frames, $frame);
+        $endOfFrame = 1;
+      }
         if ($isFrame === 1) {
             if (strlen(trim($line)) && trim($line) != '@begin') {
                 $frame['frame'] = $frame['frame'].str_replace("'", "&rsquo;", trim($line)).'<br>';
@@ -114,27 +114,50 @@ EOT;
     }
 
     //// admin stats
+    function readLines($frameDirectory, $file) {
+      $lines = array();
+      if (file_exists($frameDirectory.$file)) {
+        $f = fopen($frameDirectory . $file, 'r');
+        while (!feof($f)) {
+          $line = fgets($f);
+          array_push($lines, $line);
+        }
+        fclose($f);
+      }
+      return $lines;
+    }
+
+    if ($_SERVER['REQUEST_METHOD'] == 'GET' && $_REQUEST['adminStats'] && $_REQUEST['tutorial'] && $_REQUEST['adminStats'] == '__frazier') {
+      header('Content-Type: application/json');
+      $rval = array();
+      $rval['responses'] = readLines($outfileDirectory, str_replace('.txt', '.out', $_REQUEST['tutorial']));
+      echo json_encode($rval);
+      exit();
+    }
+
     if ($_SERVER['REQUEST_METHOD'] == 'GET' && $_REQUEST['adminStats']) {
+        header('Content-Type: application/json');
+
+        /*function myErrorHandler($errno, $errstr, $errfile, $errline) {
+            echo json_encode(array(
+                'error' => array(
+                    'line' => $errline,
+                    'version' => phpversion(),
+                    'msg' => $errstr)
+            ));
+            echo json_encode('');
+            return true;
+        }
+
+        set_error_handler("myErrorHandler");*/
+
         if ($_REQUEST['adminStats'] != '__frazier') {
             header("HTTP/1.1 500 Internal Server Error");
             exit();
         }
 
         function last_modified($frameDirectory, $file) {
-	        return filemtime($frameDirectory . $file);
-        }
-
-        function readLines($frameDirectory, $file) {
-            $lines = array();
-            if (file_exists($frameDirectory.$file)) {
-                $f = fopen($frameDirectory . $file, 'r');
-                while (!feof($f)) {
-                    $line = fgets($f);
-                    array_push($lines, $line);
-                }
-                fclose($f);
-            }
-            return $lines;
+            return filemtime($frameDirectory . $file);
         }
 
         function getTutorials($frameFilePattern, $frameDirectory) {
@@ -150,122 +173,122 @@ EOT;
             return $tutorials;
         }
 
+
         $rval = array();
         $tuts = getTutorials($frameFilePattern, $frameDirectory);
         $index = 0;
         foreach ($tuts as $tutorial) {
             $rval[$index] = array();
             $rval[$index]['tutorial'] = $tutorial;
-	        $rval[$index]['last_modified'] = last_modified($frameDirectory, $tutorial);
+            $rval[$index]['last_modified'] = last_modified($frameDirectory, $tutorial);
             $lines = readLines($frameDirectory, $tutorial);
             $frames = array();
             foreach ($lines as $line) {
                 $frame = readtutorialLine($frames, $line, $frame);
             }
             $rval[$index]['frames'] = $frames;
-            $rval[$index]['responses'] = readLines($outfileDirectory, str_replace('.txt', '.out', $tutorial));
+            //$rval[$index]['responses'] = readLines($outfileDirectory, str_replace('.txt', '.out', $tutorial));
             $index += 1;
         }
 
-        header('Content-Type: application/json');
         echo json_encode($rval);
         exit();
     }
 
 
 
-	if ($_SERVER['REQUEST_METHOD'] == 'GET' && $_REQUEST['checkProgress']) {
-		header('Content-Type: application/json');
+  if ($_SERVER['REQUEST_METHOD'] == 'GET' && $_REQUEST['checkProgress']) {
+    header('Content-Type: application/json');
 
-		try {
+    try {
 
-			$name = urldecode($_REQUEST['name']);
-			$tutorial = urldecode($_REQUEST['tutorial']);
+      $name = urldecode($_REQUEST['name']);
+      $tutorial = urldecode($_REQUEST['tutorial']);
 
-			$capture = array();
-			$match = preg_match('/[0-9]{2}/', $tutorial, $capture, 256);
-			if ($match) {
-				$requestedTutorialNumber = $capture[0][0];
-			}
+      $capture = array();
+      $match = preg_match('/[0-9]{2}/', $tutorial, $capture, 256);
+      if ($match) {
+        $requestedTutorialNumber = $capture[0][0];
+      }
 
-			$dir_handle = @opendir($frameDirectory);
-			$tutorials = array();
-			while ($file = readdir($dir_handle)) {
-				if (preg_match($frameFilePattern, $file)) {
-					array_push($tutorials, $file);
-				}
-			}
-			closedir($dir_handle);
-			sort($tutorials);
+      $dir_handle = @opendir($frameDirectory);
+      $tutorials = array();
+      while ($file = readdir($dir_handle)) {
+        if (preg_match($frameFilePattern, $file)) {
+          array_push($tutorials, $file);
+        }
+      }
+      closedir($dir_handle);
+      sort($tutorials);
 
-			function prettyName($file) {
-				$displayFile = str_replace('.txt', '', $file);
-				$displayFile = str_replace('_', ' ', $displayFile);
-				return $displayFile;
-			}
+      function prettyName($file) {
+        $displayFile = str_replace('.txt', '', $file);
+        $displayFile = str_replace('_', ' ', $displayFile);
+        return $displayFile;
+      }
 
-			$rememdiation = array();
+      $rememdiation = array();
 
-			foreach($tutorials as $tut) {
-				$capture = array();
-				$match = preg_match('/[0-9]{2}/', $tut, $capture, 256);
-				if ($match) {
-					if ($capture[0][0] == $requestedTutorialNumber) {
-						break;
-					}
-				}
-				$filename = str_replace('.txt', '_FINAL_SCORE.out', $tut);
-				if (file_exists($outfileDirectory.$filename)) {
-					$passedTutorial = false;
-					$f = fopen($outfileDirectory.$filename, 'r');
-					while (!feof($f)) {
-						$line = fgets($f);
-						$parts = explode(',', $line);
-						if ($parts[0] == $name && $parts[2] > $percentStartOver) {
-							$passedTutorial = true;
-							break;
-						}
-					}
-					fclose($f);
-					if (!$passedTutorial) {
-						array_push($rememdiation, prettyName($tut));
-					}
-				} else {
-					array_push($rememdiation, prettyName($tut));
-				}
-			}
+      foreach($tutorials as $tut) {
+        $capture = array();
+        $match = preg_match('/[0-9]{2}/', $tut, $capture, 256);
+        if ($match) {
+          if ($capture[0][0] == $requestedTutorialNumber) {
+            break;
+          }
+        }
+        $filename = str_replace('.txt', '_FINAL_SCORE.out', $tut);
+        if (file_exists($outfileDirectory.$filename)) {
+          $passedTutorial = false;
+          $f = fopen($outfileDirectory.$filename, 'r');
+          while (!feof($f)) {
+            $line = fgets($f);
+            $parts = explode(',', $line);
+            if ($parts[0] == $name && $parts[2] > $percentStartOver) {
+              $passedTutorial = true;
+              break;
+            }
+          }
+          fclose($f);
+          if (!$passedTutorial) {
+            array_push($rememdiation, prettyName($tut));
+          }
+        } else {
+          array_push($rememdiation, prettyName($tut));
+        }
+      }
 
-			echo json_encode($rememdiation);
-		} catch (Exception $e) {
-			echo '[]';
-		}
-		exit();
-	}
+      echo json_encode($rememdiation);
+    } catch (Exception $e) {
+      echo '[]';
+    }
+    exit();
+  }
 
-	if ($_SERVER['REQUEST_METHOD'] == 'GET' && $_REQUEST['finalScore']) {
-		$decoded = str_replace('.txt', '', str_replace(' ', '_', urldecode($_REQUEST['tutorial'])));
-		$finalScoreFile = $outfileDirectory.$decoded.$finalScoresFileSuffix;
-		$f = fopen($finalScoreFile, 'a');
-		$stringData = $_REQUEST['student'].','.$_REQUEST['tutorial'].','.$_REQUEST['finalScore'].','.$_REQUEST['numberOfQuestions'].','.$_REQUEST['numberOfAttempts'].','.$_REQUEST['answeredCorrectly'].','.date("D M j G:i:s Y").','.$_REQUEST['browser'].','.$_REQUEST['device'].','.$_REQUEST['os'];
-		fwrite($f, $stringData."\n");
-		fclose($f);
-		exit();
-	}
+  if ($_SERVER['REQUEST_METHOD'] == 'GET' && $_REQUEST['finalScore']) {
+    $decoded = str_replace('.txt', '', str_replace(' ', '_', urldecode($_REQUEST['tutorial'])));
+    $finalScoreFile = $outfileDirectory.$decoded.$finalScoresFileSuffix;
+    $f = fopen($finalScoreFile, 'a');
+    $stringData = $_REQUEST['student'].','.$_REQUEST['tutorial'].','.$_REQUEST['finalScore'].','.$_REQUEST['numberOfQuestions'].','.$_REQUEST['numberOfAttempts'].','.$_REQUEST['answeredCorrectly'].','.date("D M j G:i:s Y").','.$_REQUEST['browser'].','.$_REQUEST['device'].','.$_REQUEST['os'];
+    fwrite($f, $stringData."\n");
+    fclose($f);
+    exit();
+  }
 
-	if ($_SERVER['REQUEST_METHOD'] == 'GET' && ! $_REQUEST['frameSelection'] && ! $_REQUEST['correctAnswer']) {
+  if ($_SERVER['REQUEST_METHOD'] == 'GET' && ! $_REQUEST['frameSelection'] && ! $_REQUEST['correctAnswer']) {
 ?>
-		<html>
-		<head>
-			<title><?php echo $tutorialTitle; ?></title>
-			<meta name="viewport" content="width=device-width" />
-			<link rel="stylesheet" href="<?php echo $cssLink; ?>">
-      		<script src="https://cdnjs.cloudflare.com/ajax/libs/json2/20140204/json2.min.js"></script>
-			<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-			<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/nvd3/1.8.5/nv.d3.css"/>
+    <html>
+    <head>
+      <title><?php echo $tutorialTitle; ?></title>
+      <meta name="viewport" content="width=device-width" />
+      <link rel="stylesheet" href="<?php echo $cssLink; ?>">
+          <script src="https://cdnjs.cloudflare.com/ajax/libs/json2/20140204/json2.min.js"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/nvd3/1.8.5/nv.d3.css"/>
 
             <script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.4/lodash.min.js"></script>
-			<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.17/d3.min.js"></script>
-			<script src="https://cdnjs.cloudflare.com/ajax/libs/nvd3/1.8.5/nv.d3.js"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.17/d3.min.js"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/nvd3/1.8.5/nv.d3.js"></script>
       <script>
         $(document).ready(function() {
 
@@ -291,23 +314,23 @@ EOT;
           }
 
 
-          function parseResponses(responses, tutorialLastModifiedDate) {
-                var rval = [];
-                responses.forEach(function(line) {
-                    var r = response(line);
-                    try {
-                        if (Object.keys(r).length && r.date > tutorialLastModifiedDate) {
-                            if (rval.length) {
-                                rval[rval.length - 1].nextR = r;
-                            }
-                            rval.push(r);
+        function parseResponses(responses, tutorialLastModifiedDate) {
+            var rval = [];
+            responses.forEach(function (line) {
+                var r = response(line);
+                try {
+                    if (Object.keys(r).length && r.date > tutorialLastModifiedDate) {
+                        if (rval.length) {
+                            rval[rval.length - 1].nextR = r;
                         }
-                    } catch(e) {
-                        console.log(r);
+                        rval.push(r);
                     }
-                });
+                } catch (e) {
+                    console.log(r);
+                }
+            });
             return rval
-          }
+        }
 
 
           function frameScore(r) {
@@ -351,9 +374,11 @@ EOT;
 
 
           var fetched = false;
-            var scriptname = '<?php echo $scriptname; ?>';
+          var scriptname = '<?php echo $scriptname; ?>';
+
           $('#Student').keyup(function() {
-            if ($(this).val().match(/^__/) && $(this).val().length == 9 && !fetched) {
+            var password = $(this).val();
+            if (password.match(/^__/) && password.length === 9 && !fetched) {
               fetched = true;
               $('#loading-gif').show();
               $.ajax({
@@ -363,11 +388,12 @@ EOT;
                   $('#stats').show();
                   $('#stats').next().hide();
                   fetched = false;
-                  var tutorials = data.map(function (tut) {
+                  var tutorials = data.map(function(tut) {
                     return {
                         name: tut.tutorial,
                         frames: tut.frames,
-                        responses: parseResponses(tut.responses, new Date(parseInt(tut.last_modified + '000')))
+                        last_modified: tut.last_modified
+                        //responses: [] parseResponses(tut.responses, new Date(parseInt(tut.last_modified + '000')))
                     }
                   });
                   var links = '';
@@ -378,8 +404,19 @@ EOT;
                   $('#tutorial-listing').html(links);
                   $('#tutorial-listing a').click(function (evt) {
                     var index = $(this).data('index');
+                    $('#loading-gif').show();
                     $('#stat-frame-text').html('');
-                    prepareGraph(tutorials[index]);
+                      $.ajax({
+                          url: scriptname + '?tutorial=' + tutorials[index].name + '&adminStats=' + password,
+                          success: function (d) {
+                            tutorials[index]['responses'] = parseResponses(d.responses, new Date(parseInt(tutorials[index].last_modified + '000')));
+                            prepareGraph(tutorials[index]);
+                            $('#loading-gif').hide();
+                          },
+                          error: function() {
+                              fetched = false;
+                              $('#loading-gif').hide();
+                          }});
                   });
                 },
                 error: function() {
@@ -408,13 +445,33 @@ EOT;
 
             html += '<table><tr><th>Students</th><th>Date</th><th align="right">Time</th></tr>';
 
-            Object.keys(times.students).forEach(k => {
+            var parseTime = function(x) {
               try {
-                var d = new Date(times.students[k].start).toISOString().slice(0, 10);
-                var t = times.students[k].thinkTime || '-';
-              } catch (e) {}
-              html += '<tr><td>' + k + '</td><td>' + d + '</td><td align="right">' + t + '</td></tr>';
-            });
+                return new Date(x)
+              } catch(e) {
+                return ''
+              }
+            }
+
+            var formatDate = function(x) {
+                try {
+                  return x.toISOString().slice(0, 10)
+                } catch(e) {
+                  return ''
+                }
+            }
+
+            Object.keys(times.students).map(k => {
+              return {
+                name: k,
+                date: parseTime(times.students[k].start),
+                time: times.students[k].thinkTime || '-'
+              }
+            }).sort(function(a,b) {
+              return b.date - a.date;
+            }).forEach(function(x) {
+              html += '<tr><td>' + x.name + '</td><td>' + formatDate(x.date) + '</td><td align="right">' + x.time + '</td></tr>';
+            })
 
             html += '</table>';
             for (var i = 0; i < 30; i++) html += '<br/>';
@@ -519,6 +576,8 @@ EOT;
               }
             });
 
+        
+
             return {
               frames: _.mapValues(times, xs => xs.reduce( (acc, x) => acc + x, 0) / xs.length),
               students: students,
@@ -591,104 +650,103 @@ EOT;
         });
       </script>
 
-			<style>
-				body {
-					margin: 20px;
-					background-color: <?php echo $backgroundColor; ?>;
-					color: #333;
-				}
-				* {
-					font-family: 'Myriad Pro', Calibri, "Helvetica Neue", Arial, sans-serif;
-					font-size: 18px !important;
-				}
+      <style>
+        body {
+          margin: 20px;
+          background-color: <?php echo $backgroundColor; ?>;
+          color: #333;
+        }
+        * {
+          font-family: 'Myriad Pro', Calibri, "Helvetica Neue", Arial, sans-serif;
+          font-size: 18px !important;
+        }
         input {
-					margin: 10px;
-					border-radius: 4px;
-					border: 1px solid #aaaaaa;
-				}
+          margin: 10px;
+          border-radius: 4px;
+          border: 1px solid #aaaaaa;
+        }
         svg {
           margin-top:-50px;
           margin-bottom:0px;
         }
-			</style>
-		</head>
-		<body onLoad="document.phpMenu.Student.focus();">
+      </style>
+    </head>
+    <body onLoad="document.phpMenu.Student.focus();">
 
-		<center>
+    <center>
             <h2><?php echo $tutorialTitle; ?> Main Menu</h2>
         </center>
 
-		<?php echo $menuIntroText; ?>
+    <?php echo $menuIntroText; ?>
 
-		<p>If your score falls below <?php echo $percentStartOver ?>%, you will be returned to the beginning of the <?php echo ($isTest ? 'test' : 'tutorial'); ?>.</p>
+    <p>If your score falls below <?php echo $percentStartOver ?>%, you will be returned to the beginning of the <?php echo ($isTest ? 'test' : 'tutorial'); ?>.</p>
 
-		<p>Follow the <strong>3 Steps</strong> below to experience the <?php echo ($isTest ? 'test' : 'tutorials'); ?>.</p>
+    <p>Follow the <strong>3 Steps</strong> below to experience the <?php echo ($isTest ? 'test' : 'tutorials'); ?>.</p>
 
-		<hr>
+    <hr>
 
-		<script>
-			function validateForm(frm) {
-				if (document.getElementById('Student').value === '') {
-					alert('Please fill in your name.');
-					return false;
-				}
-				var isChecked = false;
-				for (var i = 0; i < frm.elements.length; i++ ) {
-					if (frm.elements[i].type == 'radio' && frm.elements[i].name === 'frameSelection') {
-						if (frm.elements[i].checked) {
-							isChecked = true;
-						}
-					}
-				}
-				if (! isChecked) {
-					alert('Please select a <?php echo ($isTest ? 'test' : 'tutorial'); ?>.');
-					return false;
-				}
-				return true;
-			}
+    <script>
+      function validateForm(frm) {
+        if (document.getElementById('Student').value === '') {
+          alert('Please fill in your name.');
+          return false;
+        }
+        var isChecked = false;
+        for (var i = 0; i < frm.elements.length; i++ ) {
+          if (frm.elements[i].type == 'radio' && frm.elements[i].name === 'frameSelection') {
+            if (frm.elements[i].checked) {
+              isChecked = true;
+            }
+          }
+        }
+        if (! isChecked) {
+          alert('Please select a <?php echo ($isTest ? 'test' : 'tutorial'); ?>.');
+          return false;
+        }
+        return true;
+      }
 
-			$(document).ready(function() {
-				$('#tutorial-form').click(function() {
-					var frm = document.forms[0];
-					var scriptname = '<?php echo $scriptname; ?>';
-					var name = $('#Student').val();
-					if (name.match(/^__/)) {
-						if (validateForm(frm)) {
-							frm.submit();
-						}
-					} else {
-						var tutorial = $('input[name=frameSelection]:checked').val();
-						if (validateForm(frm)) {
-							$.get(scriptname + '?checkProgress=1&name=' + name + '&tutorial=' + tutorial, function(data) {
-								if (data.length) {
-									var msg = '<?php echo $outOfSequenceMessage; ?>';
-									msg += '<br/><br/>';
-									for (var i = 0; i < data.length; i++) {
-										msg += data[i] + '<br/>';
-									}
-									msg += '<br/>';
-									$('#error-message').html(msg);
-									return false;
-								} else {
-									frm.submit();
-								}
-							});
-						}
-					}
-				});
-			});
-		</script>
+      $(document).ready(function() {
+        $('#tutorial-form').click(function() {
+          var frm = document.forms[0];
+          var scriptname = '<?php echo $scriptname; ?>';
+          var name = $('#Student').val();
+          if (name.match(/^__/)) {
+            if (validateForm(frm)) {
+              frm.submit();
+            }
+          } else {
+            var tutorial = $('input[name=frameSelection]:checked').val();
+            if (validateForm(frm)) {
+              $.get(scriptname + '?checkProgress=1&name=' + name + '&tutorial=' + tutorial, function(data) {
+                if (data.length) {
+                  var msg = '<?php echo $outOfSequenceMessage; ?>';
+                  msg += '<br/><br/>';
+                  for (var i = 0; i < data.length; i++) {
+                    msg += data[i] + '<br/>';
+                  }
+                  msg += '<br/>';
+                  $('#error-message').html(msg);
+                  return false;
+                } else {
+                  frm.submit();
+                }
+              });
+            }
+          }
+        });
+      });
+    </script>
 
-		<form name="phpMenu" method="post" onsubmit="return false;">
-		<input type="hidden" name="PercentStartOver" value="<?php echo $percentStartOver; ?>">
-		<input type="hidden" name="QuestionNumber" value="1">
+    <form name="phpMenu" method="post" onsubmit="return false;">
+    <input type="hidden" name="PercentStartOver" value="<?php echo $percentStartOver; ?>">
+    <input type="hidden" name="QuestionNumber" value="1">
 
-		<strong>Step 1 - Type your full name or the one assigned by your instructor exactly the same each time :</strong><br>
-		<input type="text" id="Student" name="Student" size="30"/>
-		<br/>
-		<br>
+    <strong>Step 1 - Type your full name (e.g. Mary Smith):</strong><br>
+    <input type="text" id="Student" name="Student" size="30"/>
+    <br/>
+    <br>
 
-    <img id="loading-gif" src="loading.gif" style="display:none;" width="60" />
     <div id="stats" style="display:none;">
       <table>
         <tr>
@@ -699,6 +757,7 @@ EOT;
         </tr>
         <tr>
           <td style="vertical-align:top;">
+              <img id="loading-gif" src="loading.gif" style="display:none;" width="60" />
             <svg id="stats-svg" viewBox="0 0 0 0" preserveAspectRatio="xMidYMid meet"></svg>
             <br>
             <div id="tutorial-statistics"></div>
@@ -711,42 +770,42 @@ EOT;
       </table>
     </div>
 
-		<div>
-		<strong>
-			Step 2 - Select the <?php echo ($isTest ? 'test' : 'tutorial'); ?> by clicking on the button next to it below):<br>
-		</strong><br/>
-		  <?php
-			  $dir_handle = @opendir($frameDirectory);
-			  $dirFiles = array();
-			  while ($file = readdir($dir_handle)) {
-				  if (preg_match($frameFilePattern, $file)) {
-					  $displayFile = str_replace('.txt', '', $file);
-					  $displayFile = str_replace('_', ' ', $displayFile);
-					  array_push($dirFiles, $displayFile);
-				  }
-			  }
-			  closedir($dir_handle);
+    <div>
+    <strong>
+      Step 2 - Select the <?php echo ($isTest ? 'test' : 'tutorial'); ?> by clicking on the button next to it below):<br>
+    </strong><br/>
+      <?php
+        $dir_handle = @opendir($frameDirectory);
+        $dirFiles = array();
+        while ($file = readdir($dir_handle)) {
+          if (preg_match($frameFilePattern, $file)) {
+            $displayFile = str_replace('.txt', '', $file);
+            $displayFile = str_replace('_', ' ', $displayFile);
+            array_push($dirFiles, $displayFile);
+          }
+        }
+        closedir($dir_handle);
               asort($dirFiles);
 
               foreach($dirFiles as $theFile) {
                 $fileVal = $theFile.".txt";
                 echo "<input style='margin-left: 10px;' type='radio' name='frameSelection' id='frameSelection' value='$fileVal'>$theFile<br/>";
               }
-		 ?>
-			<br/>
+     ?>
+      <br/>
 
-				<div id="error-message" style="color:#c00000;"></div>
-				<strong>Step 3 - Click Begin <?php echo ($isTest ? 'test' : 'tutorial'); ?>: </strong><br>
-		  		<button style="margin-top: 10px;" class="btn btn-primary" id="tutorial-form">Begin <?php echo ($isTest ? 'Test' : 'Tutorial'); ?></button>
+        <div id="error-message" style="color:#c00000;"></div>
+        <strong>Step 3 - Click Begin <?php echo ($isTest ? 'test' : 'tutorial'); ?>: </strong><br>
+          <button style="margin-top: 10px;" class="btn btn-primary" id="tutorial-form">Begin <?php echo ($isTest ? 'Test' : 'Tutorial'); ?></button>
 
             <hr>
-		</div>
+    </div>
 
-		</body>
-		</html>
-		<?php
-		exit();
-	}
+    </body>
+    </html>
+    <?php
+    exit();
+  }
 
     if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         if (isset($_GET['specialfeedback'])) {
@@ -765,82 +824,82 @@ EOT;
             $_SESSION['key'] = md5(uniqid(rand(), true));
         }
     } else if ($_SERVER['REQUEST_METHOD'] == 'GET') {
-		if (isset($_GET['userAnswer'])) {
-			$userAnswer = str_replace(',', ' ', $_GET['userAnswer']);
-			$userAnswer = htmlspecialchars($userAnswer);
-			date_default_timezone_set('EST');
-			if(!isset($_GET['outfile'])) $_GET['outfile'] = $_GET['tutorial'].'.out';
-			$line = $_GET['student'].','.$_GET['tutorial'].','.$_GET['currentTry'].','.$_GET['currentFrame'].','.
-					$_GET['correctAnswer'].','.$userAnswer.','.$_GET['feedback'].','.$_GET['numberOfQuestions'].','.
-					$_GET['numberOfAttempts'].','.$_GET['answeredCorrectly'].','.$_GET['percent'].','.
-					date("D M j G:i:s Y");
+    if (isset($_GET['userAnswer'])) {
+      $userAnswer = str_replace(',', ' ', $_GET['userAnswer']);
+      $userAnswer = htmlspecialchars($userAnswer);
+      date_default_timezone_set('EST');
+      if(!isset($_GET['outfile'])) $_GET['outfile'] = $_GET['tutorial'].'.out';
+      $line = $_GET['student'].','.$_GET['tutorial'].','.$_GET['currentTry'].','.$_GET['currentFrame'].','.
+          $_GET['correctAnswer'].','.$userAnswer.','.$_GET['feedback'].','.$_GET['numberOfQuestions'].','.
+          $_GET['numberOfAttempts'].','.$_GET['answeredCorrectly'].','.$_GET['percent'].','.
+          date("D M j G:i:s Y");
 
-			$decoded = str_replace(' ', '_', urldecode($_GET['outfile']));
-			$h = fopen(str_replace('.txt', '', $outfileDirectory.$decoded), 'a');
-		    fwrite($h, $line."\n");
-		    fclose($h);
-		    exit();
-		} else {
-			if (strcmp($_SESSION['key'], $_REQUEST['key']) != 0) exit();
-			$_SESSION['key'] = null;
+      $decoded = str_replace(' ', '_', urldecode($_GET['outfile']));
+      $h = fopen(str_replace('.txt', '', $outfileDirectory.$decoded), 'a');
+        fwrite($h, $line."\n");
+        fclose($h);
+        exit();
+    } else {
+      if (strcmp($_SESSION['key'], $_REQUEST['key']) != 0) exit();
+      $_SESSION['key'] = null;
 
-			$frames = array();
-			$decoded = str_replace(' ', '_', urldecode($tutorial));
-			$f = fopen($frameDirectory.$decoded, 'r');
-			while (!feof($f)) {
-				$line = fgets($f);
-				$frame = readtutorialLine($frames, $line, $frame);
-			}
-			fclose($f);
+      $frames = array();
+      $decoded = str_replace(' ', '_', urldecode($tutorial));
+      $f = fopen($frameDirectory.$decoded, 'r');
+      while (!feof($f)) {
+        $line = fgets($f);
+        $frame = readtutorialLine($frames, $line, $frame);
+      }
+      fclose($f);
 
-			echo json_encode($frames);
-			exit();
-		}
-	}
+      echo json_encode($frames);
+      exit();
+    }
+  }
 ?>
 <html>
 <head>
-	<title></title>
+  <title></title>
     <meta name="viewport" content="width=device-width" />
-	<link rel="stylesheet" href="<?php echo $cssLink; ?>">
+  <link rel="stylesheet" href="<?php echo $cssLink; ?>">
 
-	<style>
-		body {
-			margin: 20px;
-			background-color: <?php echo $backgroundColor; ?>;
-			color: #333;
-		}
-		* {
+  <style>
+    body {
+      margin: 20px;
+      background-color: <?php echo $backgroundColor; ?>;
+      color: #333;
+    }
+    * {
       font-family: 'Myriad Pro', Calibri, "Helvetica Neue", Arial, sans-serif;
       font-size: 18px !important;
     }
     @media only screen and (max-width:800px) {
       * { font-size: 100% !important; }          
     }
-		input {
-			margin: 10px;
-			border-radius: 4px;
-			border: 1px solid #aaaaaa;
-		}
-	</style>
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/json2/20140204/json2.min.js"></script>
+    input {
+      margin: 10px;
+      border-radius: 4px;
+      border: 1px solid #aaaaaa;
+    }
+  </style>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/json2/20140204/json2.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-color/2.1.2/jquery.color.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/ua-parser-js@0/dist/ua-parser.min.js"></script>
-	<script>
-		var scriptname = '<?php echo $scriptname; ?>';
-		var student = '<?php echo $student; ?>';
-		var tutorial = '<?php echo $tutorial; ?>';
+  <script>
+    var scriptname = '<?php echo $scriptname; ?>';
+    var student = '<?php echo $student; ?>';
+    var tutorial = '<?php echo $tutorial; ?>';
         var completionLink = '<?php echo $completionLink; ?>';
         var completionLinkMessage = '<?php echo $completionLinkMessage; ?>';
-		var percentStartOver = <?php echo $percentStartOver; ?>;
-		var postParams = '<?php echo 'key='.$_SESSION['key'].'&frameSelection='.$tutorial; ?>';
+    var percentStartOver = <?php echo $percentStartOver; ?>;
+    var postParams = '<?php echo 'key='.$_SESSION['key'].'&frameSelection='.$tutorial; ?>';
 
-		var tutorialFrames = '';
-		var currentFrame = 0;
-		var numberCorrect = 0;
-		var currentTry = 1;
-		var userResponseTimeoutFunction;
+    var tutorialFrames = '';
+    var currentFrame = 0;
+    var numberCorrect = 0;
+    var currentTry = 1;
+    var userResponseTimeoutFunction;
         var correctAnswerTimeoutFunction;
         var timeRemainingTimeoutFunction;
         var timeRemaining = <?php echo $userResponseTimeLimit; ?>;
@@ -861,51 +920,53 @@ EOT;
                     } catch(e) {}
                 }
             }
-			return xmlhttp;
+      return xmlhttp;
         }
 
-		function saveAnswer(correctAnswer, userAnswer, isCorrect) {
-			var feed = isCorrect ? 'CORRECT' : 'INCORRECT';
-			var xmlhttp = xhr();
+    function saveAnswer(correctAnswer, userAnswer, isCorrect) {
+      var feed = isCorrect ? 'CORRECT' : 'INCORRECT';
+      var xmlhttp = xhr();
             xmlhttp.open("GET", scriptname + '?userAnswer=' + userAnswer + '&student=' + student + '&tutorial=' + tutorial + '&currentTry=' +
-							currentTry + '&currentFrame=' + eval(currentFrame + 1) + '&correctAnswer=' + correctAnswer + '&feedback=' +
-							feed + '&percent=' + getScore() + '&numberOfQuestions=' + tutorialFrames.length + '&numberOfAttempts=' + eval(currentFrame + 1) + '&answeredCorrectly=' + numberCorrect, true);
-			xmlhttp.send(null);
-		}
+              currentTry + '&currentFrame=' + eval(currentFrame + 1) + '&correctAnswer=' + correctAnswer + '&feedback=' +
+              feed + '&percent=' + getScore() + '&numberOfQuestions=' + tutorialFrames.length + '&numberOfAttempts=' + eval(currentFrame + 1) + '&answeredCorrectly=' + numberCorrect, true);
+      xmlhttp.send(null);
+    }
 
-		function saveFinalScore() {
+    function saveFinalScore() {
             var parser = new UAParser();
             parser.setUA(window.navigator.userAgent);
             var result = parser.getResult();
-			var parameters = scriptname + '?student=' + student + '&tutorial=' + tutorial + '&finalScore=' + getScore();
+      var parameters = scriptname + '?student=' + student + '&tutorial=' + tutorial + '&finalScore=' + getScore();
             parameters += '&numberOfQuestions=' + tutorialFrames.length + '&numberOfAttempts=' + currentFrame + '&answeredCorrectly=';
             parameters += numberCorrect + '&browser=' + result.browser.name + '&device=' + result.device.type + '&os=' + result.os.name;
-			var xmlhttp = xhr();
+      var xmlhttp = xhr();
             xmlhttp.open("GET", parameters, true);
-			xmlhttp.send(null);
-		}
+      xmlhttp.send(null);
+    }
 
-		function init() {
+    function init() {
             var xmlhttp = xhr();
-			xmlhttp.open("GET", scriptname + '?' + postParams, true);
-			xmlhttp.onreadystatechange = function() {
-				if (xmlhttp.readyState === 4) {
-					tutorialFrames = JSON.parse(xmlhttp.responseText);
-					repaint('hidden', 'hidden', 'visible', 'userAnswer', '', true);
-                    initTimers();
-				}
-			}
-			xmlhttp.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
-			xmlhttp.send(null);
-		}
+      xmlhttp.open("GET", scriptname + '?' + postParams, true);
+      xmlhttp.onreadystatechange = function() {
+        if (xmlhttp.readyState === 4) {
+          tutorialFrames = JSON.parse(xmlhttp.responseText);
+          repaint('hidden', 'hidden', 'visible', 'userAnswer', '', true);
+                    if (document.getElementById('frame').style.display !== 'none') {
+                        initTimers();
+                    }
+        }
+      }
+      xmlhttp.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+      xmlhttp.send(null);
+    }
 
-		function video(src, autoplay) {
-		  var mode = autoplay ? 'autoplay' : '';
-		  return '<video controls ' + mode + '>' +
-					'<source src="' + src + '" type="video/mp4">' +
-					  'Your browser does not support the video tag.' +
-				  '</video>';
-		}
+    function video(src, autoplay) {
+      var mode = autoplay ? 'autoplay' : '';
+      return '<video controls ' + mode + '>' +
+          '<source src="' + src + '" type="video/mp4">' +
+            'Your browser does not support the video tag.' +
+          '</video>';
+    }
 
         function audio(src) {
             var type = src.endsWith('av') ? 'wav' : 'mpeg';
@@ -914,30 +975,33 @@ EOT;
                    '</audio>';
         }
 
-		function evaluation_response(is_correct, show_correct) {
-			if (is_correct) {
-				return '<br>Your answer <font color="blue">' + document.frm.userAnswer.value + '</font> is <font color="green">CORRECT</font>. <br>Press Enter or Click to Continue.';
-			} else if (show_correct) {
-				return '<br>Your answer was <font color="blue">' + document.frm.userAnswer.value + '</font>.<br>The correct answer is <font color="green">' + tutorialFrames[currentFrame]['answer'][0] + '</font>';
-			} else {
-				return '<br>Not yet. Your answer was <font color="blue">' + document.frm.userAnswer.value + '</font>. Please try again.';
-			}
-		}
+    function evaluation_response(is_correct, show_correct) {
+      if (is_correct) {
+        return '<br>Your answer <font color="blue">' + document.frm.userAnswer.value + '</font> is <font color="green">CORRECT</font>. <br>Press Enter or Click to Continue.';
+      } else if (show_correct) {
+        return '<br>Your answer was <font color="blue">' + document.frm.userAnswer.value + '</font>.<br>The correct answer is <font color="green">' + tutorialFrames[currentFrame]['answer'][0] + '</font>';
+      } else {
+        return '<br>Not yet. Your answer was <font color="blue">' + document.frm.userAnswer.value + '</font>. Please try again.';
+      }
+    }
 
-		function submitFeedback() {
-			$.post(scriptname + '?specialfeedback=1', JSON.stringify({
-				 feedback: document.getElementById('feedbackTextarea').value,
-				 student: student,
-				 tutorial: tutorial,
-				 frame: currentFrame + 1
-			 }), function(success) {
-				document.getElementById('feedbackTextarea').value = '';
-				document.getElementById('feedbackForm').style.display = 'none';
-				document.getElementById('userAnswer').style.visibility = 'visible';
-				document.getElementById('userAnswerField').focus();
-			});
+    function submitFeedback() {
+      $.post(scriptname + '?specialfeedback=1', JSON.stringify({
+         feedback: document.getElementById('feedbackTextarea').value,
+         student: student,
+         tutorial: tutorial,
+         frame: currentFrame + 1
+       }), function(success) {
+        document.getElementById('feedbackTextarea').value = '';
+        document.getElementById('feedbackForm').style.display = 'none';
+                document.getElementById('frame').style.display = 'inline'; // unhide frame text after feedback submitted
+                document.getElementById('graphic').style.display = 'inline'; // unhide frame text after feedback submitted
+        document.getElementById('userAnswer').style.visibility = 'visible';
+        document.getElementById('userAnswerField').focus();
+                initTimers();
+      });
 
-		};
+    };
 
         function parseFrameText(evalutation_text) {
             var frameText = tutorialFrames[currentFrame]['frame'];
@@ -945,6 +1009,8 @@ EOT;
             frameText = matchText ? frameText.replace(matchText[0], '') : frameText;
             if (matchText && currentTry === 1 && evalutation_text === '') {
                 document.getElementById('userAnswer').style.visibility = 'hidden';
+                document.getElementById('frame').style.display = 'none'; // don't show frame if asking for feedback
+                document.getElementById('graphic').style.display = 'none'; // don't show frame if asking for feedback
                 document.getElementById('feedbackForm').style.display = 'inline';
                 document.getElementById('feedbackTextarea').focus();
                 document.getElementById('feedbackText').innerHTML = matchText[0].replace(/\{\{\{/g, '').replace(/\}\}\}/g, '');
@@ -952,21 +1018,21 @@ EOT;
             return frameText;
         }
 
-		function repaint(e, c, u, field, evalutation_text, autoplay) {
+    function repaint(e, c, u, field, evalutation_text, autoplay) {
             document.getElementById('evaluation').style.visibility = e;
-			document.getElementById('continueButton').style.visibility = c;
-			document.getElementById('userAnswer').style.visibility = u;
-			document.getElementById('evaluation').innerHTML = evalutation_text;
-			document.getElementById('frameNumber').innerHTML = 'Frame #: ' + eval(currentFrame + 1) + ' of ' + tutorialFrames.length;
-			document.getElementById('tryNumber').innerHTML = 'Try #: ' + currentTry;
-			document.getElementById('percentCorrect').innerHTML = 'Correct %: ' + getScore();
+      document.getElementById('continueButton').style.visibility = c;
+      document.getElementById('userAnswer').style.visibility = u;
+      document.getElementById('evaluation').innerHTML = evalutation_text;
+      document.getElementById('frameNumber').innerHTML = 'Frame #: ' + eval(currentFrame + 1) + ' of ' + tutorialFrames.length;
+      document.getElementById('tryNumber').innerHTML = 'Try #: ' + currentTry;
+      document.getElementById('percentCorrect').innerHTML = 'Correct %: ' + getScore();
             document.getElementById('frame').innerHTML = parseFrameText(evalutation_text);
 
             if (trim(tutorialFrames[currentFrame]['graphic'].toUpperCase()) === 'none'.toUpperCase()) {
-				document.getElementById('graphic').innerHTML = '';
-			} else {
-				document.getElementById('graphic').innerHTML = '<center><img src="' + tutorialFrames[currentFrame]['graphic'] + '"/></center>';
-			}
+        document.getElementById('graphic').innerHTML = '';
+      } else {
+        document.getElementById('graphic').innerHTML = '<center><img src="' + tutorialFrames[currentFrame]['graphic'] + '"/></center>';
+      }
             if ('video' in tutorialFrames[currentFrame]) {
                 if (trim(tutorialFrames[currentFrame]['video'].toUpperCase()) === 'NONE') {
                     document.getElementById('video').innerHTML = '';
@@ -981,47 +1047,47 @@ EOT;
                     document.getElementById('video').innerHTML = audio(trim(tutorialFrames[currentFrame]['audio']));
                 }
             }
-			document.getElementById(field + 'Field').focus();
-		}
+      document.getElementById(field + 'Field').focus();
+    }
 
-		function evaluateResponse(response, isTimerInvoked) {
-			var answers = tutorialFrames[currentFrame]['answer'];
-			var isCorrect = false;
-			for (var i = 0; i < answers.length; i++) {
-				if (answers[i].toUpperCase() === trim(response.toUpperCase())) {
-					isCorrect = true;
-					saveAnswer(answers[i].toUpperCase(), response.toUpperCase(), true);
-					break;
-				}
-			}
-			if (! isCorrect) {
-				saveAnswer(answers[0].toUpperCase(), response.toUpperCase(), false);
-			}
-			if (isCorrect) {
-				//repaint('visible', 'visible', 'hidden', 'continueButton', evaluation_response(true));
-				numberCorrect++;
+    function evaluateResponse(response, isTimerInvoked) {
+      var answers = tutorialFrames[currentFrame]['answer'];
+      var isCorrect = false;
+      for (var i = 0; i < answers.length; i++) {
+        if (answers[i].toUpperCase() === trim(response.toUpperCase())) {
+          isCorrect = true;
+          saveAnswer(answers[i].toUpperCase(), response.toUpperCase(), true);
+          break;
+        }
+      }
+      if (! isCorrect) {
+        saveAnswer(answers[0].toUpperCase(), response.toUpperCase(), false);
+      }
+      if (isCorrect) {
+        //repaint('visible', 'visible', 'hidden', 'continueButton', evaluation_response(true));
+        numberCorrect++;
                 clearTimeout(timeRemainingTimeoutFunction);
-				doContinue(true);
-			}
-			<?php if (! $isTest) { ?>
-  			else {
-  				if (currentTry < tutorialFrames[currentFrame]['tries'] && ! isTimerInvoked) {
-  					currentTry++;
-  					repaint('visible', 'hidden', 'visible', 'userAnswer', evaluation_response(false));
-  				} else {
-  					document.frm.userAnswer.disabled = true;
+        doContinue(true);
+      }
+      <?php if (! $isTest) { ?>
+        else {
+          if (currentTry < tutorialFrames[currentFrame]['tries'] && ! isTimerInvoked) {
+            currentTry++;
+            repaint('visible', 'hidden', 'visible', 'userAnswer', evaluation_response(false));
+          } else {
+            document.frm.userAnswer.disabled = true;
                     repaint('visible', 'visible', 'hidden', 'continueButton', evaluation_response(false, true));
                     resetTimersAndBackground(false);
                     clearTimeout(correctAnswerTimeoutFunction);
                     correctAnswerTimeoutFunction = correctAnswerTimer();
-  				}
-  			}
-			document.frm.userAnswer.value = '';
-			<?php } else echo 'document.frm.userAnswer.value = ""; doContinue();'; ?>
+          }
+        }
+      document.frm.userAnswer.value = '';
+      <?php } else echo 'document.frm.userAnswer.value = ""; doContinue();'; ?>
 
-		}
+    }
 
-		function animateBackground(millis, startColor, endColor) {
+    function animateBackground(millis, startColor, endColor) {
             $('body').css('background-color', startColor);
             $('body').animate({
                 'background-color': endColor
@@ -1030,7 +1096,7 @@ EOT;
             });
         }
 
-		function resetTimersAndBackground(isCorrect) {
+    function resetTimersAndBackground(isCorrect) {
             clearTimeout(userResponseTimeoutFunction);
             clearTimeout(timeRemainingTimeoutFunction);
             $('body').stop();
@@ -1095,7 +1161,7 @@ EOT;
             }, correctAnswerTimeLimit * 1000);
         }
 
-		function startUserResponseTimer() {
+    function startUserResponseTimer() {
             if (userResponseTimeLimit === 0) {
                 return;
             }
@@ -1110,46 +1176,55 @@ EOT;
             return frameTimeout;
         }
 
-		function doContinue(isCorrect) {
-			currentFrame++;
+    var tutorialStartTime = new Date();
+    function doContinue(isCorrect) {
+      currentFrame++;
             clearTimeout(correctAnswerTimeoutFunction);
             resetTimersAndBackground(isCorrect);
 
-			if (currentFrame === tutorialFrames.length || (currentFrame > 4 && getScore() < percentStartOver)) {
-				saveFinalScore();
-				var conclusion = '<br><p align="center"><b>You have reached the end of this program.</b></p><div align="center">';
-				conclusion += '<table border="2" width="66%"><tr><td width="80%">Number of frames</td><td width="20%">' + tutorialFrames.length + '</td></tr>';
-				conclusion +=  '<tr><td width="80%">Number of frames you attempted</td><td width="20%">' + currentFrame + '</td></tr><tr>';
-				conclusion += '<td width="80%">Number of attempted frames you answered correctly</td><td width="20%">' + numberCorrect;
-				conclusion += '</td></tr><tr><td width="80%">Percent correct score of attempted frames</td><td width="20%">' + getScore();
-				conclusion += '%</td></tr></table></center></div><br><center><strong><a href="' + completionLink + '">' + completionLinkMessage + '</a></strong></center><br>';
-				if (currentFrame !== tutorialFrames.length) conclusion = '<p align="center">Your score fell below ' + percentStartOver + '%. Hit refresh in your browser to start over.</p>';
-				for(var i = 0; i < 8; ++i) {
-					document.getElementById(['frame', 'graphic', 'percentCorrect', 'frameNumber', 'tryNumber', 'userAnswer', 'evaluation', 'continueButton'][i]).innerHTML = '';
-				}
+      if (currentFrame === tutorialFrames.length || (currentFrame > 4 && getScore() < percentStartOver)) {
+        saveFinalScore();
+                var conclusion = '<br><p align="center"><b>' + student + ', you have reached the end of the tutorial, <?php echo str_replace(".txt", "", $tutorial); ?>.</b><br><?php echo uniqid() ?></p><div align="center">';
+        conclusion += '<table border="2" padding="6" width="66%"><tr><td width="60%">Number of frames</td><td width="40%">' + tutorialFrames.length + '</td></tr>';
+        conclusion +=  '<tr><td width="60%">Number of frames you attempted</td><td width="40%">' + currentFrame + '</td></tr><tr>';
+        conclusion += '<td width="60%">Number of attempted frames you answered correctly</td><td width="40%">' + numberCorrect;
+        conclusion += '</td></tr><tr><td width="60%">Percent correct score of attempted frames</td><td width="40%">' + getScore();
+        const date = new Date();
+        const formatter = new Intl.DateTimeFormat('en-US', { 
+          weekday: 'short', day: '2-digit', month: '2-digit', year: 'numeric', hour: '2-digit',minute: '2-digit' 
+        });
+        const completionTime = formatter.format(date);
+        conclusion += '</td></tr><tr><td width="60%">Completion Date</td><td width="40%">' + completionTime;
+        conclusion += '</td></tr><tr><td width="60%">Time to completion</td><td width="40%">' + 
+        Math.round((new Date() - tutorialStartTime) / 60000) + ' minutes';
+        conclusion += '</td></tr></table></center></div><br><center><strong><a href="' + completionLink + '">' + completionLinkMessage + '</a></strong></center><br>';
+        if (currentFrame !== tutorialFrames.length) conclusion = '<p align="center">Your score fell below ' + percentStartOver + '%. Hit refresh in your browser to start over.</p>';
+        for(var i = 0; i < 8; ++i) {
+          document.getElementById(['frame', 'graphic', 'percentCorrect', 'frameNumber', 'tryNumber', 'userAnswer', 'evaluation', 'continueButton'][i]).innerHTML = '';
+        }
                 document.getElementById('timeRemaining').innerHTML = '';
-				document.getElementById('finish').innerHTML = conclusion;
-				return;
-			} else {
+        document.getElementById('finish').innerHTML = conclusion;
+        return;
+      } else {
                 initTimers();
             }
-			currentTry = 1;
-			document.frm.userAnswer.value = '';
-			document.frm.userAnswer.disabled = false;
-			repaint('hidden', 'hidden', 'visible', 'userAnswer', '', true);
-		}
+      currentTry = 1;
+      document.frm.userAnswer.value = '';
+      document.frm.userAnswer.disabled = false;
+      repaint('hidden', 'hidden', 'visible', 'userAnswer', '', true);
+    }
 
-		function getScore() {
-			return ! isNaN(numberCorrect/currentFrame) && isFinite(numberCorrect/currentFrame) ? Math.round((numberCorrect/currentFrame) * 100) : '';
-		}
+    function getScore() {
+      return ! isNaN(numberCorrect/currentFrame) && isFinite(numberCorrect/currentFrame) ? Math.round((numberCorrect/currentFrame) * 100) : '';
+    }
 
-		function trim(s) {
-			while (s.substring(0,1) === ' ') s = s.substring(1,s.length);
-			while (s.substring(s.length-1,s.length) === ' ') s = s.substring(0,s.length-1);
-			return s;
-		}
+    function trim(s) {
+      while (s.substring(0,1) === ' ') s = s.substring(1,s.length);
+      while (s.substring(s.length-1,s.length) === ' ') s = s.substring(0,s.length-1);
+      return s;
+    }
 
-	</script>
+  </script>
 </head>
 <body onLoad="init()" style="font-weight:bold; padding:20px;">
 <span id="frameNumber"></span><br>
@@ -1160,33 +1235,33 @@ EOT;
 <div id="graphic"></div><p>
 <center><span id="video"></span></center><p>
 <span id="feedbackForm" style="display: none;">
-	<span id="feedbackText" style="color:rgb(208, 61, 122);"></span><br/><br/>
-	<textarea id="feedbackTextarea" name="feedbackSubmission" style="width: 400px; height:200px;"></textarea>
-	<br/>
-	<button id="feedbackButton" onclick="submitFeedback()" class="btn btn-primary">Save</button>
+  <span id="feedbackText" style="color:rgb(208, 61, 122);"></span><br/><br/>
+  <textarea id="feedbackTextarea" name="feedbackSubmission" style="width: 400px; height:200px;"></textarea>
+  <br/>
+  <button id="feedbackButton" onclick="submitFeedback()" class="btn btn-primary">Save</button>
 </span>
 <form method="post" name="frm" onSubmit="return false;">
-	<div id="finish"></div>
+  <div id="finish"></div>
 
-	<span id="userAnswer" style="visibility:hidden;">
-		Type your answer here:
-		<input id="userAnswerField"
-			   name="userAnswer"
-			   onKeyPress="if (event.keyCode === 13 && trim(this.form.userAnswer.value) !== '') evaluateResponse(this.form.userAnswer.value)"
-			   size="30"
-			   autocomplete="off">
-	</span>
-	<center><span id="evaluation"></span></center>
-	<span id="continueButton" style="visibility:hidden;">
-		<center>
-			<button style="margin-top: 10px;" class="btn btn-primary"
-					name="continueButton"
-				    id="continueButtonField"
-				    type="button"
-				    onKeyPress="if (event.keyCode === 13) doContinue()"
-				    onMouseDown="doContinue()">Continue</button>
-		</center>
-	</span>
+  <span id="userAnswer" style="visibility:hidden;">
+    Type your answer here:
+    <input id="userAnswerField"
+         name="userAnswer"
+         onKeyPress="if (event.keyCode === 13 && trim(this.form.userAnswer.value) !== '') evaluateResponse(this.form.userAnswer.value)"
+         size="30"
+         autocomplete="off">
+  </span>
+  <center><span id="evaluation"></span></center>
+  <span id="continueButton" style="visibility:hidden;">
+    <center>
+      <button style="margin-top: 10px;" class="btn btn-primary"
+          name="continueButton"
+            id="continueButtonField"
+            type="button"
+            onKeyPress="if (event.keyCode === 13) doContinue()"
+            onMouseDown="doContinue()">Continue</button>
+    </center>
+  </span>
 </form>
 </body>
 </html>
